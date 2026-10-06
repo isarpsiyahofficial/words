@@ -1,7 +1,3921 @@
 {
   "bilmece": [],
   "kelime_ustasi": [],
-  "tabu": [],
+  "tabu": [
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Buzdolabı",
+      "forbidden_words": [
+        "mutfak",
+        "soğuk",
+        "yiyecek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Çamaşır makinesi",
+      "forbidden_words": [
+        "kıyafet",
+        "yıkamak",
+        "deterjan"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Bulaşık makinesi",
+      "forbidden_words": [
+        "tabak",
+        "mutfak",
+        "temizlik"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Ütü",
+      "forbidden_words": [
+        "kıyafet",
+        "kırışık",
+        "sıcak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Elektrik süpürgesi",
+      "forbidden_words": [
+        "toz",
+        "halı",
+        "temizlik"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Perde",
+      "forbidden_words": [
+        "pencere",
+        "kumaş",
+        "güneş"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Halı",
+      "forbidden_words": [
+        "zemin",
+        "dokuma",
+        "oda"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Koltuk",
+      "forbidden_words": [
+        "oturmak",
+        "salon",
+        "minder"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Sehpa",
+      "forbidden_words": [
+        "salon",
+        "masa",
+        "küçük"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Gardırop",
+      "forbidden_words": [
+        "kıyafet",
+        "dolap",
+        "askı"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Komodin",
+      "forbidden_words": [
+        "yatak",
+        "çekmece",
+        "lamba"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Avize",
+      "forbidden_words": [
+        "tavan",
+        "ışık",
+        "lamba"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Abajur",
+      "forbidden_words": [
+        "ışık",
+        "masa",
+        "başucu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Priz",
+      "forbidden_words": [
+        "elektrik",
+        "duvar",
+        "fiş"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Uzatma kablosu",
+      "forbidden_words": [
+        "elektrik",
+        "fiş",
+        "mesafe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Askılık",
+      "forbidden_words": [
+        "kıyafet",
+        "duvar",
+        "asmak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Paspas",
+      "forbidden_words": [
+        "kapı",
+        "zemin",
+        "ayak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Mandallı sepet",
+      "forbidden_words": [
+        "çamaşır",
+        "taşımak",
+        "plastik"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Çamaşır ipi",
+      "forbidden_words": [
+        "kurutmak",
+        "balkon",
+        "asmak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Ütü masası",
+      "forbidden_words": [
+        "kıyafet",
+        "düz",
+        "katlanır"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Yastık",
+      "forbidden_words": [
+        "uyku",
+        "baş",
+        "yatak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Yorgan",
+      "forbidden_words": [
+        "uyku",
+        "sıcak",
+        "yatak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Çarşaf",
+      "forbidden_words": [
+        "yatak",
+        "kumaş",
+        "sermek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Nevresim",
+      "forbidden_words": [
+        "yorgan",
+        "kılıf",
+        "yatak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ev",
+      "sub_category": "Genel",
+      "word": "Havlu",
+      "forbidden_words": [
+        "kurulanmak",
+        "banyo",
+        "kumaş"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Tencere",
+      "forbidden_words": [
+        "yemek",
+        "ocak",
+        "kapak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Tava",
+      "forbidden_words": [
+        "kızartmak",
+        "ocak",
+        "sap"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Kepçe",
+      "forbidden_words": [
+        "çorba",
+        "servis",
+        "sap"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Kevgir",
+      "forbidden_words": [
+        "süzmek",
+        "delik",
+        "mutfak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Rende",
+      "forbidden_words": [
+        "peynir",
+        "parçalamak",
+        "metal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Süzgeç",
+      "forbidden_words": [
+        "makarna",
+        "su",
+        "delik"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Kesme tahtası",
+      "forbidden_words": [
+        "doğramak",
+        "mutfak",
+        "tezgâh"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Merdane",
+      "forbidden_words": [
+        "hamur",
+        "açmak",
+        "silindir"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Çırpıcı",
+      "forbidden_words": [
+        "yumurta",
+        "karıştırmak",
+        "tel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Spatula",
+      "forbidden_words": [
+        "çevirmek",
+        "tava",
+        "mutfak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Maşa",
+      "forbidden_words": [
+        "tutmak",
+        "servis",
+        "metal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Huni",
+      "forbidden_words": [
+        "şişe",
+        "dökmek",
+        "dar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Ölçü kabı",
+      "forbidden_words": [
+        "miktar",
+        "mutfak",
+        "sıvı"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Saklama kabı",
+      "forbidden_words": [
+        "yiyecek",
+        "kapak",
+        "buzdolabı"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Termos",
+      "forbidden_words": [
+        "sıcak",
+        "içecek",
+        "yalıtım"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Matara",
+      "forbidden_words": [
+        "su",
+        "taşımak",
+        "şişe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Çaydanlık",
+      "forbidden_words": [
+        "demlemek",
+        "ocak",
+        "su"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Cezve",
+      "forbidden_words": [
+        "kahve",
+        "ocak",
+        "küçük"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Fincan",
+      "forbidden_words": [
+        "kahve",
+        "kulp",
+        "içmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Kupa",
+      "forbidden_words": [
+        "içecek",
+        "kulp",
+        "bardak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Sürahi",
+      "forbidden_words": [
+        "su",
+        "servis",
+        "cam"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Tepsi",
+      "forbidden_words": [
+        "servis",
+        "taşımak",
+        "mutfak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Peçetelik",
+      "forbidden_words": [
+        "masa",
+        "kâğıt",
+        "servis"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Baharatlık",
+      "forbidden_words": [
+        "tat",
+        "mutfak",
+        "kap"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Ekmeklik",
+      "forbidden_words": [
+        "somun",
+        "saklamak",
+        "mutfak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Mutfak",
+      "sub_category": "Genel",
+      "word": "Mutfak önlüğü",
+      "forbidden_words": [
+        "yemek",
+        "kıyafet",
+        "leke"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Defter",
+      "forbidden_words": [
+        "yazmak",
+        "sayfa",
+        "okul"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Kalem",
+      "forbidden_words": [
+        "yazmak",
+        "mürekkep",
+        "kâğıt"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Silgi",
+      "forbidden_words": [
+        "kalem",
+        "hata",
+        "kâğıt"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Cetvel",
+      "forbidden_words": [
+        "ölçmek",
+        "çizgi",
+        "uzunluk"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Pergel",
+      "forbidden_words": [
+        "daire",
+        "çizmek",
+        "matematik"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "İletki",
+      "forbidden_words": [
+        "açı",
+        "ölçmek",
+        "matematik"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Kalemtıraş",
+      "forbidden_words": [
+        "uç",
+        "açmak",
+        "kırtasiye"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Ataş",
+      "forbidden_words": [
+        "kâğıt",
+        "tutturmak",
+        "metal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Zımba",
+      "forbidden_words": [
+        "kâğıt",
+        "tutturmak",
+        "tel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Delgeç",
+      "forbidden_words": [
+        "kâğıt",
+        "dosya",
+        "delik"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Dosya",
+      "forbidden_words": [
+        "belge",
+        "saklamak",
+        "ofis"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Klasör",
+      "forbidden_words": [
+        "belge",
+        "raf",
+        "ofis"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Yapışkan not",
+      "forbidden_words": [
+        "hatırlatma",
+        "kâğıt",
+        "masa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Fosforlu kalem",
+      "forbidden_words": [
+        "işaretlemek",
+        "renk",
+        "metin"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Tahta kalemi",
+      "forbidden_words": [
+        "yazı",
+        "sınıf",
+        "silmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Beyaz tahta",
+      "forbidden_words": [
+        "sınıf",
+        "yazmak",
+        "duvar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Pano",
+      "forbidden_words": [
+        "duvar",
+        "duyuru",
+        "iğne"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Raptiye",
+      "forbidden_words": [
+        "pano",
+        "tutturmak",
+        "küçük"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Etiket",
+      "forbidden_words": [
+        "isim",
+        "yapıştırmak",
+        "işaret"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Zarf",
+      "forbidden_words": [
+        "mektup",
+        "kâğıt",
+        "posta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Mektup kâğıdı",
+      "forbidden_words": [
+        "yazmak",
+        "zarf",
+        "mesaj"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Ajanda",
+      "forbidden_words": [
+        "tarih",
+        "plan",
+        "not"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Takvim",
+      "forbidden_words": [
+        "tarih",
+        "ay",
+        "gün"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Makas",
+      "forbidden_words": [
+        "kesmek",
+        "kâğıt",
+        "iki"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
+      "word": "Yapıştırıcı",
+      "forbidden_words": [
+        "tutturmak",
+        "kâğıt",
+        "tüp"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Dizüstü bilgisayar",
+      "forbidden_words": [
+        "ekran",
+        "klavye",
+        "taşınabilir"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Masaüstü bilgisayar",
+      "forbidden_words": [
+        "ekran",
+        "kasa",
+        "klavye"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Klavye",
+      "forbidden_words": [
+        "tuş",
+        "yazmak",
+        "bilgisayar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Fare",
+      "forbidden_words": [
+        "imleç",
+        "tıklamak",
+        "bilgisayar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Monitör",
+      "forbidden_words": [
+        "ekran",
+        "masa",
+        "görüntü"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Yazıcı",
+      "forbidden_words": [
+        "kâğıt",
+        "baskı",
+        "mürekkep"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Tarayıcı cihazı",
+      "forbidden_words": [
+        "belge",
+        "dijital",
+        "kopya"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Modem",
+      "forbidden_words": [
+        "internet",
+        "bağlantı",
+        "ağ"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Yönlendirici",
+      "forbidden_words": [
+        "ağ",
+        "internet",
+        "kablosuz"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Kulaklık",
+      "forbidden_words": [
+        "ses",
+        "dinlemek",
+        "baş"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Mikrofon",
+      "forbidden_words": [
+        "ses",
+        "konuşmak",
+        "kayıt"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Web kamerası",
+      "forbidden_words": [
+        "görüntü",
+        "bilgisayar",
+        "görüşme"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Şarj cihazı",
+      "forbidden_words": [
+        "pil",
+        "elektrik",
+        "kablo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Taşınabilir şarj",
+      "forbidden_words": [
+        "pil",
+        "telefon",
+        "enerji"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "USB bellek",
+      "forbidden_words": [
+        "dosya",
+        "taşımak",
+        "bilgisayar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Hafıza kartı",
+      "forbidden_words": [
+        "depolama",
+        "küçük",
+        "dosya"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Harici disk",
+      "forbidden_words": [
+        "depolama",
+        "dosya",
+        "bilgisayar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Akıllı saat",
+      "forbidden_words": [
+        "bilek",
+        "ekran",
+        "bildirim"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Tablet",
+      "forbidden_words": [
+        "ekran",
+        "dokunmatik",
+        "taşınabilir"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "E-kitap okuyucu",
+      "forbidden_words": [
+        "okumak",
+        "ekran",
+        "kitap"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Projeksiyon cihazı",
+      "forbidden_words": [
+        "perde",
+        "görüntü",
+        "sunum"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Uzaktan kumanda",
+      "forbidden_words": [
+        "tuş",
+        "televizyon",
+        "mesafe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Hoparlör",
+      "forbidden_words": [
+        "ses",
+        "müzik",
+        "dinlemek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Akıllı ampul",
+      "forbidden_words": [
+        "ışık",
+        "telefon",
+        "ev"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Teknoloji",
+      "sub_category": "Genel",
+      "word": "Dijital termometre",
+      "forbidden_words": [
+        "sıcaklık",
+        "ekran",
+        "ölçmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Otobüs",
+      "forbidden_words": [
+        "durak",
+        "yolcu",
+        "toplu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Minibüs",
+      "forbidden_words": [
+        "yolcu",
+        "durak",
+        "küçük"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Tramvay",
+      "forbidden_words": [
+        "ray",
+        "şehir",
+        "durak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Metro",
+      "forbidden_words": [
+        "yeraltı",
+        "istasyon",
+        "ray"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Vapur",
+      "forbidden_words": [
+        "deniz",
+        "yolcu",
+        "iskele"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Feribot",
+      "forbidden_words": [
+        "deniz",
+        "araç",
+        "iskele"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Bisiklet",
+      "forbidden_words": [
+        "pedal",
+        "iki teker",
+        "sürmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Elektrikli scooter",
+      "forbidden_words": [
+        "iki teker",
+        "şarj",
+        "sürmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Taksi",
+      "forbidden_words": [
+        "ücret",
+        "yolcu",
+        "şehir"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Servis aracı",
+      "forbidden_words": [
+        "yolcu",
+        "okul",
+        "güzergâh"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Tren",
+      "forbidden_words": [
+        "ray",
+        "vagon",
+        "istasyon"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Lokomotif",
+      "forbidden_words": [
+        "tren",
+        "ray",
+        "çekmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Vagon",
+      "forbidden_words": [
+        "tren",
+        "yolcu",
+        "ray"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "İstasyon",
+      "forbidden_words": [
+        "tren",
+        "peron",
+        "yolcu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Durak",
+      "forbidden_words": [
+        "otobüs",
+        "beklemek",
+        "yolcu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Peron",
+      "forbidden_words": [
+        "istasyon",
+        "tren",
+        "beklemek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Bilet",
+      "forbidden_words": [
+        "yolculuk",
+        "ücret",
+        "giriş"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Turnike",
+      "forbidden_words": [
+        "geçiş",
+        "kart",
+        "istasyon"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Emniyet kemeri",
+      "forbidden_words": [
+        "araç",
+        "güvenlik",
+        "takmak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Dikiz aynası",
+      "forbidden_words": [
+        "araç",
+        "arka",
+        "bakmak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Direksiyon",
+      "forbidden_words": [
+        "araç",
+        "sürmek",
+        "dönmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Pedal",
+      "forbidden_words": [
+        "ayak",
+        "araç",
+        "basmak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Bagaj",
+      "forbidden_words": [
+        "valiz",
+        "araç",
+        "eşya"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Navigasyon",
+      "forbidden_words": [
+        "harita",
+        "rota",
+        "yol"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Ulaşım",
+      "sub_category": "Genel",
+      "word": "Trafik ışığı",
+      "forbidden_words": [
+        "kırmızı",
+        "yeşil",
+        "kavşak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Dağ",
+      "forbidden_words": [
+        "yüksek",
+        "zirve",
+        "doğa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Tepe",
+      "forbidden_words": [
+        "yüksek",
+        "yamaç",
+        "doğa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Vadi",
+      "forbidden_words": [
+        "dağ",
+        "alçak",
+        "doğa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Ova",
+      "forbidden_words": [
+        "düz",
+        "geniş",
+        "tarım"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Yayla",
+      "forbidden_words": [
+        "yüksek",
+        "serin",
+        "doğa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Orman",
+      "forbidden_words": [
+        "ağaç",
+        "doğa",
+        "yeşil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Koruluk",
+      "forbidden_words": [
+        "ağaç",
+        "küçük",
+        "yeşil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Çayır",
+      "forbidden_words": [
+        "ot",
+        "yeşil",
+        "alan"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Nehir",
+      "forbidden_words": [
+        "su",
+        "akmak",
+        "yatak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Dere",
+      "forbidden_words": [
+        "su",
+        "akmak",
+        "küçük"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Şelale",
+      "forbidden_words": [
+        "su",
+        "yüksek",
+        "akmak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Göl",
+      "forbidden_words": [
+        "su",
+        "kara",
+        "durgun"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Gölet",
+      "forbidden_words": [
+        "su",
+        "küçük",
+        "durgun"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Kıyı",
+      "forbidden_words": [
+        "deniz",
+        "kara",
+        "kenar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Kumsal",
+      "forbidden_words": [
+        "sahil",
+        "deniz",
+        "plaj"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Ada",
+      "forbidden_words": [
+        "deniz",
+        "kara",
+        "çevrili"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Yarımada",
+      "forbidden_words": [
+        "deniz",
+        "kara",
+        "kıyı"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Mağara",
+      "forbidden_words": [
+        "kaya",
+        "yeraltı",
+        "boşluk"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Kanyon",
+      "forbidden_words": [
+        "vadi",
+        "kaya",
+        "derin"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Kayalık",
+      "forbidden_words": [
+        "taş",
+        "sert",
+        "doğa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Pınar",
+      "forbidden_words": [
+        "su",
+        "kaynak",
+        "doğa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Gökkuşağı",
+      "forbidden_words": [
+        "yağmur",
+        "renk",
+        "gökyüzü"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Bulut",
+      "forbidden_words": [
+        "gökyüzü",
+        "beyaz",
+        "yağmur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Sis",
+      "forbidden_words": [
+        "görüş",
+        "hava",
+        "beyaz"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Doğa",
+      "sub_category": "Genel",
+      "word": "Çiy",
+      "forbidden_words": [
+        "sabah",
+        "damla",
+        "bitki"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Gömlek",
+      "forbidden_words": [
+        "düğme",
+        "yaka",
+        "giymek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Tişört",
+      "forbidden_words": [
+        "kısa kol",
+        "giymek",
+        "kumaş"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Kazak",
+      "forbidden_words": [
+        "sıcak",
+        "yün",
+        "giymek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Hırka",
+      "forbidden_words": [
+        "düğme",
+        "sıcak",
+        "giymek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Ceket",
+      "forbidden_words": [
+        "üst",
+        "giymek",
+        "cep"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Mont",
+      "forbidden_words": [
+        "soğuk",
+        "kış",
+        "giymek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Yağmurluk",
+      "forbidden_words": [
+        "ıslanmak",
+        "kapüşon",
+        "giymek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Pantolon",
+      "forbidden_words": [
+        "bacak",
+        "giymek",
+        "cep"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Eşofman",
+      "forbidden_words": [
+        "rahat",
+        "spor",
+        "giymek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Şort",
+      "forbidden_words": [
+        "kısa",
+        "bacak",
+        "yaz"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Etek",
+      "forbidden_words": [
+        "bel",
+        "giymek",
+        "kumaş"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Elbise",
+      "forbidden_words": [
+        "giymek",
+        "kumaş",
+        "tek parça"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Çorap",
+      "forbidden_words": [
+        "ayak",
+        "giymek",
+        "çift"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Ayakkabı",
+      "forbidden_words": [
+        "taban",
+        "bağcık",
+        "giymek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Terlik",
+      "forbidden_words": [
+        "ayak",
+        "ev",
+        "giymek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Bot",
+      "forbidden_words": [
+        "ayak",
+        "kış",
+        "giymek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Çizme",
+      "forbidden_words": [
+        "uzun",
+        "ayak",
+        "yağmur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Şapka",
+      "forbidden_words": [
+        "baş",
+        "takmak",
+        "güneş"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Bere",
+      "forbidden_words": [
+        "baş",
+        "kış",
+        "yün"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Atkı",
+      "forbidden_words": [
+        "boyun",
+        "kış",
+        "sıcak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Eldiven",
+      "forbidden_words": [
+        "parmak",
+        "kış",
+        "giymek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Kemer",
+      "forbidden_words": [
+        "bel",
+        "toka",
+        "pantolon"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Kravat",
+      "forbidden_words": [
+        "boyun",
+        "gömlek",
+        "resmî"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Papyon",
+      "forbidden_words": [
+        "boyun",
+        "düğüm",
+        "resmî"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Giyim",
+      "sub_category": "Genel",
+      "word": "Yelek",
+      "forbidden_words": [
+        "kolsuz",
+        "giymek",
+        "üst"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Ekmek",
+      "forbidden_words": [
+        "fırın",
+        "un",
+        "dilim"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Simit",
+      "forbidden_words": [
+        "susam",
+        "halka",
+        "fırın"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Poğaça",
+      "forbidden_words": [
+        "hamur",
+        "fırın",
+        "kahvaltı"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Börek",
+      "forbidden_words": [
+        "hamur",
+        "iç",
+        "fırın"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Makarna",
+      "forbidden_words": [
+        "haşlamak",
+        "sos",
+        "yemek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Pirinç",
+      "forbidden_words": [
+        "pilav",
+        "tane",
+        "yemek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Bulgur",
+      "forbidden_words": [
+        "pilav",
+        "tane",
+        "buğday"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Mercimek",
+      "forbidden_words": [
+        "çorba",
+        "bakliyat",
+        "tane"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Nohut",
+      "forbidden_words": [
+        "bakliyat",
+        "yemek",
+        "tane"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Fasulye",
+      "forbidden_words": [
+        "bakliyat",
+        "yemek",
+        "tane"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Yoğurt",
+      "forbidden_words": [
+        "süt",
+        "beyaz",
+        "kaşık"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Peynir",
+      "forbidden_words": [
+        "süt",
+        "kahvaltı",
+        "dilim"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Tereyağı",
+      "forbidden_words": [
+        "süt",
+        "kahvaltı",
+        "sürmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Reçel",
+      "forbidden_words": [
+        "meyve",
+        "tatlı",
+        "kahvaltı"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Bal",
+      "forbidden_words": [
+        "arı",
+        "tatlı",
+        "kahvaltı"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Zeytin",
+      "forbidden_words": [
+        "kahvaltı",
+        "yeşil",
+        "siyah"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Yumurta",
+      "forbidden_words": [
+        "kahvaltı",
+        "kabuk",
+        "tavuk"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Domates",
+      "forbidden_words": [
+        "kırmızı",
+        "salata",
+        "sebze"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Salatalık",
+      "forbidden_words": [
+        "yeşil",
+        "cacık",
+        "sebze"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Havuç",
+      "forbidden_words": [
+        "turuncu",
+        "sebze",
+        "kök"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Patates",
+      "forbidden_words": [
+        "sebze",
+        "toprak",
+        "kızartma"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Soğan",
+      "forbidden_words": [
+        "sebze",
+        "göz",
+        "yemek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Sarımsak",
+      "forbidden_words": [
+        "koku",
+        "yemek",
+        "diş"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Biber",
+      "forbidden_words": [
+        "sebze",
+        "yeşil",
+        "acı"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Yiyecek",
+      "sub_category": "Genel",
+      "word": "Patlıcan",
+      "forbidden_words": [
+        "mor",
+        "sebze",
+        "yemek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Elma",
+      "forbidden_words": [
+        "kırmızı",
+        "ağaç",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Armut",
+      "forbidden_words": [
+        "ağaç",
+        "meyve",
+        "sulu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Muz",
+      "forbidden_words": [
+        "sarı",
+        "kabuk",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Portakal",
+      "forbidden_words": [
+        "turuncu",
+        "narenciye",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Mandalina",
+      "forbidden_words": [
+        "narenciye",
+        "kabuk",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Limon",
+      "forbidden_words": [
+        "ekşi",
+        "sarı",
+        "narenciye"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Çilek",
+      "forbidden_words": [
+        "kırmızı",
+        "küçük",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Kiraz",
+      "forbidden_words": [
+        "kırmızı",
+        "çekirdek",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Vişne",
+      "forbidden_words": [
+        "ekşi",
+        "kırmızı",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Üzüm",
+      "forbidden_words": [
+        "salkım",
+        "bağ",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Karpuz",
+      "forbidden_words": [
+        "yaz",
+        "kırmızı",
+        "çekirdek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Kavun",
+      "forbidden_words": [
+        "yaz",
+        "tatlı",
+        "kabuk"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Şeftali",
+      "forbidden_words": [
+        "tüylü",
+        "çekirdek",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Kayısı",
+      "forbidden_words": [
+        "turuncu",
+        "çekirdek",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Erik",
+      "forbidden_words": [
+        "yeşil",
+        "ekşi",
+        "çekirdek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Nar",
+      "forbidden_words": [
+        "kırmızı",
+        "tane",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "İncir",
+      "forbidden_words": [
+        "meyve",
+        "tatlı",
+        "çekirdek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Ayva",
+      "forbidden_words": [
+        "sarı",
+        "sert",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Dut",
+      "forbidden_words": [
+        "ağaç",
+        "küçük",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Böğürtlen",
+      "forbidden_words": [
+        "siyah",
+        "küçük",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Ahududu",
+      "forbidden_words": [
+        "kırmızı",
+        "küçük",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Yaban mersini",
+      "forbidden_words": [
+        "mavi",
+        "küçük",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Kivi",
+      "forbidden_words": [
+        "yeşil",
+        "tüylü",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Ananas",
+      "forbidden_words": [
+        "tropikal",
+        "kabuk",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meyve",
+      "sub_category": "Genel",
+      "word": "Hindistan cevizi",
+      "forbidden_words": [
+        "sert",
+        "tropikal",
+        "meyve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Kedi",
+      "forbidden_words": [
+        "evcil",
+        "miyav",
+        "pati"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Köpek",
+      "forbidden_words": [
+        "evcil",
+        "havlamak",
+        "pati"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Tavşan",
+      "forbidden_words": [
+        "kulak",
+        "havuç",
+        "zıplamak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Sincap",
+      "forbidden_words": [
+        "ağaç",
+        "kuyruk",
+        "fındık"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Kirpi",
+      "forbidden_words": [
+        "diken",
+        "küçük",
+        "hayvan"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Kaplumbağa",
+      "forbidden_words": [
+        "kabuk",
+        "yavaş",
+        "hayvan"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Kurbağa",
+      "forbidden_words": [
+        "zıplamak",
+        "göl",
+        "yeşil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Ördek",
+      "forbidden_words": [
+        "göl",
+        "gaga",
+        "yüzmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Kaz",
+      "forbidden_words": [
+        "gaga",
+        "kuş",
+        "su"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Güvercin",
+      "forbidden_words": [
+        "kuş",
+        "şehir",
+        "kanat"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Serçe",
+      "forbidden_words": [
+        "küçük",
+        "kuş",
+        "kanat"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Kırlangıç",
+      "forbidden_words": [
+        "kuş",
+        "uçmak",
+        "kanat"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Leylek",
+      "forbidden_words": [
+        "uzun",
+        "gaga",
+        "kuş"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Flamingo",
+      "forbidden_words": [
+        "pembe",
+        "uzun",
+        "kuş"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Penguen",
+      "forbidden_words": [
+        "soğuk",
+        "kuş",
+        "siyah"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Yunus",
+      "forbidden_words": [
+        "deniz",
+        "yüzmek",
+        "memeli"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Balina",
+      "forbidden_words": [
+        "deniz",
+        "büyük",
+        "memeli"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Fok",
+      "forbidden_words": [
+        "deniz",
+        "yüzmek",
+        "memeli"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Denizatı",
+      "forbidden_words": [
+        "okyanus",
+        "küçük",
+        "kıvrık"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Ahtapot",
+      "forbidden_words": [
+        "deniz",
+        "sekiz",
+        "kol"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Yengeç",
+      "forbidden_words": [
+        "deniz",
+        "kıskaç",
+        "yan"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Istakoz",
+      "forbidden_words": [
+        "deniz",
+        "kabuk",
+        "kıskaç"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Karınca",
+      "forbidden_words": [
+        "küçük",
+        "koloni",
+        "böcek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Arı",
+      "forbidden_words": [
+        "bal",
+        "uçmak",
+        "böcek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Hayvan",
+      "sub_category": "Genel",
+      "word": "Kelebek",
+      "forbidden_words": [
+        "kanat",
+        "renkli",
+        "böcek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Futbol",
+      "forbidden_words": [
+        "top",
+        "kale",
+        "saha"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Basketbol",
+      "forbidden_words": [
+        "pota",
+        "top",
+        "saha"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Voleybol",
+      "forbidden_words": [
+        "file",
+        "top",
+        "saha"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Tenis",
+      "forbidden_words": [
+        "raket",
+        "top",
+        "kort"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Masa tenisi",
+      "forbidden_words": [
+        "raket",
+        "file",
+        "top"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Badminton",
+      "forbidden_words": [
+        "raket",
+        "file",
+        "tüylü"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Yüzme",
+      "forbidden_words": [
+        "havuz",
+        "su",
+        "kulvar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Koşu",
+      "forbidden_words": [
+        "hız",
+        "ayak",
+        "parkur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Yürüyüş",
+      "forbidden_words": [
+        "adım",
+        "yol",
+        "ayak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Bisiklet sporu",
+      "forbidden_words": [
+        "pedal",
+        "kask",
+        "yarış"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Jimnastik",
+      "forbidden_words": [
+        "esneklik",
+        "hareket",
+        "salon"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Yoga",
+      "forbidden_words": [
+        "mat",
+        "denge",
+        "esneklik"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Pilates",
+      "forbidden_words": [
+        "mat",
+        "egzersiz",
+        "denge"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Kürek",
+      "forbidden_words": [
+        "tekne",
+        "su",
+        "çekmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Yelken",
+      "forbidden_words": [
+        "rüzgâr",
+        "tekne",
+        "deniz"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Sörf",
+      "forbidden_words": [
+        "dalga",
+        "tahta",
+        "deniz"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Kayak",
+      "forbidden_words": [
+        "kar",
+        "kış",
+        "pist"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Paten",
+      "forbidden_words": [
+        "teker",
+        "ayak",
+        "kaymak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Buz pateni",
+      "forbidden_words": [
+        "pist",
+        "ayak",
+        "kaymak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Okçuluk",
+      "forbidden_words": [
+        "yay",
+        "hedef",
+        "spor"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Bowling",
+      "forbidden_words": [
+        "top",
+        "lobut",
+        "salon"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Dart",
+      "forbidden_words": [
+        "hedef",
+        "puan",
+        "atmak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Hentbol",
+      "forbidden_words": [
+        "el",
+        "top",
+        "kale"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Golf",
+      "forbidden_words": [
+        "sopa",
+        "top",
+        "delik"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Spor",
+      "sub_category": "Genel",
+      "word": "Tırmanış",
+      "forbidden_words": [
+        "duvar",
+        "yükseklik",
+        "tutunmak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Öğretmen",
+      "forbidden_words": [
+        "okul",
+        "öğrenci",
+        "ders"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Doktor",
+      "forbidden_words": [
+        "hastane",
+        "muayene",
+        "sağlık"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Hemşire",
+      "forbidden_words": [
+        "hastane",
+        "hasta",
+        "sağlık"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Diş hekimi",
+      "forbidden_words": [
+        "klinik",
+        "muayene",
+        "ağız"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Eczacı",
+      "forbidden_words": [
+        "ilaç",
+        "eczane",
+        "reçete"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Veteriner",
+      "forbidden_words": [
+        "hayvan",
+        "klinik",
+        "sağlık"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Mimar",
+      "forbidden_words": [
+        "bina",
+        "çizim",
+        "tasarım"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Mühendis",
+      "forbidden_words": [
+        "teknik",
+        "proje",
+        "hesap"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Öğretim görevlisi",
+      "forbidden_words": [
+        "üniversite",
+        "ders",
+        "öğrenci"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Aşçı",
+      "forbidden_words": [
+        "mutfak",
+        "yemek",
+        "pişirmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Pastacı",
+      "forbidden_words": [
+        "tatlı",
+        "fırın",
+        "hamur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Fırıncı",
+      "forbidden_words": [
+        "ekmek",
+        "hamur",
+        "pişirmek"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Terzi",
+      "forbidden_words": [
+        "kumaş",
+        "dikmek",
+        "ölçü"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Kuaför",
+      "forbidden_words": [
+        "saç",
+        "kesmek",
+        "salon"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Berber",
+      "forbidden_words": [
+        "saç",
+        "tıraş",
+        "salon"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Fotoğrafçı",
+      "forbidden_words": [
+        "kamera",
+        "çekim",
+        "görüntü"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Grafik tasarımcı",
+      "forbidden_words": [
+        "görsel",
+        "tasarım",
+        "bilgisayar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Çevirmen",
+      "forbidden_words": [
+        "dil",
+        "metin",
+        "anlam"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Kütüphaneci",
+      "forbidden_words": [
+        "kitap",
+        "raf",
+        "ödünç"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Muhasebeci",
+      "forbidden_words": [
+        "hesap",
+        "para",
+        "ofis"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Kasiyer",
+      "forbidden_words": [
+        "kasa",
+        "ödeme",
+        "mağaza"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Garson",
+      "forbidden_words": [
+        "masa",
+        "servis",
+        "restoran"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Resepsiyonist",
+      "forbidden_words": [
+        "otel",
+        "karşılama",
+        "masa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Bahçıvan",
+      "forbidden_words": [
+        "bitki",
+        "bahçe",
+        "toprak"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "main_category": "Meslek",
+      "sub_category": "Genel",
+      "word": "Çiçekçi",
+      "forbidden_words": [
+        "buket",
+        "dükkân",
+        "vazo"
+      ]
+    }
+  ],
   "sessiz_sinema": [
     {
       "game_type": "sessiz_sinema",
