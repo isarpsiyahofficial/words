@@ -1,5 +1,3422 @@
 {
-  "bilmece": [],
+  "bilmece": [
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sabah ufkun bir yanından yükselir, akşam öbür yanına çekilirim; gölgelerin boyunu değiştiririm. Neyim?",
+      "answer": "Güneş"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Gece gökte bazen ince bir yay, bazen tam bir daire gibi görünürüm; ışığımı ödünç alırım. Neyim?",
+      "answer": "Ay"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Gündüz de gökteyim, ama parıltımı en kolay gece fark edersin. Neyim?",
+      "answer": "Yıldız"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Gökyüzünde ayaksız dolaşır, kimi zaman tarlaların üstüne gölgemi bırakırım. Neyim?",
+      "answer": "Bulut"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Buluttan damla damla iner, pencerelere tıkırdar, toprağı serinletirim. Neyim?",
+      "answer": "Yağmur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Gökyüzünden sessizce süzülür, sokakları beyaz bir örtüyle kaplarım. Neyim?",
+      "answer": "Kar"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Yağmur gibi gökten inerim ama yere küçük buz taneleri olarak çarparım. Neyim?",
+      "answer": "Dolu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yolları değiştirmem ama uzaktaki manzarayı gözlerden saklarım. Neyim?",
+      "answer": "Sis"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Gece yağış olmasa bile sabah yaprakların üzerinde küçük su taneleri bırakırım. Neyim?",
+      "answer": "Çiy"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Soğuk bir sabah otların üstünü ince beyaz kristallerle süslerim. Neyim?",
+      "answer": "Kırağı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Güneş yağmurla buluşunca gökyüzünde renkli bir kemer olarak beliririm. Neyim?",
+      "answer": "Gökkuşağı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Göğü bir anlığına aydınlatırım; gürültüm bazen daha sonra duyulur. Neyim?",
+      "answer": "Şimşek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bulutların arasındaki ışık parıltısının ardından gökten gelen güçlü sesim. Neyim?",
+      "answer": "Gök gürültüsü"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Beni göremezsin; yaprakları ve bayrakları oynatırken varlığımı anlarsın. Neyim?",
+      "answer": "Rüzgâr"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yaz sıcağında yanağına hafifçe dokunur, perdeleri usulca kıpırdatırım. Neyim?",
+      "answer": "Esinti"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Işığın önüne biri geçince ortaya çıkar, onun hareketini yerde izlerim. Neyim?",
+      "answer": "Gölge"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ufkun renkleri açılırken geceyi geride bırakır, sabahı başlatırım. Neyim?",
+      "answer": "Gün doğumu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Günün son ışıklarıyla ufku turuncuya boyar, akşama yol açarım. Neyim?",
+      "answer": "Gün batımı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Denizle gökyüzü uzaktan birleşmiş gibi görünür; yaklaştıkça uzaklaşırım. Neyim?",
+      "answer": "Ufuk"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Tuzlu sularımla kıyıya dalgalar gönderir, ufka kadar uzanabilirim. Neyim?",
+      "answer": "Deniz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kara ile çevriliyim; durgun günlerde çevremdeki ağaçları yansıtırım. Neyim?",
+      "answer": "Göl"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bir kaynaktan yola çıkar, kıvrılarak büyük sulara doğru akarım. Neyim?",
+      "answer": "Nehir"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Taşların arasından şırıldayarak akan küçük bir su yoluyum. Neyim?",
+      "answer": "Dere"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yüksekten dökülen sularım aşağıda köpürerek buluşur. Neyim?",
+      "answer": "Şelale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Denizin yüzeyinde yükselir, kıyıya yaklaşınca kırılıp yayılırım. Neyim?",
+      "answer": "Dalga"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Suyun üstünde küçük kabarcıklar hâlinde görünür, kısa sürede sönerim. Neyim?",
+      "answer": "Köpük"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ayak izlerini bir süre saklar, gelen dalgalarla onları silebilirim. Neyim?",
+      "answer": "Kumsal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Dört yanım suyla çevrilidir; üstümde evler ve ağaçlar bulunabilir. Neyim?",
+      "answer": "Ada"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Üç yanımdan suya bakar, yalnız bir yanımdan karaya bağlanırım. Neyim?",
+      "answer": "Yarımada"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Eteklerim aşağıda, zirvem yukarıdadır; tırmandıkça manzara genişler. Neyim?",
+      "answer": "Dağ"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Çevremden yüksek dururum ama çoğu zaman bir dağ kadar büyük değilim. Neyim?",
+      "answer": "Tepe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "İki yüksek yamaç arasında uzanır, içimden bazen akarsu geçer. Neyim?",
+      "answer": "Vadi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Geniş ve düz yüzeyimde tarlalar yan yana sıralanabilir. Neyim?",
+      "answer": "Ova"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kayaların içinde doğal bir boşluğum; derinime gidildikçe gün ışığı azalır. Neyim?",
+      "answer": "Mağara"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Dağda ve kıyıda karşılaşırsın; sert gövdem kolayca şekil değiştirmez. Neyim?",
+      "answer": "Kaya"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sayısız küçük tanem avuçtan akar; sahilde ayak izleriyle dolarım. Neyim?",
+      "answer": "Kum"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bitkilerin köklerini taşır, yağmurla yumuşar, kuruyunca sertleşebilirim. Neyim?",
+      "answer": "Toprak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Su ve toprak buluşunca oluşur, ayakkabılara kolayca yapışırım. Neyim?",
+      "answer": "Çamur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Dağ gibi yükselir, bazen yerin derinliklerindeki erimiş taşları dışarı çıkarırım. Neyim?",
+      "answer": "Volkan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Yerin içinden sıcak ve akışkan çıkar, soğuyunca sert kayaya dönüşürüm. Neyim?",
+      "answer": "Lav"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Isınan sudan yükselir, soğuk bir yüzeyde yeniden damlaya dönüşebilirim. Neyim?",
+      "answer": "Buhar"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Suyun soğukta aldığı sert hâlim; sıcak ortamda yeniden eririm. Neyim?",
+      "answer": "Buz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yağmurdan sonra bir çukurda bekler, güneşte yavaşça kaybolurum. Neyim?",
+      "answer": "Su birikintisi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yağışım azdır; bazı yerlerimde kum tepeleri ufka kadar uzanır. Neyim?",
+      "answer": "Çöl"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Açılınca geçişe izin verir, kapanınca iki mekânı ayırırım. Neyim?",
+      "answer": "Kapı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük bedenim kilidin içine girince kapalı olanı açabilirim. Neyim?",
+      "answer": "Anahtar"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Doğru anahtar gelmeden açılmam; kapıyı kapalı tutmaya yardım ederim. Neyim?",
+      "answer": "Kilit"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Duvarın içinden dışarıyı gösterir, açılınca odaya hava alırım. Neyim?",
+      "answer": "Pencere"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Camın önünde asılır, çekildiğimde içeriyi dışarıdan saklarım. Neyim?",
+      "answer": "Perde"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Camın dışında durur, indirildiğimde ışığı ve sıcağı azaltırım. Neyim?",
+      "answer": "Panjur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yere serilir, ayaklarının altında yumuşak ve desenli bir yol olurum. Neyim?",
+      "answer": "Halı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Düz dokunmuş ipliklerimle yerleri renkli desenlere büründürürüm. Neyim?",
+      "answer": "Kilim"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ayaklarım olabilir ama yürümem; üstümde yemek yenir, ders çalışılır. Neyim?",
+      "answer": "Masa"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sırtını dayayıp oturursun; çoğunlukla masanın yanında beklerim. Neyim?",
+      "answer": "Sandalye"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yumuşak minderlerimle salonda dinlenmek isteyenleri ağırlarım. Neyim?",
+      "answer": "Koltuk"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Gece başını bana koyar, sabah beni yatağında bırakırsın. Neyim?",
+      "answer": "Yastık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Soğuk gecelerde üstüne örtülür, sıcak kalmana yardım ederim. Neyim?",
+      "answer": "Battaniye"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yatağın üzerine serilir, uyurken teninle yatak arasına girerim. Neyim?",
+      "answer": "Çarşaf"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Gün bitince üstüme uzanır, sabah kalkınca beni toplarsın. Neyim?",
+      "answer": "Yatak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kapaklarımı açınca asılı ceketler ve katlanmış kıyafetler görürsün. Neyim?",
+      "answer": "Gardırop"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Dolabın içinden dışarı kayar, küçük eşyaları saklarım. Neyim?",
+      "answer": "Çekmece"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Duvara tutunur ya da dolapta uzanır, üstümde eşyaları taşırım. Neyim?",
+      "answer": "Raf"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yan yana dizilen kitaplar raflarımı doldurur, evde küçük bir kütüphane olurum. Neyim?",
+      "answer": "Kitaplık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Karşıma geçtiğinde yüzünü gösteririm ama gördüğüm görüntüyü saklamam. Neyim?",
+      "answer": "Ayna"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Duvara asılır, akrep ve yelkovanımla günün saatini gösteririm. Neyim?",
+      "answer": "Duvar saati"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Günleri ve ayları sıralar, yeni bir yıl başlayınca yenilenirim. Neyim?",
+      "answer": "Takvim"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Hava kararınca açılır, bulunduğum köşeyi aydınlatırım. Neyim?",
+      "answer": "Lamba"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Cam gövdem elektrikle ışık verir; bir aydınlatıcının içinde çalışırım. Neyim?",
+      "answer": "Ampul"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Duvarda küçük yuvalarım vardır; fiş takılınca elektrik bağlantısı sağlarım. Neyim?",
+      "answer": "Priz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Metal uçlarım duvardaki yuvaya girer, bağlı olduğum cihaza güç taşırım. Neyim?",
+      "answer": "Fiş"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yerdeki tozu ve kırıntıları toplamak için ileri geri gezdirilirim. Neyim?",
+      "answer": "Süpürge"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Süpürgenin topladığı kırıntıları içime alıp çöpe taşırım. Neyim?",
+      "answer": "Faraş"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kapı önünde ayakkabıların altındaki kiri karşılarım. Neyim?",
+      "answer": "Paspas"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kulbumdan taşınır, içime su doldurularak temizlikte kullanılırım. Neyim?",
+      "answer": "Kova"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yıkanmayı bekleyen kıyafetleri bir arada toplarım. Neyim?",
+      "answer": "Çamaşır sepeti"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İpe asılan ıslak giysiyi tutar, rüzgârda uçmasını önlerim. Neyim?",
+      "answer": "Çamaşır mandalı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Isınan tabanımla kumaştaki kırışıklıkları düzeltirim. Neyim?",
+      "answer": "Ütü"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Katlanır ayaklarımın üstünde kıyafetler düzleştirilir. Neyim?",
+      "answer": "Ütü masası"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Omuzlarım varmış gibi görünür; gömlekleri dolapta taşırım. Neyim?",
+      "answer": "Elbise askısı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Evin girişinde bekler, ayakkabıları düzenli sıralarım. Neyim?",
+      "answer": "Ayakkabılık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yağmur başlayınca başının üstünde açılır, bitince katlanırım. Neyim?",
+      "answer": "Şemsiye"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bana basan ziyaretçi geldiğini içeridekilere sesle duyurur. Neyim?",
+      "answer": "Kapı zili"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Evin girişinde bekler, gelen mektupları içime alırım. Neyim?",
+      "answer": "Posta kutusu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Basamaklarıma sırayla basarak bir kattan ötekine ulaşırsın. Neyim?",
+      "answer": "Merdiven"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Merdivenin kenarında uzanır, tutunacak güvenli bir sınır oluştururum. Neyim?",
+      "answer": "Korkuluk"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Evin dışına açılan küçük alanımda oturup temiz hava alabilirsin. Neyim?",
+      "answer": "Balkon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Odanın en üst yüzeyiyim; lambalar çoğu zaman bana asılır. Neyim?",
+      "answer": "Tavan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Odaları birbirinden ayırır, üzerime tablolar asılabilir. Neyim?",
+      "answer": "Duvar"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Binanın tepesini örter, yağmurun içeri girmesini önlemeye çalışırım. Neyim?",
+      "answer": "Çatı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Sobadan yükselen dumanın dışarı çıkmasına yol açarım. Neyim?",
+      "answer": "Baca"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Çevrildiğimde su akar, kapatıldığımda akış durur. Neyim?",
+      "answer": "Musluk"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ellerini yıkadığın suyu giderime yönlendiren hazneyim. Neyim?",
+      "answer": "Lavabo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Banyoda uzanabileceğin kadar büyük bir su haznesiyim. Neyim?",
+      "answer": "Küvet"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Suyu küçük deliklerimden ince akıntılar hâlinde dağıtırım. Neyim?",
+      "answer": "Duş başlığı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Banyodan sonra ellerini ve yüzünü kurulamak için beni kullanırsın. Neyim?",
+      "answer": "Havlu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Suyla buluşunca köpürür, ellerindeki kiri temizlemeye yardım ederim. Neyim?",
+      "answer": "Sabun"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük kıllarımla sabah ve akşam dişlerinin üzerinde dolaşırım. Neyim?",
+      "answer": "Diş fırçası"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Tüpten çıkar, fırçanın üzerine konur, ağız temizliğine eşlik ederim. Neyim?",
+      "answer": "Diş macunu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ocağın üstünde yemek pişerken içimde kaynayanları taşırım. Neyim?",
+      "answer": "Tencere"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Geniş ve sığ yüzeyimde yiyecekler ocakta çevrilerek pişirilir. Neyim?",
+      "answer": "Tava"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ocağın üzerinde su ısıtır, çay saatinde işe yararım. Neyim?",
+      "answer": "Çaydanlık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sıcak suyla bekleyen çay yaprakları içimde içeceğe renk verir. Neyim?",
+      "answer": "Demlik"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük kulbumdan tutulur, sıcak içecekleri azar azar sunarım. Neyim?",
+      "answer": "Fincan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İçeceği içime doldurursun; içtikçe boşalırım. Neyim?",
+      "answer": "Bardak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Suyu masaya topluca getirir, bardaklara paylaştırırım. Neyim?",
+      "answer": "Sürahi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İçimdeki içeceğin sıcaklığını uzun süre korumaya çalışırım. Neyim?",
+      "answer": "Termos"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yemeği masada üstümde taşır, iş bitince lavaboya giderim. Neyim?",
+      "answer": "Tabak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Derin gövdemle çorba ya da yoğurt tutarım. Neyim?",
+      "answer": "Kase"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Dişlerim var ama çiğnemem; lokmaları tabaktan kaldırırım. Neyim?",
+      "answer": "Çatal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Çukur başımla çorbayı alır, ağzına kadar taşırım. Neyim?",
+      "answer": "Kaşık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Uzun sapımla tenceredeki çorbayı kâselere dağıtırım. Neyim?",
+      "answer": "Kepçe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Delikli yüzeyimle yiyeceği içindeki sıvıdan ayırarak çıkarırım. Neyim?",
+      "answer": "Kevgir"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Suyu deliklerimden geçirir, makarnayı içimde tutarım. Neyim?",
+      "answer": "Süzgeç"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük çıkıntılarımla peyniri ince parçalara ayırırım. Neyim?",
+      "answer": "Rende"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "İnce uzun gövdemle hamuru tezgâhta açıp inceltirim. Neyim?",
+      "answer": "Oklava"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Unla su buluşunca oluşur, yoğruldukça şekil alırım. Neyim?",
+      "answer": "Hamur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Buğday öğütülünce ortaya çıkar, ekmeğin yapımına katılırım. Neyim?",
+      "answer": "Un"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Hamurun içinde çalışır, bekledikçe onun kabarmasına yardım ederim. Neyim?",
+      "answer": "Maya"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Fırından çıkınca mis gibi kokar, sofrada dilim dilim paylaşılırım. Neyim?",
+      "answer": "Ekmek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Halka biçimindeyim, dışımda susamlar taşırım; kahvaltıya sıkça gelirim. Neyim?",
+      "answer": "Simit"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Fırından yumuşak çıkar, içime peynir ya da patates konabilir. Neyim?",
+      "answer": "Poğaça"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İnce yufkaların arasına iç konur, tepside pişirilirim. Neyim?",
+      "answer": "Börek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sütün mayalanmasıyla oluşur, kaşıkla yenir ya da ayrana dönüşürüm. Neyim?",
+      "answer": "Yoğurt"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sütten yapılır, kahvaltıda ekmeğin yanına sıkça gelirim. Neyim?",
+      "answer": "Peynir"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Soğukken katıyım, sıcak ekmeğin üstünde yavaşça eririm. Neyim?",
+      "answer": "Tereyağı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Arıların çiçeklerden topladıklarıyla ürettiği tatlı yiyeceğim. Neyim?",
+      "answer": "Bal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Meyveler şekerle pişirilince kavanoza girer, kahvaltıda ekmeğe sürülürüm. Neyim?",
+      "answer": "Reçel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Üzüm gibi meyvelerin suyu koyulaştırılınca ortaya çıkarım. Neyim?",
+      "answer": "Pekmez"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Dalımda yeşil ya da koyu renkli büyür, kahvaltı tabağına gelirim. Neyim?",
+      "answer": "Zeytin"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Uzun yeşil gövdem çıtır çıtır yenir, cacığın içine doğranırım. Neyim?",
+      "answer": "Salatalık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kırmızı olgunlaşır, salataya ve yemek sosuna renk katarım. Neyim?",
+      "answer": "Domates"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Toprağın altında büyür, haşlanır, fırınlanır ya da püre olurum. Neyim?",
+      "answer": "Patates"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kat kat kabuklarım soyulur, doğranınca gözleri yaşartabilirim. Neyim?",
+      "answer": "Soğan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük dişlerim bir başın içinde toplanır, yemeklere keskin koku katarım. Neyim?",
+      "answer": "Sarımsak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Toprak altında uzar, turuncu köküm çıtır çıtır yenir. Neyim?",
+      "answer": "Havuç"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bahçede yetişir, içim oyularak dolma yapılabilir. Neyim?",
+      "answer": "Kabak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yeşil, kırmızı ya da sarı olurum; bazı çeşitlerim ağzı yakar. Neyim?",
+      "answer": "Biber"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Mor kabuğumla tanınır, közlenince içim yumuşar. Neyim?",
+      "answer": "Patlıcan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Koçanımın üzerinde sarı taneler sıralanır, haşlanınca yenirim. Neyim?",
+      "answer": "Mısır"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük tanelerim suda pişer, pilav olunca kabarırım. Neyim?",
+      "answer": "Pirinç"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük tanelerim kırmızı ya da yeşil olabilir; çorbada sıkça kullanılırım. Neyim?",
+      "answer": "Mercimek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yuvarlak tanelerim suda bekletilir, sonra tencerede yumuşatılır. Neyim?",
+      "answer": "Nohut"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Beyaz tanelerim pişmeden önce serttir; sulu bir yemekte sıkça görülürüm. Neyim?",
+      "answer": "Kuru fasulye"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Farklı şekillerde kurutulurum, kaynar suda yumuşayınca süzülürüm. Neyim?",
+      "answer": "Makarna"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kâsede sıcak sunulur, kaşıkla yavaş yavaş içilirim. Neyim?",
+      "answer": "Çorba"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Doğranmış sebzeler bir kâsede buluşunca sofraya gelirim. Neyim?",
+      "answer": "Salata"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sarı kabuğumun altındaki ekşi su, salatanın tadını değiştirir. Neyim?",
+      "answer": "Limon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Turuncu kabuğum soyulur, dilimlerimden tatlı bir su çıkar. Neyim?",
+      "answer": "Portakal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kabuğum kolay soyulur, küçük dilimlerim tek tek ayrılır. Neyim?",
+      "answer": "Mandalina"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sert kabuğumun içinde yan yana dizilmiş çok sayıda kırmızı tanem var. Neyim?",
+      "answer": "Nar"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Salkım salkım büyür, küçük tanelerim tek tek koparılır. Neyim?",
+      "answer": "Üzüm"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ağaçta yetişir, ısırınca çıtırdar; kırmızı, sarı ya da yeşil olabilirim. Neyim?",
+      "answer": "Elma"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Üstüm dar, altım geniştir; olgunlaşınca sulu ve tatlı olurum. Neyim?",
+      "answer": "Armut"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sarı kabuğum uzun gövdemden soyulur, içim yumuşaktır. Neyim?",
+      "answer": "Muz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kırmızı yüzeyimin üstünde küçük çekirdekler görünür, yeşil tacım vardır. Neyim?",
+      "answer": "Çilek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Dışı yeşil, içi çoğu zaman kırmızı olan iri yaz meyvesiyim. Neyim?",
+      "answer": "Karpuz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kalın kabuğumun içinde kokulu ve sulu bir yaz meyvesi saklarım. Neyim?",
+      "answer": "Kavun"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Elinle tutulur, kâğıt üzerinde düşüncelerini iz bırakacak hâle getiririm. Neyim?",
+      "answer": "Kalem"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yazdığım iz silgiyle silinebilir; ucum kısaldıkça yeniden açılır. Neyim?",
+      "answer": "Kurşun kalem"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ucundaki küçük bilye mürekkebi kâğıda taşır, yazdıklarım kolay silinmez. Neyim?",
+      "answer": "Tükenmez kalem"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kâğıttaki kurşun kalem izlerini ovarak yok ederim. Neyim?",
+      "answer": "Silgi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Körleşen kurşun kalemin ucunu yeniden sivriltirim. Neyim?",
+      "answer": "Kalemtıraş"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Boş sayfalarımı açarsın, ders notlarınla giderek dolarım. Neyim?",
+      "answer": "Defter"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sayfalarım çevrildikçe bir konu ya da hikâye adım adım açılır. Neyim?",
+      "answer": "Kitap"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bir kitabın içinde çevrildikçe yenisi gelir; üzerimde yazılar bulunur. Neyim?",
+      "answer": "Sayfa"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Okumayı bıraktığın yeri unutmaman için iki sayfanın arasında beklerim. Neyim?",
+      "answer": "Kitap ayracı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Düz kenarım ve üzerimdeki işaretlerle uzunluk ölçmeye yardım ederim. Neyim?",
+      "answer": "Cetvel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "İki kenarımın oluşturduğu dik açıyla düzgün köşeler çizmeye yardım ederim. Neyim?",
+      "answer": "Gönye"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Bir ucum sabit kalırken öteki ucum kâğıt üzerinde çember çizer. Neyim?",
+      "answer": "Pergel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kâğıtta renkli izler bırakır, çizimleri canlandırırım. Neyim?",
+      "answer": "Boya kalemi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kıllarım boyaya batırılır, tuval üzerinde renkleri gezdiririm. Neyim?",
+      "answer": "Resim fırçası"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Renkler küçük gözlerimde yan yana durur, ressam onları burada karıştırır. Neyim?",
+      "answer": "Boya paleti"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kâğıtta ya da tuvalde çizgiler ve renklerle bir görüntü anlatırım. Neyim?",
+      "answer": "Resim"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yolları ve yerleri küçültüp bir yüzeye sığdırır, yol bulmana yardım ederim. Neyim?",
+      "answer": "Harita"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yuvarlak gövdemin üzerinde kıtaları ve okyanusları döndürerek gösteririm. Neyim?",
+      "answer": "Dünya küresi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sınıfın önünde durur, öğretmenin yazdıklarını herkese gösteririm. Neyim?",
+      "answer": "Yazı tahtası"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Tahtaya sürüldükçe küçülür, ardımda beyaz iz bırakırım. Neyim?",
+      "answer": "Tebeşir"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ders bitince tahtadaki yazıları temizler, yüzeyi yeniden boş bırakırım. Neyim?",
+      "answer": "Tahta silgisi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sınıfta oturup defterini açtığın, ders boyunca kullandığın masayım. Neyim?",
+      "answer": "Okul sırası"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kitap ve defterleri sırtında okula götürmene yardım ederim. Neyim?",
+      "answer": "Okul çantası"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kâğıtları küçük metal tellerle bir arada tuttururum. Neyim?",
+      "answer": "Zımba"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kâğıtları delmeden birbirine tutturmak için kıvrılmış metalden yapılırım. Neyim?",
+      "answer": "Ataş"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Önemli belgeleri içimde toplar, dağılmalarını önlerim. Neyim?",
+      "answer": "Dosya"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Halkalarım ya da ceplerimle çok sayıda belgeyi düzenli saklarım. Neyim?",
+      "answer": "Klasör"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bir mektubu içine alır, ağzım kapatılınca içindekini saklarım. Neyim?",
+      "answer": "Zarf"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Birinin yazdığı sözleri kâğıt üzerinde uzak birine ulaştırırım. Neyim?",
+      "answer": "Mektup"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Küçük kâğıdım zarfın köşesine yapışır, gönderinin ücretini gösterir. Neyim?",
+      "answer": "Posta pulu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Bir belgeye basıldığımda onu onaylayan özel bir iz bırakırım. Neyim?",
+      "answer": "Mühür"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük yüzeyime kısa hatırlatmalar yazılır, sonra masada beklerim. Neyim?",
+      "answer": "Not kâğıdı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Arkamdaki hafif yapışkanla duvara tutunur, hatırlatma taşırım. Neyim?",
+      "answer": "Yapışkan not"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Küçük başımla panoya kâğıt tuttururum. Neyim?",
+      "answer": "Raptiye"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İki kâğıt parçasını birbirine tutturmak için sürülürüm. Neyim?",
+      "answer": "Yapıştırıcı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Şeffaf bir şerit olarak koparılır, kâğıtları birbirine yapıştırırım. Neyim?",
+      "answer": "Bant"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Düğmelerime sayılar girilir, işlemin sonucunu ekranda gösteririm. Neyim?",
+      "answer": "Hesap makinesi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Çubuklarımda kayan boncuklarla sayıları hesaplamayı öğretirim. Neyim?",
+      "answer": "Abaküs"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Anlamını bilmediğin kelimeyi aradığında açıklamasını sayfalarımda bulursun. Neyim?",
+      "answer": "Sözlük"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Birçok konuda bilgi veren maddeleri alfabetik olarak toplarım. Neyim?",
+      "answer": "Ansiklopedi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Camımdan baktığında küçük yazılar daha büyük görünür. Neyim?",
+      "answer": "Büyüteç"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Çıplak gözle seçemediğin çok küçük yapıları merceklerle görünür kılarım. Neyim?",
+      "answer": "Mikroskop"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Uzak gök cisimlerinden gelen ışığı toplayarak onları incelemeye yardım ederim. Neyim?",
+      "answer": "Teleskop"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İğnem yön gösterir, yabancı bir yerde kuzeyi bulmana yardım ederim. Neyim?",
+      "answer": "Pusula"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Uzakta olan biriyle konuşmanı sağlar, cebinde taşınabilirim. Neyim?",
+      "answer": "Telefon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Görüntüler ve yazılar üzerimde belirir, cihaz kapanınca kararırım. Neyim?",
+      "answer": "Ekran"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Üzerimdeki tuşlara basıldıkça bilgisayara harfler ve komutlar gider. Neyim?",
+      "answer": "Klavye"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Masada gezdirilirim, ekrandaki oku hareket ettiririm. Neyim?",
+      "answer": "Bilgisayar faresi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kulaklarının üstüne ya da içine yerleşir, sesi sana yakından iletirim. Neyim?",
+      "answer": "Kulaklık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Elektrik sinyallerini duyulabilen sese dönüştürürüm. Neyim?",
+      "answer": "Hoparlör"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Konuştuğunda sesini alır, kayda ya da başka bir cihaza iletirim. Neyim?",
+      "answer": "Mikrofon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Önümdeki görüntüyü kaydeder, fotoğraf ya da video oluştururum. Neyim?",
+      "answer": "Kamera"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bir anı tek karede saklar, yıllar sonra yeniden gösteririm. Neyim?",
+      "answer": "Fotoğraf"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Prize bağlandığımda cihazın boşalan enerjisini yeniden doldurmaya yardım ederim. Neyim?",
+      "answer": "Şarj aleti"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük gövdemde enerji depolar, kumanda ve oyuncaklara güç veririm. Neyim?",
+      "answer": "Pil"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İki cihaz arasında uzanır, elektrik ya da veri taşırım. Neyim?",
+      "answer": "Kablo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Dünyanın farklı yerlerindeki bilgisayarları birbirine bağlayan büyük ağım. Neyim?",
+      "answer": "İnternet"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kâğıda ihtiyaç duymadan yazdığın mesajı bir adrese ulaştırırım. Neyim?",
+      "answer": "E-posta"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Beni bilen içeri girebilir; gizli tutulursam hesabı korumaya yardım ederim. Neyim?",
+      "answer": "Şifre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ekranın köşesinde belirir, yeni bir gelişmeyi sana haber veririm. Neyim?",
+      "answer": "Bildirim"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ekranda küçük bir resim olarak durur, dokunulunca program açarım. Neyim?",
+      "answer": "Uygulama simgesi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Telefona yüklenir, alışverişten not tutmaya kadar farklı işler yaptırırım. Neyim?",
+      "answer": "Mobil uygulama"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yazdığın kelimelere göre internette ilgili sayfaları bulmana yardım ederim. Neyim?",
+      "answer": "Arama motoru"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bilgisayardaki yazı ve resimleri kâğıda aktarırım. Neyim?",
+      "answer": "Yazıcı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Kâğıt üzerindeki yazıyı ve resmi dijital dosyaya dönüştürürüm. Neyim?",
+      "answer": "Belge tarayıcı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Küçük bir görüntüyü ışıkla duvara büyük hâlde yansıtırım. Neyim?",
+      "answer": "Projektör"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yerinden kalkmadan televizyonun kanalını değiştirmene yardım ederim. Neyim?",
+      "answer": "Uzaktan kumanda"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ekranımda hareketli görüntüler gösterir, kumandayla yönetilirim. Neyim?",
+      "answer": "Televizyon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Havadaki yayın sinyallerini alır, cihaza ulaştırırım. Neyim?",
+      "answer": "Anten"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Dünya çevresinde dolanabilir, iletişim ve konum belirlemede kullanılabilirim. Neyim?",
+      "answer": "Uydu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Programlanan işleri sensörlerim ve hareketli parçalarımla yapabilirim. Neyim?",
+      "answer": "Robot"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçücükken toprağa düşer, uygun koşullarda yeni bir bitkiye dönüşürüm. Neyim?",
+      "answer": "Tohum"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Topraktan yeni çıkmış taze yeşil başlangıcım, büyüdükçe güçlenirim. Neyim?",
+      "answer": "Filiz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Henüz küçük bir ağacım; dikilince yıllar içinde boy atarım. Neyim?",
+      "answer": "Fidan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Köklerim toprakta, dallarım gökte; mevsimlere göre görünüşüm değişir. Neyim?",
+      "answer": "Ağaç"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Gövdenin yanından uzanır, yaprakları ve meyveleri taşırım. Neyim?",
+      "answer": "Dal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İlkbaharda açar, sonbaharda sararıp yere düşebilirim. Neyim?",
+      "answer": "Yaprak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Çoğunlukla toprağın altında saklanır, bitkiyi tutup su almasına yardım ederim. Neyim?",
+      "answer": "Kök"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Köklerle dallar arasında yükselir, bitkinin dik durmasına yardım ederim. Neyim?",
+      "answer": "Gövde"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sıkıca kapalıyken küçük görünür, açılınca çiçek ya da yaprak olurum. Neyim?",
+      "answer": "Tomurcuk"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Renkli taç yapraklarımla bahçeyi süsler, arıları kendime çekebilirim. Neyim?",
+      "answer": "Çiçek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Çiçeklerin ürettiği ince taneciklerim, arıların üzerinde başka çiçeklere taşınabilir. Neyim?",
+      "answer": "Polen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Çiçeğin içinde tatlı bir sıvıyım; arılar beni toplamaya gelir. Neyim?",
+      "answer": "Nektar"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bitkinin üzerinde sivri bir çıkıntıyım; dokunurken dikkat gerektiririm. Neyim?",
+      "answer": "Diken"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kurak yerlerde yaşarım, kalın gövdem su saklar, çoğu türüm dikenlidir. Neyim?",
+      "answer": "Kaktüs"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bahçede yere yakın büyür, biçildiğimde yeniden uzayabilirim. Neyim?",
+      "answer": "Çimen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Nemli taşların üzerinde yeşil bir örtü gibi büyüyebilirim. Neyim?",
+      "answer": "Yosun"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Tek başıma dik durmak yerine duvara ve dallara tutunarak yükselirim. Neyim?",
+      "answer": "Sarmaşık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ormanda nemli yerlerde belirir, şapkam ve sapımla tanınırım. Neyim?",
+      "answer": "Mantar"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Çam dallarında büyür, pullarımın arasında tohumları saklarım. Neyim?",
+      "answer": "Kozalak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İğne biçimli yapraklarımı kışın da korur, dallarımda kozalak taşırım. Neyim?",
+      "answer": "Çam ağacı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Güçlü gövdemin dallarında palamutlar büyür. Neyim?",
+      "answer": "Meşe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Uzun gövdemin tepesinde yelpaze gibi açılan yapraklar taşırım. Neyim?",
+      "answer": "Palmiye"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "İnce dallarım su kenarında aşağı doğru sarkar. Neyim?",
+      "answer": "Söğüt"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Beyaz yapraklarım sarı bir merkezin çevresine dizilir. Neyim?",
+      "answer": "Papatya"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İlkbaharda kadeh biçimli renkli çiçeğimle açarım. Neyim?",
+      "answer": "Lale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Güzel kokumla bilinir, dalımda dikenler bulunabilir. Neyim?",
+      "answer": "Gül"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük mor çiçeklerim ve kadifemsi yapraklarımla saksıda yetişebilirim. Neyim?",
+      "answer": "Menekşe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kocaman sarı çiçek başım güneşe yönelir, çekirdeklerim yenir. Neyim?",
+      "answer": "Ayçiçeği"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Mor çiçeklerimden yayılan kokuyla dolaplara ve bahçelere ferahlık katarım. Neyim?",
+      "answer": "Lavanta"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yapraklarım ezilince ferah bir koku çıkar, çaya da katılabilirim. Neyim?",
+      "answer": "Nane"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Saksıda yetişen kokulu yapraklarım yemeklere taze aroma katar. Neyim?",
+      "answer": "Fesleğen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İnce saplı yeşil yapraklarım yemeklerin üstüne doğranır. Neyim?",
+      "answer": "Maydanoz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İncecik dallanmış yapraklarım yoğurtlu yemeklere güzel koku katar. Neyim?",
+      "answer": "Dereotu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Uzun yeşil yapraklarım hafif keskin tadıyla salatalara katılır. Neyim?",
+      "answer": "Roka"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kat kat yeşil yapraklarım salata için tek tek koparılır. Neyim?",
+      "answer": "Marul"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İçime toprak konur, pencere önünde küçük bir bitkiye yuva olurum. Neyim?",
+      "answer": "Saksı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Uzun ağzımdan bitkilere ince ince su dökerim. Neyim?",
+      "answer": "Sulama kabı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Musluğa bağlanır, uzun esnek gövdemle suyu bahçenin öbür ucuna taşırım. Neyim?",
+      "answer": "Bahçe hortumu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Dişli başımla bahçedeki kuru yaprakları bir araya toplarım. Neyim?",
+      "answer": "Tırmık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Geniş metal ucumla toprağı kazıp başka yere taşırım. Neyim?",
+      "answer": "Kürek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bıyıklarım ve yumuşak patilerimle evde dolaşır, memnunken mırlarım. Neyim?",
+      "answer": "Kedi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sahibimi görünce kuyruğumu sallayabilir, havlayarak seslenirim. Neyim?",
+      "answer": "Köpek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Uzun kulaklarım ve güçlü arka ayaklarımla sıçrayarak ilerlerim. Neyim?",
+      "answer": "Tavşan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sert kabuğumu sırtımda taşır, yavaş adımlarla ilerlerim. Neyim?",
+      "answer": "Kaplumbağa"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sırtımda dikenler taşır, ürktüğümde top gibi büzülebilirim. Neyim?",
+      "answer": "Kirpi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kabarık kuyruğumla ağaçlarda dolaşır, yemişleri saklarım. Neyim?",
+      "answer": "Sincap"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Küçük bir kemirgenim; yanak keselerimde yiyecek taşıyabilirim. Neyim?",
+      "answer": "Hamster"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yelelerim rüzgârda savrulur, dört nala koşabilirim. Neyim?",
+      "answer": "At"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Uzun kulaklarım ve kendime özgü anırma sesimle tanınırım. Neyim?",
+      "answer": "Eşek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Çöl yolculuklarında dayanıklılığımla bilinir, sırtımda hörgüç taşırım. Neyim?",
+      "answer": "Deve"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yumuşak yünüm kırpılır, sürü hâlinde otlayabilirim. Neyim?",
+      "answer": "Koyun"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kayalık yerlere kolay tırmanır, çenemden sakal sarkabilir. Neyim?",
+      "answer": "Keçi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Çiftlikte yaşar, sütümle pek çok yiyeceğin yapılmasına katkı veririm. Neyim?",
+      "answer": "İnek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Koyunun küçük yavrusuyum; ince sesimle annemi çağırırım. Neyim?",
+      "answer": "Kuzu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bahçede eşelenir, kümeste yumurta bırakabilirim. Neyim?",
+      "answer": "Tavuk"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sabahları yüksek sesle öter, başımda kırmızı bir ibik taşırım. Neyim?",
+      "answer": "Horoz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yumurtadan yeni çıkar, sarı tüylerimle annemin peşinden yürürüm. Neyim?",
+      "answer": "Civciv"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Geniş gagam ve perdeli ayaklarımla suda rahatça yüzerim. Neyim?",
+      "answer": "Ördek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Uzun boynumla gölette dolaşır, yüksek sesle vaklayabilirim. Neyim?",
+      "answer": "Kaz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Uzun kıvrımlı boynum ve beyaz tüylerimle gölde süzülürüm. Neyim?",
+      "answer": "Kuğu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kent meydanlarında sıkça görülür, başımı sallayarak yürürüm. Neyim?",
+      "answer": "Güvercin"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük kahverengi bir kuşum; pencere kenarında cıvıldarım. Neyim?",
+      "answer": "Serçe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Çatallar gibi uzanan kuyruğumla havada çevikçe süzülürüm. Neyim?",
+      "answer": "Kırlangıç"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Uzun bacaklarım ve gagamla tanınır, yuvalarımı yüksek yerlere kurarım. Neyim?",
+      "answer": "Leylek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Büyük gözlerimle gece etkin olur, başımı geniş açıyla çevirebilirim. Neyim?",
+      "answer": "Baykuş"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Geniş kanatlarımla yükseklerde süzülür, keskin gözlerimle uzakları seçerim. Neyim?",
+      "answer": "Kartal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Deniz kıyısında dolaşır, çığlığıma benzeyen sesimle tanınırım. Neyim?",
+      "answer": "Martı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Renkli tüylerim olabilir; bazı türlerim insan sesini taklit eder. Neyim?",
+      "answer": "Papağan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kanatlarım yüzmeye yarar, buzlu kıyılarda dimdik yürürüm. Neyim?",
+      "answer": "Penguen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Pembe tüylerim ve uzun ince bacaklarımla sığ suda beklerim. Neyim?",
+      "answer": "Flamingo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Büyük renkli kuyruğumu yelpaze gibi açınca göz alıcı desenler görünür. Neyim?",
+      "answer": "Tavus kuşu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Çiçekleri dolaşır, kovanda bal üretimine katkıda bulunurum. Neyim?",
+      "answer": "Arı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Tırtılken değişir, sonra renkli kanatlarla çiçekler arasında uçarım. Neyim?",
+      "answer": "Kelebek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kırmızı sırtımda siyah benekler taşır, yapraklarda dolaşırım. Neyim?",
+      "answer": "Uğur böceği"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük bedenimle yük taşır, arkadaşlarımla uzun sıralar oluştururum. Neyim?",
+      "answer": "Karınca"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Güçlü arka bacaklarımla otların arasından uzağa sıçrarım. Neyim?",
+      "answer": "Çekirge"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Sıcak yaz günlerinde ağaçlardan gelen uzun vızıltının sahibiyim. Neyim?",
+      "answer": "Ağustos böceği"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Evimi sırtımda taşır, ilerlerken ardımda parlak bir iz bırakırım. Neyim?",
+      "answer": "Salyangoz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Toprağın içinde kıvrılarak ilerler, tüneller açarım. Neyim?",
+      "answer": "Solucan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Gölette yaşar, uzun arka ayaklarımla sıçrar, vıraklarım. Neyim?",
+      "answer": "Kurbağa"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Suyun içinde solungaçlarımla nefes alır, yüzgeçlerimle yüzerim. Neyim?",
+      "answer": "Balık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Denizde yaşar, hava almak için yüzeye çıkar, sıçrayarak yüzerim. Neyim?",
+      "answer": "Yunus"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Çok büyük bir deniz memelisiyim; nefes almak için su yüzüne çıkarım. Neyim?",
+      "answer": "Balina"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Deniz dibinde yaşar, çoğu türüm beş kollu bir yıldızı andırır. Neyim?",
+      "answer": "Deniz yıldızı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Şeffaf şemsiyeye benzeyen bedenimle suda yavaşça süzülürüm. Neyim?",
+      "answer": "Denizanası"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sekiz kolumla deniz dibindeki taşların arasından geçerim. Neyim?",
+      "answer": "Ahtapot"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yan yan yürür, sert kabuğumun önünde iki kıskaç taşırım. Neyim?",
+      "answer": "Yengeç"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Başım küçük bir ata benzer; denizde dik durarak yüzerim. Neyim?",
+      "answer": "Denizatı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yüzgeçlerimle suda çevikçe ilerler, kıyıda dinlenirim. Neyim?",
+      "answer": "Fok"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Suda oynar, sırtüstü yüzebilir, sık kürkümle sıcak kalırım. Neyim?",
+      "answer": "Su samuru"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Göz kapaklarının ardında dinlenir, açıldığımda renkleri ve şekilleri seçerim. Neyim?",
+      "answer": "Göz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Başının iki yanında durur, çevrendeki sesleri duymana yardım ederim. Neyim?",
+      "answer": "Kulak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yüzünün ortasında durur, kokuları fark eder ve nefes almana yardım ederim. Neyim?",
+      "answer": "Burun"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ağzının içinde hareket eder, tatları algılar ve konuşmaya yardım ederim. Neyim?",
+      "answer": "Dil"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sert beyaz yapımla yiyecekleri küçük parçalara ayırırım. Neyim?",
+      "answer": "Diş"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Başında uzar, tarandıkça şekil alır, kesilince yeniden büyürüm. Neyim?",
+      "answer": "Saç"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Gözlerin üstünde uzanır, yüz ifadesini belirginleştirmeye yardım ederim. Neyim?",
+      "answer": "Kaş"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Göz kapağının kenarında sıralanır, küçük tozları gözden uzak tutmaya yardım ederim. Neyim?",
+      "answer": "Kirpik"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Beş parmağımla nesneleri kavrar, yazı yazar ve selam veririm. Neyim?",
+      "answer": "El"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Elinde yan yana bulunur, küçük nesneleri tutmana yardım ederim. Neyim?",
+      "answer": "Parmak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Elini açınca ortada kalır, az miktarda suyu kısa süre tutabilirim. Neyim?",
+      "answer": "Avuç"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yürürken yere basar, seni adım adım ileri taşırım. Neyim?",
+      "answer": "Ayak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bacağının ortasında bükülür, oturup kalkarken çalışırım. Neyim?",
+      "answer": "Diz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kolunun ortasında bükülür, elini yüzüne yaklaştırmana yardım ederim. Neyim?",
+      "answer": "Dirsek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kolların gövdene bağlandığı yerdeyim, sırt çantası askıları üzerime oturur. Neyim?",
+      "answer": "Omuz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Alıp verildikçe sürer, koşunca hızlanır, dinlenince yavaşlarım. Neyim?",
+      "answer": "Nefes"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yüzünde belirdiğimde dudaklarının köşeleri yukarı kalkar. Neyim?",
+      "answer": "Gülümseme"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sevinince ya da üzülünce gözünün kenarında bir damla olarak beliririm. Neyim?",
+      "answer": "Gözyaşı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Dağa seslendiğinde bir süre sonra sana benzeyen sesi geri getiririm. Neyim?",
+      "answer": "Yankı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Görünmeden yayılır, çiçeği ya da pişen yemeği sana haber veririm. Neyim?",
+      "answer": "Koku"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bir lokma ağzına geldiğinde dilinin fark ettiği özelliğim. Neyim?",
+      "answer": "Tat"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Bir şeye elini değdirdiğinde sıcaklığını ve yüzeyini hissettiren duyumum. Neyim?",
+      "answer": "Dokunuş"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Durduramazsın; saatler beni ölçer ama ben onların içinde yaşamam. Neyim?",
+      "answer": "Zaman"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Geçmişte yaşanmış bir olayım; yıllar sonra aklına yeniden gelebilirim. Neyim?",
+      "answer": "Anı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Henüz gerçekleşmemiş şeyleri zihninde canlandırırken beni kurarsın. Neyim?",
+      "answer": "Hayal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Sonucu henüz görmesen de güzel bir olasılığa inanmanı sağlarım. Neyim?",
+      "answer": "Umut"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Beklemek zorlaştığında sakin kalmana yardım eden gücüm. Neyim?",
+      "answer": "Sabır"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bir şeyin nasıl olduğunu öğrenmek istediğinde içinden yükselirim. Neyim?",
+      "answer": "Merak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İki insan arasında güven, yakınlık ve paylaşmayla büyürüm. Neyim?",
+      "answer": "Dostluk"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Biri sana iyilik yaptığında birkaç kelimeyle ona sunduğun karşılığım. Neyim?",
+      "answer": "Teşekkür"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Birini üzdüğünü fark ettiğinde hatanı kabul ederek dilersin. Neyim?",
+      "answer": "Özür"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Ağızdan çıkarım; tutulduğumda güveni büyütür, unutulduğumda üzüntü verebilirim. Neyim?",
+      "answer": "Söz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Herkese anlatılmaz, güvendiğin birine saklaması için verilebilir. Neyim?",
+      "answer": "Sır"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bir şeyi öğrenmek istediğinde sorulur, sonunda çoğu zaman işaretim bulunur. Neyim?",
+      "answer": "Soru"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bir sorunun ardından gelir, merak edilen bilgiyi açıklarım. Neyim?",
+      "answer": "Cevap"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Herkes konuşmayı bıraktığında odada daha belirgin olurum. Neyim?",
+      "answer": "Sessizlik"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Ses çıkarmadan zihninde dolaşır, bazen yeni bir fikre dönüşürüm. Neyim?",
+      "answer": "Düşünce"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Aklına geldiğimde bir soruna yeni bir çözüm önerebilirim. Neyim?",
+      "answer": "Fikir"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Öğrendikçe çoğalır, paylaştıkça başkalarına da ulaşırım. Neyim?",
+      "answer": "Bilgi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Bir işi yapıp sonuçlarını gördükçe birikir, sonraki seçimlerine yol gösteririm. Neyim?",
+      "answer": "Deneyim"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Bir davranışı sık sık tekrarladığında zamanla kendiliğimden ortaya çıkarım. Neyim?",
+      "answer": "Alışkanlık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Tutulan sözlerle büyür, belirsizlikle kolayca sarsılabilirim. Neyim?",
+      "answer": "Güven"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İlgi ve özenle gösterilir, paylaşıldığında eksilmek zorunda değilim. Neyim?",
+      "answer": "Sevgi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Güzel bir haber aldığında yüzünde ve sesinde belirebilirim. Neyim?",
+      "answer": "Sevinç"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Uzakta olan birini ya da yeri yeniden görmeyi istediğinde hissedilirim. Neyim?",
+      "answer": "Özlem"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "İçinde telaş azaldığında kendini sakin ve rahat hissettiğin hâlim. Neyim?",
+      "answer": "Huzur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Önceden haber verilmeden ortaya çıkar, beklenmedik bir sevinç yaşatabilirim. Neyim?",
+      "answer": "Sürpriz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Birini mutlu etmek için seçilir, paketlenip ona verilebilirim. Neyim?",
+      "answer": "Hediye"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İki tekerim vardır; pedalları çevirince yolda ilerlerim. Neyim?",
+      "answer": "Bisiklet"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ayağınla çevirirsin, bisikletin tekerlerine hareket aktarırım. Neyim?",
+      "answer": "Pedal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "Bisikletin önünde iki yandan tutulur, yönünü değiştirmene yardım ederim. Neyim?",
+      "answer": "Gidon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Döndükçe taşıtların yol almasını kolaylaştırırım. Neyim?",
+      "answer": "Tekerlek"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Tekerleğin çevresini sarar, yolla temas ederek tutunma sağlarım. Neyim?",
+      "answer": "Lastik"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kolum ileri geri hareket edince tekerleğin içine hava doldururum. Neyim?",
+      "answer": "Bisiklet pompası"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bisiklete binerken başına takılır, koruma sağlamaya yardım ederim. Neyim?",
+      "answer": "Kask"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Raylar üzerinde vagonlarımı peşimden sürükleyerek ilerlerim. Neyim?",
+      "answer": "Tren"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Trenin arkasına bağlanır, yolcu ya da yük taşırım. Neyim?",
+      "answer": "Vagon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Tren tekerleklerinin üzerinde ilerlediği uzun metal yolum. Neyim?",
+      "answer": "Ray"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Trenler gelip durur, yolcular burada biner ve iner. Neyim?",
+      "answer": "İstasyon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yolculuk ya da etkinlik için giriş hakkını gösteren küçük belgeyim. Neyim?",
+      "answer": "Bilet"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Birçok yolcuyu aynı anda taşır, duraklarda bekleyenleri alırım. Neyim?",
+      "answer": "Otobüs"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Toplu taşıt bekleyenler burada sıraya girer, araç gelince hareketlenir. Neyim?",
+      "answer": "Durak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Deniz üzerinde yolcu taşır, iskeleden ayrılıp karşı kıyıya giderim. Neyim?",
+      "answer": "Vapur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Teknelerin yanaştığı, yolcuların karadan su taşıtına geçtiği yerim. Neyim?",
+      "answer": "İskele"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Direğimdeki kumaş rüzgârı yakalayınca denizde ilerleyebilirim. Neyim?",
+      "answer": "Yelkenli"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Teknenin direğinde açılır, rüzgârın gücünü harekete çeviririm. Neyim?",
+      "answer": "Yelken"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bir yerden başka yere gitmek isteyenler üstümden geçer. Neyim?",
+      "answer": "Yol"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Birden fazla yolun buluştuğu yerde hangi yöne gidileceği seçilir. Neyim?",
+      "answer": "Kavşak"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Bir nehrin ya da vadinin iki yanını üstümden geçilecek biçimde birleştiririm. Neyim?",
+      "answer": "Köprü"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Dağın içinden ya da yerin altından geçerek iki noktayı birbirine bağlarım. Neyim?",
+      "answer": "Tünel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Araç yolunun yanında uzanır, yayaların yürüdüğü alan olurum. Neyim?",
+      "answer": "Kaldırım"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yoldaki çizgilerim insanların karşıya geçeceği yeri gösterir. Neyim?",
+      "answer": "Yaya geçidi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kırmızıda durdurur, yeşilde geçişe izin verir, sarıda uyarırım. Neyim?",
+      "answer": "Trafik ışığı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yol kenarında şekil ve işaretlerimle sürücülere bilgi veririm. Neyim?",
+      "answer": "Trafik levhası"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yolculuk öncesi kıyafetlerle doldurulur, tekerleklerimle çekilebilirim. Neyim?",
+      "answer": "Valiz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İki askımla omuzlara yerleşir, gezerken eşyalarını taşırım. Neyim?",
+      "answer": "Sırt çantası"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Doğada kurulur, kumaş duvarlarım altında geceyi geçirirsin. Neyim?",
+      "answer": "Kamp çadırı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kamp yaparken içine girer, fermuarını kapatıp sıcak kalırsın. Neyim?",
+      "answer": "Uyku tulumu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Karanlıkta elimde taşınır, önüme dar bir ışık huzmesi gönderirim. Neyim?",
+      "answer": "El feneri"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yürüyüşe çıkarken içime su doldurur, çantanda taşırsın. Neyim?",
+      "answer": "Matara"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İki gözünle içimden baktığında uzaktaki kuşları daha yakın görürsün. Neyim?",
+      "answer": "Dürbün"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Sapımdan tutulur, başımla çiviyi tahtaya yerleştirmeye yardım ederim. Neyim?",
+      "answer": "Çekiç"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük metal gövdem tahtaya çakılır, parçaları tuttururum. Neyim?",
+      "answer": "Çivi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Döndükçe yüzeyin içine ilerler, iki parçayı birbirine bağlarım. Neyim?",
+      "answer": "Vida"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ucum vidanın başına oturur, döndürülünce onu sıkıp gevşetirim. Neyim?",
+      "answer": "Tornavida"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "İki sapım sıkılınca ağzım kapanır, küçük parçaları kavrarım. Neyim?",
+      "answer": "Pense"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kutumdan uzayan işaretli şeridimle uzunluk ölçersin. Neyim?",
+      "answer": "Şerit metre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İki kefeyi dengeleyerek bir nesnenin kütlesini karşılaştırabilirim. Neyim?",
+      "answer": "Terazi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İnce gövdemin küçük deliğinden ip geçer, kumaşları birbirine dikerim. Neyim?",
+      "answer": "Dikiş iğnesi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Makaraya sarılır, iğnenin ardından kumaşın içinden geçerim. Neyim?",
+      "answer": "İplik"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Üzerime uzun ip sarılır, gerektiğinde döndükçe çözülürüm. Neyim?",
+      "answer": "Makara"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Gömleğin önündeki ilikten geçer, iki kumaş kenarını bir arada tutarım. Neyim?",
+      "answer": "Düğme"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Küçük dişlerim sürgü ilerledikçe birbirine kenetlenir. Neyim?",
+      "answer": "Fermuar"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İpliklerden dokunur, kesilip dikilince kıyafete dönüşebilirim. Neyim?",
+      "answer": "Kumaş"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İğnem hızlıca inip çıkar, kumaş parçalarını düzenli dikişlerle birleştiririm. Neyim?",
+      "answer": "Dikiş makinesi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "orta",
+      "question": "İki uzun çubukla ilmekleri sırayla geçirir, yünden giysi oluşturursun. Neyim?",
+      "answer": "Örgü şişi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Yumuşak liflerim ipliğe dönüşür, örülünce sıcak tutan giysiler olurum. Neyim?",
+      "answer": "Yün"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Soğuk havada boynuna dolanır, rüzgâra karşı sıcak tutarım. Neyim?",
+      "answer": "Atkı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kışın başına geçirilir, kulaklarına kadar inebilirim. Neyim?",
+      "answer": "Bere"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Soğukta her parmağına ayrı yer açar, ellerini sıcak tutarım. Neyim?",
+      "answer": "Eldiven"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ayaklarını içine alır, dışarıda yürürken onları korurum. Neyim?",
+      "answer": "Ayakkabı"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ayakkabının deliklerinden geçer, düğümlenince sıkı durmasını sağlarım. Neyim?",
+      "answer": "Bağcık"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Belinin çevresine dolanır, tokamla pantolonunu yerinde tutarım. Neyim?",
+      "answer": "Kemer"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Kartlarını ve paranı küçük ceplerimde saklarım. Neyim?",
+      "answer": "Cüzdan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "İki camımın ardından bakarsın; gözlerinin daha net görmesine yardım edebilirim. Neyim?",
+      "answer": "Gözlük"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Başının üstüne oturur, siperimle yüzünü güneşten gölgeleyebilirim. Neyim?",
+      "answer": "Şapka"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Islanmaman için giyilir, suyu dış yüzeyimden kaydırırım. Neyim?",
+      "answer": "Yağmurluk"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Serin havalarda fermuarım kapanır, bedenini sıcak tutarım. Neyim?",
+      "answer": "Mont"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Türkçe",
+      "locale": "tr-TR",
+      "difficulty": "kolay",
+      "question": "Ayakkabının içinde ayağını sarar, yumuşak bir katman oluştururum. Neyim?",
+      "answer": "Çorap"
+    }
+  ],
   "kelime_ustasi": [
     {
       "game_type": "kelime_ustasi",
