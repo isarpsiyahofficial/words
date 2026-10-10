@@ -36976,7 +36976,7 @@
       "forbidden_words": [
         "kesmek",
         "kâğıt",
-        "iki"
+        "sap"
       ]
     },
     {
@@ -38417,9 +38417,9 @@
       "sub_category": "Genel",
       "word": "Fasulye",
       "forbidden_words": [
-        "bakliyat",
-        "yemek",
-        "tane"
+        "kuru",
+        "taze",
+        "tencere"
       ]
     },
     {
@@ -38885,9 +38885,9 @@
       "sub_category": "Genel",
       "word": "Ahududu",
       "forbidden_words": [
-        "kırmızı",
-        "küçük",
-        "meyve"
+        "böğürtlen",
+        "orman",
+        "reçel"
       ]
     },
     {
@@ -39171,9 +39171,9 @@
       "sub_category": "Genel",
       "word": "Fok",
       "forbidden_words": [
-        "deniz",
-        "yüzmek",
-        "memeli"
+        "bıyık",
+        "yüzgeç",
+        "buz"
       ]
     },
     {
@@ -40482,11 +40482,11 @@
       "locale": "tr-TR",
       "main_category": "Teknoloji",
       "sub_category": "Cihaz",
-      "word": "Şarj aleti",
+      "word": "Dijital fotoğraf çerçevesi",
       "forbidden_words": [
-        "pil",
-        "elektrik",
-        "telefon"
+        "ekran",
+        "anı",
+        "masa"
       ]
     },
     {
@@ -41249,11 +41249,11 @@
       "locale": "tr-TR",
       "main_category": "Teknoloji",
       "sub_category": "Cihaz",
-      "word": "Powerbank",
+      "word": "Akıllı termostat",
       "forbidden_words": [
-        "pil",
-        "taşınabilir",
-        "şarj"
+        "ısıtma",
+        "sıcaklık",
+        "ev"
       ]
     },
     {
@@ -41265,8 +41265,8 @@
       "word": "Wi-Fi",
       "forbidden_words": [
         "kablosuz",
-        "internet",
-        "ağ"
+        "modem",
+        "sinyal"
       ]
     },
     {
@@ -41326,12 +41326,12 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Mekânlar",
-      "sub_category": "Şehir",
-      "word": "Pazar yeri",
+      "sub_category": "Ticaret",
+      "word": "Toptancı hali",
       "forbidden_words": [
-        "tezgâh",
-        "alışveriş",
-        "satıcı"
+        "kasalar",
+        "manav",
+        "ürün"
       ]
     },
     {
@@ -42262,7 +42262,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Aksesuar",
+      "sub_category": "İşlem",
       "word": "Ses kaydı",
       "forbidden_words": [
         "mikrofon",
@@ -42301,7 +42301,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Aksesuar",
+      "sub_category": "İnternet",
       "word": "Video konferans",
       "forbidden_words": [
         "uzaktan",
@@ -42483,12 +42483,12 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Mutfak",
-      "sub_category": "Hazırlık",
-      "word": "Yumurta çırpıcı",
+      "sub_category": "Araçlar",
+      "word": "Yumurta ayırıcı",
       "forbidden_words": [
-        "karıştırmak",
-        "mutfak",
-        "tel"
+        "sarı",
+        "beyaz",
+        "mutfak"
       ]
     },
     {
@@ -44016,8 +44016,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Eğitim",
-      "sub_category": "Sınıf",
+      "main_category": "Ev",
+      "sub_category": "Aydınlatma",
       "word": "Okuma lambası",
       "forbidden_words": [
         "ışık",
@@ -44068,8 +44068,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Eğitim",
-      "sub_category": "Sınıf",
+      "main_category": "Ev",
+      "sub_category": "Mobilya",
       "word": "Çalışma masası",
       "forbidden_words": [
         "ders",
@@ -44082,7 +44082,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Eğitim",
-      "sub_category": "Sınıf",
+      "sub_category": "Okul",
       "word": "Kütüphane kartı",
       "forbidden_words": [
         "kitap",
@@ -44107,8 +44107,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Eğitim",
-      "sub_category": "Sınıf",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
       "word": "Çizim defteri",
       "forbidden_words": [
         "resim",
@@ -44120,8 +44120,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Eğitim",
-      "sub_category": "Sınıf",
+      "main_category": "Kırtasiye",
+      "sub_category": "Genel",
       "word": "Not defteri",
       "forbidden_words": [
         "yazmak",
@@ -44212,12 +44212,12 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Günlük",
-      "word": "Yolcu peronu",
+      "sub_category": "Altyapı",
+      "word": "Yürüyen merdiven",
       "forbidden_words": [
-        "istasyon",
-        "beklemek",
-        "tren"
+        "basamak",
+        "hareket",
+        "alışveriş merkezi"
       ]
     },
     {
@@ -44563,12 +44563,12 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Mutfak",
-      "sub_category": "Hazırlık",
-      "word": "Mutfak maşası",
+      "sub_category": "Araçlar",
+      "word": "Makarna makinesi",
       "forbidden_words": [
-        "tutmak",
-        "servis",
-        "metal"
+        "hamur",
+        "merdane",
+        "şerit"
       ]
     },
     {
@@ -44614,13 +44614,13 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Mutfak",
-      "sub_category": "Saklama",
-      "word": "Ekmek kutusu",
+      "main_category": "Ev",
+      "sub_category": "Mutfak",
+      "word": "Baharat rafı",
       "forbidden_words": [
-        "somun",
-        "tezgâh",
-        "saklamak"
+        "kavanoz",
+        "mutfak",
+        "düzen"
       ]
     },
     {
@@ -44731,13 +44731,13 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Ofis",
-      "sub_category": "Kırtasiye",
-      "word": "Mektup zarfı",
+      "main_category": "Kırtasiye",
+      "sub_category": "Ofis",
+      "word": "Adres etiketi",
       "forbidden_words": [
         "posta",
-        "adres",
-        "kâğıt"
+        "paket",
+        "yapıştırmak"
       ]
     },
     {
@@ -44758,7 +44758,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Bilgisayar",
+      "sub_category": "Aksesuar",
       "word": "Kamera flaşı",
       "forbidden_words": [
         "fotoğraf",
@@ -44771,7 +44771,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Bilgisayar",
+      "sub_category": "Ekran",
       "word": "Ekran büyüteci",
       "forbidden_words": [
         "yakınlaştırma",
@@ -44784,7 +44784,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Bilgisayar",
+      "sub_category": "Aksesuar",
       "word": "Kablo bağı",
       "forbidden_words": [
         "toplamak",
@@ -44836,7 +44836,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Telefon",
+      "sub_category": "Aksesuar",
       "word": "Kablo dönüştürücü",
       "forbidden_words": [
         "bağlantı",
@@ -45148,7 +45148,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Eğitim",
-      "sub_category": "Araçlar",
+      "sub_category": "Okul",
       "word": "Öğrenci belgesi",
       "forbidden_words": [
         "eğitim",
@@ -45161,7 +45161,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Eğitim",
-      "sub_category": "Araçlar",
+      "sub_category": "Sınıf",
       "word": "Tahta silgisi",
       "forbidden_words": [
         "yazı",
@@ -45344,11 +45344,11 @@
       "locale": "tr-TR",
       "main_category": "Meslekler",
       "sub_category": "Hizmet",
-      "word": "Kargo görevlisi",
+      "word": "Depo görevlisi",
       "forbidden_words": [
-        "paket",
-        "teslimat",
-        "adres"
+        "raf",
+        "stok",
+        "paket"
       ]
     },
     {
@@ -45864,10 +45864,10 @@
       "locale": "tr-TR",
       "main_category": "Teknoloji",
       "sub_category": "Donanım",
-      "word": "Taşınabilir disk",
+      "word": "Ethernet adaptörü",
       "forbidden_words": [
-        "depolama",
-        "dosya",
+        "ağ",
+        "bağlantı",
         "bilgisayar"
       ]
     },
@@ -46516,9 +46516,9 @@
       "sub_category": "Sebze",
       "word": "Pazı",
       "forbidden_words": [
-        "yeşil",
+        "sarma",
         "yaprak",
-        "sebze"
+        "zeytinyağı"
       ]
     },
     {
@@ -46802,9 +46802,9 @@
       "sub_category": "Bahçe",
       "word": "Tohum ekimi",
       "forbidden_words": [
-        "toprak",
-        "bitki",
-        "bahçe"
+        "çimlenme",
+        "bahar",
+        "toprak"
       ]
     },
     {
@@ -48440,7 +48440,7 @@
       "sub_category": "Mimari",
       "word": "Kapı tokmağı",
       "forbidden_words": [
-        "vurmak",
+        "tıklatmak",
         "giriş",
         "metal"
       ]
@@ -48762,7 +48762,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Suluboya",
       "forbidden_words": [
         "fırça",
@@ -48775,7 +48775,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Pastel boya",
       "forbidden_words": [
         "renk",
@@ -48788,7 +48788,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Yağlı boya",
       "forbidden_words": [
         "tuval",
@@ -48801,7 +48801,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Guaj boya",
       "forbidden_words": [
         "opak",
@@ -48814,7 +48814,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Karakalem",
       "forbidden_words": [
         "çizim",
@@ -48827,7 +48827,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Heykel",
       "forbidden_words": [
         "yontmak",
@@ -48840,7 +48840,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Mozaik",
       "forbidden_words": [
         "parça",
@@ -48853,7 +48853,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Kolaj",
       "forbidden_words": [
         "kesmek",
@@ -48866,7 +48866,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Gravür",
       "forbidden_words": [
         "baskı",
@@ -48879,7 +48879,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Ebru",
       "forbidden_words": [
         "su yüzeyi",
@@ -48892,7 +48892,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "El Sanatları",
       "word": "Çömlek",
       "forbidden_words": [
         "kil",
@@ -48905,7 +48905,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "El Sanatları",
       "word": "Oymacılık",
       "forbidden_words": [
         "ahşap",
@@ -48918,7 +48918,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "El Sanatları",
       "word": "Ahşap boyama",
       "forbidden_words": [
         "fırça",
@@ -48931,7 +48931,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "El Sanatları",
       "word": "Cam üfleme",
       "forbidden_words": [
         "sıcak",
@@ -48943,7 +48943,7 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
+      "main_category": "Hobi",
       "sub_category": "Etkinlik",
       "word": "Teraryum",
       "forbidden_words": [
@@ -48956,8 +48956,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Bahçe",
+      "sub_category": "Bitki",
       "word": "Bonsai",
       "forbidden_words": [
         "ağaç",
@@ -48969,7 +48969,7 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
+      "main_category": "Hobi",
       "sub_category": "Etkinlik",
       "word": "Akvaryum",
       "forbidden_words": [
@@ -48982,7 +48982,7 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
+      "main_category": "Hobi",
       "sub_category": "Etkinlik",
       "word": "Uçurtma",
       "forbidden_words": [
@@ -48995,8 +48995,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Spor",
+      "sub_category": "Ekipman",
       "word": "Frizbi",
       "forbidden_words": [
         "disk",
@@ -49008,7 +49008,7 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
+      "main_category": "Hobi",
       "sub_category": "Etkinlik",
       "word": "Satranç",
       "forbidden_words": [
@@ -49021,7 +49021,7 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
+      "main_category": "Hobi",
       "sub_category": "Etkinlik",
       "word": "Dama",
       "forbidden_words": [
@@ -49034,7 +49034,7 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
+      "main_category": "Hobi",
       "sub_category": "Etkinlik",
       "word": "Domino",
       "forbidden_words": [
@@ -49047,8 +49047,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Hobiler",
+      "sub_category": "Bulmaca",
       "word": "Tangram",
       "forbidden_words": [
         "şekil",
@@ -49060,8 +49060,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Hobiler",
+      "sub_category": "Bulmaca",
       "word": "Sudoku",
       "forbidden_words": [
         "rakam",
@@ -49073,8 +49073,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Hobiler",
+      "sub_category": "Bulmaca",
       "word": "Labirent",
       "forbidden_words": [
         "yol",
@@ -49087,7 +49087,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Karikatür",
       "forbidden_words": [
         "çizim",
@@ -49100,7 +49100,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "sub_category": "Çizim ve Baskı",
       "word": "Çizgi roman",
       "forbidden_words": [
         "kare",
@@ -49112,8 +49112,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Eğitim",
+      "sub_category": "Dil ve Anlatım",
       "word": "Roman",
       "forbidden_words": [
         "kurgu",
@@ -49125,8 +49125,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Eğitim",
+      "sub_category": "Dil ve Anlatım",
       "word": "Öykü",
       "forbidden_words": [
         "kısa",
@@ -49138,8 +49138,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Eğitim",
+      "sub_category": "Dil ve Anlatım",
       "word": "Masal",
       "forbidden_words": [
         "hayal",
@@ -49151,8 +49151,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Eğitim",
+      "sub_category": "Dil ve Anlatım",
       "word": "Şiir",
       "forbidden_words": [
         "dize",
@@ -49164,8 +49164,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Eğitim",
+      "sub_category": "Dil ve Anlatım",
       "word": "Deneme",
       "forbidden_words": [
         "düşünce",
@@ -49177,8 +49177,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Eğitim",
+      "sub_category": "Dil",
       "word": "Ansiklopedi",
       "forbidden_words": [
         "bilgi",
@@ -49190,8 +49190,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Eğitim",
+      "sub_category": "Okul",
       "word": "Atlas",
       "forbidden_words": [
         "harita",
@@ -49203,8 +49203,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Eğitim",
+      "sub_category": "Okul",
       "word": "Dünya küresi",
       "forbidden_words": [
         "yuvarlak",
@@ -49216,8 +49216,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Doğa",
+      "sub_category": "Gözlem",
       "word": "Pusula",
       "forbidden_words": [
         "yön",
@@ -49229,8 +49229,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Doğa",
+      "sub_category": "Gözlem",
       "word": "Dürbün",
       "forbidden_words": [
         "uzak",
@@ -49242,8 +49242,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Bilim",
+      "sub_category": "Fizik",
       "word": "Teleskop",
       "forbidden_words": [
         "gökyüzü",
@@ -49255,8 +49255,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Bilim",
+      "sub_category": "Biyoloji",
       "word": "Mikroskop",
       "forbidden_words": [
         "hücre",
@@ -49268,8 +49268,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Bilim",
+      "sub_category": "Fizik",
       "word": "Prizma",
       "forbidden_words": [
         "ışık",
@@ -49281,8 +49281,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Bilim",
+      "sub_category": "Kimya",
       "word": "Deney tüpü",
       "forbidden_words": [
         "laboratuvar",
@@ -49294,8 +49294,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Bilim",
+      "sub_category": "Kimya",
       "word": "Beher",
       "forbidden_words": [
         "ölçmek",
@@ -49307,8 +49307,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "Etkinlik",
+      "main_category": "Bilim",
+      "sub_category": "Biyoloji",
       "word": "Petri kabı",
       "forbidden_words": [
         "laboratuvar",
@@ -50104,9 +50104,9 @@
       "sub_category": "Kültür",
       "word": "Tenis kortu",
       "forbidden_words": [
-        "raket",
-        "file",
-        "top"
+        "zemin",
+        "çizgi",
+        "açık hava"
       ]
     },
     {
@@ -50205,7 +50205,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Yolculuk",
+      "sub_category": "Altyapı",
       "word": "Kaldırım",
       "forbidden_words": [
         "yaya",
@@ -50218,7 +50218,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Yolculuk",
+      "sub_category": "Altyapı",
       "word": "Refüj",
       "forbidden_words": [
         "yol",
@@ -50231,7 +50231,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Yolculuk",
+      "sub_category": "Altyapı",
       "word": "Viraj",
       "forbidden_words": [
         "dönemeç",
@@ -50244,7 +50244,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Yolculuk",
+      "sub_category": "Altyapı",
       "word": "Rampa",
       "forbidden_words": [
         "eğim",
@@ -50257,7 +50257,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Yolculuk",
+      "sub_category": "Altyapı",
       "word": "Tünel",
       "forbidden_words": [
         "yer altı",
@@ -50270,7 +50270,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Yolculuk",
+      "sub_category": "Altyapı",
       "word": "Köprü",
       "forbidden_words": [
         "nehir",
@@ -50283,7 +50283,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Yolculuk",
+      "sub_category": "Altyapı",
       "word": "Viyadük",
       "forbidden_words": [
         "yüksek",
@@ -50296,7 +50296,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Yolculuk",
+      "sub_category": "Altyapı",
       "word": "Gişe",
       "forbidden_words": [
         "ücret",
@@ -50309,7 +50309,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Yolculuk",
+      "sub_category": "Altyapı",
       "word": "Otoyol",
       "forbidden_words": [
         "hızlı",
@@ -51872,9 +51872,9 @@
       "sub_category": "Kara",
       "word": "Manda",
       "forbidden_words": [
-        "süt",
-        "boynuz",
-        "çiftlik"
+        "kaymak",
+        "çiftlik",
+        "iri"
       ]
     },
     {
@@ -52288,9 +52288,9 @@
       "sub_category": "Deniz",
       "word": "Çipura",
       "forbidden_words": [
-        "balık",
+        "ızgara",
         "deniz",
-        "ızgara"
+        "çiftlik"
       ]
     },
     {
@@ -53120,8 +53120,8 @@
       "sub_category": "Ev Yemekleri",
       "word": "Nohut yemeği",
       "forbidden_words": [
-        "bakliyat",
         "tencere",
+        "sulu",
         "pilav"
       ]
     },
@@ -53342,8 +53342,8 @@
       "word": "Biber dolması",
       "forbidden_words": [
         "pirinç",
-        "iç harç",
-        "sebze"
+        "zeytinyağı",
+        "tencere"
       ]
     },
     {
@@ -53510,9 +53510,9 @@
       "sub_category": "Kuruyemiş",
       "word": "Kuru incir",
       "forbidden_words": [
-        "meyve",
-        "tatlı",
-        "çekirdek"
+        "atıştırmalık",
+        "lif",
+        "kış"
       ]
     },
     {
@@ -53562,9 +53562,9 @@
       "sub_category": "Kuruyemiş",
       "word": "Yer fıstığı",
       "forbidden_words": [
+        "ezme",
         "kabuk",
-        "kuruyemiş",
-        "ezme"
+        "baklagil"
       ]
     },
     {
@@ -54862,9 +54862,9 @@
       "sub_category": "Mobilya",
       "word": "Kanepe",
       "forbidden_words": [
-        "oturmak",
-        "salon",
-        "minder"
+        "uzanmak",
+        "üçlü",
+        "oturma odası"
       ]
     },
     {
@@ -55239,9 +55239,9 @@
       "sub_category": "Tesisat",
       "word": "Elektrik sayacı",
       "forbidden_words": [
+        "kilovatsaat",
         "fatura",
-        "tüketim",
-        "ölçmek"
+        "tüketim"
       ]
     },
     {
@@ -55353,7 +55353,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "İnternet",
+      "sub_category": "Bilgisayar",
       "word": "Antivirüs",
       "forbidden_words": [
         "yazılım",
@@ -55366,7 +55366,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "İnternet",
+      "sub_category": "İşlem",
       "word": "Şifreleme",
       "forbidden_words": [
         "veri",
@@ -55405,7 +55405,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "İnternet",
+      "sub_category": "Donanım",
       "word": "Parmak izi okuyucu",
       "forbidden_words": [
         "kimlik",
@@ -55418,7 +55418,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "İnternet",
+      "sub_category": "İşlem",
       "word": "Yüz tanıma",
       "forbidden_words": [
         "kamera",
@@ -55431,7 +55431,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "İnternet",
+      "sub_category": "İşlem",
       "word": "Ekran kilidi",
       "forbidden_words": [
         "telefon",
@@ -55509,7 +55509,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "İnternet",
+      "sub_category": "İşlem",
       "word": "Dosya sıkıştırma",
       "forbidden_words": [
         "küçültmek",
@@ -55522,7 +55522,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "İnternet",
+      "sub_category": "Bilgisayar",
       "word": "Arşiv dosyası",
       "forbidden_words": [
         "sıkıştırma",
@@ -55574,7 +55574,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "Donanım",
       "word": "Dokunmatik yüzey",
       "forbidden_words": [
         "dizüstü",
@@ -55600,7 +55600,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "Donanım",
       "word": "Fare tekerleği",
       "forbidden_words": [
         "kaydırmak",
@@ -55613,7 +55613,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "İşlem",
       "word": "Klavye kısayolu",
       "forbidden_words": [
         "tuş",
@@ -55626,7 +55626,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "Donanım",
       "word": "Fonksiyon tuşu",
       "forbidden_words": [
         "klavye",
@@ -55704,7 +55704,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "İşlem",
       "word": "Katman",
       "forbidden_words": [
         "tasarım",
@@ -55717,7 +55717,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "İşlem",
       "word": "Vektör",
       "forbidden_words": [
         "çizim",
@@ -55729,8 +55729,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "main_category": "Sanat",
+      "sub_category": "Çizim ve Baskı",
       "word": "Dijital çizim",
       "forbidden_words": [
         "tablet",
@@ -55743,7 +55743,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "Donanım",
       "word": "Grafik tablet",
       "forbidden_words": [
         "çizim",
@@ -55873,7 +55873,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "Bilgisayar",
       "word": "Dosya uzantısı",
       "forbidden_words": [
         "format",
@@ -55886,7 +55886,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "Donanım",
       "word": "Depolama alanı",
       "forbidden_words": [
         "hafıza",
@@ -55899,7 +55899,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "Bilgisayar",
       "word": "İşletim sistemi",
       "forbidden_words": [
         "bilgisayar",
@@ -55912,12 +55912,12 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "İnternet",
       "word": "Uygulama mağazası",
       "forbidden_words": [
         "indirmek",
-        "telefon",
-        "yazılım"
+        "liste",
+        "puan"
       ]
     },
     {
@@ -55925,7 +55925,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "Genel",
       "word": "Sesli asistan",
       "forbidden_words": [
         "komut",
@@ -55938,7 +55938,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "Genel",
       "word": "Akıllı ev",
       "forbidden_words": [
         "otomasyon",
@@ -55951,7 +55951,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "Donanım",
       "word": "Hareket sensörü",
       "forbidden_words": [
         "algılamak",
@@ -55964,7 +55964,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Teknoloji",
-      "sub_category": "Ekran",
+      "sub_category": "Donanım",
       "word": "GPS",
       "forbidden_words": [
         "uydu",
@@ -56266,9 +56266,9 @@
       "sub_category": "Tasarım ve Sanat",
       "word": "Parkeci",
       "forbidden_words": [
-        "zemin",
-        "ahşap",
-        "döşeme"
+        "usta",
+        "döşemek",
+        "zemin"
       ]
     },
     {
@@ -56396,9 +56396,9 @@
       "sub_category": "Tasarım ve Sanat",
       "word": "Sera çalışanı",
       "forbidden_words": [
-        "bitki",
-        "cam",
-        "yetiştirmek"
+        "bakım",
+        "işçi",
+        "ürün"
       ]
     },
     {
@@ -56487,9 +56487,9 @@
       "sub_category": "Şehir",
       "word": "Optik mağazası",
       "forbidden_words": [
-        "gözlük",
-        "cam",
-        "çerçeve"
+        "vitrin",
+        "çerçeve",
+        "reçete"
       ]
     },
     {
@@ -56526,9 +56526,9 @@
       "sub_category": "Şehir",
       "word": "Matbaa",
       "forbidden_words": [
-        "kâğıt",
-        "baskı",
-        "mürekkep"
+        "basımevi",
+        "kitap",
+        "çoğaltmak"
       ]
     },
     {
@@ -56656,9 +56656,9 @@
       "sub_category": "Şehir",
       "word": "Dondurmacı",
       "forbidden_words": [
+        "tezgâh",
         "külah",
-        "tatlı",
-        "soğuk"
+        "satıcı"
       ]
     },
     {
@@ -56773,9 +56773,9 @@
       "sub_category": "Şehir",
       "word": "Kayak merkezi",
       "forbidden_words": [
-        "kar",
-        "pist",
-        "kış"
+        "teleferik",
+        "otel",
+        "tatil"
       ]
     },
     {
@@ -57836,7 +57836,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Deniz ve Hava",
+      "sub_category": "Hava",
       "word": "Sıcak hava balonu",
       "forbidden_words": [
         "sepet",
@@ -57849,7 +57849,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Deniz ve Hava",
+      "sub_category": "Hava",
       "word": "Planör",
       "forbidden_words": [
         "motorsuz",
@@ -57862,7 +57862,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Deniz ve Hava",
+      "sub_category": "Hava",
       "word": "Zeplin",
       "forbidden_words": [
         "hava",
@@ -57874,8 +57874,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Ulaşım",
-      "sub_category": "Deniz ve Hava",
+      "main_category": "Teknoloji",
+      "sub_category": "Cihaz",
       "word": "Drone",
       "forbidden_words": [
         "uzaktan",
@@ -57887,8 +57887,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Ulaşım",
-      "sub_category": "Genel",
+      "main_category": "Bilim",
+      "sub_category": "Fizik",
       "word": "Uzay aracı",
       "forbidden_words": [
         "astronot",
@@ -57901,7 +57901,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Genel",
+      "sub_category": "Araç",
       "word": "Telesiyej",
       "forbidden_words": [
         "kayak",
@@ -58005,7 +58005,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Demiryolu",
+      "sub_category": "Yolculuk",
       "word": "Aktarma",
       "forbidden_words": [
         "hat",
@@ -58018,7 +58018,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Demiryolu",
+      "sub_category": "Yolculuk",
       "word": "Sefer",
       "forbidden_words": [
         "saat",
@@ -58031,7 +58031,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Demiryolu",
+      "sub_category": "Yolculuk",
       "word": "Güzergâh",
       "forbidden_words": [
         "rota",
@@ -58070,7 +58070,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Deniz ve Hava",
+      "sub_category": "Hava",
       "word": "Biniş kartı",
       "forbidden_words": [
         "uçak",
@@ -58421,7 +58421,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Otomobil",
+      "sub_category": "Altyapı",
       "word": "Parkmetre",
       "forbidden_words": [
         "ücret",
@@ -58434,7 +58434,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Otomobil",
+      "sub_category": "Altyapı",
       "word": "Trafik levhası",
       "forbidden_words": [
         "yol",
@@ -58447,7 +58447,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Otomobil",
+      "sub_category": "Yolculuk ve Trafik",
       "word": "Hız sınırı",
       "forbidden_words": [
         "trafik",
@@ -58749,9 +58749,9 @@
       "sub_category": "Çizim ve Baskı",
       "word": "Hat sanatı",
       "forbidden_words": [
-        "yazı",
-        "estetik",
-        "kalem"
+        "kamış kalem",
+        "mürekkep",
+        "levha"
       ]
     },
     {
@@ -60462,7 +60462,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Odak noktası",
       "forbidden_words": [
         "mercek",
@@ -60475,7 +60475,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Işık",
       "forbidden_words": [
         "aydınlık",
@@ -60488,7 +60488,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Gölge",
       "forbidden_words": [
         "karanlık",
@@ -60501,7 +60501,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Güneş ışığı",
       "forbidden_words": [
         "aydınlık",
@@ -60514,7 +60514,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Yalıtkan",
       "forbidden_words": [
         "elektrik",
@@ -60527,7 +60527,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Pil",
       "forbidden_words": [
         "enerji",
@@ -60540,7 +60540,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Ampul",
       "forbidden_words": [
         "aydınlatmak",
@@ -60553,7 +60553,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Diyot",
       "forbidden_words": [
         "akım",
@@ -60566,7 +60566,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Güneş sistemi",
       "forbidden_words": [
         "gezegen",
@@ -60579,7 +60579,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Uydu",
       "forbidden_words": [
         "yörünge",
@@ -60592,7 +60592,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Yörünge",
       "forbidden_words": [
         "dönmek",
@@ -60605,7 +60605,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Yer ekseni",
       "forbidden_words": [
         "dönüş",
@@ -60618,7 +60618,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Mevsim",
       "forbidden_words": [
         "ilkbahar",
@@ -60631,7 +60631,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Güneş saati",
       "forbidden_words": [
         "gölge",
@@ -60644,7 +60644,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Takımyıldız",
       "forbidden_words": [
         "gökyüzü",
@@ -60657,7 +60657,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Kuyruklu yıldız",
       "forbidden_words": [
         "uzay",
@@ -60670,7 +60670,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Göktaşı",
       "forbidden_words": [
         "atmosfer",
@@ -60682,8 +60682,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "main_category": "Doğa",
+      "sub_category": "Coğrafya",
       "word": "Kayaç",
       "forbidden_words": [
         "mineral",
@@ -60695,8 +60695,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "main_category": "Doğa",
+      "sub_category": "Coğrafya",
       "word": "Magma",
       "forbidden_words": [
         "yer altı",
@@ -60708,8 +60708,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "main_category": "Doğa",
+      "sub_category": "Coğrafya",
       "word": "Lav",
       "forbidden_words": [
         "volkan",
@@ -60721,8 +60721,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "main_category": "Doğa",
+      "sub_category": "Coğrafya",
       "word": "Erozyon",
       "forbidden_words": [
         "toprak",
@@ -60735,7 +60735,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Biyoloji",
       "word": "Biyolojik çeşitlilik",
       "forbidden_words": [
         "canlı",
@@ -60748,7 +60748,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Biyoloji",
       "word": "Çimlenme",
       "forbidden_words": [
         "tohum",
@@ -60761,7 +60761,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Biyoloji",
       "word": "Kök",
       "forbidden_words": [
         "toprak",
@@ -60774,7 +60774,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Biyoloji",
       "word": "Gövde",
       "forbidden_words": [
         "ağaç",
@@ -60787,7 +60787,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Fotosel",
       "forbidden_words": [
         "ışık",
@@ -60800,7 +60800,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Elektron",
       "forbidden_words": [
         "atom",
@@ -60813,7 +60813,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Proton",
       "forbidden_words": [
         "çekirdek",
@@ -60826,7 +60826,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "sub_category": "Fizik",
       "word": "Nötron",
       "forbidden_words": [
         "çekirdek",
@@ -60838,8 +60838,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Bilim",
-      "sub_category": "Araştırma ve Fizik",
+      "main_category": "Teknoloji",
+      "sub_category": "İnternet",
       "word": "İletişim uydusu",
       "forbidden_words": [
         "sinyal",
