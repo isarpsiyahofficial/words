@@ -33920,5 +33920,83 @@
       "weeding",
       "community"
     ]
+  },
+  {
+    "game_type": "tabu",
+    "language": "English",
+    "locale": "en-GB",
+    "main_category": "Home and Everyday Life",
+    "sub_category": "Bathroom Fixtures",
+    "word": "Towel rail",
+    "forbidden_words": [
+      "bathroom",
+      "hang",
+      "dry"
+    ]
+  },
+  {
+    "game_type": "tabu",
+    "language": "English",
+    "locale": "en-GB",
+    "main_category": "Shops and High Streets",
+    "sub_category": "Shopping Essentials",
+    "word": "Trolley token",
+    "forbidden_words": [
+      "supermarket",
+      "coin",
+      "unlock"
+    ]
+  },
+  {
+    "game_type": "tabu",
+    "language": "English",
+    "locale": "en-GB",
+    "main_category": "Hobbies and Crafts",
+    "sub_category": "Knitting Accessories",
+    "word": "Knitting row counter",
+    "forbidden_words": [
+      "stitches",
+      "pattern",
+      "clicker"
+    ]
+  },
+  {
+    "game_type": "tabu",
+    "language": "English",
+    "locale": "en-GB",
+    "main_category": "Home and Everyday Life",
+    "sub_category": "Storage and Organisation",
+    "word": "Drawer liner",
+    "forbidden_words": [
+      "furniture",
+      "paper",
+      "protect"
+    ]
+  },
+  {
+    "game_type": "tabu",
+    "language": "English",
+    "locale": "en-GB",
+    "main_category": "Home and Everyday Life",
+    "sub_category": "Desk and Technology",
+    "word": "Cable clip",
+    "forbidden_words": [
+      "wires",
+      "tidy",
+      "attach"
+    ]
+  },
+  {
+    "game_type": "tabu",
+    "language": "English",
+    "locale": "en-GB",
+    "main_category": "Food and Drink",
+    "sub_category": "Packed Lunches",
+    "word": "Reusable sandwich wrap",
+    "forbidden_words": [
+      "lunch",
+      "fabric",
+      "food"
+    ]
   }
 ]
