@@ -13563,13 +13563,13 @@
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Wohnen",
-      "sub_category": "Textilien",
-      "word": "Sitzkissen",
+      "main_category": "Alltag",
+      "sub_category": "Besucher",
+      "word": "Gästebuch",
       "forbidden_words": [
-        "Sofa",
-        "weich",
-        "Bezug"
+        "Eintrag",
+        "Besucher",
+        "Unterschrift"
       ]
     },
     {
@@ -13577,12 +13577,12 @@
       "language": "Deutsch",
       "locale": "de-DE",
       "main_category": "Garten",
-      "sub_category": "Pflanzgefäße",
-      "word": "Blumenkübel",
+      "sub_category": "Gestaltung",
+      "word": "Flechtzaun",
       "forbidden_words": [
-        "Terrasse",
-        "Erde",
-        "bepflanzen"
+        "Weidenruten",
+        "Garten",
+        "Sichtschutz"
       ]
     },
     {
@@ -13615,39 +13615,39 @@
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Küche",
-      "sub_category": "Zubereitung",
-      "word": "Zitruspresse",
+      "main_category": "Kultur",
+      "sub_category": "Einrichtungen",
+      "word": "Stadtarchiv",
       "forbidden_words": [
-        "Saft",
-        "auspressen",
-        "Frucht"
+        "Dokumente",
+        "aufbewahren",
+        "Geschichte"
       ]
     },
     {
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Küche",
-      "sub_category": "Utensilien",
-      "word": "Küchensieb",
+      "main_category": "Alltag",
+      "sub_category": "Nachbarschaft",
+      "word": "Reparaturcafé",
       "forbidden_words": [
-        "Nudeln",
-        "abgießen",
-        "Löcher"
+        "ehrenamtlich",
+        "kaputte Geräte",
+        "gemeinsam"
       ]
     },
     {
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Küche",
-      "sub_category": "Garen",
-      "word": "Dampfgareinsatz",
+      "main_category": "Alltag",
+      "sub_category": "Sehhilfen",
+      "word": "Lesebrille",
       "forbidden_words": [
-        "Gemüse",
-        "Topf",
-        "schonend"
+        "Nahsicht",
+        "Gläser",
+        "Buch"
       ]
     },
     {
@@ -13667,13 +13667,13 @@
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Küche",
-      "sub_category": "Werkzeuge",
-      "word": "Küchenreibe",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Klangschale",
       "forbidden_words": [
-        "raspeln",
         "Metall",
-        "Gemüse"
+        "anschlagen",
+        "Schwingung"
       ]
     },
     {
@@ -13719,13 +13719,13 @@
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Speisen",
-      "sub_category": "Beilagen",
-      "word": "Knödel",
+      "main_category": "Alltag",
+      "sub_category": "Verpackungen",
+      "word": "Papiertüte",
       "forbidden_words": [
-        "rund",
-        "Teig",
-        "Beilage"
+        "Einkauf",
+        "tragen",
+        "Verpackung"
       ]
     },
     {
@@ -13746,12 +13746,12 @@
       "language": "Deutsch",
       "locale": "de-DE",
       "main_category": "Wohnen",
-      "sub_category": "Aufbewahrung",
-      "word": "Wandregal",
+      "sub_category": "Einrichtung",
+      "word": "Leseecke",
       "forbidden_words": [
+        "Sessel",
         "Bücher",
-        "Brett",
-        "befestigen"
+        "gemütlich"
       ]
     },
     {
@@ -13771,13 +13771,13 @@
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Haushalt",
-      "sub_category": "Wäsche",
-      "word": "Wäschespinne",
+      "main_category": "Alltag",
+      "sub_category": "Einkaufen",
+      "word": "Einkaufszettel",
       "forbidden_words": [
-        "Garten",
-        "trocknen",
-        "Leinen"
+        "Liste",
+        "Supermarkt",
+        "notieren"
       ]
     },
     {
@@ -13814,7 +13814,7 @@
       "sub_category": "Nähen",
       "word": "Fingerhut",
       "forbidden_words": [
-        "Fingerkuppe",
+        "Nähen",
         "schützen",
         "Metall"
       ]
@@ -13863,12 +13863,12 @@
       "language": "Deutsch",
       "locale": "de-DE",
       "main_category": "Handwerk",
-      "sub_category": "Keramik",
-      "word": "Glasur",
+      "sub_category": "Drucktechnik",
+      "word": "Buchdruck",
       "forbidden_words": [
-        "Keramik",
-        "glänzend",
-        "Oberfläche"
+        "Druckfarbe",
+        "Lettern",
+        "Papier"
       ]
     },
     {
@@ -13876,25 +13876,25 @@
       "language": "Deutsch",
       "locale": "de-DE",
       "main_category": "Garten",
-      "sub_category": "Insektenschutz",
-      "word": "Bienenhotel",
+      "sub_category": "Gemeinschaft",
+      "word": "Pflanzentausch",
       "forbidden_words": [
-        "Insekten",
-        "Nistplätze",
-        "Garten"
+        "Setzlinge",
+        "Nachbarschaft",
+        "kostenlos"
       ]
     },
     {
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Garten",
-      "sub_category": "Werkzeuge",
-      "word": "Pflanzkelle",
+      "main_category": "Alltag",
+      "sub_category": "Verkehr",
+      "word": "Schülerlotse",
       "forbidden_words": [
-        "Beet",
-        "Erde",
-        "ausheben"
+        "Schulweg",
+        "Warnweste",
+        "Überqueren"
       ]
     },
     {
@@ -13940,13 +13940,26 @@
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Natur",
-      "sub_category": "Vögel",
-      "word": "Vogelfutterhaus",
+      "main_category": "Küche",
+      "sub_category": "Süßspeisen",
+      "word": "Apfelküchle",
       "forbidden_words": [
-        "Winter",
-        "Körner",
-        "Garten"
+        "Obstscheiben",
+        "Teigmantel",
+        "Pfanne"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Verkehr",
+      "sub_category": "Fahrradtechnik",
+      "word": "Fahrradkette",
+      "forbidden_words": [
+        "Pedale",
+        "Glieder",
+        "Antrieb"
       ]
     },
     {
@@ -13954,25 +13967,12 @@
       "language": "Deutsch",
       "locale": "de-DE",
       "main_category": "Natur",
-      "sub_category": "Vögel",
-      "word": "Nistkasten",
+      "sub_category": "Küstenlandschaft",
+      "word": "Gezeitenbecken",
       "forbidden_words": [
-        "Brüten",
-        "Holz",
-        "Vögel"
-      ]
-    },
-    {
-      "game_type": "tabu",
-      "language": "Deutsch",
-      "locale": "de-DE",
-      "main_category": "Natur",
-      "sub_category": "Wasserpflanzen",
-      "word": "Teichrose",
-      "forbidden_words": [
-        "Schwimmblätter",
-        "gelb",
-        "Blüte"
+        "Küste",
+        "Ebbe",
+        "Wasser"
       ]
     },
     {
@@ -13992,13 +13992,13 @@
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Geografie",
-      "sub_category": "Flüsse",
-      "word": "Mündungsdelta",
+      "main_category": "Freizeit",
+      "sub_category": "Winterwandern",
+      "word": "Schneeschuh",
       "forbidden_words": [
-        "Fluss",
-        "Meer",
-        "verzweigen"
+        "Winter",
+        "Wandern",
+        "breite Sohle"
       ]
     },
     {
@@ -14140,7 +14140,7 @@
       "word": "Landvermesser",
       "forbidden_words": [
         "Grundstück",
-        "Messgerät",
+        "Theodolit",
         "Grenzen"
       ]
     },
@@ -14148,13 +14148,13 @@
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Wissenschaft",
-      "sub_category": "Optik",
-      "word": "Lupenglas",
+      "main_category": "Garten",
+      "sub_category": "Wassernutzung",
+      "word": "Regenkette",
       "forbidden_words": [
-        "Vergrößerung",
-        "Hand",
-        "Linse"
+        "Dachrinne",
+        "Wasser",
+        "Glieder"
       ]
     },
     {
@@ -14291,13 +14291,13 @@
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Büro",
-      "sub_category": "Arbeitsplatz",
-      "word": "Schreibtischunterlage",
+      "main_category": "Natur",
+      "sub_category": "Gewässer",
+      "word": "Holzsteg",
       "forbidden_words": [
-        "Papier",
-        "Arbeitsplatz",
-        "Schutz"
+        "See",
+        "Bretter",
+        "Ufer"
       ]
     },
     {
@@ -14309,7 +14309,7 @@
       "word": "Buchbinderei",
       "forbidden_words": [
         "Seiten",
-        "Einband",
+        "Leim",
         "Handwerk"
       ]
     },
@@ -14356,13 +14356,1794 @@
       "game_type": "tabu",
       "language": "Deutsch",
       "locale": "de-DE",
-      "main_category": "Schule",
-      "sub_category": "Geometrie",
-      "word": "Zeichenzirkel",
+      "main_category": "Musik",
+      "sub_category": "Grundlagen",
+      "word": "Tonleiter",
       "forbidden_words": [
-        "Kreis",
-        "zeichnen",
-        "Geometrie"
+        "Töne",
+        "aufsteigend",
+        "üben"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Blockflöte",
+      "forbidden_words": [
+        "Holz",
+        "Grifflöcher",
+        "Schulunterricht"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Querflöte",
+      "forbidden_words": [
+        "seitlich",
+        "Silber",
+        "Orchester"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Klarinette",
+      "forbidden_words": [
+        "Rohrblatt",
+        "schwarz",
+        "Orchester"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Oboe",
+      "forbidden_words": [
+        "Doppelrohrblatt",
+        "Orchester",
+        "hoher Ton"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Fagott",
+      "forbidden_words": [
+        "tief",
+        "Holzblasinstrument",
+        "Rohrblatt"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Harfe",
+      "forbidden_words": [
+        "Saiten",
+        "zupfen",
+        "Rahmen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Zither",
+      "forbidden_words": [
+        "Saiten",
+        "Alpenraum",
+        "zupfen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Hackbrett",
+      "forbidden_words": [
+        "Saiten",
+        "Klöppel",
+        "Volksmusik"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Akkordeon",
+      "forbidden_words": [
+        "Balg",
+        "Tasten",
+        "Volksmusik"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Mundharmonika",
+      "forbidden_words": [
+        "Atem",
+        "Metallzungen",
+        "Tasche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Xylophon",
+      "forbidden_words": [
+        "Holzstäbe",
+        "Schlägel",
+        "Tonleiter"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Marimba",
+      "forbidden_words": [
+        "Resonanzröhren",
+        "Holzstäbe",
+        "Schlägel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Kalimba",
+      "forbidden_words": [
+        "Daumen",
+        "Metallzungen",
+        "Afrika"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Triangel",
+      "forbidden_words": [
+        "Metall",
+        "Dreieck",
+        "anschlagen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Glockenspiel",
+      "forbidden_words": [
+        "Metallplatten",
+        "Schlägel",
+        "helle Töne"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Cello",
+      "forbidden_words": [
+        "Bogen",
+        "tief",
+        "Saiten"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Kontrabass",
+      "forbidden_words": [
+        "groß",
+        "tief",
+        "Streichinstrument"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Bratsche",
+      "forbidden_words": [
+        "Streichinstrument",
+        "Altstimme",
+        "Bogen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Tuba",
+      "forbidden_words": [
+        "Blechblasinstrument",
+        "tiefer Ton",
+        "Ventile"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Posaune",
+      "forbidden_words": [
+        "Zug",
+        "Blechblasinstrument",
+        "Orchester"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Trompete",
+      "forbidden_words": [
+        "Ventile",
+        "Fanfare",
+        "Blech"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Tamburin",
+      "forbidden_words": [
+        "Schellen",
+        "Rhythmus",
+        "Rahmen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Rahmentrommel",
+      "forbidden_words": [
+        "Fell",
+        "Hände",
+        "Rhythmus"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Kastagnetten",
+      "forbidden_words": [
+        "Holz",
+        "klappern",
+        "Tanz"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Metronom",
+      "forbidden_words": [
+        "Tempo",
+        "Pendel",
+        "Ticken"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Stimmgabel",
+      "forbidden_words": [
+        "Tonhöhe",
+        "Metall",
+        "anschlagen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Kapodaster",
+      "forbidden_words": [
+        "Gitarrenhals",
+        "Klemme",
+        "Tonart"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Plektrum",
+      "forbidden_words": [
+        "zupfen",
+        "Kunststoff",
+        "Gitarre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Notenständer",
+      "forbidden_words": [
+        "Blatt",
+        "aufstellen",
+        "Musiker"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Taktstock",
+      "forbidden_words": [
+        "Dirigent",
+        "Tempo",
+        "Hand"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Dudelsack",
+      "forbidden_words": [
+        "Luftsack",
+        "Pfeifen",
+        "Schottland"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Panflöte",
+      "forbidden_words": [
+        "Röhren",
+        "Atem",
+        "Tonleiter"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Ukulele",
+      "forbidden_words": [
+        "klein",
+        "Saiten",
+        "Hawaii"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Mandoline",
+      "forbidden_words": [
+        "Zupfinstrument",
+        "oval",
+        "Saiten"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Cajón",
+      "forbidden_words": [
+        "Holzkiste",
+        "sitzen",
+        "trommeln"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Musik",
+      "sub_category": "Instrumente",
+      "word": "Okarina",
+      "forbidden_words": [
+        "Ton",
+        "Keramik",
+        "Blasen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Regenhose",
+      "forbidden_words": [
+        "wasserdicht",
+        "Beine",
+        "Outdoor"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Wintermantel",
+      "forbidden_words": [
+        "warm",
+        "lang",
+        "Kälte"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Strickjacke",
+      "forbidden_words": [
+        "Knöpfe",
+        "Wolle",
+        "überziehen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Fleecejacke",
+      "forbidden_words": [
+        "weich",
+        "Kunstfaser",
+        "Wärme"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Latzhose",
+      "forbidden_words": [
+        "Träger",
+        "Arbeitskleidung",
+        "Brustteil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Hosenträger",
+      "forbidden_words": [
+        "elastisch",
+        "Hosenbund",
+        "Schultern"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Gürtelschnalle",
+      "forbidden_words": [
+        "Metall",
+        "schließen",
+        "Taille"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Kapuzenpullover",
+      "forbidden_words": [
+        "Sport",
+        "Kordel",
+        "warm"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Kniestrümpfe",
+      "forbidden_words": [
+        "lang",
+        "Waden",
+        "Paar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Haargummi",
+      "forbidden_words": [
+        "Pferdeschwanz",
+        "elastisch",
+        "Frisur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Haarklammer",
+      "forbidden_words": [
+        "Frisur",
+        "befestigen",
+        "Kunststoff"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Haarnadel",
+      "forbidden_words": [
+        "Hochsteckfrisur",
+        "Metall",
+        "festhalten"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Turnbeutel",
+      "forbidden_words": [
+        "Kordelzug",
+        "Sport",
+        "Stoff"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Wollsocken",
+      "forbidden_words": [
+        "Fuß",
+        "warm",
+        "gestrickt"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Schlafanzug",
+      "forbidden_words": [
+        "Nacht",
+        "zweiteilig",
+        "bequem"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Bademantel",
+      "forbidden_words": [
+        "Frottee",
+        "Gürtel",
+        "Dusche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Sonnenbrille",
+      "forbidden_words": [
+        "UV-Schutz",
+        "Augen",
+        "Gläser"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Stofftasche",
+      "forbidden_words": [
+        "Henkel",
+        "Einkauf",
+        "wiederverwendbar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Weste",
+      "forbidden_words": [
+        "ärmellos",
+        "Oberkörper",
+        "überziehen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Kragen",
+      "forbidden_words": [
+        "Hals",
+        "Hemd",
+        "umklappen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Manschette",
+      "forbidden_words": [
+        "Ärmel",
+        "Knopf",
+        "Handgelenk"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Kleidung",
+      "sub_category": "Alltag",
+      "word": "Klettverschluss",
+      "forbidden_words": [
+        "Haken",
+        "Schlaufen",
+        "öffnen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Komet",
+      "forbidden_words": [
+        "Schweif",
+        "Eis",
+        "Sonne"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Asteroid",
+      "forbidden_words": [
+        "Gesteinsbrocken",
+        "Weltraum",
+        "Umlaufbahn"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Sternschnuppe",
+      "forbidden_words": [
+        "Wunsch",
+        "Nachthimmel",
+        "Lichtspur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Galaxie",
+      "forbidden_words": [
+        "Sterne",
+        "riesig",
+        "Spirale"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Sternhaufen",
+      "forbidden_words": [
+        "Gruppe",
+        "Nachthimmel",
+        "eng beieinander"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Sonnenfleck",
+      "forbidden_words": [
+        "dunkle Stelle",
+        "Oberfläche",
+        "Magnetismus"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Saturnring",
+      "forbidden_words": [
+        "Planet",
+        "Eisbrocken",
+        "Kreisbahn"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Erdachse",
+      "forbidden_words": [
+        "Neigung",
+        "Drehung",
+        "Pole"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Mondkrater",
+      "forbidden_words": [
+        "Vertiefung",
+        "Einschlag",
+        "Oberfläche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Sternennebel",
+      "forbidden_words": [
+        "Gaswolke",
+        "leuchten",
+        "Weltraum"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Exoplanet",
+      "forbidden_words": [
+        "ferner Stern",
+        "Umlaufbahn",
+        "entdecken"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Raumsonde",
+      "forbidden_words": [
+        "unbemannt",
+        "Forschung",
+        "All"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Weltraumteleskop",
+      "forbidden_words": [
+        "Satellit",
+        "Beobachtung",
+        "Umlaufbahn"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Sonnenwind",
+      "forbidden_words": [
+        "geladene Teilchen",
+        "Weltraum",
+        "Magnetfeld"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Lichtverschmutzung",
+      "forbidden_words": [
+        "Stadtbeleuchtung",
+        "Sterne",
+        "Nachthimmel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Astronomie",
+      "sub_category": "Himmelskörper",
+      "word": "Mondfinsternis",
+      "forbidden_words": [
+        "Erdschatten",
+        "Vollmond",
+        "verdunkeln"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Lärche",
+      "forbidden_words": [
+        "Nadeln",
+        "Herbst",
+        "gelb"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Ulme",
+      "forbidden_words": [
+        "Laubbaum",
+        "gezähnte Blätter",
+        "Rinde"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Linde",
+      "forbidden_words": [
+        "Duft",
+        "Blüten",
+        "Baum"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Esche",
+      "forbidden_words": [
+        "gefiederte Blätter",
+        "Holz",
+        "Baum"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Eibe",
+      "forbidden_words": [
+        "immergrün",
+        "rote Samenmäntel",
+        "Nadelbaum"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Fichte",
+      "forbidden_words": [
+        "Zapfen",
+        "Nadeln",
+        "Wald"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Kiefer",
+      "forbidden_words": [
+        "Nadeln",
+        "Harz",
+        "Baum"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Hainbuche",
+      "forbidden_words": [
+        "Hecke",
+        "Laubbaum",
+        "Blätter"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Robinie",
+      "forbidden_words": [
+        "weiße Blüten",
+        "Dornen",
+        "Baum"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Douglasie",
+      "forbidden_words": [
+        "Nadelbaum",
+        "Zapfen",
+        "Duft"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Holunder",
+      "forbidden_words": [
+        "Blütendolden",
+        "Beeren",
+        "Strauch"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Weißdorn",
+      "forbidden_words": [
+        "Hecke",
+        "weiße Blüten",
+        "Beeren"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Waldmeister",
+      "forbidden_words": [
+        "Duft",
+        "schattig",
+        "Kraut"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Bärentraube",
+      "forbidden_words": [
+        "immergrün",
+        "rote Beeren",
+        "Zwergstrauch"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Preiselbeere",
+      "forbidden_words": [
+        "rot",
+        "Wald",
+        "herb"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Moosbeere",
+      "forbidden_words": [
+        "sauer",
+        "Moor",
+        "rot"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Kümmel",
+      "forbidden_words": [
+        "Gewürz",
+        "Samen",
+        "Brot"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Koriander",
+      "forbidden_words": [
+        "Kraut",
+        "Blätter",
+        "Gewürz"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Dill",
+      "forbidden_words": [
+        "fein",
+        "Gurken",
+        "Kraut"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Thymian",
+      "forbidden_words": [
+        "Duft",
+        "kleine Blätter",
+        "mediterran"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Rosmarin",
+      "forbidden_words": [
+        "Nadeln",
+        "aromatisch",
+        "Küche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Salbei",
+      "forbidden_words": [
+        "graugrün",
+        "Blätter",
+        "Tee"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Oregano",
+      "forbidden_words": [
+        "Pizza",
+        "Kräuter",
+        "würzen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Pflanzen",
+      "word": "Kerbel",
+      "forbidden_words": [
+        "fein",
+        "Suppe",
+        "Kraut"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Fahrkartenentwerter",
+      "forbidden_words": [
+        "stempeln",
+        "Haltestelle",
+        "Ticket"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Schließfach",
+      "forbidden_words": [
+        "Schlüssel",
+        "Gepäck",
+        "Bahnhof"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Handlauf",
+      "forbidden_words": [
+        "Treppe",
+        "festhalten",
+        "Geländer"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Treppenabsatz",
+      "forbidden_words": [
+        "Stufen",
+        "Zwischenebene",
+        "Pause"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Bordsteinabsenkung",
+      "forbidden_words": [
+        "Rollstuhl",
+        "Übergang",
+        "Straße"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Leihfahrrad",
+      "forbidden_words": [
+        "Station",
+        "ausborgen",
+        "radeln"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Fahrradpumpe",
+      "forbidden_words": [
+        "Reifen",
+        "Luft",
+        "Ventil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Fahrradventil",
+      "forbidden_words": [
+        "Luft",
+        "Reifen",
+        "verschließen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Haltestellenmast",
+      "forbidden_words": [
+        "Schild",
+        "Bus",
+        "Fahrplan"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Klingelschild",
+      "forbidden_words": [
+        "Name",
+        "Eingang",
+        "Tür"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Hausnummer",
+      "forbidden_words": [
+        "Gebäude",
+        "Adresse",
+        "Ziffer"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Türdichtung",
+      "forbidden_words": [
+        "Zugluft",
+        "Gummi",
+        "Rahmen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Matratzenschoner",
+      "forbidden_words": [
+        "Bett",
+        "Schutz",
+        "Auflage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Spannbettlaken",
+      "forbidden_words": [
+        "Gummizug",
+        "Matratze",
+        "beziehen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Handtuchleiter",
+      "forbidden_words": [
+        "Bad",
+        "Stangen",
+        "trocknen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Duschablage",
+      "forbidden_words": [
+        "Shampoo",
+        "Ecke",
+        "Flaschen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Steckdosenabdeckung",
+      "forbidden_words": [
+        "Kinderschutz",
+        "Strom",
+        "Kunststoff"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Fliesenspiegel",
+      "forbidden_words": [
+        "Küche",
+        "Wand",
+        "Spritzer"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Türklingel",
+      "forbidden_words": [
+        "Besucher",
+        "drücken",
+        "Ton"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Bücherwagen",
+      "forbidden_words": [
+        "Rollen",
+        "Bibliothek",
+        "transportieren"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Wohnungsgrundriss",
+      "forbidden_words": [
+        "Räume",
+        "Zeichnung",
+        "Maßstab"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Energiesparlampe",
+      "forbidden_words": [
+        "Strom",
+        "Beleuchtung",
+        "effizient"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Schlüsselfinder",
+      "forbidden_words": [
+        "Signal",
+        "suchen",
+        "Anhänger"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Hängematte",
+      "forbidden_words": [
+        "zwischen Bäumen",
+        "liegen",
+        "schaukeln"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Einrichtungen",
+      "word": "Schaukelstuhl",
+      "forbidden_words": [
+        "sitzen",
+        "Wippen",
+        "Möbel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Kartoffelgratin",
+      "forbidden_words": [
+        "überbacken",
+        "Scheiben",
+        "Ofen"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Zwiebelkuchen",
+      "forbidden_words": [
+        "herzhaft",
+        "Teig",
+        "Backform"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Grießnockerl",
+      "forbidden_words": [
+        "Suppe",
+        "Einlage",
+        "weich"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Linsensalat",
+      "forbidden_words": [
+        "Hülsenfrucht",
+        "Dressing",
+        "kalt"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Möhrenkuchen",
+      "forbidden_words": [
+        "geraspelt",
+        "Teig",
+        "saftig"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Ofenkartoffel",
+      "forbidden_words": [
+        "Schale",
+        "Backofen",
+        "weich"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Kürbissuppe",
+      "forbidden_words": [
+        "orange",
+        "püriert",
+        "Herbst"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Hirsepfanne",
+      "forbidden_words": [
+        "Getreide",
+        "Gemüse",
+        "braten"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Gurkensalat",
+      "forbidden_words": [
+        "Dill",
+        "Scheiben",
+        "Dressing"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Pellkartoffeln",
+      "forbidden_words": [
+        "Schale",
+        "kochen",
+        "Beilage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Schichtsalat",
+      "forbidden_words": [
+        "Glas",
+        "Zutaten",
+        "übereinander"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Fruchtjoghurt",
+      "forbidden_words": [
+        "cremig",
+        "Obst",
+        "Milchprodukt"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Bulgursalat",
+      "forbidden_words": [
+        "Getreide",
+        "Petersilie",
+        "kalt"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Gerichte",
+      "word": "Haferbrei",
+      "forbidden_words": [
+        "Frühstück",
+        "warm",
+        "Getreide"
       ]
     }
   ],
