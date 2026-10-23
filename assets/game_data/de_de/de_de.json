@@ -1,6 +1,3559 @@
 {
   "tabu": [],
-  "sessiz_sinema": [],
+  "sessiz_sinema": [
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Den Wecker ausschalten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Verschlafen aufwachen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Sich im Bett strecken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Die Bettdecke zurückschlagen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Die Vorhänge aufziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Die Hausschuhe anziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Das Fenster zum Lüften öffnen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Den Schlaf aus den Augen reiben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Im Halbschlaf nach dem Handy tasten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Einen Blick auf die Uhr werfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Das Kissen aufschütteln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Morgenroutine",
+      "target_text": "Gähnend aus dem Bett steigen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Sich die Zähne putzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Mit Zahnseide die Zähne reinigen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Sich das Gesicht waschen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Die Haare föhnen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Die Haare kämmen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Sich vor dem Spiegel rasieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Handcreme einreiben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Sich die Hände gründlich waschen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Die Fingernägel feilen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Eine Kontaktlinse einsetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Eine Brille putzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Körperpflege",
+      "target_text": "Sich die Haare zu einem Zopf binden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Die Schnürsenkel binden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Einen Reißverschluss hochziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Einen Schal umwickeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Eine Mütze aufsetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Einen Gürtel schließen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Eine Jacke zuknöpfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Handschuhe anziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Die Ärmel hochkrempeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Einen Regenschirm einpacken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Eine Krawatte binden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Socken überstreifen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Alltag",
+      "sub_category": "Anziehen",
+      "target_text": "Eine Tasche über die Schulter hängen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Das Bett machen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Kissen auf dem Sofa ordnen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Bücher ins Regal stellen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Spielzeug in eine Kiste räumen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Schuhe im Flur aufreihen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Den Papierkorb leeren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Eine Schublade aufräumen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Einen Stapel Zeitschriften sortieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Die Fernbedienung suchen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Eine Decke zusammenfalten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Den Kleiderschrank ausmisten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Aufräumen",
+      "target_text": "Einen Bilderrahmen gerade rücken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Den Boden fegen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Den Teppich saugen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Ein Fenster putzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Den Spiegel polieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Die Badewanne schrubben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Die Arbeitsplatte abwischen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Staub von einem Regal wischen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Mit einem Wischmopp wischen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Die Fliesen reinigen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Den Mülleimer auswischen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Spinnweben mit dem Besen entfernen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Putzen",
+      "target_text": "Die Fußmatte ausklopfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Die Waschmaschine beladen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Waschmittel abmessen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Die Wäsche aufhängen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Wäscheklammern befestigen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Ein Hemd bügeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Socken paarweise sortieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Ein Bettlaken zusammenlegen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Ein Kleidungsstück von der Leine nehmen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Eine Hose auf einen Bügel hängen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Den Wäschekorb tragen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Fusseln von einem Pullover entfernen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wäsche",
+      "target_text": "Eine Socke auf links drehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Eine Glühbirne einschrauben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Ein Regalbrett abstauben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Einen Teppich ausrollen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Eine Zimmerpflanze umtopfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Eine Tischlampe einschalten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Ein Kissenbezug wechseln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Ein Fensterrollo herunterlassen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Eine Fußbank zurechtrücken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Eine Tür vorsichtig schließen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Einen Stuhl unter den Tisch schieben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Eine Gardine aufhängen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Haushalt",
+      "sub_category": "Wohnen",
+      "target_text": "Ein Sofa mit einer Decke bedecken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Eine Zwiebel schälen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Karotten in Scheiben schneiden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Kartoffeln schälen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Einen Apfel entkernen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Salatblätter waschen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Eine Zitrone auspressen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Kräuter fein hacken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Eine Gurke hobeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Eine Avocado halbieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Ein Ei aufschlagen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Mehl durch ein Sieb geben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Vorbereitung",
+      "target_text": "Teig mit den Händen kneten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Eine Suppe umrühren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Nudeln abgießen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Gemüse in der Pfanne wenden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Eine Pfanne schwenken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Mit einem Kochlöffel abschmecken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Den Deckel vom Topf heben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Ein Spiegelei braten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Kartoffeln stampfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Einen Topf vom Herd nehmen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Mit dem Schneebesen rühren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Einen Pfannkuchen wenden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Kochen",
+      "target_text": "Eine Auflaufform in den Ofen schieben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Teig ausrollen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Plätzchen ausstechen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Eine Backform einfetten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Eine Torte mit Sahne verzieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Einen Kuchen aus dem Ofen holen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Backpapier auf ein Blech legen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Eine Glasur auftragen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Muffinförmchen füllen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Den Teig in eine Form gießen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Eine Teigrolle mit Mehl bestäuben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Streusel über den Kuchen geben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Backen",
+      "target_text": "Einen Kuchen in Stücke schneiden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Den Tisch decken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Servietten falten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Wasser in ein Glas gießen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Eine Suppe auslöffeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Brot mit Butter bestreichen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Eine Orange schälen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Mit Stäbchen essen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Einen Apfel abbeißen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Ein Brötchen aufschneiden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Eine Thermoskanne aufdrehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Den Teller abräumen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Küche",
+      "sub_category": "Am Tisch",
+      "target_text": "Geschirr von Hand spülen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "Einen Einkaufswagen schieben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "Eine Einkaufsliste abhaken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "Obst auf die Waage legen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "Nach einem Produkt im Regal greifen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "An der Kasse bezahlen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "Einen Einkaufsbeutel einpacken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "Eine Pfandflasche zurückgeben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "Den Kassenbon prüfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "Ein Preisschild lesen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "Einen Einkaufskorb tragen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "Einen Einkaufswagenchip einstecken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Im Supermarkt",
+      "target_text": "Die Einkäufe aufs Kassenband legen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "An einer Melone riechen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "Äpfel in eine Papiertüte füllen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "Blumen am Marktstand auswählen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "Ein Bündel Radieschen hochheben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "Frische Kräuter beschnuppern"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "Eine Stofftasche ausbreiten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "Eine Waage am Marktstand ablesen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "Münzen aus dem Portemonnaie zählen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "Einen Blumenstrauß entgegennehmen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "Kartoffeln in einen Beutel schaufeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "Eine Kiste mit Gemüse tragen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Einkaufen",
+      "sub_category": "Auf dem Markt",
+      "target_text": "Den Marktstand mit einem Tuch abdecken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "An der Haltestelle warten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "Den Fahrplan lesen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "Eine Fahrkarte entwerten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "Im Bus eine Haltestange festhalten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "Auf dem Bahnsteig nach dem Zug Ausschau halten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "Den Koffer in die Gepäckablage heben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "Am Automaten eine Fahrkarte kaufen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "Durch eine Drehtür gehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "Die Ansage im Zug nicht verstehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "An der nächsten Haltestelle aussteigen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "Jemandem im Bus einen Sitzplatz anbieten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Bus und Bahn",
+      "target_text": "Den Rucksack vor dem Einsteigen abnehmen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Einen Fahrradhelm aufsetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Die Fahrradkette ölen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Einen Fahrradreifen aufpumpen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Das Fahrrad anschließen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Den Fahrradsattel einstellen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Einen Rückspiegel zurechtrücken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Den Sicherheitsgurt anlegen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Die Windschutzscheibe freikratzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Das Auto rückwärts einparken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Den Kofferraum öffnen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Die Scheibenwischer einschalten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Fahrrad und Auto",
+      "target_text": "Einen platten Reifen begutachten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Einen Koffer packen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Den Reisepass suchen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Eine Landkarte auffalten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Ein Hotelzimmer aufschließen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Den Koffer über Kopfsteinpflaster ziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Ein Foto vor einer Sehenswürdigkeit machen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Den Weg mit einem Stadtplan suchen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Am Bahnhof jemanden begrüßen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Mit einem Fernglas in die Ferne schauen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Sich am Flughafen nach dem Gate umsehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Eine Postkarte schreiben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Unterwegs",
+      "sub_category": "Reisen",
+      "target_text": "Souvenirs sorgfältig einwickeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "Sich melden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "An die Tafel schreiben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "Einen Bleistift anspitzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "Mit dem Lineal eine Linie ziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "Ein Heft aufschlagen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "Mit dem Radiergummi etwas wegradieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "Einen Schulranzen packen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "Eine Schultafel abwischen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "Ein Blatt Papier lochen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "Eine Seite im Buch umblättern"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "Ein Geodreieck anlegen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "Im Unterricht",
+      "target_text": "Ein Arbeitsblatt austeilen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Ein Pausenbrot auspacken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Eine Trinkflasche aufdrehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Einen Ball auf dem Schulhof fangen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Auf einer Bank sitzen und lesen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Ein Kartenspiel mischen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Ein Puzzle zusammensetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Mit Kreide auf den Boden malen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Ein Butterbrot teilen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Eine Jacke an die Garderobe hängen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Den Schulranzen aufsetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Ein Taschentuch aus der Tasche ziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Schule",
+      "sub_category": "In der Pause",
+      "target_text": "Eine Pause auf der Bank verbringen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Auf einer Tastatur tippen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Mit der Maus klicken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Ein Dokument ausdrucken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Ein Blatt in den Aktenordner heften"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Einen Briefumschlag zukleben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Ein Paket frankieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Mit einem Textmarker markieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Ein Blatt Papier schreddern"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Den Schreibtischstuhl einstellen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Ein Headset aufsetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Ein Whiteboard beschriften"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Im Büro",
+      "target_text": "Mit einer Büroklammer Blätter zusammenheften"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Eine Präsentation vorführen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Mit einem Laserpointer auf die Leinwand zeigen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Notizen in einem Meeting machen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Einen Termin im Kalender eintragen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Einen Stuhl für einen Gast heranziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Einen Stapel Unterlagen verteilen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Eine Videokonferenz starten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Das Mikrofon stummschalten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Eine Hand zur Begrüßung geben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Eine Skizze auf ein Flipchart zeichnen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Eine Frage mit Handzeichen stellen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Arbeit",
+      "sub_category": "Besprechungen",
+      "target_text": "Eine Uhr während der Besprechung ansehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Ein Brett mit Schleifpapier glätten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Einen Nagel einschlagen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Mit einem Schraubendreher schrauben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Ein Maßband ausziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Mit der Wasserwaage prüfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Eine Holzlatte absägen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Ein Loch mit der Bohrmaschine bohren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Eine Schraube mit dem Maulschlüssel festziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Mit dem Pinsel eine Wand streichen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Eine Leiter aufstellen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Eine Schutzbrille aufsetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Werkstatt",
+      "target_text": "Ein Brett mit der Schraubzwinge fixieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Einen Fahrradschlauch flicken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Einen Knopf annähen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Ein Loch in einer Socke stopfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Geschenkpapier zuschneiden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Ein Papierflugzeug falten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Mit einem Klebestift Papier kleben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Ein Regal zusammenschrauben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Einen Faden durch eine Nadel fädeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Eine Taschenlampe mit Batterien bestücken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Einen Reißverschluss wieder einfädeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Ein Etikett aufkleben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Handwerk",
+      "sub_category": "Basteln und Reparieren",
+      "target_text": "Ein Stück Pappe ausschneiden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Blumen gießen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Samen in die Erde streuen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Ein Beet umgraben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Unkraut aus dem Beet ziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Eine Pflanze mit Erde anhäufeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Eine Hecke schneiden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Den Rasen mähen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Mit der Harke Laub zusammenziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Tomaten an einem Stab festbinden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Eine Gießkanne auffüllen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Einen Blumentopf auf die Fensterbank stellen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Pflanzenpflege",
+      "target_text": "Eine welke Blüte abzupfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Erdbeeren pflücken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Äpfel vom Baum holen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Kartoffeln ausgraben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Eine Schubkarre schieben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Einen Gartenschlauch aufrollen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Einen Komposthaufen umsetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Einen Kürbis tragen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Eine Sonnenblume stützen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Ein Hochbeet befüllen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Eine Gartenschere reinigen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Eine Vogelfutterstelle auffüllen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Garten",
+      "sub_category": "Ernte und Pflege",
+      "target_text": "Eine Gießbrause auf den Schlauch stecken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Durch hohes Gras stapfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Über einen Bach springen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Mit einer Lupe eine Blume betrachten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Einen Stein übers Wasser hüpfen lassen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Einen Tannenzapfen aufheben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Auf einem Baumstamm balancieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Mit einem Fernglas Vögel beobachten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Einen Wanderstock benutzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Eine Picknickdecke ausbreiten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Einen Rucksack beim Wandern schultern"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Eine Pusteblume auspusten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wald und Wiese",
+      "target_text": "Einen Kieselstein im Bach suchen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Einen Regenschirm aufspannen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Durch eine Pfütze springen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Sich vor starkem Wind ducken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Schnee zu einem Ball formen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Einen Schneemann bauen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Mit einer Mütze die Ohren wärmen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Eine Sonnenbrille aufsetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Sich im Schatten Luft zufächeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Die Kapuze bei Regen hochziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Eine Schneeflocke auf der Hand auffangen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Bei Glatteis vorsichtig gehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Natur",
+      "sub_category": "Wetter",
+      "target_text": "Die Jacke gegen den Wind zuhalten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Einen Würfel werfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Spielfiguren aufstellen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Ein Kartenspiel austeilen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Beim Memory zwei Karten aufdecken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Einen Jenga-Stein herausziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Eine Schachfigur ziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Ein Dominostein aufstellen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Beim Pantomimespiel einen Begriff darstellen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Ein Spielbrett aufklappen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Ein Puzzle-Teil suchen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Ein Kartenspiel auffächern"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Brett- und Gesellschaftsspiele",
+      "target_text": "Einen Spielstein ins Ziel setzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Mit Wasserfarben malen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Einen Tonklumpen formen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Eine Perlenkette auffädeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Mit einem Pinsel Farbe mischen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Eine Postkarte verzieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Mit einer Schere Papier schneiden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Einen Stempel aufdrücken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Einen Luftballon bemalen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Ein Origami-Tier falten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Ein Fotoalbum gestalten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Eine Kerze mit Wachs verzieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Kreatives Gestalten",
+      "target_text": "Eine Stofftasche bemalen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "In einem Buch schmökern"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "Ein Lesezeichen einlegen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "Mit einem Füller schreiben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "Eine Zeitung auffalten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "In einem Wörterbuch nachschlagen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "Einen Brief in den Umschlag stecken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "Eine Postkarte in den Briefkasten werfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "Eine Notiz auf einen Zettel kritzeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "Eine Einkaufsliste schreiben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "Eine Brille zum Lesen aufsetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "Eine Buchseite mit dem Finger verfolgen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Freizeit",
+      "sub_category": "Lesen und Schreiben",
+      "target_text": "Ein Tagebuch zuklappen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Fußball dribbeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Basketball in den Korb werfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Volleyball pritschen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Tennisaufschlag machen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Tischtennisball aufschlagen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Handball passen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Federball übers Netz schlagen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Fußball köpfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Basketball auf dem Finger drehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Ball mit dem Fuß stoppen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Golfball einlochen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Ballspiele",
+      "target_text": "Einen Fußball ins Tor kicken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Seilspringen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Einen Hampelmann machen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Auf einem Bein balancieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Eine Kniebeuge machen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Sich vor dem Sport dehnen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Auf der Stelle joggen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Eine Yogamatte ausrollen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Einen Purzelbaum machen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Auf Zehenspitzen stehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Einen Hula-Hoop-Reifen kreisen lassen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Auf einer Slackline balancieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Bewegung und Fitness",
+      "target_text": "Eine Liegestütze machen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Schwimmbewegungen machen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Mit Schwimmflossen laufen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Eine Taucherbrille aufsetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Mit einem Ruder paddeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Auf Schlittschuhen gleiten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Einen Schlitten ziehen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Mit Skistöcken abstoßen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Einen Schneehügel hinunterrutschen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Eine Schwimmbrille zurechtrücken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Mit einem Surfbrett paddeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Auf Langlaufskiern gleiten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Sport",
+      "sub_category": "Wasser und Winter",
+      "target_text": "Einen Wasserball werfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Jemandem zuwinken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Jemanden herzlich umarmen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Einem Gast die Tür aufhalten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Jemandem die Hand schütteln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Einem Kind die Schuhe zubinden"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Jemandem beim Tragen helfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Einem Besucher den Weg zeigen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Einen verlorenen Gegenstand zurückgeben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Jemanden mit einem Blumenstrauß überraschen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Ein Kleinkind im Kinderwagen schieben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Jemandem eine Decke reichen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Miteinander",
+      "sub_category": "Begrüßen und Helfen",
+      "target_text": "Einem Gast einen Stuhl anbieten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Geburtstagskerzen auspusten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Ein Geschenk auspacken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Ein Geschenk mit Schleife verzieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Luftballons aufblasen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Konfetti in die Luft werfen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Eine Girlande aufhängen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Einen Geburtstagskuchen hereintragen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Ein Gruppenfoto machen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Einen Tisch festlich schmücken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Eine Glückwunschkarte überreichen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Ein Päckchen vorsichtig schütteln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Feste",
+      "sub_category": "Feiern",
+      "target_text": "Eine Partytröte benutzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Einen Hund anleinen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Einen Hund bürsten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Eine Katze streicheln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Einen Futternapf füllen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Ein Katzenklo reinigen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Einen Hamster im Laufrad beobachten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Einen Käfig mit frischem Wasser versorgen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Mit einem Hund Stöckchen holen spielen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Eine Katze mit einer Spielangel beschäftigen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Einem Kaninchen Heu geben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Einen Hund nach dem Spaziergang abtrocknen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Haustiere",
+      "target_text": "Eine Katze auf den Schoß heben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Ein Pferd striegeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Eine Kuh melken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Hühner füttern"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Eier aus dem Nest holen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Eine Schubkarre mit Heu fahren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Ein Pony am Halfter führen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Ein Schaf scheren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Einen Stall ausmisten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Einen Wassereimer tragen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Einem Kalb Milch aus dem Eimer geben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Eine Stalltür verriegeln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Tiere",
+      "sub_category": "Auf dem Bauernhof",
+      "target_text": "Einen Zaunpfahl in die Erde drücken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Ein Pflaster aufkleben"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Ein Fieberthermometer ablesen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Sich in eine Decke einkuscheln"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Eine Wärmflasche füllen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Ein Glas Wasser langsam trinken"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Tief durchatmen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Den Nacken vorsichtig dehnen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Sich die Schläfen massieren"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Eine Augenmaske zum Schlafen aufsetzen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Eine heiße Tasse vorsichtig halten"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Sich auf einem Kissen ausruhen"
+    },
+    {
+      "game_type": "sessiz_sinema",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "main_category": "Gesundheit",
+      "sub_category": "Wohlbefinden",
+      "target_text": "Einen Kühlbeutel auf die Stirn legen"
+    }
+  ],
   "bilmece": [],
   "kelime_oyunu": []
 }
