@@ -7,7 +7,3128 @@
   "analysis": {},
   "bilmece": [],
   "kelime_ustasi": [],
-  "tabu": [],
+  "tabu": [
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Risotto",
+      "forbidden_words": [
+        "brodo",
+        "mescolare",
+        "cremoso"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Gnocchi",
+      "forbidden_words": [
+        "patate",
+        "impasto",
+        "righe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Focaccia",
+      "forbidden_words": [
+        "olio",
+        "teglia",
+        "morbida"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Tiramisù",
+      "forbidden_words": [
+        "mascarpone",
+        "caffè",
+        "cucchiaio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Piadina",
+      "forbidden_words": [
+        "Romagna",
+        "ripieno",
+        "piastra"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Polenta",
+      "forbidden_words": [
+        "mais",
+        "paiolo",
+        "cremosa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Ravioli",
+      "forbidden_words": [
+        "sfoglia",
+        "ripieno",
+        "quadrati"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Minestrone",
+      "forbidden_words": [
+        "verdure",
+        "pentola",
+        "cucchiaio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Bruschetta",
+      "forbidden_words": [
+        "pane",
+        "pomodoro",
+        "tostato"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Crostata",
+      "forbidden_words": [
+        "marmellata",
+        "pasta frolla",
+        "forno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Cannolo",
+      "forbidden_words": [
+        "ricotta",
+        "cialda",
+        "Sicilia"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Panettone",
+      "forbidden_words": [
+        "Natale",
+        "uvetta",
+        "lievitato"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Frittata",
+      "forbidden_words": [
+        "uova",
+        "padella",
+        "girare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Lasagne",
+      "forbidden_words": [
+        "strati",
+        "besciamella",
+        "ragù"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Preparazioni",
+      "word": "Sorbetto",
+      "forbidden_words": [
+        "limone",
+        "ghiacciato",
+        "dessert"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Basilico",
+      "forbidden_words": [
+        "foglie",
+        "profumo",
+        "pesto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Rosmarino",
+      "forbidden_words": [
+        "rametti",
+        "aroma",
+        "arrosto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Melanzana",
+      "forbidden_words": [
+        "viola",
+        "ortaggio",
+        "parmigiana"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Zucchina",
+      "forbidden_words": [
+        "verde",
+        "orto",
+        "grigliata"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Carciofo",
+      "forbidden_words": [
+        "foglie",
+        "cuore",
+        "spine"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Finocchio",
+      "forbidden_words": [
+        "croccante",
+        "bulbo",
+        "insalata"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Mozzarella",
+      "forbidden_words": [
+        "latte",
+        "bufala",
+        "filante"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Ricotta",
+      "forbidden_words": [
+        "siero",
+        "morbida",
+        "ripieno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Colapasta",
+      "forbidden_words": [
+        "scolare",
+        "acqua",
+        "lavello"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Mattarello",
+      "forbidden_words": [
+        "stendere",
+        "impasto",
+        "legno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Grattugia",
+      "forbidden_words": [
+        "formaggio",
+        "scaglie",
+        "buchi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Mestolo",
+      "forbidden_words": [
+        "zuppa",
+        "servire",
+        "manico"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Tagliere",
+      "forbidden_words": [
+        "verdure",
+        "affettare",
+        "legno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Bilancia da cucina",
+      "forbidden_words": [
+        "pesare",
+        "grammi",
+        "ingredienti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Ingredienti e utensili",
+      "word": "Teglia",
+      "forbidden_words": [
+        "cottura",
+        "bordo",
+        "dolce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Ingresso",
+      "forbidden_words": [
+        "porta",
+        "casa",
+        "appendiabiti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Soggiorno",
+      "forbidden_words": [
+        "divano",
+        "ospiti",
+        "televisore"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Soffitta",
+      "forbidden_words": [
+        "tetto",
+        "scatoloni",
+        "scale"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Balcone",
+      "forbidden_words": [
+        "ringhiera",
+        "esterno",
+        "fiori"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Dispensa",
+      "forbidden_words": [
+        "scorte",
+        "barattoli",
+        "alimenti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Comodino",
+      "forbidden_words": [
+        "letto",
+        "lampada",
+        "cassetto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Credenza",
+      "forbidden_words": [
+        "piatti",
+        "mobile",
+        "ante"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Libreria",
+      "forbidden_words": [
+        "scaffali",
+        "volumi",
+        "ripiani"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Tappeto",
+      "forbidden_words": [
+        "pavimento",
+        "tessuto",
+        "salotto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Tenda",
+      "forbidden_words": [
+        "finestra",
+        "stoffa",
+        "tirare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Specchio",
+      "forbidden_words": [
+        "riflesso",
+        "viso",
+        "parete"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Cuscino",
+      "forbidden_words": [
+        "testa",
+        "morbido",
+        "federa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Scarpiera",
+      "forbidden_words": [
+        "calzature",
+        "ripiani",
+        "ingresso"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Mensola",
+      "forbidden_words": [
+        "parete",
+        "oggetti",
+        "supporto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Stanze e arredi",
+      "word": "Cassettiera",
+      "forbidden_words": [
+        "mobile",
+        "camera",
+        "biancheria"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Stendibiancheria",
+      "forbidden_words": [
+        "panni",
+        "asciugare",
+        "molletta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Annaffiatoio",
+      "forbidden_words": [
+        "piante",
+        "acqua",
+        "beccuccio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Sottopentola",
+      "forbidden_words": [
+        "tavolo",
+        "calore",
+        "appoggiare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Portachiavi",
+      "forbidden_words": [
+        "anello",
+        "tasca",
+        "metallo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Zerbino",
+      "forbidden_words": [
+        "ingresso",
+        "scarpe",
+        "pulire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Termometro",
+      "forbidden_words": [
+        "temperatura",
+        "gradi",
+        "misurare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Torcia",
+      "forbidden_words": [
+        "buio",
+        "luce",
+        "batteria"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Sveglia",
+      "forbidden_words": [
+        "mattina",
+        "suonare",
+        "orario"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Calendario",
+      "forbidden_words": [
+        "mesi",
+        "giorni",
+        "appuntamenti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Cestino",
+      "forbidden_words": [
+        "rifiuti",
+        "gettare",
+        "contenitore"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Spugna",
+      "forbidden_words": [
+        "lavare",
+        "assorbire",
+        "morbida"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Mollette",
+      "forbidden_words": [
+        "bucato",
+        "fissare",
+        "filo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Asciugamano",
+      "forbidden_words": [
+        "bagno",
+        "mani",
+        "asciugare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Portafoto",
+      "forbidden_words": [
+        "cornice",
+        "immagine",
+        "ricordo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Piccole cose utili",
+      "word": "Campanello",
+      "forbidden_words": [
+        "suonare",
+        "porta",
+        "visita"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Biblioteca",
+      "forbidden_words": [
+        "prestito",
+        "libri",
+        "silenzio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Municipio",
+      "forbidden_words": [
+        "uffici",
+        "comune",
+        "cittadini"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Farmacia",
+      "forbidden_words": [
+        "medicinali",
+        "ricetta",
+        "croce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Edicola",
+      "forbidden_words": [
+        "giornali",
+        "riviste",
+        "chiosco"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Panetteria",
+      "forbidden_words": [
+        "lievitazione",
+        "fornaio",
+        "pagnotte"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Pasticceria",
+      "forbidden_words": [
+        "dolci",
+        "vetrina",
+        "crema"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Lavanderia",
+      "forbidden_words": [
+        "vestiti",
+        "lavaggio",
+        "macchine"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Cartoleria",
+      "forbidden_words": [
+        "quaderni",
+        "penne",
+        "scuola"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Fioraio",
+      "forbidden_words": [
+        "bouquet",
+        "petali",
+        "negozio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Mercato rionale",
+      "forbidden_words": [
+        "bancarelle",
+        "quartiere",
+        "spesa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Piazza",
+      "forbidden_words": [
+        "fontana",
+        "incontro",
+        "centro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Portico",
+      "forbidden_words": [
+        "colonne",
+        "coperto",
+        "passeggiare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Fontanella",
+      "forbidden_words": [
+        "acqua",
+        "bere",
+        "strada"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Panchina",
+      "forbidden_words": [
+        "sedersi",
+        "parco",
+        "legno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Luoghi pubblici",
+      "word": "Attraversamento pedonale",
+      "forbidden_words": [
+        "strisce",
+        "semaforo",
+        "camminare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Tram",
+      "forbidden_words": [
+        "rotaie",
+        "città",
+        "fermate"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Funicolare",
+      "forbidden_words": [
+        "pendenza",
+        "cabina",
+        "salita"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Traghetto",
+      "forbidden_words": [
+        "porto",
+        "passeggeri",
+        "acqua"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Bicicletta",
+      "forbidden_words": [
+        "pedali",
+        "manubrio",
+        "ruote"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Monopattino",
+      "forbidden_words": [
+        "pedana",
+        "equilibrio",
+        "manubrio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Autobus",
+      "forbidden_words": [
+        "fermata",
+        "biglietto",
+        "autista"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Metropolitana",
+      "forbidden_words": [
+        "sotterraneo",
+        "stazione",
+        "binari"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Valigia",
+      "forbidden_words": [
+        "viaggio",
+        "rotelle",
+        "bagagli"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Zaino",
+      "forbidden_words": [
+        "spalle",
+        "tasche",
+        "escursione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Biglietteria",
+      "forbidden_words": [
+        "acquisto",
+        "sportello",
+        "partenza"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Orario ferroviario",
+      "forbidden_words": [
+        "treni",
+        "tabellone",
+        "partenze"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Binario",
+      "forbidden_words": [
+        "stazione",
+        "rotaie",
+        "attesa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Passerella",
+      "forbidden_words": [
+        "attraversare",
+        "pedoni",
+        "rialzata"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Pista ciclabile",
+      "forbidden_words": [
+        "biciclette",
+        "percorso",
+        "corsia"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mobilità",
+      "sub_category": "Spostamenti",
+      "word": "Navigatore",
+      "forbidden_words": [
+        "indicazioni",
+        "mappa",
+        "percorso"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Astuccio",
+      "forbidden_words": [
+        "matite",
+        "cerniera",
+        "banco"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Quaderno",
+      "forbidden_words": [
+        "pagine",
+        "righe",
+        "appunti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Gomma",
+      "forbidden_words": [
+        "cancellare",
+        "matita",
+        "errore"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Righello",
+      "forbidden_words": [
+        "centimetri",
+        "linea",
+        "misurare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Compasso",
+      "forbidden_words": [
+        "cerchio",
+        "punta",
+        "disegno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Lavagna",
+      "forbidden_words": [
+        "gesso",
+        "classe",
+        "scrivere"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Zainetto",
+      "forbidden_words": [
+        "libri",
+        "spalle",
+        "lezione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Intervallo",
+      "forbidden_words": [
+        "ricreazione",
+        "pausa",
+        "campanella"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Dizionario",
+      "forbidden_words": [
+        "parole",
+        "significato",
+        "consultare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Atlante",
+      "forbidden_words": [
+        "carte",
+        "geografia",
+        "continenti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Segnalibro",
+      "forbidden_words": [
+        "pagina",
+        "lettura",
+        "ritrovare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Temperamatite",
+      "forbidden_words": [
+        "punta",
+        "trucioli",
+        "matita"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Evidenziatore",
+      "forbidden_words": [
+        "colore",
+        "testo",
+        "sottolineare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Diario scolastico",
+      "forbidden_words": [
+        "compiti",
+        "date",
+        "lezioni"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scuola",
+      "sub_category": "Studio e materiali",
+      "word": "Laboratorio",
+      "forbidden_words": [
+        "esperimenti",
+        "strumenti",
+        "scuola"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Arcobaleno",
+      "forbidden_words": [
+        "pioggia",
+        "colori",
+        "cielo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Rugiada",
+      "forbidden_words": [
+        "gocce",
+        "mattino",
+        "erba"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Nebbia",
+      "forbidden_words": [
+        "visibilità",
+        "foschia",
+        "mattina"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Cascata",
+      "forbidden_words": [
+        "acqua",
+        "salto",
+        "roccia"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Ghiacciaio",
+      "forbidden_words": [
+        "montagna",
+        "ghiaccio",
+        "lento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Laguna",
+      "forbidden_words": [
+        "acqua",
+        "costa",
+        "bassa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Duna",
+      "forbidden_words": [
+        "sabbia",
+        "vento",
+        "deserto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Grotta",
+      "forbidden_words": [
+        "roccia",
+        "buio",
+        "cavità"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Prato",
+      "forbidden_words": [
+        "erba",
+        "fiori",
+        "verde"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Bosco",
+      "forbidden_words": [
+        "alberi",
+        "sentieri",
+        "ombra"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Ruscello",
+      "forbidden_words": [
+        "acqua",
+        "scorrere",
+        "piccolo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Collina",
+      "forbidden_words": [
+        "pendio",
+        "paesaggio",
+        "altura"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Tramonto",
+      "forbidden_words": [
+        "sole",
+        "orizzonte",
+        "sera"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Brezza",
+      "forbidden_words": [
+        "vento",
+        "leggera",
+        "aria"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Natura",
+      "sub_category": "Paesaggi e fenomeni",
+      "word": "Stalattite",
+      "forbidden_words": [
+        "grotta",
+        "soffitto",
+        "gocce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Riccio",
+      "forbidden_words": [
+        "aculei",
+        "giardino",
+        "piccolo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Scoiattolo",
+      "forbidden_words": [
+        "coda",
+        "noci",
+        "albero"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Rondine",
+      "forbidden_words": [
+        "primavera",
+        "nido",
+        "volare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Coccinella",
+      "forbidden_words": [
+        "puntini",
+        "rossa",
+        "insetto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Farfalla",
+      "forbidden_words": [
+        "ali",
+        "bruco",
+        "fiori"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Lumaca",
+      "forbidden_words": [
+        "guscio",
+        "lenta",
+        "umido"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Tartaruga",
+      "forbidden_words": [
+        "carapace",
+        "lenta",
+        "zampe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Coniglio",
+      "forbidden_words": [
+        "orecchie",
+        "carota",
+        "saltare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Pettirosso",
+      "forbidden_words": [
+        "uccellino",
+        "petto",
+        "giardino"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Libellula",
+      "forbidden_words": [
+        "stagno",
+        "ali",
+        "insetto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Delfino",
+      "forbidden_words": [
+        "mare",
+        "salti",
+        "mammifero"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Gabbiano",
+      "forbidden_words": [
+        "costa",
+        "volare",
+        "becco"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Fenicottero",
+      "forbidden_words": [
+        "rosa",
+        "zampe",
+        "laguna"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Cavalluccio marino",
+      "forbidden_words": [
+        "coda",
+        "acqua",
+        "piccolo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Osservazione e cura",
+      "word": "Ape",
+      "forbidden_words": [
+        "alveare",
+        "miele",
+        "fiori"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Ceramica",
+      "forbidden_words": [
+        "argilla",
+        "forno",
+        "smalto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Mosaico",
+      "forbidden_words": [
+        "tessere",
+        "colori",
+        "composizione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Ricamo",
+      "forbidden_words": [
+        "ago",
+        "filo",
+        "stoffa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Uncinetto",
+      "forbidden_words": [
+        "gomitolo",
+        "maglia",
+        "lavorare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Intreccio",
+      "forbidden_words": [
+        "fibre",
+        "cesto",
+        "mani"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Acquerello",
+      "forbidden_words": [
+        "pennello",
+        "acqua",
+        "colori"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Origami",
+      "forbidden_words": [
+        "carta",
+        "pieghe",
+        "figure"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Tornio",
+      "forbidden_words": [
+        "argilla",
+        "ruota",
+        "modellare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Telaio",
+      "forbidden_words": [
+        "tessuto",
+        "fili",
+        "trama"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Restauro",
+      "forbidden_words": [
+        "antico",
+        "riparare",
+        "conservare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Vetrata",
+      "forbidden_words": [
+        "vetro",
+        "colori",
+        "finestra"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Calligrafia",
+      "forbidden_words": [
+        "scrittura",
+        "elegante",
+        "inchiostro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Rilegatura",
+      "forbidden_words": [
+        "pagine",
+        "copertina",
+        "libro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Stampa a mano",
+      "forbidden_words": [
+        "inchiostro",
+        "matrice",
+        "carta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavori manuali",
+      "word": "Merletto",
+      "forbidden_words": [
+        "pizzo",
+        "filo",
+        "delicato"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Puzzle",
+      "forbidden_words": [
+        "pezzi",
+        "incastrare",
+        "immagine"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Scacchiera",
+      "forbidden_words": [
+        "caselle",
+        "pedine",
+        "quadrata"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Bocce",
+      "forbidden_words": [
+        "sfere",
+        "campo",
+        "pallino"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Dama",
+      "forbidden_words": [
+        "pedine",
+        "diagonale",
+        "caselle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Fotografia",
+      "forbidden_words": [
+        "obiettivo",
+        "scatto",
+        "immagine"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Birdwatching",
+      "forbidden_words": [
+        "uccelli",
+        "binocolo",
+        "osservare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Escursionismo",
+      "forbidden_words": [
+        "sentiero",
+        "camminata",
+        "zaino"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Giocoleria",
+      "forbidden_words": [
+        "palline",
+        "lanciare",
+        "destrezza"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Pattinaggio",
+      "forbidden_words": [
+        "rotelle",
+        "equilibrio",
+        "pista"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Yoga",
+      "forbidden_words": [
+        "posizioni",
+        "respiro",
+        "tappetino"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Nuoto",
+      "forbidden_words": [
+        "piscina",
+        "bracciate",
+        "acqua"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Cucito",
+      "forbidden_words": [
+        "ago",
+        "filo",
+        "stoffa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Giardinaggio",
+      "forbidden_words": [
+        "piante",
+        "terriccio",
+        "cura"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Astronomia",
+      "forbidden_words": [
+        "stelle",
+        "telescopio",
+        "cielo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tempo libero",
+      "sub_category": "Passatempi",
+      "word": "Teatro di marionette",
+      "forbidden_words": [
+        "fili",
+        "pupazzi",
+        "palcoscenico"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Pediatra",
+      "forbidden_words": [
+        "bambini",
+        "visita",
+        "medico"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Veterinario",
+      "forbidden_words": [
+        "animali",
+        "ambulatorio",
+        "cura"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Architetto",
+      "forbidden_words": [
+        "progetto",
+        "edificio",
+        "disegno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Bibliotecario",
+      "forbidden_words": [
+        "prestiti",
+        "scaffali",
+        "lettori"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Pasticciere",
+      "forbidden_words": [
+        "dolci",
+        "crema",
+        "laboratorio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Falegname",
+      "forbidden_words": [
+        "legno",
+        "mobile",
+        "pialla"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Giardiniere",
+      "forbidden_words": [
+        "aiuole",
+        "piante",
+        "potare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Sarto",
+      "forbidden_words": [
+        "misure",
+        "abito",
+        "cucire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Ottico",
+      "forbidden_words": [
+        "occhiali",
+        "lenti",
+        "vista"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Geologo",
+      "forbidden_words": [
+        "rocce",
+        "terreno",
+        "studio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Meteorologo",
+      "forbidden_words": [
+        "previsioni",
+        "atmosfera",
+        "tempo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Apicoltore",
+      "forbidden_words": [
+        "arnie",
+        "api",
+        "miele"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Restauratore",
+      "forbidden_words": [
+        "opere",
+        "conservazione",
+        "antico"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Traduttore",
+      "forbidden_words": [
+        "lingue",
+        "testo",
+        "significato"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Mestieri",
+      "sub_category": "Professioni e servizi",
+      "word": "Guida turistica",
+      "forbidden_words": [
+        "visitatori",
+        "monumenti",
+        "raccontare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Pomodoro",
+      "forbidden_words": [
+        "rosso",
+        "insalata",
+        "pianta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Peperone",
+      "forbidden_words": [
+        "ortaggio",
+        "giallo",
+        "ripieno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Zucca",
+      "forbidden_words": [
+        "autunno",
+        "arancione",
+        "grande"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Piselli",
+      "forbidden_words": [
+        "baccello",
+        "verdi",
+        "legumi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Fagiolini",
+      "forbidden_words": [
+        "sottili",
+        "verdura",
+        "lessare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Ravanello",
+      "forbidden_words": [
+        "radice",
+        "croccante",
+        "rosa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Lattuga",
+      "forbidden_words": [
+        "foglie",
+        "insalata",
+        "verde"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Salvia",
+      "forbidden_words": [
+        "aromatica",
+        "foglie",
+        "profumo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Timo",
+      "forbidden_words": [
+        "erba",
+        "aroma",
+        "rametti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Lavanda",
+      "forbidden_words": [
+        "viola",
+        "profumo",
+        "spighe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Girasole",
+      "forbidden_words": [
+        "giallo",
+        "semi",
+        "alto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Tulipano",
+      "forbidden_words": [
+        "bulbo",
+        "primavera",
+        "petali"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Margherita",
+      "forbidden_words": [
+        "prato",
+        "petali",
+        "bianco"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Ciliegio",
+      "forbidden_words": [
+        "frutto",
+        "primavera",
+        "fiore"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto",
+      "sub_category": "Piante e coltivazioni",
+      "word": "Ulivo",
+      "forbidden_words": [
+        "olio",
+        "rami",
+        "mediterraneo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Rifugio alpino",
+      "forbidden_words": [
+        "montagna",
+        "sentiero",
+        "pernottare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Borgo medievale",
+      "forbidden_words": [
+        "vicoli",
+        "pietra",
+        "antico"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Agriturismo",
+      "forbidden_words": [
+        "campagna",
+        "ospitalità",
+        "fattoria"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Lungomare",
+      "forbidden_words": [
+        "passeggiata",
+        "costa",
+        "panchine"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Belvedere",
+      "forbidden_words": [
+        "panorama",
+        "alto",
+        "osservare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Sentiero costiero",
+      "forbidden_words": [
+        "scogliera",
+        "cammino",
+        "mare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Porticciolo",
+      "forbidden_words": [
+        "barche",
+        "ormeggio",
+        "piccolo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Terrazza panoramica",
+      "forbidden_words": [
+        "vista",
+        "ringhiera",
+        "paesaggio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Spiaggia di ciottoli",
+      "forbidden_words": [
+        "sassi",
+        "riva",
+        "onde"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Vigneto",
+      "forbidden_words": [
+        "filari",
+        "uva",
+        "collina"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Frutteto",
+      "forbidden_words": [
+        "alberi",
+        "raccolta",
+        "frutta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Olivaia",
+      "forbidden_words": [
+        "ulivi",
+        "campagna",
+        "raccolto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Giardino botanico",
+      "forbidden_words": [
+        "piante",
+        "specie",
+        "visita"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Museo archeologico",
+      "forbidden_words": [
+        "reperti",
+        "antichità",
+        "sale"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Paesaggi italiani",
+      "word": "Acquario",
+      "forbidden_words": [
+        "vasche",
+        "pesci",
+        "visitatori"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Scontrino",
+      "forbidden_words": [
+        "cassa",
+        "acquisto",
+        "totale"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Etichetta",
+      "forbidden_words": [
+        "prezzo",
+        "prodotto",
+        "cartellino"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Vetrina",
+      "forbidden_words": [
+        "negozio",
+        "esposizione",
+        "vetro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Cassa automatica",
+      "forbidden_words": [
+        "pagamento",
+        "schermo",
+        "spesa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Bancarella",
+      "forbidden_words": [
+        "mercato",
+        "venditore",
+        "tenda"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Sartoria",
+      "forbidden_words": [
+        "abiti",
+        "riparazioni",
+        "misure"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Fruttivendolo",
+      "forbidden_words": [
+        "ortaggi",
+        "banco",
+        "stagione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Gelateria",
+      "forbidden_words": [
+        "coni",
+        "gusti",
+        "freddo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Erboristeria",
+      "forbidden_words": [
+        "tisane",
+        "piante",
+        "negozio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Merceria",
+      "forbidden_words": [
+        "bottoni",
+        "nastri",
+        "filati"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Libreria indipendente",
+      "forbidden_words": [
+        "volumi",
+        "lettori",
+        "negozio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Negozio di giocattoli",
+      "forbidden_words": [
+        "bambini",
+        "scaffali",
+        "giochi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Fattoria didattica",
+      "forbidden_words": [
+        "animali",
+        "visite",
+        "campagna"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Laboratorio di pasta fresca",
+      "forbidden_words": [
+        "sfoglia",
+        "impasto",
+        "artigianale"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Commercio",
+      "sub_category": "Acquisti e botteghe",
+      "word": "Cestino della spesa",
+      "forbidden_words": [
+        "supermercato",
+        "manico",
+        "prodotti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Sagra",
+      "forbidden_words": [
+        "paese",
+        "stand",
+        "specialità"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Tombola",
+      "forbidden_words": [
+        "cartelle",
+        "numeri",
+        "estrazione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Presepe",
+      "forbidden_words": [
+        "Natale",
+        "statuine",
+        "capanna"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Calza della Befana",
+      "forbidden_words": [
+        "Epifania",
+        "dolci",
+        "camino"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Festa di quartiere",
+      "forbidden_words": [
+        "vicini",
+        "piazza",
+        "incontro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Pranzo della domenica",
+      "forbidden_words": [
+        "famiglia",
+        "tavola",
+        "ritrovo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Picnic",
+      "forbidden_words": [
+        "prato",
+        "coperta",
+        "cestino"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Mercatino artigianale",
+      "forbidden_words": [
+        "banchi",
+        "oggetti",
+        "fatto a mano"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Passeggiata serale",
+      "forbidden_words": [
+        "camminare",
+        "centro",
+        "tramonto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Aperitivo analcolico",
+      "forbidden_words": [
+        "stuzzichini",
+        "bibita",
+        "incontro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Carnevale",
+      "forbidden_words": [
+        "maschere",
+        "coriandoli",
+        "costumi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Laboratorio creativo",
+      "forbidden_words": [
+        "materiali",
+        "manualità",
+        "gruppo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Festa di compleanno",
+      "forbidden_words": [
+        "candeline",
+        "torta",
+        "auguri"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Riunione di condominio",
+      "forbidden_words": [
+        "vicini",
+        "palazzo",
+        "assemblea"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tradizioni",
+      "sub_category": "Vita sociale",
+      "word": "Scambio di libri",
+      "forbidden_words": [
+        "lettura",
+        "prestito",
+        "volumi"
+      ]
+    }
+  ],
   "sessiz_sinema": [
     {
       "game_type": "sessiz_sinema",
