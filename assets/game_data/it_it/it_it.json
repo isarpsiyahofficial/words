@@ -10873,7 +10873,7 @@
       "forbidden_words": [
         "superficie",
         "cerchio",
-        "Luna"
+        "satellite"
       ]
     },
     {
@@ -10885,8 +10885,8 @@
       "word": "Eclissi solare",
       "forbidden_words": [
         "ombra",
-        "Sole",
-        "oscuramento"
+        "oscuramento",
+        "allineamento"
       ]
     },
     {
@@ -11093,7 +11093,7 @@
       "word": "Penna stilografica",
       "forbidden_words": [
         "inchiostro",
-        "pennino",
+        "serbatoio",
         "scrittura"
       ]
     },
@@ -11509,8 +11509,8 @@
       "word": "Fregola sarda",
       "forbidden_words": [
         "semola",
-        "Sardegna",
-        "palline"
+        "palline",
+        "brodo"
       ]
     },
     {
@@ -11691,7 +11691,7 @@
       "word": "Frittelle di riso",
       "forbidden_words": [
         "dolce",
-        "riso cotto",
+        "padella",
         "impasto"
       ]
     },
@@ -11873,8 +11873,8 @@
       "word": "Filatura della lana",
       "forbidden_words": [
         "fibre",
-        "filo",
-        "arcolaio"
+        "arcolaio",
+        "rocchetto"
       ]
     },
     {
@@ -12317,6 +12317,1995 @@
         "movimenti lenti",
         "equilibrio",
         "pratica"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Gilet imbottito",
+      "forbidden_words": [
+        "senza maniche",
+        "caldo",
+        "inverno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Sciarpa ad anello",
+      "forbidden_words": [
+        "collo",
+        "avvolgere",
+        "morbida"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Guanti senza dita",
+      "forbidden_words": [
+        "mani",
+        "palmo",
+        "aperte"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Cappello di paglia",
+      "forbidden_words": [
+        "estate",
+        "tesa",
+        "intrecciato"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Berretto con visiera",
+      "forbidden_words": [
+        "fronte",
+        "sole",
+        "sport"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Stivali di gomma",
+      "forbidden_words": [
+        "pozzanghere",
+        "piedi",
+        "impermeabili"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Sandali",
+      "forbidden_words": [
+        "cinturini",
+        "estate",
+        "dita"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Pantofole",
+      "forbidden_words": [
+        "casa",
+        "comode",
+        "piedi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Calzini antiscivolo",
+      "forbidden_words": [
+        "piedi",
+        "suola",
+        "pavimento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Bretelle",
+      "forbidden_words": [
+        "pantaloni",
+        "spalle",
+        "elastico"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Papillon",
+      "forbidden_words": [
+        "collo",
+        "fiocco",
+        "elegante"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Foulard",
+      "forbidden_words": [
+        "seta",
+        "annodare",
+        "accessorio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Fascia per capelli",
+      "forbidden_words": [
+        "fronte",
+        "elastico",
+        "ciocche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Cerchietto",
+      "forbidden_words": [
+        "testa",
+        "accessorio",
+        "fermare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Marsupio",
+      "forbidden_words": [
+        "cintura",
+        "tasca",
+        "viaggio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Portafoglio",
+      "forbidden_words": [
+        "banconote",
+        "documenti",
+        "tasca"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Occhiali da sole",
+      "forbidden_words": [
+        "lenti",
+        "scuri",
+        "montatura"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Maglione a collo alto",
+      "forbidden_words": [
+        "lana",
+        "inverno",
+        "indumento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Cardigan",
+      "forbidden_words": [
+        "bottoni",
+        "maglia",
+        "aperto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Gonna a pieghe",
+      "forbidden_words": [
+        "tessuto",
+        "vita",
+        "movimento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Camicia a quadri",
+      "forbidden_words": [
+        "bottoni",
+        "colletto",
+        "fantasia"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Pantaloni di velluto",
+      "forbidden_words": [
+        "righe",
+        "morbidi",
+        "tessuto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Scarpe da ginnastica",
+      "forbidden_words": [
+        "suola",
+        "lacci",
+        "correre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Abbigliamento",
+      "sub_category": "Capi e accessori",
+      "word": "Calzamaglia",
+      "forbidden_words": [
+        "gambe",
+        "elastica",
+        "indumento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Meandro",
+      "forbidden_words": [
+        "fiume",
+        "curva",
+        "ansa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Dolina",
+      "forbidden_words": [
+        "terreno",
+        "depressione",
+        "carsico"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Dorsale montuosa",
+      "forbidden_words": [
+        "rilievi",
+        "cresta",
+        "catena"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Fiordo",
+      "forbidden_words": [
+        "mare",
+        "valle",
+        "stretto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Atollo",
+      "forbidden_words": [
+        "isole",
+        "corallo",
+        "laguna"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Canyon",
+      "forbidden_words": [
+        "roccia",
+        "valle",
+        "pareti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Geyser",
+      "forbidden_words": [
+        "acqua",
+        "vapore",
+        "getto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Vulcano",
+      "forbidden_words": [
+        "lava",
+        "montagna",
+        "eruzione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Barriera corallina",
+      "forbidden_words": [
+        "mare",
+        "pesci",
+        "fondale"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Calanco",
+      "forbidden_words": [
+        "erosione",
+        "argilla",
+        "pendio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Vetta innevata",
+      "forbidden_words": [
+        "cima",
+        "montagna",
+        "bianco"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Conoide alluvionale",
+      "forbidden_words": [
+        "sedimenti",
+        "torrente",
+        "ventaglio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Faglia geologica",
+      "forbidden_words": [
+        "terreno",
+        "frattura",
+        "strati"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Paesaggi e forme del terreno",
+      "word": "Stretto marino",
+      "forbidden_words": [
+        "due coste",
+        "passaggio",
+        "acqua"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Rospo",
+      "forbidden_words": [
+        "anfibio",
+        "stagno",
+        "verruche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Lombrico",
+      "forbidden_words": [
+        "terra",
+        "giardino",
+        "anelli"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Falena",
+      "forbidden_words": [
+        "notte",
+        "ali",
+        "luce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Bombo",
+      "forbidden_words": [
+        "insetto",
+        "ronzio",
+        "polline"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Ramarro",
+      "forbidden_words": [
+        "lucertola",
+        "verde",
+        "rettile"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Tritone",
+      "forbidden_words": [
+        "anfibio",
+        "coda",
+        "acqua"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Trota",
+      "forbidden_words": [
+        "fiume",
+        "pesce",
+        "acqua dolce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Carpa",
+      "forbidden_words": [
+        "stagno",
+        "squame",
+        "pesce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Orata",
+      "forbidden_words": [
+        "mare",
+        "pesce",
+        "dorata"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Sogliola",
+      "forbidden_words": [
+        "piatta",
+        "fondale",
+        "pesce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Sardina",
+      "forbidden_words": [
+        "banco",
+        "argentata",
+        "mare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Anguilla",
+      "forbidden_words": [
+        "corpo",
+        "allungato",
+        "acqua"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Moscerino",
+      "forbidden_words": [
+        "minuscolo",
+        "volare",
+        "frutta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Pesce pagliaccio",
+      "forbidden_words": [
+        "arancione",
+        "strisce",
+        "anemone"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Cernia",
+      "forbidden_words": [
+        "pesce",
+        "scogli",
+        "grande"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Capibara",
+      "forbidden_words": [
+        "roditore",
+        "acqua",
+        "Sudamerica"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Okapi",
+      "forbidden_words": [
+        "strisce",
+        "foresta",
+        "erbivoro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Fauna e habitat",
+      "word": "Lamantino",
+      "forbidden_words": [
+        "mare",
+        "mammifero",
+        "lento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Grondaia",
+      "forbidden_words": [
+        "tetto",
+        "pioggia",
+        "scolo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Davanzale",
+      "forbidden_words": [
+        "finestra",
+        "vaso",
+        "sporgenza"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Architrave",
+      "forbidden_words": [
+        "porta",
+        "trave",
+        "sostegno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Lucernario",
+      "forbidden_words": [
+        "tetto",
+        "luce",
+        "vetro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Balaustra",
+      "forbidden_words": [
+        "balcone",
+        "colonnine",
+        "parapetto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Corrimano",
+      "forbidden_words": [
+        "scala",
+        "mano",
+        "sostegno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Ringhiera",
+      "forbidden_words": [
+        "balcone",
+        "ferro",
+        "protezione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Pergolato",
+      "forbidden_words": [
+        "giardino",
+        "ombra",
+        "rampicanti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Gazebo",
+      "forbidden_words": [
+        "struttura",
+        "giardino",
+        "copertura"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Cupola",
+      "forbidden_words": [
+        "edificio",
+        "rotonda",
+        "soffitto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Abbaino",
+      "forbidden_words": [
+        "tetto",
+        "finestra",
+        "mansarda"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Volta a botte",
+      "forbidden_words": [
+        "soffitto",
+        "arco",
+        "corridoio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Portafinestra",
+      "forbidden_words": [
+        "balcone",
+        "vetro",
+        "apertura"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi degli edifici",
+      "word": "Facciata",
+      "forbidden_words": [
+        "esterno",
+        "edificio",
+        "ingresso"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Spazzolino elettrico",
+      "forbidden_words": [
+        "denti",
+        "vibrazione",
+        "ricarica"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Filo interdentale",
+      "forbidden_words": [
+        "denti",
+        "pulizia",
+        "spazio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Pettine a denti larghi",
+      "forbidden_words": [
+        "ricci",
+        "districare",
+        "chioma"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Spazzola rotonda",
+      "forbidden_words": [
+        "piega",
+        "capelli",
+        "setole"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Elastico per capelli",
+      "forbidden_words": [
+        "coda",
+        "raccolti",
+        "gomma"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Crema idratante",
+      "forbidden_words": [
+        "pelle",
+        "morbida",
+        "applicare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Burrocacao",
+      "forbidden_words": [
+        "labbra",
+        "tubetto",
+        "inverno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Salviette umidificate",
+      "forbidden_words": [
+        "pulizia",
+        "confezione",
+        "morbide"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Accappatoio",
+      "forbidden_words": [
+        "bagno",
+        "asciugarsi",
+        "cintura"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Cuffia da doccia",
+      "forbidden_words": [
+        "capelli",
+        "acqua",
+        "bagno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Dischetti di cotone",
+      "forbidden_words": [
+        "pulizia",
+        "viso",
+        "morbidi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Deodorante",
+      "forbidden_words": [
+        "ascelle",
+        "freschezza",
+        "spray"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Pediluvio",
+      "forbidden_words": [
+        "piedi",
+        "acqua",
+        "rilassarsi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Crema solare",
+      "forbidden_words": [
+        "spiaggia",
+        "protezione",
+        "pelle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Spazzola per abiti",
+      "forbidden_words": [
+        "tessuto",
+        "polvere",
+        "setole"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cura personale",
+      "sub_category": "Igiene e benessere",
+      "word": "Maschera per dormire",
+      "forbidden_words": [
+        "occhi",
+        "buio",
+        "riposo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Fare il bucato",
+      "forbidden_words": [
+        "lavatrice",
+        "panni",
+        "detersivo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Stendere le lenzuola",
+      "forbidden_words": [
+        "filo",
+        "asciugare",
+        "mollette"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Riordinare un cassetto",
+      "forbidden_words": [
+        "oggetti",
+        "dividere",
+        "sistemare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Rammendare un calzino",
+      "forbidden_words": [
+        "ago",
+        "filo",
+        "buco"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Impacchettare un regalo",
+      "forbidden_words": [
+        "carta",
+        "nastro",
+        "sorpresa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Scrivere una cartolina",
+      "forbidden_words": [
+        "viaggio",
+        "saluti",
+        "francobollo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Prenotare un tavolo",
+      "forbidden_words": [
+        "ristorante",
+        "telefonare",
+        "posto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Annaffiare le piante",
+      "forbidden_words": [
+        "acqua",
+        "vaso",
+        "terreno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Lucidare le scarpe",
+      "forbidden_words": [
+        "crema",
+        "spazzola",
+        "pelle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Raccogliere le foglie",
+      "forbidden_words": [
+        "autunno",
+        "rastrello",
+        "giardino"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Montare una tenda da campeggio",
+      "forbidden_words": [
+        "picchetti",
+        "telo",
+        "dormire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Riparare una cerniera",
+      "forbidden_words": [
+        "zip",
+        "giacca",
+        "scorrere"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Spedire un pacco",
+      "forbidden_words": [
+        "scatola",
+        "indirizzo",
+        "posta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Ordinare libri",
+      "forbidden_words": [
+        "scaffale",
+        "alfabeto",
+        "copertina"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Montare un mobile",
+      "forbidden_words": [
+        "istruzioni",
+        "pezzi",
+        "assemblare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Seminare il prato",
+      "forbidden_words": [
+        "terra",
+        "erba",
+        "giardino"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Compostare gli scarti",
+      "forbidden_words": [
+        "organico",
+        "terriccio",
+        "cucina"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Pulire il vetro",
+      "forbidden_words": [
+        "panno",
+        "trasparente",
+        "finestra"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Fare una treccia",
+      "forbidden_words": [
+        "capelli",
+        "intrecciare",
+        "ciocche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Vita quotidiana",
+      "sub_category": "Attività comuni",
+      "word": "Costruire un aquilone",
+      "forbidden_words": [
+        "vento",
+        "carta",
+        "spago"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Trasporti",
+      "sub_category": "Mezzi e servizi",
+      "word": "Catamarano",
+      "forbidden_words": [
+        "due scafi",
+        "vela",
+        "mare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Trasporti",
+      "sub_category": "Mezzi e servizi",
+      "word": "Ferrovia a cremagliera",
+      "forbidden_words": [
+        "treno",
+        "salita",
+        "denti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Trasporti",
+      "sub_category": "Mezzi e servizi",
+      "word": "Carrello portabagagli",
+      "forbidden_words": [
+        "aeroporto",
+        "valigie",
+        "ruote"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Trasporti",
+      "sub_category": "Mezzi e servizi",
+      "word": "Navetta elettrica",
+      "forbidden_words": [
+        "trasporto",
+        "breve",
+        "fermate"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Trasporti",
+      "sub_category": "Mezzi e servizi",
+      "word": "Treno regionale",
+      "forbidden_words": [
+        "fermate",
+        "pendolari",
+        "binari"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Trasporti",
+      "sub_category": "Mezzi e servizi",
+      "word": "Portabici",
+      "forbidden_words": [
+        "auto",
+        "supporto",
+        "due ruote"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Trasporti",
+      "sub_category": "Mezzi e servizi",
+      "word": "Zattera",
+      "forbidden_words": [
+        "galleggiare",
+        "legno",
+        "acqua"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Trasporti",
+      "sub_category": "Mezzi e servizi",
+      "word": "Passeggino",
+      "forbidden_words": [
+        "bambino",
+        "ruote",
+        "spingere"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Trasporti",
+      "sub_category": "Mezzi e servizi",
+      "word": "Carrello della spesa",
+      "forbidden_words": [
+        "supermercato",
+        "ruote",
+        "acquisti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Trasporti",
+      "sub_category": "Mezzi e servizi",
+      "word": "Furgone",
+      "forbidden_words": [
+        "consegne",
+        "veicolo",
+        "merci"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Trasporti",
+      "sub_category": "Mezzi e servizi",
+      "word": "Fermata a richiesta",
+      "forbidden_words": [
+        "pulsante",
+        "autobus",
+        "scendere"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Oggetti e fenomeni",
+      "word": "Planetario",
+      "forbidden_words": [
+        "stelle",
+        "cupola",
+        "proiezione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Oggetti e fenomeni",
+      "word": "Prisma ottico",
+      "forbidden_words": [
+        "luce",
+        "colori",
+        "triangolo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Oggetti e fenomeni",
+      "word": "Camera oscura",
+      "forbidden_words": [
+        "fotografia",
+        "sviluppo",
+        "buio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Oggetti e fenomeni",
+      "word": "Cartina tornasole",
+      "forbidden_words": [
+        "colore",
+        "acidità",
+        "laboratorio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Oggetti e fenomeni",
+      "word": "Pendolo",
+      "forbidden_words": [
+        "oscillare",
+        "filo",
+        "tempo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Oggetti e fenomeni",
+      "word": "Meridiano",
+      "forbidden_words": [
+        "globo",
+        "longitudine",
+        "mappa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Oggetti e fenomeni",
+      "word": "Roccia sedimentaria",
+      "forbidden_words": [
+        "strati",
+        "depositi",
+        "geologia"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Oggetti e fenomeni",
+      "word": "Quarzo",
+      "forbidden_words": [
+        "cristallo",
+        "minerale",
+        "trasparente"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Oggetti e fenomeni",
+      "word": "Ambra",
+      "forbidden_words": [
+        "resina",
+        "fossile",
+        "gialla"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Erbario",
+      "forbidden_words": [
+        "piante",
+        "essiccare",
+        "raccoglitore"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Orto verticale",
+      "forbidden_words": [
+        "parete",
+        "vasi",
+        "spazio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Semenzario",
+      "forbidden_words": [
+        "piantine",
+        "germinare",
+        "vaschetta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Impianto a goccia",
+      "forbidden_words": [
+        "irrigazione",
+        "tubicini",
+        "acqua"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Raccolta dell'acqua piovana",
+      "forbidden_words": [
+        "cisterna",
+        "tetto",
+        "riutilizzo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Casetta per insetti",
+      "forbidden_words": [
+        "giardino",
+        "rifugio",
+        "legno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Mulino ad acqua",
+      "forbidden_words": [
+        "ruota",
+        "corrente",
+        "macinare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Frantoio",
+      "forbidden_words": [
+        "olive",
+        "spremere",
+        "olio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Caseificio",
+      "forbidden_words": [
+        "latte",
+        "formaggi",
+        "produzione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Serra idroponica",
+      "forbidden_words": [
+        "piante",
+        "nutrienti",
+        "senza terra"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Essiccatoio",
+      "forbidden_words": [
+        "frutta",
+        "asciugare",
+        "aria"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente",
+      "sub_category": "Orto e sostenibilità",
+      "word": "Alveare didattico",
+      "forbidden_words": [
+        "api",
+        "osservare",
+        "favi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Pompelmo",
+      "forbidden_words": [
+        "agrumi",
+        "amaro",
+        "spicchi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Kiwi",
+      "forbidden_words": [
+        "verde",
+        "peloso",
+        "semi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Ciliegia",
+      "forbidden_words": [
+        "rossa",
+        "nocciolo",
+        "picciolo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Pesca",
+      "forbidden_words": [
+        "vellutata",
+        "frutto",
+        "nocciolo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Fragola",
+      "forbidden_words": [
+        "rossa",
+        "semi",
+        "dolce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Ananas",
+      "forbidden_words": [
+        "tropicale",
+        "corona",
+        "polpa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Anguria",
+      "forbidden_words": [
+        "estate",
+        "fette",
+        "semi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Cachi",
+      "forbidden_words": [
+        "autunno",
+        "arancione",
+        "morbido"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Rabarbaro",
+      "forbidden_words": [
+        "gambi",
+        "aspro",
+        "composta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Broccolo",
+      "forbidden_words": [
+        "verde",
+        "cimette",
+        "vapore"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Cavolo nero",
+      "forbidden_words": [
+        "foglie",
+        "zuppa",
+        "scuro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Patata dolce",
+      "forbidden_words": [
+        "tubero",
+        "arancione",
+        "forno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Funghi porcini",
+      "forbidden_words": [
+        "bosco",
+        "cappello",
+        "risotto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Fagioli cannellini",
+      "forbidden_words": [
+        "bianchi",
+        "legumi",
+        "zuppa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Alimentazione",
+      "sub_category": "Frutta e ortaggi",
+      "word": "Avena",
+      "forbidden_words": [
+        "fiocchi",
+        "cereale",
+        "colazione"
       ]
     }
   ],
