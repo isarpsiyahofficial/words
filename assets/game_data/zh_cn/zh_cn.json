@@ -5,7 +5,2985 @@
     "file_name": "zh_cn.json"
   },
   "items": {
-    "tabu": [],
+    "tabu": [
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "小笼包",
+        "forbidden_words": [
+          "蒸笼",
+          "汤汁",
+          "褶子"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "煎饼果子",
+        "forbidden_words": [
+          "薄饼",
+          "早餐",
+          "摊位"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "馄饨",
+        "forbidden_words": [
+          "面皮",
+          "清汤",
+          "馅料"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "米线",
+        "forbidden_words": [
+          "云南",
+          "细长",
+          "汤碗"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "凉皮",
+        "forbidden_words": [
+          "陕西",
+          "调料",
+          "爽口"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "年糕",
+        "forbidden_words": [
+          "糯米",
+          "软糯",
+          "切片"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "粽子",
+        "forbidden_words": [
+          "端午",
+          "竹叶",
+          "糯香"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "豆花",
+        "forbidden_words": [
+          "嫩滑",
+          "糖水",
+          "小碗"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "烧麦",
+        "forbidden_words": [
+          "蒸熟",
+          "开口",
+          "馅料"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "花卷",
+        "forbidden_words": [
+          "面团",
+          "蒸汽",
+          "层次"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "油条",
+        "forbidden_words": [
+          "早餐",
+          "酥脆",
+          "长条"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "馒头",
+        "forbidden_words": [
+          "面粉",
+          "发酵",
+          "蒸锅"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "烤红薯",
+        "forbidden_words": [
+          "冬天",
+          "香甜",
+          "街边"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "芝麻糊",
+        "forbidden_words": [
+          "黑色",
+          "香浓",
+          "冲泡"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "银耳羹",
+        "forbidden_words": [
+          "甜汤",
+          "胶质",
+          "莲子"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "绿豆汤",
+        "forbidden_words": [
+          "消暑",
+          "清凉",
+          "夏季"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "桂花糕",
+        "forbidden_words": [
+          "清香",
+          "点心",
+          "金黄"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "汤圆",
+        "forbidden_words": [
+          "元宵",
+          "圆润",
+          "甜馅"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "八宝粥",
+        "forbidden_words": [
+          "谷物",
+          "熬煮",
+          "早餐"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "家常风味",
+        "word": "豆腐脑",
+        "forbidden_words": [
+          "咸甜",
+          "嫩滑",
+          "早餐"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "砂锅",
+        "forbidden_words": [
+          "保温",
+          "陶制",
+          "慢炖"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "蒸屉",
+        "forbidden_words": [
+          "竹制",
+          "叠放",
+          "水汽"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "擀面杖",
+        "forbidden_words": [
+          "面团",
+          "滚动",
+          "圆柱"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "漏勺",
+        "forbidden_words": [
+          "捞起",
+          "沥水",
+          "网孔"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "案板",
+        "forbidden_words": [
+          "厨房",
+          "切菜",
+          "平面"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "饭盒",
+        "forbidden_words": [
+          "便当",
+          "分格",
+          "携带"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "保温杯",
+        "forbidden_words": [
+          "热水",
+          "密封",
+          "随身"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "茶壶",
+        "forbidden_words": [
+          "泡茶",
+          "壶嘴",
+          "倒水"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "瓷碗",
+        "forbidden_words": [
+          "盛饭",
+          "釉面",
+          "餐具"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "筷架",
+        "forbidden_words": [
+          "餐桌",
+          "摆放",
+          "支撑"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "豆芽",
+        "forbidden_words": [
+          "发芽",
+          "脆嫩",
+          "蔬菜"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "莲藕",
+        "forbidden_words": [
+          "池塘",
+          "孔洞",
+          "清脆"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "山药",
+        "forbidden_words": [
+          "根茎",
+          "黏滑",
+          "炖汤"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "荸荠",
+        "forbidden_words": [
+          "清甜",
+          "水生",
+          "脆口"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "香菇",
+        "forbidden_words": [
+          "菌类",
+          "伞盖",
+          "鲜味"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与餐具",
+        "word": "紫菜",
+        "forbidden_words": [
+          "海藻",
+          "汤料",
+          "薄片"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "鞋柜",
+        "forbidden_words": [
+          "玄关",
+          "收纳",
+          "隔层"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "衣架",
+        "forbidden_words": [
+          "晾晒",
+          "挂钩",
+          "衣服"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "抱枕",
+        "forbidden_words": [
+          "沙发",
+          "靠背",
+          "柔软"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "窗帘",
+        "forbidden_words": [
+          "遮光",
+          "轨道",
+          "布料"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "纱窗",
+        "forbidden_words": [
+          "蚊虫",
+          "通风",
+          "网格"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "门垫",
+        "forbidden_words": [
+          "入口",
+          "擦鞋",
+          "地面"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "地毯",
+        "forbidden_words": [
+          "客厅",
+          "绒毛",
+          "铺设"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "置物架",
+        "forbidden_words": [
+          "分层",
+          "整理",
+          "墙边"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "收纳箱",
+        "forbidden_words": [
+          "整理",
+          "盖子",
+          "杂物"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "晾衣杆",
+        "forbidden_words": [
+          "阳台",
+          "升降",
+          "挂晒"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "衣帽架",
+        "forbidden_words": [
+          "门口",
+          "外套",
+          "挂放"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "台灯",
+        "forbidden_words": [
+          "书桌",
+          "照明",
+          "灯罩"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "闹钟",
+        "forbidden_words": [
+          "起床",
+          "铃声",
+          "时间"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "靠垫",
+        "forbidden_words": [
+          "椅背",
+          "柔软",
+          "支撑"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "拖鞋",
+        "forbidden_words": [
+          "室内",
+          "脚步",
+          "舒适"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "收纳起居",
+        "word": "梳妆镜",
+        "forbidden_words": [
+          "照脸",
+          "桌面",
+          "反光"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "清洁工具",
+        "word": "扫帚",
+        "forbidden_words": [
+          "地面",
+          "清扫",
+          "簸箕"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "清洁工具",
+        "word": "拖把",
+        "forbidden_words": [
+          "地板",
+          "清洁",
+          "水桶"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "清洁工具",
+        "word": "抹布",
+        "forbidden_words": [
+          "擦拭",
+          "灰尘",
+          "湿润"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "清洁工具",
+        "word": "洗衣篮",
+        "forbidden_words": [
+          "脏衣",
+          "收集",
+          "提手"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "清洁工具",
+        "word": "晾衣夹",
+        "forbidden_words": [
+          "固定",
+          "衣物",
+          "阳台"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "清洁工具",
+        "word": "除尘掸",
+        "forbidden_words": [
+          "高处",
+          "灰尘",
+          "轻扫"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "清洁工具",
+        "word": "喷壶",
+        "forbidden_words": [
+          "浇花",
+          "细雾",
+          "按压"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "清洁工具",
+        "word": "量杯",
+        "forbidden_words": [
+          "刻度",
+          "液体",
+          "容量"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "清洁工具",
+        "word": "漏斗",
+        "forbidden_words": [
+          "瓶口",
+          "倒入",
+          "锥形"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "清洁工具",
+        "word": "洗手液",
+        "forbidden_words": [
+          "泡沫",
+          "清洁",
+          "按压"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "居家生活",
+        "sub_category": "清洁工具",
+        "word": "海绵",
+        "forbidden_words": [
+          "吸水",
+          "柔软",
+          "擦洗"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "地铁站",
+        "forbidden_words": [
+          "闸机",
+          "站台",
+          "列车"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "公交站牌",
+        "forbidden_words": [
+          "路线",
+          "候车",
+          "时刻"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "换乘通道",
+        "forbidden_words": [
+          "指示牌",
+          "步行",
+          "线路"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "高铁",
+        "forbidden_words": [
+          "车厢",
+          "速度",
+          "铁路"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "检票口",
+        "forbidden_words": [
+          "车票",
+          "进站",
+          "排队"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "候车室",
+        "forbidden_words": [
+          "座椅",
+          "发车",
+          "等待"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "共享单车",
+        "forbidden_words": [
+          "扫码",
+          "骑行",
+          "街头"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "斑马线",
+        "forbidden_words": [
+          "行人",
+          "过街",
+          "条纹"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "红绿灯",
+        "forbidden_words": [
+          "路口",
+          "信号",
+          "通行"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "人行天桥",
+        "forbidden_words": [
+          "跨越",
+          "马路",
+          "楼梯"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "电梯",
+        "forbidden_words": [
+          "楼层",
+          "按钮",
+          "升降"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "自动扶梯",
+        "forbidden_words": [
+          "商场",
+          "台阶",
+          "移动"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "行李箱",
+        "forbidden_words": [
+          "拉杆",
+          "轮子",
+          "旅行"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "站台屏蔽门",
+        "forbidden_words": [
+          "安全",
+          "轨道",
+          "玻璃"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "公交卡",
+        "forbidden_words": [
+          "刷卡",
+          "乘车",
+          "余额"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市出行",
+        "sub_category": "交通设施",
+        "word": "导航仪",
+        "forbidden_words": [
+          "路线",
+          "定位",
+          "地图"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "黑板擦",
+        "forbidden_words": [
+          "粉笔",
+          "擦除",
+          "讲台"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "文具盒",
+        "forbidden_words": [
+          "铅笔",
+          "收纳",
+          "课桌"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "橡皮",
+        "forbidden_words": [
+          "铅笔",
+          "擦错",
+          "作业"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "尺子",
+        "forbidden_words": [
+          "测量",
+          "直线",
+          "刻度"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "圆规",
+        "forbidden_words": [
+          "画圆",
+          "半径",
+          "数学"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "书签",
+        "forbidden_words": [
+          "阅读",
+          "夹页",
+          "标记"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "笔记本",
+        "forbidden_words": [
+          "记录",
+          "纸页",
+          "课堂"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "订书机",
+        "forbidden_words": [
+          "装订",
+          "纸张",
+          "金属钉"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "文件夹",
+        "forbidden_words": [
+          "资料",
+          "分类",
+          "办公"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "便签纸",
+        "forbidden_words": [
+          "提醒",
+          "粘贴",
+          "小张"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "书包",
+        "forbidden_words": [
+          "肩带",
+          "课本",
+          "上学"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "课表",
+        "forbidden_words": [
+          "课程",
+          "星期",
+          "安排"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "实验台",
+        "forbidden_words": [
+          "科学",
+          "操作",
+          "学校"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "地球仪",
+        "forbidden_words": [
+          "世界",
+          "球体",
+          "经纬"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "校园学习",
+        "sub_category": "课堂用品",
+        "word": "图书角",
+        "forbidden_words": [
+          "班级",
+          "阅读",
+          "书架"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "梯田",
+        "forbidden_words": [
+          "山坡",
+          "稻田",
+          "层层"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "竹林",
+        "forbidden_words": [
+          "青翠",
+          "竹竿",
+          "清幽"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "荷塘",
+        "forbidden_words": [
+          "夏日",
+          "水面",
+          "花叶"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "溪流",
+        "forbidden_words": [
+          "山间",
+          "清澈",
+          "潺潺"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "瀑布",
+        "forbidden_words": [
+          "水流",
+          "高处",
+          "飞溅"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "鹅卵石",
+        "forbidden_words": [
+          "河边",
+          "圆滑",
+          "石头"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "沙洲",
+        "forbidden_words": [
+          "河流",
+          "沉积",
+          "浅滩"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "芦苇荡",
+        "forbidden_words": [
+          "湿地",
+          "随风",
+          "摇曳"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "银杏叶",
+        "forbidden_words": [
+          "秋天",
+          "金黄",
+          "扇形"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "枫叶",
+        "forbidden_words": [
+          "深秋",
+          "变色",
+          "树木"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "松果",
+        "forbidden_words": [
+          "鳞片",
+          "种子",
+          "森林"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "蒲公英",
+        "forbidden_words": [
+          "绒球",
+          "随风",
+          "飘散"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "向日葵",
+        "forbidden_words": [
+          "花盘",
+          "阳光",
+          "黄色"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "牵牛花",
+        "forbidden_words": [
+          "藤蔓",
+          "喇叭",
+          "清晨"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "山水植物",
+        "word": "桂花树",
+        "forbidden_words": [
+          "秋香",
+          "小花",
+          "庭院"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "天气天空",
+        "word": "彩虹",
+        "forbidden_words": [
+          "雨后",
+          "七色",
+          "天空"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "天气天空",
+        "word": "晚霞",
+        "forbidden_words": [
+          "傍晚",
+          "云彩",
+          "绚丽"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "天气天空",
+        "word": "晨雾",
+        "forbidden_words": [
+          "清早",
+          "朦胧",
+          "山谷"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "天气天空",
+        "word": "露珠",
+        "forbidden_words": [
+          "清晨",
+          "草叶",
+          "晶莹"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "天气天空",
+        "word": "霜花",
+        "forbidden_words": [
+          "寒冷",
+          "窗户",
+          "结晶"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "天气天空",
+        "word": "微风",
+        "forbidden_words": [
+          "轻柔",
+          "吹拂",
+          "树叶"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "天气天空",
+        "word": "阵雨",
+        "forbidden_words": [
+          "短暂",
+          "降水",
+          "突然"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "天气天空",
+        "word": "雪花",
+        "forbidden_words": [
+          "冬季",
+          "飘落",
+          "六角"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "天气天空",
+        "word": "北斗七星",
+        "forbidden_words": [
+          "夜空",
+          "星座",
+          "勺形"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "天气天空",
+        "word": "流星",
+        "forbidden_words": [
+          "夜晚",
+          "划过",
+          "光迹"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "自然风景",
+        "sub_category": "天气天空",
+        "word": "云海",
+        "forbidden_words": [
+          "山顶",
+          "翻涌",
+          "白茫"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "春联",
+        "forbidden_words": [
+          "新年",
+          "门框",
+          "红纸"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "窗花",
+        "forbidden_words": [
+          "剪纸",
+          "贴窗",
+          "图案"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "灯笼",
+        "forbidden_words": [
+          "悬挂",
+          "节日",
+          "红色"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "舞狮",
+        "forbidden_words": [
+          "锣鼓",
+          "表演",
+          "狮头"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "龙舟",
+        "forbidden_words": [
+          "端午",
+          "划桨",
+          "竞渡"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "风筝",
+        "forbidden_words": [
+          "春天",
+          "放飞",
+          "线轴"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "香囊",
+        "forbidden_words": [
+          "端午",
+          "佩戴",
+          "香草"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "中国结",
+        "forbidden_words": [
+          "编绳",
+          "吉祥",
+          "装饰"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "团扇",
+        "forbidden_words": [
+          "圆形",
+          "扇面",
+          "清凉"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "折扇",
+        "forbidden_words": [
+          "展开",
+          "扇骨",
+          "纳凉"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "花灯",
+        "forbidden_words": [
+          "元宵",
+          "观赏",
+          "灯谜"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "月饼",
+        "forbidden_words": [
+          "中秋",
+          "圆形",
+          "馅料"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "灯谜",
+        "forbidden_words": [
+          "猜测",
+          "元宵",
+          "谜面"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "二十四节气",
+        "forbidden_words": [
+          "农时",
+          "季节",
+          "历法"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "剪纸",
+        "forbidden_words": [
+          "民俗",
+          "红纸",
+          "镂空"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "节令民俗",
+        "word": "皮影戏",
+        "forbidden_words": [
+          "幕布",
+          "光影",
+          "操纵"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "毛笔",
+        "forbidden_words": [
+          "书法",
+          "笔锋",
+          "蘸墨"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "宣纸",
+        "forbidden_words": [
+          "书画",
+          "吸墨",
+          "纸张"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "砚台",
+        "forbidden_words": [
+          "研墨",
+          "石制",
+          "文房"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "印章",
+        "forbidden_words": [
+          "盖印",
+          "姓名",
+          "刻字"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "篆刻",
+        "forbidden_words": [
+          "石料",
+          "雕刻",
+          "印文"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "书法",
+        "forbidden_words": [
+          "汉字",
+          "笔画",
+          "练习"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "国画",
+        "forbidden_words": [
+          "水墨",
+          "山水",
+          "画纸"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "陶艺",
+        "forbidden_words": [
+          "泥土",
+          "拉坯",
+          "窑炉"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "刺绣",
+        "forbidden_words": [
+          "针线",
+          "花纹",
+          "布面"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "扎染",
+        "forbidden_words": [
+          "布料",
+          "捆扎",
+          "染色"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "竹编",
+        "forbidden_words": [
+          "竹条",
+          "手工",
+          "篮筐"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "漆器",
+        "forbidden_words": [
+          "光泽",
+          "涂层",
+          "工艺"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "青花瓷",
+        "forbidden_words": [
+          "蓝白",
+          "瓷器",
+          "花纹"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统文化",
+        "sub_category": "书画手工",
+        "word": "折纸",
+        "forbidden_words": [
+          "纸张",
+          "手工",
+          "折叠"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "羽毛球",
+        "forbidden_words": [
+          "球拍",
+          "球网",
+          "双打"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "乒乓球",
+        "forbidden_words": [
+          "小球",
+          "球台",
+          "旋转"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "跳绳",
+        "forbidden_words": [
+          "节奏",
+          "双脚",
+          "绳子"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "踢毽子",
+        "forbidden_words": [
+          "羽毛",
+          "脚尖",
+          "计数"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "呼啦圈",
+        "forbidden_words": [
+          "腰部",
+          "转动",
+          "圆环"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "太极拳",
+        "forbidden_words": [
+          "缓慢",
+          "招式",
+          "养生"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "八段锦",
+        "forbidden_words": [
+          "舒展",
+          "呼吸",
+          "健身"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "广场舞",
+        "forbidden_words": [
+          "社区",
+          "音乐",
+          "队形"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "慢跑",
+        "forbidden_words": [
+          "晨练",
+          "步伐",
+          "耐力"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "瑜伽垫",
+        "forbidden_words": [
+          "伸展",
+          "防滑",
+          "地面"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "游泳圈",
+        "forbidden_words": [
+          "水上",
+          "漂浮",
+          "充气"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "泳镜",
+        "forbidden_words": [
+          "游泳",
+          "护眼",
+          "透明"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "登山杖",
+        "forbidden_words": [
+          "徒步",
+          "支撑",
+          "山路"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "运动水壶",
+        "forbidden_words": [
+          "补水",
+          "便携",
+          "锻炼"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "运动健身",
+        "sub_category": "休闲运动",
+        "word": "计步器",
+        "forbidden_words": [
+          "步数",
+          "运动",
+          "记录"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "菜市场",
+        "forbidden_words": [
+          "摊位",
+          "买菜",
+          "新鲜"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "社区食堂",
+        "forbidden_words": [
+          "邻里",
+          "就餐",
+          "便民"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "快递柜",
+        "forbidden_words": [
+          "取件",
+          "密码",
+          "包裹"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "图书馆",
+        "forbidden_words": [
+          "借阅",
+          "安静",
+          "书籍"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "博物馆",
+        "forbidden_words": [
+          "展览",
+          "文物",
+          "参观"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "科技馆",
+        "forbidden_words": [
+          "互动",
+          "科学",
+          "展品"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "植物园",
+        "forbidden_words": [
+          "花草",
+          "观赏",
+          "温室"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "公园长椅",
+        "forbidden_words": [
+          "休息",
+          "户外",
+          "座位"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "社区公告栏",
+        "forbidden_words": [
+          "通知",
+          "张贴",
+          "信息"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "便民服务站",
+        "forbidden_words": [
+          "居民",
+          "咨询",
+          "办事"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "垃圾分类桶",
+        "forbidden_words": [
+          "回收",
+          "投放",
+          "颜色"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "自动售货机",
+        "forbidden_words": [
+          "扫码",
+          "饮料",
+          "货架"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "充电宝",
+        "forbidden_words": [
+          "手机",
+          "续航",
+          "借还"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "城市生活",
+        "sub_category": "公共空间",
+        "word": "失物招领处",
+        "forbidden_words": [
+          "遗失",
+          "认领",
+          "物品"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "平板电脑",
+        "forbidden_words": [
+          "触屏",
+          "便携",
+          "屏幕"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "蓝牙耳机",
+        "forbidden_words": [
+          "无线",
+          "听音",
+          "配对"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "无线鼠标",
+        "forbidden_words": [
+          "光标",
+          "点击",
+          "电脑"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "键盘",
+        "forbidden_words": [
+          "打字",
+          "按键",
+          "输入"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "打印机",
+        "forbidden_words": [
+          "纸张",
+          "文档",
+          "输出"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "扫描仪",
+        "forbidden_words": [
+          "图像",
+          "文件",
+          "数字化"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "投影仪",
+        "forbidden_words": [
+          "幕布",
+          "画面",
+          "放映"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "路由器",
+        "forbidden_words": [
+          "网络",
+          "信号",
+          "无线"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "移动硬盘",
+        "forbidden_words": [
+          "存储",
+          "数据",
+          "外接"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "智能手环",
+        "forbidden_words": [
+          "腕部",
+          "运动",
+          "提醒"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "语音助手",
+        "forbidden_words": [
+          "说话",
+          "指令",
+          "设备"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "二维码",
+        "forbidden_words": [
+          "扫码",
+          "方格",
+          "识别"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "电子地图",
+        "forbidden_words": [
+          "定位",
+          "路线",
+          "导航"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数字生活",
+        "sub_category": "常见设备",
+        "word": "视频通话",
+        "forbidden_words": [
+          "远程",
+          "镜头",
+          "交流"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "秧苗",
+        "forbidden_words": [
+          "插田",
+          "嫩绿",
+          "水稻"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "稻穗",
+        "forbidden_words": [
+          "秋收",
+          "谷粒",
+          "金黄"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "麦田",
+        "forbidden_words": [
+          "庄稼",
+          "成熟",
+          "田野"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "菜畦",
+        "forbidden_words": [
+          "种植",
+          "整齐",
+          "泥土"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "育苗盘",
+        "forbidden_words": [
+          "幼苗",
+          "分格",
+          "培育"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "花盆",
+        "forbidden_words": [
+          "栽种",
+          "泥土",
+          "容器"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "园艺铲",
+        "forbidden_words": [
+          "翻土",
+          "种花",
+          "工具"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "洒水壶",
+        "forbidden_words": [
+          "浇灌",
+          "花草",
+          "细嘴"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "堆肥",
+        "forbidden_words": [
+          "有机",
+          "养土",
+          "落叶"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "温室大棚",
+        "forbidden_words": [
+          "保温",
+          "蔬菜",
+          "透明膜"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "果园",
+        "forbidden_words": [
+          "采摘",
+          "果树",
+          "丰收"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "田园生活",
+        "sub_category": "园艺农作",
+        "word": "葡萄架",
+        "forbidden_words": [
+          "藤蔓",
+          "攀爬",
+          "支撑"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "熊猫",
+        "forbidden_words": [
+          "竹子",
+          "黑白",
+          "圆滚"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "金鱼",
+        "forbidden_words": [
+          "鱼缸",
+          "游动",
+          "观赏"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "白鹭",
+        "forbidden_words": [
+          "水边",
+          "长腿",
+          "羽毛"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "燕子",
+        "forbidden_words": [
+          "屋檐",
+          "春天",
+          "飞翔"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "松鼠",
+        "forbidden_words": [
+          "尾巴",
+          "树枝",
+          "坚果"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "刺猬",
+        "forbidden_words": [
+          "卷起",
+          "背刺",
+          "小动物"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "蝴蝶",
+        "forbidden_words": [
+          "花丛",
+          "翅膀",
+          "翩飞"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "蜜蜂",
+        "forbidden_words": [
+          "采蜜",
+          "蜂巢",
+          "花朵"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "蜻蜓",
+        "forbidden_words": [
+          "池塘",
+          "透明翅",
+          "点水"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "蚂蚁",
+        "forbidden_words": [
+          "搬运",
+          "队伍",
+          "微小"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "海豚",
+        "forbidden_words": [
+          "海洋",
+          "聪明",
+          "跃出"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "动物世界",
+        "sub_category": "常见动物",
+        "word": "企鹅",
+        "forbidden_words": [
+          "南极",
+          "摇摆",
+          "黑白"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "拼图",
+        "forbidden_words": [
+          "碎片",
+          "拼接",
+          "图案"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "积木",
+        "forbidden_words": [
+          "搭建",
+          "方块",
+          "玩具"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "象棋",
+        "forbidden_words": [
+          "棋盘",
+          "楚河汉界",
+          "对弈"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "围棋",
+        "forbidden_words": [
+          "黑白",
+          "落子",
+          "棋盘"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "九连环",
+        "forbidden_words": [
+          "解开",
+          "金属环",
+          "益智"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "七巧板",
+        "forbidden_words": [
+          "图形",
+          "拼摆",
+          "几何"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "沙画",
+        "forbidden_words": [
+          "彩沙",
+          "瓶子",
+          "图案"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "拓印",
+        "forbidden_words": [
+          "纹理",
+          "纸面",
+          "复制"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "陶泥",
+        "forbidden_words": [
+          "捏塑",
+          "手感",
+          "造型"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "编织篮",
+        "forbidden_words": [
+          "藤条",
+          "收纳",
+          "手工"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "纸风车",
+        "forbidden_words": [
+          "转动",
+          "微风",
+          "彩纸"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "趣味活动",
+        "sub_category": "休闲手作",
+        "word": "万花筒",
+        "forbidden_words": [
+          "镜片",
+          "花纹",
+          "旋转"
+        ]
+      }
+    ],
     "sessiz_sinema": [
       {
         "game_type": "sessiz_sinema",
