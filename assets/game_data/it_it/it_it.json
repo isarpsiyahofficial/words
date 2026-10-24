@@ -16036,6 +16036,516 @@
       "difficulty": "difficile",
       "answer": "Ridondanza",
       "question": "Quale accorgimento mantiene componenti o copie aggiuntive per migliorare l'affidabilità di un sistema?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Meteorologia",
+      "sub_category": "Fenomeni atmosferici",
+      "difficulty": "medio",
+      "question": "Quale precipitazione è formata da piccoli granuli bianchi e friabili, prodotti dal congelamento di goccioline su cristalli di ghiaccio?",
+      "answer": "Neve tonda"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Meteorologia",
+      "sub_category": "Fenomeni atmosferici",
+      "difficulty": "medio",
+      "question": "Quale anello luminoso intorno al disco del Sole è prodotto da cristalli sospesi nell'alta atmosfera?",
+      "answer": "Alone solare"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Meteorologia",
+      "sub_category": "Fenomeni atmosferici",
+      "difficulty": "difficile",
+      "question": "Come si definisce la discesa lenta di grandi masse d'aria che tende a favorire condizioni stabili?",
+      "answer": "Subsidenza atmosferica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Meteorologia",
+      "sub_category": "Fenomeni atmosferici",
+      "difficulty": "medio",
+      "question": "Come si chiama la linea tracciata su una carta che unisce punti con la stessa temperatura?",
+      "answer": "Isoterma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e rilievi",
+      "difficulty": "medio",
+      "question": "Quale cavità cilindrica viene scavata nella roccia da ciottoli fatti ruotare dall'acqua corrente?",
+      "answer": "Marmitta dei giganti"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e rilievi",
+      "difficulty": "medio",
+      "question": "Quale aggettivo descrive un sedimento che contiene insieme argilla e carbonato di calcio?",
+      "answer": "Marnoso"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e rilievi",
+      "difficulty": "difficile",
+      "question": "Quale frattura nella roccia non presenta uno spostamento apprezzabile tra le pareti?",
+      "answer": "Diaclasi"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e rilievi",
+      "difficulty": "medio",
+      "question": "Quale arenaria grigia toscana viene impiegata tradizionalmente per cornici e colonne?",
+      "answer": "Pietra serena"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina regionale",
+      "sub_category": "Specialità italiane",
+      "difficulty": "medio",
+      "question": "Quale risotto piemontese tradizionale viene cucinato con fagioli e riso?",
+      "answer": "Panissa vercellese"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavorazioni tradizionali",
+      "difficulty": "medio",
+      "question": "Quale manufatto unisce pezzi colorati e traslucidi mediante sottili profilati metallici?",
+      "answer": "Vetrata piombata"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavorazioni tradizionali",
+      "difficulty": "difficile",
+      "question": "Quale tecnica realizza oggetti metallici usando un modello sacrificabile che viene sciolto prima della colata?",
+      "answer": "Fusione a cera persa"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavorazioni tradizionali",
+      "difficulty": "medio",
+      "question": "Come si chiama il mestiere di intrecciare vimini o altre fibre per ottenere recipienti?",
+      "answer": "Cesteria"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavorazioni tradizionali",
+      "difficulty": "medio",
+      "question": "Quale tecnica scava segni netti su una lastra metallica con uno strumento dalla punta affilata?",
+      "answer": "Incisione a bulino"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Lavorazioni tradizionali",
+      "difficulty": "medio",
+      "question": "Quale decorazione applica sottilissimi strati di metallo prezioso su cornici o mobili?",
+      "answer": "Doratura a foglia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Strutture e crescita",
+      "difficulty": "medio",
+      "question": "Come si chiama la piccola cicatrice che indica il punto di attacco del seme al frutto?",
+      "answer": "Ilo del seme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Strutture e crescita",
+      "difficulty": "medio",
+      "question": "Quale grande foglia modificata avvolge l'infiorescenza di molte aracee?",
+      "answer": "Spata"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Strutture e crescita",
+      "difficulty": "difficile",
+      "question": "Come si chiama la risposta di crescita degli organi vegetali alla forza di gravità?",
+      "answer": "Geotropismo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Osservazione del cielo",
+      "difficulty": "difficile",
+      "question": "Quale lento cambiamento di orientamento dell'asse terrestre avviene in migliaia di anni?",
+      "answer": "Precessione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Osservazione del cielo",
+      "difficulty": "difficile",
+      "question": "Quale apparente oscillazione consente di osservare nel tempo una porzione leggermente maggiore della superficie della Luna?",
+      "answer": "Librazione lunare"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Lingua italiana",
+      "sub_category": "Fenomeni linguistici",
+      "difficulty": "medio",
+      "question": "Quale gruppo di tre suoni vocalici appartiene a una sola sillaba?",
+      "answer": "Trittongo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Lingua italiana",
+      "sub_category": "Fenomeni linguistici",
+      "difficulty": "medio",
+      "question": "Quale relazione unisce parole uguali nella forma ma diverse nel significato?",
+      "answer": "Omonimia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Lingua italiana",
+      "sub_category": "Fenomeni linguistici",
+      "difficulty": "medio",
+      "question": "Come si chiama la maggiore intensità con cui si pronuncia una sillaba rispetto alle altre della stessa parola?",
+      "answer": "Accento tonico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Figure e misure",
+      "difficulty": "medio",
+      "question": "Quale retta passa per il punto medio di un segmento e gli è perpendicolare?",
+      "answer": "Mediatrice"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Figure e misure",
+      "difficulty": "medio",
+      "question": "Come si chiama il punto d'incontro delle tre altezze di un triangolo?",
+      "answer": "Ortocentro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Figure e misure",
+      "difficulty": "difficile",
+      "question": "Quale punto di un triangolo è equidistante dai suoi tre vertici?",
+      "answer": "Circocentro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Figure e misure",
+      "difficulty": "medio",
+      "question": "Quale punto interno di un triangolo è equidistante dai suoi tre lati?",
+      "answer": "Incentro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Figure e misure",
+      "difficulty": "medio",
+      "question": "Quale quadrilatero con una coppia di lati paralleli possiede i lati obliqui di uguale lunghezza?",
+      "answer": "Trapezio isoscele"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Biologia",
+      "sub_category": "Cellule e organismi",
+      "difficulty": "difficile",
+      "question": "Quale sottile canale attraversa la parete di due cellule vegetali vicine permettendo scambi diretti?",
+      "answer": "Plasmodesma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Biologia",
+      "sub_category": "Cellule e organismi",
+      "difficulty": "medio",
+      "question": "Quali brevi appendici mobili possono spostare liquidi sulla superficie di alcune cellule?",
+      "answer": "Ciglia cellulari"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Biologia",
+      "sub_category": "Cellule e organismi",
+      "difficulty": "medio",
+      "question": "Quale appendice lunga e mobile permette a numerosi microrganismi di nuotare?",
+      "answer": "Flagello"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Biologia",
+      "sub_category": "Cellule e organismi",
+      "difficulty": "medio",
+      "question": "Come si chiama il materiale interno alla cellula escluso il nucleo, che ospita numerosi organuli?",
+      "answer": "Citoplasma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Agricoltura",
+      "sub_category": "Cura delle colture",
+      "difficulty": "medio",
+      "question": "Quale metodo di propagazione inserisce una sola parte vegetativa dormiente sotto la corteccia di un portainnesto?",
+      "answer": "Innesto a gemma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Agricoltura",
+      "sub_category": "Cura delle colture",
+      "difficulty": "medio",
+      "question": "Quale gestione del frutteto mantiene una copertura erbosa stabile tra le file?",
+      "answer": "Inerbimento"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Agricoltura",
+      "sub_category": "Cura delle colture",
+      "difficulty": "medio",
+      "question": "Quale lavorazione manuale rivolta zolle di terra con un attrezzo dalla lama larga?",
+      "answer": "Vangatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque interne",
+      "sub_category": "Fiumi e idrologia",
+      "difficulty": "medio",
+      "question": "Quale sorgente artificiale della pianura padana fa emergere acqua di falda scavando fino allo strato saturo?",
+      "answer": "Fontanile"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque interne",
+      "sub_category": "Fiumi e idrologia",
+      "difficulty": "medio",
+      "question": "Come si chiama un piccolo canale artificiale usato soprattutto per distribuire acqua ai campi?",
+      "answer": "Roggia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque interne",
+      "sub_category": "Fiumi e idrologia",
+      "difficulty": "medio",
+      "question": "Quale strumento permette di misurare il livello dell'acqua in un fiume o in un canale?",
+      "answer": "Idrometro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque interne",
+      "sub_category": "Fiumi e idrologia",
+      "difficulty": "medio",
+      "question": "Quale canale devia parte della portata di un corso d'acqua durante le piene?",
+      "answer": "Scolmatore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque interne",
+      "sub_category": "Fiumi e idrologia",
+      "difficulty": "medio",
+      "question": "Come si chiama un piccolo canale artificiale che convoglia acqua verso un mulino?",
+      "answer": "Gora"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Elaborazione dei dati",
+      "difficulty": "difficile",
+      "question": "Quale operazione converte una descrizione vettoriale di forme in una griglia di pixel?",
+      "answer": "Rasterizzazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Elaborazione dei dati",
+      "difficulty": "medio",
+      "question": "Quale organizzazione di riferimenti permette di trovare più rapidamente informazioni in un archivio digitale?",
+      "answer": "Indicizzazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Elaborazione dei dati",
+      "difficulty": "medio",
+      "question": "Quale trasformazione rende il contenuto di un messaggio illeggibile senza la chiave appropriata?",
+      "answer": "Cifratura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Elaborazione dei dati",
+      "difficulty": "medio",
+      "question": "Quale funzione propone la parte restante di una parola mentre si sta digitando?",
+      "answer": "Autocompletamento"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Elaborazione dei dati",
+      "difficulty": "difficile",
+      "question": "Quale processo trasforma una struttura di dati in una sequenza adatta a essere salvata o trasmessa?",
+      "answer": "Serializzazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Elaborazione dei dati",
+      "difficulty": "medio",
+      "question": "Quale capacità permette a programmi di produttori diversi di scambiarsi informazioni e utilizzarle?",
+      "answer": "Interoperabilità"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Lettura delle mappe",
+      "difficulty": "difficile",
+      "question": "Quale sistema di riferimento definisce come associare coordinate alla forma della Terra?",
+      "answer": "Datum geodetico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Lettura delle mappe",
+      "difficulty": "medio",
+      "question": "Quale riquadro spiega il significato dei simboli e dei colori usati su una mappa?",
+      "answer": "Legenda cartografica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Lettura delle mappe",
+      "difficulty": "difficile",
+      "question": "Quale intervallo verticale costante separa due linee di livello successive in una carta topografica?",
+      "answer": "Equidistanza delle curve"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Lettura delle mappe",
+      "difficulty": "medio",
+      "question": "Come si chiama l'operazione di allineare una mappa alle direzioni effettive del territorio?",
+      "answer": "Orientamento"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Linguistica",
+      "sub_category": "Forme e significati",
+      "difficulty": "difficile",
+      "question": "Quale mutamento aggiunge uno o più suoni all'inizio di una parola?",
+      "answer": "Protesi fonetica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Linguistica",
+      "sub_category": "Forme e significati",
+      "difficulty": "medio",
+      "question": "Quale proprietà permette a una stessa parola di avere più significati collegati?",
+      "answer": "Polisemia"
     }
   ],
   "tabu": [
