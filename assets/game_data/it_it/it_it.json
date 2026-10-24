@@ -22515,13 +22515,13 @@
       "game_type": "tabu",
       "language": "Italiano",
       "locale": "it-IT",
-      "main_category": "Artigianato",
-      "sub_category": "Legno",
-      "word": "Pialla a mano",
+      "main_category": "Casa",
+      "sub_category": "Pulizia",
+      "word": "Spazzola per fughe",
       "forbidden_words": [
-        "trucioli",
-        "superficie",
-        "falegname"
+        "piastrelle",
+        "pulire",
+        "giunture"
       ]
     },
     {
@@ -22568,12 +22568,12 @@
       "language": "Italiano",
       "locale": "it-IT",
       "main_category": "Artigianato",
-      "sub_category": "Ceramica",
-      "word": "Engobbio ceramico",
+      "sub_category": "Legno",
+      "word": "Truschino da falegname",
       "forbidden_words": [
-        "rivestimento",
-        "colore",
-        "argilla"
+        "tracciare",
+        "legno",
+        "misura"
       ]
     },
     {
@@ -23126,13 +23126,13 @@
       "game_type": "tabu",
       "language": "Italiano",
       "locale": "it-IT",
-      "main_category": "Cucina",
-      "sub_category": "Tecniche",
-      "word": "Riduzione di salsa",
+      "main_category": "Artigianato",
+      "sub_category": "Carta",
+      "word": "Goffratura della carta",
       "forbidden_words": [
-        "evaporare",
-        "addensare",
-        "pentolino"
+        "rilievo",
+        "pressione",
+        "decorazione"
       ]
     },
     {
@@ -23477,13 +23477,13 @@
       "game_type": "tabu",
       "language": "Italiano",
       "locale": "it-IT",
-      "main_category": "Casa",
+      "main_category": "Ufficio",
       "sub_category": "Accessori",
-      "word": "Guarnizione per finestra",
+      "word": "Portatimbri girevole",
       "forbidden_words": [
-        "spifferi",
-        "gomma",
-        "isolamento"
+        "timbri",
+        "supporto",
+        "ruotare"
       ]
     },
     {
@@ -24231,13 +24231,13 @@
       "game_type": "tabu",
       "language": "Italiano",
       "locale": "it-IT",
-      "main_category": "Ufficio",
-      "sub_category": "Strumenti",
-      "word": "Divisori alfabetici",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "word": "Vassoio girevole",
       "forbidden_words": [
-        "archivio",
-        "lettere",
-        "schede"
+        "servire",
+        "ruotare",
+        "piatti"
       ]
     },
     {
@@ -24337,11 +24337,11 @@
       "locale": "it-IT",
       "main_category": "Cucina",
       "sub_category": "Tecniche",
-      "word": "Cottura al sale",
+      "word": "Montatura a neve",
       "forbidden_words": [
-        "forno",
-        "crosta",
-        "pesce"
+        "albumi",
+        "frusta",
+        "spuma"
       ]
     },
     {
@@ -24381,6 +24381,1085 @@
         "olio",
         "aromi",
         "padella"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Coste",
+      "word": "Falesia marina",
+      "forbidden_words": [
+        "scogliera",
+        "onde",
+        "parete"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Idrografia",
+      "word": "Bacino endoreico",
+      "forbidden_words": [
+        "acqua",
+        "chiuso",
+        "deflusso"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Montagna",
+      "word": "Sella montana",
+      "forbidden_words": [
+        "valico",
+        "cime",
+        "depressione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Boschi",
+      "word": "Radura boschiva",
+      "forbidden_words": [
+        "alberi",
+        "apertura",
+        "prato"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Idrografia",
+      "word": "Isola fluviale",
+      "forbidden_words": [
+        "fiume",
+        "terra",
+        "corrente"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Carsismo",
+      "word": "Sorgente carsica",
+      "forbidden_words": [
+        "acqua",
+        "calcare",
+        "sotterranea"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Rilievi",
+      "word": "Deposito morenico",
+      "forbidden_words": [
+        "detriti",
+        "ghiacciaio",
+        "accumulo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Montagna",
+      "word": "Cresta montuosa",
+      "forbidden_words": [
+        "cime",
+        "crinale",
+        "quota"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Rilievi",
+      "word": "Terrazzamento agricolo",
+      "forbidden_words": [
+        "collina",
+        "gradoni",
+        "coltivare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Montagna",
+      "word": "Passo alpino",
+      "forbidden_words": [
+        "valico",
+        "montagne",
+        "strada"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia",
+      "sub_category": "Coste",
+      "word": "Cordone litoraneo",
+      "forbidden_words": [
+        "sabbia",
+        "costa",
+        "laguna"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Uccelli",
+      "word": "Rampichino",
+      "forbidden_words": [
+        "corteccia",
+        "albero",
+        "insetti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Uccelli",
+      "word": "Saltimpalo",
+      "forbidden_words": [
+        "posatoio",
+        "prato",
+        "canto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Uccelli",
+      "word": "Nitticora",
+      "forbidden_words": [
+        "airone",
+        "notte",
+        "stagno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Uccelli",
+      "word": "Avocetta",
+      "forbidden_words": [
+        "becco",
+        "ricurvo",
+        "laguna"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Uccelli",
+      "word": "Pernice bianca",
+      "forbidden_words": [
+        "montagna",
+        "piumaggio",
+        "inverno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Animali",
+      "sub_category": "Uccelli",
+      "word": "Fratino",
+      "forbidden_words": [
+        "spiaggia",
+        "nido",
+        "piccolo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Rampicanti",
+      "word": "Clematide",
+      "forbidden_words": [
+        "fiori",
+        "rampicante",
+        "pergola"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Arbusti",
+      "word": "Viburno",
+      "forbidden_words": [
+        "bacche",
+        "siepe",
+        "arbusto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Palustri",
+      "word": "Salicornia",
+      "forbidden_words": [
+        "sale",
+        "costa",
+        "pianta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Palustri",
+      "word": "Canna palustre",
+      "forbidden_words": [
+        "fusto",
+        "acqua",
+        "stagno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Palustri",
+      "word": "Giunco",
+      "forbidden_words": [
+        "steli",
+        "umido",
+        "intreccio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Alberi",
+      "word": "Farnia",
+      "forbidden_words": [
+        "quercia",
+        "ghiande",
+        "bosco"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Alberi",
+      "word": "Frassino",
+      "forbidden_words": [
+        "foglie",
+        "legno",
+        "albero"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Fisica",
+      "word": "Induzione elettromagnetica",
+      "forbidden_words": [
+        "corrente",
+        "campo",
+        "bobina"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Chimica",
+      "word": "Diffusione molecolare",
+      "forbidden_words": [
+        "particelle",
+        "concentrazione",
+        "mescolanza"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Chimica",
+      "word": "Decantazione",
+      "forbidden_words": [
+        "separare",
+        "sedimento",
+        "liquido"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Chimica",
+      "word": "Adsorbimento",
+      "forbidden_words": [
+        "superficie",
+        "molecole",
+        "adesione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Ottica",
+      "word": "Interferenza",
+      "forbidden_words": [
+        "onde",
+        "sovrapposizione",
+        "frange"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Fisica",
+      "word": "Energia cinetica",
+      "forbidden_words": [
+        "movimento",
+        "velocità",
+        "massa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Fisica",
+      "word": "Inerzia",
+      "forbidden_words": [
+        "corpo",
+        "movimento",
+        "resistenza"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Fisica",
+      "word": "Equilibrio idrostatico",
+      "forbidden_words": [
+        "pressione",
+        "liquido",
+        "quiete"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Elettricità",
+      "word": "Circuito in serie",
+      "forbidden_words": [
+        "componenti",
+        "corrente",
+        "collegamento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Elettricità",
+      "word": "Circuito in parallelo",
+      "forbidden_words": [
+        "rami",
+        "tensione",
+        "collegamento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Elettricità",
+      "word": "Resistenza elettrica",
+      "forbidden_words": [
+        "ohm",
+        "corrente",
+        "opposizione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza",
+      "sub_category": "Fisica",
+      "word": "Conducibilità termica",
+      "forbidden_words": [
+        "calore",
+        "materiale",
+        "trasferimento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Carta",
+      "word": "Legatura copta",
+      "forbidden_words": [
+        "quaderni",
+        "cucitura",
+        "dorso"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Metallo",
+      "word": "Lavorazione a sbalzo",
+      "forbidden_words": [
+        "rilievo",
+        "lamina",
+        "pressione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Ceramica",
+      "word": "Sgraffito",
+      "forbidden_words": [
+        "graffiare",
+        "strati",
+        "decorazione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Cucito",
+      "word": "Impuntura",
+      "forbidden_words": [
+        "cucitura",
+        "bordo",
+        "filo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Ricamo",
+      "word": "Punto catenella",
+      "forbidden_words": [
+        "filo",
+        "anelli",
+        "ricamo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Cucito",
+      "word": "Orlo arrotolato",
+      "forbidden_words": [
+        "bordo",
+        "tessuto",
+        "cucire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Tessile",
+      "word": "Infeltrimento della lana",
+      "forbidden_words": [
+        "fibre",
+        "acqua",
+        "compattare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Cucito",
+      "word": "Asola a mano",
+      "forbidden_words": [
+        "bottone",
+        "filo",
+        "apertura"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Cucina",
+      "word": "Portarotolo da cucina",
+      "forbidden_words": [
+        "carta",
+        "supporto",
+        "strappare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Camera",
+      "word": "Fodera per materasso",
+      "forbidden_words": [
+        "letto",
+        "tessuto",
+        "protezione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Organizzazione",
+      "word": "Divisorio per armadio",
+      "forbidden_words": [
+        "ripiani",
+        "vestiti",
+        "separare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Camera",
+      "word": "Copripiumino",
+      "forbidden_words": [
+        "letto",
+        "fodera",
+        "imbottitura"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "word": "Raschietto per impasto",
+      "forbidden_words": [
+        "farina",
+        "banco",
+        "raschiare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "word": "Frusta a spirale",
+      "forbidden_words": [
+        "mescolare",
+        "metallo",
+        "impasto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "word": "Passaverdure",
+      "forbidden_words": [
+        "manovella",
+        "purea",
+        "setaccio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Piatti regionali",
+      "word": "Frico friulano",
+      "forbidden_words": [
+        "formaggio",
+        "patate",
+        "croccante"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Piatti regionali",
+      "word": "Cialzons carnici",
+      "forbidden_words": [
+        "ravioli",
+        "erbe",
+        "Friuli"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Piatti regionali",
+      "word": "Torta pasqualina",
+      "forbidden_words": [
+        "sfoglia",
+        "erbette",
+        "uova"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Piatti regionali",
+      "word": "Pasta e ceci",
+      "forbidden_words": [
+        "legumi",
+        "brodo",
+        "primo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Tecniche",
+      "word": "Cottura in cocotte",
+      "forbidden_words": [
+        "forno",
+        "recipiente",
+        "coperchio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Mobilità",
+      "word": "Bus navetta",
+      "forbidden_words": [
+        "collegamento",
+        "breve",
+        "passeggeri"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Città",
+      "sub_category": "Ambiente",
+      "word": "Tetto verde",
+      "forbidden_words": [
+        "edificio",
+        "vegetazione",
+        "isolamento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ufficio",
+      "sub_category": "Organizzazione",
+      "word": "Etichette adesive",
+      "forbidden_words": [
+        "scrivere",
+        "identificare",
+        "incollare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ufficio",
+      "sub_category": "Strumenti",
+      "word": "Cucitrice da ufficio",
+      "forbidden_words": [
+        "fogli",
+        "punti",
+        "unire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ufficio",
+      "sub_category": "Cartoleria",
+      "word": "Cartella portadisegni",
+      "forbidden_words": [
+        "fogli",
+        "grandi",
+        "trasportare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ufficio",
+      "sub_category": "Cartoleria",
+      "word": "Matita copiativa",
+      "forbidden_words": [
+        "grafite",
+        "segno",
+        "documento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ufficio",
+      "sub_category": "Accessori",
+      "word": "Custodia per badge",
+      "forbidden_words": [
+        "tessera",
+        "identificazione",
+        "plastica"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ufficio",
+      "sub_category": "Accessori",
+      "word": "Tappetino per mouse",
+      "forbidden_words": [
+        "scrivania",
+        "scorrere",
+        "computer"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ufficio",
+      "sub_category": "Strumenti",
+      "word": "Calcolatrice da tavolo",
+      "forbidden_words": [
+        "numeri",
+        "operazioni",
+        "tasti"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Attrezzatura",
+      "word": "Borsa termica",
+      "forbidden_words": [
+        "freddo",
+        "trasporto",
+        "cibo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Attrezzatura",
+      "word": "Sacca impermeabile",
+      "forbidden_words": [
+        "asciutto",
+        "oggetti",
+        "pioggia"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Orientamento",
+      "word": "Portamappa",
+      "forbidden_words": [
+        "cartina",
+        "proteggere",
+        "percorso"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Bagagli",
+      "word": "Bilancia per bagagli",
+      "forbidden_words": [
+        "peso",
+        "valigia",
+        "aeroporto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Campeggio",
+      "word": "Materassino autogonfiante",
+      "forbidden_words": [
+        "dormire",
+        "aria",
+        "isolante"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Bagagli",
+      "word": "Sacca di compressione",
+      "forbidden_words": [
+        "vestiti",
+        "spazio",
+        "bagaglio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Viaggi",
+      "sub_category": "Campeggio",
+      "word": "Fornello da campeggio",
+      "forbidden_words": [
+        "cucinare",
+        "portatile",
+        "escursione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Musica",
+      "sub_category": "Strumenti",
+      "word": "Accordatore cromatico",
+      "forbidden_words": [
+        "frequenza",
+        "nota",
+        "strumento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Musica",
+      "sub_category": "Strumenti",
+      "word": "Plettro",
+      "forbidden_words": [
+        "corde",
+        "mano",
+        "chitarra"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Musica",
+      "sub_category": "Strumenti",
+      "word": "Capotasto mobile",
+      "forbidden_words": [
+        "chitarra",
+        "tasti",
+        "accordi"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Musica",
+      "sub_category": "Strumenti",
+      "word": "Sordina per violino",
+      "forbidden_words": [
+        "suono",
+        "attenuare",
+        "archetto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Musica",
+      "sub_category": "Strumenti",
+      "word": "Cassa armonica",
+      "forbidden_words": [
+        "risonanza",
+        "strumento",
+        "suono"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Musica",
+      "sub_category": "Strumenti",
+      "word": "Ancia doppia",
+      "forbidden_words": [
+        "fiato",
+        "vibrazione",
+        "oboe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Musica",
+      "sub_category": "Strumenti",
+      "word": "Zampogna",
+      "forbidden_words": [
+        "otre",
+        "fiato",
+        "tradizione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Musica",
+      "sub_category": "Strumenti",
+      "word": "Organetto",
+      "forbidden_words": [
+        "mantice",
+        "bottoni",
+        "melodia"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Musica",
+      "sub_category": "Strumenti",
+      "word": "Chitarra battente",
+      "forbidden_words": [
+        "corde",
+        "ritmo",
+        "tradizione"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Musica",
+      "sub_category": "Strumenti",
+      "word": "Corno inglese",
+      "forbidden_words": [
+        "oboe",
+        "fiato",
+        "grave"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Musica",
+      "sub_category": "Teoria",
+      "word": "Contrattempo",
+      "forbidden_words": [
+        "ritmo",
+        "accento",
+        "battuta"
       ]
     }
   ],
