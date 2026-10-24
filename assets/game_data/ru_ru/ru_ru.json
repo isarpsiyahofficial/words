@@ -36210,6 +36210,706 @@
         "difficulty": "средняя",
         "question": "Как называется устойчивое сочетание слов с целостным значением, например «как с гуся вода»?",
         "answer": "Фразеологизм"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геология",
+        "sub_category": "Горные породы и пещеры",
+        "difficulty": "сложная",
+        "question": "Как называют раскалённую расплавленную массу горных пород, находящуюся под земной поверхностью?",
+        "answer": "Магма"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геология",
+        "sub_category": "Горные породы и пещеры",
+        "difficulty": "средняя",
+        "question": "Как называется расплавленная горная масса после выхода на поверхность при извержении вулкана?",
+        "answer": "Лава"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геология",
+        "sub_category": "Горные породы и пещеры",
+        "difficulty": "средняя",
+        "question": "Какая зернистая магматическая порода обычно состоит из кварца, полевого шпата и слюды?",
+        "answer": "Гранит"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геология",
+        "sub_category": "Горные породы и пещеры",
+        "difficulty": "лёгкая",
+        "question": "Какую тёмную мелкозернистую породу часто образует быстро остывшая вулканическая масса?",
+        "answer": "Базальт"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геология",
+        "sub_category": "Горные породы и пещеры",
+        "difficulty": "средняя",
+        "question": "Как называется природное вулканическое стекло, возникающее при очень быстром остывании расплава?",
+        "answer": "Обсидиан"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геология",
+        "sub_category": "Горные породы и пещеры",
+        "difficulty": "средняя",
+        "question": "Какая лёгкая пористая вулканическая порода иногда способна держаться на поверхности воды?",
+        "answer": "Пемза"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геология",
+        "sub_category": "Горные породы и пещеры",
+        "difficulty": "лёгкая",
+        "question": "Какая осадочная порода преимущественно состоит из карбоната кальция и нередко содержит окаменелости?",
+        "answer": "Известняк"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геология",
+        "sub_category": "Горные породы и пещеры",
+        "difficulty": "сложная",
+        "question": "Какая декоративная метаморфическая порода возникает при перекристаллизации известняка?",
+        "answer": "Мрамор"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геология",
+        "sub_category": "Горные породы и пещеры",
+        "difficulty": "средняя",
+        "question": "Как называется минеральный натёк, который свисает с потолка карстовой пещеры?",
+        "answer": "Сталактит"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геология",
+        "sub_category": "Горные породы и пещеры",
+        "difficulty": "лёгкая",
+        "question": "Как называется минеральный натёк, который растёт вверх со дна карстовой пещеры?",
+        "answer": "Сталагмит"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Морская география",
+        "sub_category": "Берег и океан",
+        "difficulty": "средняя",
+        "question": "Как называется периодическое повышение уровня моря под действием притяжения Луны и Солнца?",
+        "answer": "Прилив"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Морская география",
+        "sub_category": "Берег и океан",
+        "difficulty": "средняя",
+        "question": "Как называется периодическое понижение уровня моря между двумя его подъёмами?",
+        "answer": "Отлив"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Морская география",
+        "sub_category": "Берег и океан",
+        "difficulty": "лёгкая",
+        "question": "Как называется сравнительно мелководная подводная окраина материка до резкого увеличения глубины?",
+        "answer": "Шельф"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Морская география",
+        "sub_category": "Берег и океан",
+        "difficulty": "средняя",
+        "question": "Как называют протяжённое подводное или выступающее над водой образование из кораллов либо скальных пород?",
+        "answer": "Риф"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Морская география",
+        "sub_category": "Берег и океан",
+        "difficulty": "сложная",
+        "question": "Как называется кольцеобразный коралловый остров, окружающий внутреннюю лагуну?",
+        "answer": "Атолл"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Морская география",
+        "sub_category": "Берег и океан",
+        "difficulty": "лёгкая",
+        "question": "Как называют узкое водное пространство между участками суши, соединяющее два крупных водоёма?",
+        "answer": "Пролив"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Морская география",
+        "sub_category": "Берег и океан",
+        "difficulty": "средняя",
+        "question": "Как называется небольшой защищённый от волн и ветра участок моря, вдающийся в берег?",
+        "answer": "Бухта"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Морская география",
+        "sub_category": "Берег и океан",
+        "difficulty": "средняя",
+        "question": "Как называется расширенное устье реки, частично отделённое от моря песчаной пересыпью?",
+        "answer": "Лиман"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Морская география",
+        "sub_category": "Берег и океан",
+        "difficulty": "лёгкая",
+        "question": "Как называют длинную узкую полосу песка, которая выступает от берега в водоём?",
+        "answer": "Коса"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Морская география",
+        "sub_category": "Берег и океан",
+        "difficulty": "средняя",
+        "question": "Как называется полоса волн, которые с шумом разрушаются непосредственно у берега?",
+        "answer": "Прибой"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Карты и ориентиры",
+        "difficulty": "средняя",
+        "question": "Как называется воображаемая дуга на глобусе, проходящая через оба географических полюса?",
+        "answer": "Меридиан"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Карты и ориентиры",
+        "difficulty": "сложная",
+        "question": "Как называется воображаемая окружность на глобусе, все точки которой имеют одинаковую географическую широту?",
+        "answer": "Параллель"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Карты и ориентиры",
+        "difficulty": "средняя",
+        "question": "Как называется главная воображаемая окружность Земли, одинаково удалённая от обоих полюсов?",
+        "answer": "Экватор"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Карты и ориентиры",
+        "difficulty": "средняя",
+        "question": "Как называют угол, отсчитываемый по часовой стрелке от направления на север до направления на объект?",
+        "answer": "Азимут"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Карты и ориентиры",
+        "difficulty": "лёгкая",
+        "question": "Как называется прибор с намагниченной стрелкой для определения сторон света?",
+        "answer": "Компас"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Карты и ориентиры",
+        "difficulty": "средняя",
+        "question": "Как называется тематическая карта, где территории закрашены с разной интенсивностью в зависимости от числового показателя?",
+        "answer": "Картограмма"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Карты и ориентиры",
+        "difficulty": "средняя",
+        "question": "Как называется математический способ изображения шарообразной поверхности Земли на плоскости?",
+        "answer": "Картографическая проекция"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Карты и ориентиры",
+        "difficulty": "лёгкая",
+        "question": "Как называется линия на метеорологической карте, соединяющая точки одинакового атмосферного давления?",
+        "answer": "Изобара"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Карты и ориентиры",
+        "difficulty": "сложная",
+        "question": "Как называется линия на карте, соединяющая точки с одинаковой температурой воздуха?",
+        "answer": "Изотерма"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Карты и ориентиры",
+        "difficulty": "средняя",
+        "question": "Как называется пояснительный блок, в котором раскрывается значение условных знаков на географическом изображении?",
+        "answer": "Легенда карты"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Книжное дело",
+        "sub_category": "Устройство издания",
+        "difficulty": "лёгкая",
+        "question": "Как называется прочная внешняя конструкция книги, соединяющая страницы в единый блок?",
+        "answer": "Переплёт"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Книжное дело",
+        "sub_category": "Устройство издания",
+        "difficulty": "средняя",
+        "question": "Как называется узкая боковая часть книги, на которой часто печатают название и имя автора?",
+        "answer": "Корешок"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Книжное дело",
+        "sub_category": "Устройство издания",
+        "difficulty": "средняя",
+        "question": "Как называется двойной плотный лист, соединяющий книжный блок с внутренней стороной твёрдой обложки?",
+        "answer": "Форзац"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Книжное дело",
+        "sub_category": "Устройство издания",
+        "difficulty": "лёгкая",
+        "question": "Как называется начальная страница издания, где указаны его название, автор и выходные сведения?",
+        "answer": "Титульный лист"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Книжное дело",
+        "sub_category": "Устройство издания",
+        "difficulty": "средняя",
+        "question": "Как называется перечень глав и разделов книги с указанием страниц их начала?",
+        "answer": "Оглавление"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Книжное дело",
+        "sub_category": "Устройство издания",
+        "difficulty": "сложная",
+        "question": "Как называется поясняющее примечание, помещённое обычно внизу страницы?",
+        "answer": "Сноска"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Книжное дело",
+        "sub_category": "Устройство издания",
+        "difficulty": "лёгкая",
+        "question": "Как называется упорядоченный список использованных или рекомендуемых источников в конце научной работы?",
+        "answer": "Библиография"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Книжное дело",
+        "sub_category": "Устройство издания",
+        "difficulty": "средняя",
+        "question": "Как называется тонкая полоска бумаги или ткани, которую кладут между страницами, чтобы запомнить место чтения?",
+        "answer": "Закладка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Книжное дело",
+        "sub_category": "Устройство издания",
+        "difficulty": "средняя",
+        "question": "Как называется общее количество экземпляров одного выпуска печатного издания?",
+        "answer": "Тираж"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Книжное дело",
+        "sub_category": "Устройство издания",
+        "difficulty": "лёгкая",
+        "question": "Как называется специалист, который перед печатью исправляет опечатки и ошибки в наборе?",
+        "answer": "Корректор"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Текстиль и одежда",
+        "sub_category": "Материалы и уход",
+        "difficulty": "средняя",
+        "question": "Как называется бытовой прибор с нагреваемой плоской подошвой для разглаживания ткани?",
+        "answer": "Утюг"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Текстиль и одежда",
+        "sub_category": "Материалы и уход",
+        "difficulty": "средняя",
+        "question": "Как называется прибор, разглаживающий висящую одежду направленной струёй горячего пара?",
+        "answer": "Отпариватель"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Текстиль и одежда",
+        "sub_category": "Материалы и уход",
+        "difficulty": "сложная",
+        "question": "Как называется натуральное текстильное волокно, получаемое из стеблей одноимённого растения с голубыми цветками?",
+        "answer": "Лён"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Текстиль и одежда",
+        "sub_category": "Материалы и уход",
+        "difficulty": "средняя",
+        "question": "Как называется растительное сырьё для ткани, состоящее из мягких волокон вокруг семян коробочки?",
+        "answer": "Хлопок"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Текстиль и одежда",
+        "sub_category": "Материалы и уход",
+        "difficulty": "средняя",
+        "question": "Как называется текстильное волокно животного происхождения, которое получают при стрижке овец?",
+        "answer": "Шерсть"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Текстиль и одежда",
+        "sub_category": "Материалы и уход",
+        "difficulty": "лёгкая",
+        "question": "Как называется плотный нетканый материал, получаемый сваливанием волокон без обычного переплетения нитей?",
+        "answer": "Войлок"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Текстиль и одежда",
+        "sub_category": "Материалы и уход",
+        "difficulty": "средняя",
+        "question": "Как называется ажурный декоративный материал с узором из переплетённых нитей и просветов?",
+        "answer": "Кружево"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Текстиль и одежда",
+        "sub_category": "Материалы и уход",
+        "difficulty": "средняя",
+        "question": "Как называется декоративная отделка по краю ткани из свободно свисающих нитей или кисточек?",
+        "answer": "Бахрома"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Текстиль и одежда",
+        "sub_category": "Материалы и уход",
+        "difficulty": "лёгкая",
+        "question": "Как называется внутренний слой ткани в пальто или жакете, закрывающий швы и облегчающий надевание?",
+        "answer": "Подкладка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Текстиль и одежда",
+        "sub_category": "Материалы и уход",
+        "difficulty": "сложная",
+        "question": "Как называется сетчатая тканевая основа с равномерными клетками для вышивки крестом?",
+        "answer": "Канва"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Лесная экология",
+        "sub_category": "Лесные сообщества",
+        "difficulty": "средняя",
+        "question": "Как называется ярус кустарников и невысоких деревьев под пологом взрослого леса?",
+        "answer": "Подлесок"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Лесная экология",
+        "sub_category": "Лесные сообщества",
+        "difficulty": "лёгкая",
+        "question": "Как называется поверхностный слой почвы в лесу из опавших листьев, хвои и мелких веточек?",
+        "answer": "Лесная подстилка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Лесная экология",
+        "sub_category": "Лесные сообщества",
+        "difficulty": "средняя",
+        "question": "Как называется организм, образованный тесным совместным существованием гриба и водоросли либо цианобактерии?",
+        "answer": "Лишайник"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Лесная экология",
+        "sub_category": "Лесные сообщества",
+        "difficulty": "средняя",
+        "question": "Как называется небольшое споровое растение без настоящих корней, образующее мягкий зелёный ковёр на влажной почве?",
+        "answer": "Мох"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Лесная экология",
+        "sub_category": "Лесные сообщества",
+        "difficulty": "лёгкая",
+        "question": "Как называется сеть тончайших нитей гриба, которая разрастается внутри почвы или древесины?",
+        "answer": "Мицелий"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Лесная экология",
+        "sub_category": "Лесные сообщества",
+        "difficulty": "средняя",
+        "question": "Как называется взаимовыгодное соединение грибных нитей с корнями высших растений?",
+        "answer": "Микориза"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Лесная экология",
+        "sub_category": "Лесные сообщества",
+        "difficulty": "сложная",
+        "question": "Как называется процесс, при котором зелёные растения с помощью солнечной энергии образуют органические вещества из воды и углекислого газа?",
+        "answer": "Фотосинтез"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Лесная экология",
+        "sub_category": "Лесные сообщества",
+        "difficulty": "лёгкая",
+        "question": "Как называется естественная полость внутри ствола дерева, где часто селятся птицы?",
+        "answer": "Дупло"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Лесная экология",
+        "sub_category": "Лесные сообщества",
+        "difficulty": "средняя",
+        "question": "Как называют лежащие на земле упавшие стволы и крупные ветви в лесу?",
+        "answer": "Валежник"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Лесная экология",
+        "sub_category": "Лесные сообщества",
+        "difficulty": "средняя",
+        "question": "Как называется засохшее дерево, которое продолжает стоять на корню?",
+        "answer": "Сухостой"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Приготовление выпечки",
+        "difficulty": "лёгкая",
+        "question": "Как называется этап приготовления теста, когда ингредиенты соединяют и тщательно вымешивают до однородности?",
+        "answer": "Замес"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Приготовление выпечки",
+        "difficulty": "средняя",
+        "question": "Как называется выдерживание сформованных заготовок перед выпечкой, чтобы они увеличились в объёме?",
+        "answer": "Расстойка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Приготовление выпечки",
+        "difficulty": "средняя",
+        "question": "Как называется краткое повторное вымешивание бродящего теста для удаления части газа и перераспределения его пузырьков?",
+        "answer": "Обминка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Приготовление выпечки",
+        "difficulty": "сложная",
+        "question": "Как называется упругая белковая сеть в пшеничном тесте, благодаря которой оно удерживает пузырьки газа?",
+        "answer": "Клейковина"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Приготовление выпечки",
+        "difficulty": "средняя",
+        "question": "Как называются одноклеточные грибы, выделяющие углекислый газ при приготовлении пышного теста?",
+        "answer": "Дрожжи"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Приготовление выпечки",
+        "difficulty": "средняя",
+        "question": "Как называется мягкая пористая внутренняя часть испечённой буханки?",
+        "answer": "Мякиш"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Приготовление выпечки",
+        "difficulty": "лёгкая",
+        "question": "Как называется подрумяненный наружный слой испечённого хлеба?",
+        "answer": "Корочка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Приготовление выпечки",
+        "difficulty": "средняя",
+        "question": "Как называется большой круглый праздничный хлеб, традиционно подаваемый на торжествах в России?",
+        "answer": "Каравай"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Приготовление выпечки",
+        "difficulty": "средняя",
+        "question": "Как называется продолговатое изделие из пшеничной муки, на верхней поверхности которого часто делают косые надрезы?",
+        "answer": "Батон"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Приготовление выпечки",
+        "difficulty": "лёгкая",
+        "question": "Как называется тесто или выпечка с повышенным содержанием масла, сахара и яиц?",
+        "answer": "Сдоба"
       }
     ]
   }
