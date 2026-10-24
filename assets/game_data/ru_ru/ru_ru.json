@@ -22729,6 +22729,1072 @@
           "угол",
           "вращение"
         ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "Геология",
+        "word": "Травертин",
+        "forbidden_words": [
+          "известняк",
+          "отложения",
+          "источник"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "География",
+        "word": "Озовая гряда",
+        "forbidden_words": [
+          "ледник",
+          "песок",
+          "холм"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "География",
+        "word": "Речная дельта",
+        "forbidden_words": [
+          "устье",
+          "рукава",
+          "наносы"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "География",
+        "word": "Лиман",
+        "forbidden_words": [
+          "залив",
+          "устье",
+          "море"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "Погода",
+        "word": "Талые воды",
+        "forbidden_words": [
+          "снег",
+          "весна",
+          "ручьи"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "География",
+        "word": "Термальный источник",
+        "forbidden_words": [
+          "горячий",
+          "подземный",
+          "минералы"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "География",
+        "word": "Морская бухта",
+        "forbidden_words": [
+          "залив",
+          "берег",
+          "стоянка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Птицы",
+        "word": "Чечётка",
+        "forbidden_words": [
+          "птичка",
+          "берёза",
+          "стая"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Птицы",
+        "word": "Гаичка",
+        "forbidden_words": [
+          "синица",
+          "лес",
+          "кормушка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Птицы",
+        "word": "Жулан",
+        "forbidden_words": [
+          "сорокопут",
+          "кустарник",
+          "насекомые"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Птицы",
+        "word": "Чирок",
+        "forbidden_words": [
+          "утка",
+          "маленький",
+          "пруд"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Птицы",
+        "word": "Пустельга",
+        "forbidden_words": [
+          "сокол",
+          "зависать",
+          "поле"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Птицы",
+        "word": "Погоныш",
+        "forbidden_words": [
+          "камыши",
+          "птица",
+          "скрытный"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Птицы",
+        "word": "Каменка",
+        "forbidden_words": [
+          "птица",
+          "степь",
+          "хвост"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Птицы",
+        "word": "Глухарь",
+        "forbidden_words": [
+          "лес",
+          "токование",
+          "крупный"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Птицы",
+        "word": "Рябчик",
+        "forbidden_words": [
+          "лес",
+          "пёстрый",
+          "свист"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Насекомые",
+        "word": "Журчалка",
+        "forbidden_words": [
+          "муха",
+          "цветок",
+          "зависать"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Насекомые",
+        "word": "Медведка",
+        "forbidden_words": [
+          "почва",
+          "норы",
+          "огород"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Насекомые",
+        "word": "Пяденица",
+        "forbidden_words": [
+          "гусеница",
+          "бабочка",
+          "веточка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Насекомые",
+        "word": "Листовёртка",
+        "forbidden_words": [
+          "личинка",
+          "свёрток",
+          "сад"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Насекомые",
+        "word": "Навозник",
+        "forbidden_words": [
+          "жук",
+          "шарик",
+          "почва"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Насекомые",
+        "word": "Усач",
+        "forbidden_words": [
+          "жук",
+          "антенны",
+          "древесина"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Насекомые",
+        "word": "Слепень",
+        "forbidden_words": [
+          "насекомое",
+          "лето",
+          "лошадь"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Насекомые",
+        "word": "Стеклянница",
+        "forbidden_words": [
+          "бабочка",
+          "прозрачные",
+          "крылья"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Животные",
+        "sub_category": "Насекомые",
+        "word": "Муравьиный лев",
+        "forbidden_words": [
+          "личинка",
+          "песок",
+          "воронка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "Растения",
+        "word": "Дербенник",
+        "forbidden_words": [
+          "цветы",
+          "берег",
+          "пурпурный"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "Растения",
+        "word": "Коровяк",
+        "forbidden_words": [
+          "жёлтый",
+          "свечка",
+          "соцветие"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "Растения",
+        "word": "Тысячелистник",
+        "forbidden_words": [
+          "трава",
+          "белые",
+          "зонтики"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "Растения",
+        "word": "Синеголовник",
+        "forbidden_words": [
+          "колючий",
+          "степь",
+          "сухоцвет"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "Растения",
+        "word": "Лунник",
+        "forbidden_words": [
+          "стручки",
+          "серебристый",
+          "сухоцвет"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Природа",
+        "sub_category": "Растения",
+        "word": "Хвощ",
+        "forbidden_words": [
+          "стебель",
+          "споры",
+          "влажность"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Кулинария",
+        "sub_category": "Домашние блюда",
+        "word": "Пшённик",
+        "forbidden_words": [
+          "крупа",
+          "молоко",
+          "запекать"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Кулинария",
+        "sub_category": "Домашние блюда",
+        "word": "Гурьевская каша",
+        "forbidden_words": [
+          "манка",
+          "пенки",
+          "десерт"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Кулинария",
+        "sub_category": "Домашние блюда",
+        "word": "Рыбник",
+        "forbidden_words": [
+          "пирог",
+          "начинка",
+          "выпечка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Кулинария",
+        "sub_category": "Десерты",
+        "word": "Сухарный пудинг",
+        "forbidden_words": [
+          "десерт",
+          "запекать",
+          "крошки"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Кулинария",
+        "sub_category": "Десерты",
+        "word": "Творожный пудинг",
+        "forbidden_words": [
+          "десерт",
+          "нежный",
+          "форма"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Кулинария",
+        "sub_category": "Домашние блюда",
+        "word": "Картофельные зразы",
+        "forbidden_words": [
+          "начинка",
+          "обжарить",
+          "котлеты"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Кулинария",
+        "sub_category": "Овощные блюда",
+        "word": "Печёная репа",
+        "forbidden_words": [
+          "овощ",
+          "духовка",
+          "гарнир"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Кулинария",
+        "sub_category": "Домашние блюда",
+        "word": "Пшённые биточки",
+        "forbidden_words": [
+          "крупа",
+          "сковорода",
+          "котлетки"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Кулинария",
+        "sub_category": "Перекусы",
+        "word": "Яблочные чипсы",
+        "forbidden_words": [
+          "сушить",
+          "ломтики",
+          "хрустящие"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Кулинария",
+        "sub_category": "Напитки",
+        "word": "Клюквенный морс",
+        "forbidden_words": [
+          "ягоды",
+          "напиток",
+          "кислинка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Кулинария",
+        "sub_category": "Заготовки",
+        "word": "Рябиновое варенье",
+        "forbidden_words": [
+          "ягоды",
+          "банка",
+          "сладость"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Творчество",
+        "sub_category": "Техники",
+        "word": "Штамп для ткани",
+        "forbidden_words": [
+          "рисунок",
+          "отпечаток",
+          "краска"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Творчество",
+        "sub_category": "Материалы",
+        "word": "Маскирующая жидкость",
+        "forbidden_words": [
+          "акварель",
+          "резерв",
+          "белизна"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Творчество",
+        "sub_category": "Живопись",
+        "word": "Грунт для холста",
+        "forbidden_words": [
+          "основа",
+          "покрытие",
+          "живопись"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Творчество",
+        "sub_category": "Рисование",
+        "word": "Скетчбук",
+        "forbidden_words": [
+          "наброски",
+          "альбом",
+          "страницы"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Творчество",
+        "sub_category": "Текстиль",
+        "word": "Ткацкий челнок",
+        "forbidden_words": [
+          "станок",
+          "нить",
+          "движение"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Творчество",
+        "sub_category": "Шитьё",
+        "word": "Шов вподгибку",
+        "forbidden_words": [
+          "край",
+          "подшивать",
+          "строчка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Творчество",
+        "sub_category": "Шитьё",
+        "word": "Слепой шов",
+        "forbidden_words": [
+          "незаметный",
+          "подгибка",
+          "стежки"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Творчество",
+        "sub_category": "Шитьё",
+        "word": "Плоскошовная машина",
+        "forbidden_words": [
+          "трикотаж",
+          "строчка",
+          "подгибка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Почва",
+        "word": "Биогумус",
+        "forbidden_words": [
+          "черви",
+          "удобрение",
+          "почва"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Семена",
+        "word": "Стратификация семян",
+        "forbidden_words": [
+          "холод",
+          "всхожесть",
+          "подготовка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Семена",
+        "word": "Скарификация семян",
+        "forbidden_words": [
+          "оболочка",
+          "прорастание",
+          "обработка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Размножение",
+        "word": "Воздушные отводки",
+        "forbidden_words": [
+          "ветка",
+          "укоренение",
+          "мох"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Рассада",
+        "word": "Пикировка рассады",
+        "forbidden_words": [
+          "сеянцы",
+          "пересадка",
+          "стаканчики"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Выращивание",
+        "word": "Микрозелень",
+        "forbidden_words": [
+          "ростки",
+          "съедобная",
+          "лоток"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Выращивание",
+        "word": "Гидропоника",
+        "forbidden_words": [
+          "раствор",
+          "корни",
+          "выращивание"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Инструменты",
+        "word": "Садовый измельчитель",
+        "forbidden_words": [
+          "ветки",
+          "щепа",
+          "переработка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Почва",
+        "word": "Листовой перегной",
+        "forbidden_words": [
+          "осень",
+          "компост",
+          "рыхлый"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Наука",
+        "sub_category": "Физика",
+        "word": "Конвекция",
+        "forbidden_words": [
+          "потоки",
+          "тепло",
+          "движение"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Наука",
+        "sub_category": "Биология",
+        "word": "Биолюминесценция",
+        "forbidden_words": [
+          "свечение",
+          "организмы",
+          "темнота"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Наука",
+        "sub_category": "Физика",
+        "word": "Электростатический заряд",
+        "forbidden_words": [
+          "трение",
+          "притяжение",
+          "искра"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Наука",
+        "sub_category": "Природные циклы",
+        "word": "Круговорот воды",
+        "forbidden_words": [
+          "испарение",
+          "осадки",
+          "природа"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Наука",
+        "sub_category": "Физика",
+        "word": "Коэффициент трения",
+        "forbidden_words": [
+          "поверхность",
+          "скольжение",
+          "сопротивление"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Наука",
+        "sub_category": "Космос",
+        "word": "Солнечный ветер",
+        "forbidden_words": [
+          "частицы",
+          "звезда",
+          "космос"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архитектура",
+        "sub_category": "Декор",
+        "word": "Фриз",
+        "forbidden_words": [
+          "орнамент",
+          "фасад",
+          "полоса"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архитектура",
+        "sub_category": "Декор",
+        "word": "Кованая решётка",
+        "forbidden_words": [
+          "металл",
+          "узор",
+          "ограда"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архитектура",
+        "sub_category": "Отделка",
+        "word": "Мозаичная плитка",
+        "forbidden_words": [
+          "узор",
+          "кусочки",
+          "облицовка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архитектура",
+        "sub_category": "Элементы зданий",
+        "word": "Чердачный люк",
+        "forbidden_words": [
+          "потолок",
+          "доступ",
+          "лестница"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архитектура",
+        "sub_category": "Декор",
+        "word": "Потолочная розетка",
+        "forbidden_words": [
+          "люстра",
+          "лепнина",
+          "круг"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архитектура",
+        "sub_category": "Отделка",
+        "word": "Плинтус",
+        "forbidden_words": [
+          "пол",
+          "стена",
+          "планка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архитектура",
+        "sub_category": "Фурнитура",
+        "word": "Шпингалет",
+        "forbidden_words": [
+          "дверь",
+          "задвижка",
+          "запирать"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Город",
+        "sub_category": "Услуги",
+        "word": "Электронная очередь",
+        "forbidden_words": [
+          "талон",
+          "ожидание",
+          "экран"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Образование",
+        "sub_category": "Библиотека",
+        "word": "Библиотечный формуляр",
+        "forbidden_words": [
+          "читатель",
+          "выдача",
+          "учёт"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Образование",
+        "sub_category": "Библиотека",
+        "word": "Книжный каталог",
+        "forbidden_words": [
+          "поиск",
+          "полка",
+          "автор"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Образование",
+        "sub_category": "Лаборатория",
+        "word": "Мерный цилиндр",
+        "forbidden_words": [
+          "объём",
+          "лаборатория",
+          "деления"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Образование",
+        "sub_category": "Инструменты",
+        "word": "Лупа с подсветкой",
+        "forbidden_words": [
+          "увеличение",
+          "лампа",
+          "детали"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Наука",
+        "sub_category": "Метеорология",
+        "word": "Дождемер",
+        "forbidden_words": [
+          "осадки",
+          "шкала",
+          "воронка"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Техника",
+        "sub_category": "Датчики",
+        "word": "Датчик углекислого газа",
+        "forbidden_words": [
+          "воздух",
+          "концентрация",
+          "измерение"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Дом и быт",
+        "sub_category": "Устройства",
+        "word": "Ультразвуковой увлажнитель",
+        "forbidden_words": [
+          "пар",
+          "воздух",
+          "комната"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Дом и быт",
+        "sub_category": "Уборка",
+        "word": "Пятновыводитель",
+        "forbidden_words": [
+          "ткань",
+          "очистка",
+          "средство"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Дом и быт",
+        "sub_category": "Ванная",
+        "word": "Держатель зубных щёток",
+        "forbidden_words": [
+          "стакан",
+          "ванная",
+          "гигиена"
+        ]
       }
     ],
     "charades": [
