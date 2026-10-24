@@ -2253,9 +2253,9 @@
       "locale": "it-IT",
       "main_category": "Ecologia",
       "sub_category": "Ambienti e relazioni",
-      "difficulty": "difficile",
-      "question": "Come si chiama lo strato superiore formato dalle chiome degli alberi in una foresta?",
-      "answer": "Canopia"
+      "difficulty": "medio",
+      "question": "Come si definisce una pianta che colonizza per prima un terreno rimasto privo di vegetazione?",
+      "answer": "Specie pioniera"
     },
     {
       "game_type": "kelime_ustasi",
@@ -2364,7 +2364,7 @@
       "main_category": "Mare e coste",
       "sub_category": "Oceanografia e paesaggi",
       "difficulty": "facile",
-      "question": "Come si chiama una costa alta e rocciosa che cade ripidamente verso il mare?",
+      "question": "Come si chiama una formazione di rocce affioranti lungo la riva, sulle quali si infrangono le onde?",
       "answer": "Scogliera"
     },
     {
@@ -2833,9 +2833,9 @@
       "locale": "it-IT",
       "main_category": "Mobilità e viaggi",
       "sub_category": "Infrastrutture e trasporti",
-      "difficulty": "medio",
-      "question": "Quale dispositivo permette a un treno di passare da un percorso di rotaie a un altro?",
-      "answer": "Scambio ferroviario"
+      "difficulty": "facile",
+      "question": "Come si chiama la copertura che ripara i viaggiatori in attesa alla fermata?",
+      "answer": "Pensilina"
     },
     {
       "game_type": "kelime_ustasi",
@@ -2904,8 +2904,8 @@
       "main_category": "Mobilità e viaggi",
       "sub_category": "Infrastrutture e trasporti",
       "difficulty": "medio",
-      "question": "Come si chiama la struttura sospesa che alimenta elettricamente alcuni treni tramite un dispositivo sul tetto?",
-      "answer": "Linea aerea di contatto"
+      "question": "Quale dispositivo articolato sul tetto di un treno elettrico raccoglie corrente dai fili sopra i binari?",
+      "answer": "Pantografo"
     },
     {
       "game_type": "kelime_ustasi",
@@ -3106,6 +3106,1006 @@
       "difficulty": "medio",
       "question": "Quale accessorio limita la portata dell'acqua in uscita da una doccia o da un rubinetto?",
       "answer": "Riduttore di flusso"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto e coltivazioni",
+      "sub_category": "Pratiche e attrezzature",
+      "difficulty": "facile",
+      "question": "Come si chiama il trasferimento di una giovane pianta dal vasetto alla terra dell'orto?",
+      "answer": "Trapianto"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto e coltivazioni",
+      "sub_category": "Pratiche e attrezzature",
+      "difficulty": "medio",
+      "question": "Quale lavorazione superficiale elimina le erbe spontanee tra le file coltivate?",
+      "answer": "Sarchiatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto e coltivazioni",
+      "sub_category": "Pratiche e attrezzature",
+      "difficulty": "medio",
+      "question": "Quale pratica consiste nell'accumulare terra attorno alla base di una pianta durante la crescita?",
+      "answer": "Rincalzatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto e coltivazioni",
+      "sub_category": "Pratiche e attrezzature",
+      "difficulty": "medio",
+      "question": "Quale tecnica unisce una parte vegetale a un'altra pianta affinché crescano come un unico organismo?",
+      "answer": "Innesto"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto e coltivazioni",
+      "sub_category": "Pratiche e attrezzature",
+      "difficulty": "facile",
+      "question": "Quale struttura di pali e traverse sostiene le piante rampicanti e crea una zona ombreggiata?",
+      "answer": "Pergola"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto e coltivazioni",
+      "sub_category": "Pratiche e attrezzature",
+      "difficulty": "facile",
+      "question": "Come si chiama l'ambiente coperto da materiale trasparente che protegge le coltivazioni dal freddo?",
+      "answer": "Serra"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto e coltivazioni",
+      "sub_category": "Pratiche e attrezzature",
+      "difficulty": "medio",
+      "question": "Quale pratica alterna specie diverse sullo stesso terreno nelle stagioni successive?",
+      "answer": "Rotazione colturale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto e coltivazioni",
+      "sub_category": "Pratiche e attrezzature",
+      "difficulty": "medio",
+      "question": "Quale sistema distribuisce piccole quantità d'acqua vicino alle radici attraverso sottili tubi?",
+      "answer": "Irrigazione a goccia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto e coltivazioni",
+      "sub_category": "Pratiche e attrezzature",
+      "difficulty": "facile",
+      "question": "Come si chiama il luogo in cui si allevano giovani piante destinate a essere trasferite altrove?",
+      "answer": "Vivaio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orto e coltivazioni",
+      "sub_category": "Pratiche e attrezzature",
+      "difficulty": "facile",
+      "question": "Quale sostegno verticale aiuta a mantenere diritto il fusto di una pianta giovane?",
+      "answer": "Tutore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tessuti e sartoria",
+      "sub_category": "Lavorazioni e accessori",
+      "difficulty": "medio",
+      "question": "Quale insieme di fili viene teso longitudinalmente su un telaio prima di iniziare a tessere?",
+      "answer": "Ordito"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tessuti e sartoria",
+      "sub_category": "Lavorazioni e accessori",
+      "difficulty": "medio",
+      "question": "Quale insieme di fili attraversa quelli già tesi longitudinalmente durante la tessitura?",
+      "answer": "Trama"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tessuti e sartoria",
+      "sub_category": "Lavorazioni e accessori",
+      "difficulty": "medio",
+      "question": "Quale attrezzo trasporta il filo da un lato all'altro del telaio tradizionale?",
+      "answer": "Navetta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tessuti e sartoria",
+      "sub_category": "Lavorazioni e accessori",
+      "difficulty": "facile",
+      "question": "Come si chiama il piccolo supporto cilindrico su cui si avvolge il filo per cucire?",
+      "answer": "Rocchetto"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tessuti e sartoria",
+      "sub_category": "Lavorazioni e accessori",
+      "difficulty": "facile",
+      "question": "Quale piccolo cappuccio rigido protegge un dito mentre si spinge l'ago nel tessuto?",
+      "answer": "Ditale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tessuti e sartoria",
+      "sub_category": "Lavorazioni e accessori",
+      "difficulty": "medio",
+      "question": "Quale cucitura provvisoria tiene uniti due lembi prima di quella definitiva?",
+      "answer": "Imbastitura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tessuti e sartoria",
+      "sub_category": "Lavorazioni e accessori",
+      "difficulty": "facile",
+      "question": "Come si chiama il bordo di una stoffa ripiegato e cucito per evitare che si sfilacci?",
+      "answer": "Orlo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tessuti e sartoria",
+      "sub_category": "Lavorazioni e accessori",
+      "difficulty": "facile",
+      "question": "Quale apertura rifinita in un indumento permette il passaggio di un bottone?",
+      "answer": "Asola"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tessuti e sartoria",
+      "sub_category": "Lavorazioni e accessori",
+      "difficulty": "facile",
+      "question": "Quale chiusura unisce due file di dentini mediante un cursore?",
+      "answer": "Cerniera lampo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tessuti e sartoria",
+      "sub_category": "Lavorazioni e accessori",
+      "difficulty": "facile",
+      "question": "Come si chiama lo strato di stoffa cucito all'interno di una giacca o di una borsa?",
+      "answer": "Fodera"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura e abitazioni",
+      "sub_category": "Elementi costruttivi",
+      "difficulty": "medio",
+      "question": "Quale copertura in muratura ha la forma di un mezzo cilindro continuo?",
+      "answer": "Volta a botte"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura e abitazioni",
+      "sub_category": "Elementi costruttivi",
+      "difficulty": "facile",
+      "question": "Quale copertura curva sovrasta spesso un ambiente a pianta circolare?",
+      "answer": "Cupola"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura e abitazioni",
+      "sub_category": "Elementi costruttivi",
+      "difficulty": "facile",
+      "question": "Come si chiama la rientranza ricavata in una parete per collocarvi un oggetto?",
+      "answer": "Nicchia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura e abitazioni",
+      "sub_category": "Elementi costruttivi",
+      "difficulty": "medio",
+      "question": "Quale elemento sporgente corre lungo la parte alta di una facciata e protegge il muro dalla pioggia?",
+      "answer": "Cornicione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura e abitazioni",
+      "sub_category": "Elementi costruttivi",
+      "difficulty": "facile",
+      "question": "Come si chiama la lastra orizzontale posta alla base di una porta?",
+      "answer": "Soglia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura e abitazioni",
+      "sub_category": "Elementi costruttivi",
+      "difficulty": "facile",
+      "question": "Quale ripiano si trova alla base di una finestra, sul lato interno o esterno?",
+      "answer": "Davanzale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura e abitazioni",
+      "sub_category": "Elementi costruttivi",
+      "difficulty": "medio",
+      "question": "Come si chiama il passaggio esterno sopraelevato che dà accesso a più abitazioni?",
+      "answer": "Ballatoio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura e abitazioni",
+      "sub_category": "Elementi costruttivi",
+      "difficulty": "facile",
+      "question": "Quale spazio scoperto si trova all'interno di un edificio o tra edifici vicini?",
+      "answer": "Cortile"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura e abitazioni",
+      "sub_category": "Elementi costruttivi",
+      "difficulty": "facile",
+      "question": "Come si chiama la grande porta d'ingresso di un palazzo?",
+      "answer": "Portone"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura e abitazioni",
+      "sub_category": "Elementi costruttivi",
+      "difficulty": "medio",
+      "question": "Quale grande apertura circolare decorata compare spesso sulle facciate di edifici storici?",
+      "answer": "Rosone"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnologia quotidiana",
+      "sub_category": "Reti e dispositivi",
+      "difficulty": "medio",
+      "question": "Quale apparecchio indirizza i dati tra i dispositivi di casa e la connessione esterna?",
+      "answer": "Router"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnologia quotidiana",
+      "sub_category": "Reti e dispositivi",
+      "difficulty": "medio",
+      "question": "Quale dispositivo estende la copertura della rete senza fili nelle stanze più lontane?",
+      "answer": "Ripetitore Wi-Fi"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnologia quotidiana",
+      "sub_category": "Reti e dispositivi",
+      "difficulty": "facile",
+      "question": "Quale simbolo quadrato composto da piccoli moduli può essere letto con la fotocamera per accedere a informazioni?",
+      "answer": "Codice QR"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnologia quotidiana",
+      "sub_category": "Reti e dispositivi",
+      "difficulty": "medio",
+      "question": "Come si chiama la memoria temporanea che conserva dati utilizzati spesso per recuperarli più rapidamente?",
+      "answer": "Cache"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnologia quotidiana",
+      "sub_category": "Reti e dispositivi",
+      "difficulty": "facile",
+      "question": "Quale copia di sicurezza permette di recuperare i documenti dopo un guasto?",
+      "answer": "Backup"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnologia quotidiana",
+      "sub_category": "Reti e dispositivi",
+      "difficulty": "medio",
+      "question": "Quale sistema controlla il traffico tra reti applicando regole di sicurezza?",
+      "answer": "Firewall"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnologia quotidiana",
+      "sub_category": "Reti e dispositivi",
+      "difficulty": "facile",
+      "question": "Quale tipo di schermo permette di impartire comandi toccandone direttamente la superficie?",
+      "answer": "Touchscreen"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnologia quotidiana",
+      "sub_category": "Reti e dispositivi",
+      "difficulty": "medio",
+      "question": "Quale dispositivo conserva energia elettrica e può essere rifornito più volte collegandolo a una fonte di alimentazione?",
+      "answer": "Accumulatore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnologia quotidiana",
+      "sub_category": "Reti e dispositivi",
+      "difficulty": "facile",
+      "question": "Quale presa standard di un computer permette di collegare numerose periferiche e trasferire dati?",
+      "answer": "Porta USB"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnologia quotidiana",
+      "sub_category": "Reti e dispositivi",
+      "difficulty": "medio",
+      "question": "Quale componente rileva la presenza di un oggetto vicino senza contatto fisico?",
+      "answer": "Sensore di prossimità"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecniche e attrezzatura",
+      "difficulty": "medio",
+      "question": "Quale apertura regolabile all'interno dell'obiettivo controlla la quantità di luce che entra?",
+      "answer": "Diaframma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecniche e attrezzatura",
+      "difficulty": "medio",
+      "question": "Quale meccanismo determina per quanto tempo il sensore fotografico riceve luce?",
+      "answer": "Otturatore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecniche e attrezzatura",
+      "difficulty": "medio",
+      "question": "Come si chiama la quantità complessiva di luce registrata durante uno scatto?",
+      "answer": "Esposizione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecniche e attrezzatura",
+      "difficulty": "facile",
+      "question": "Quale supporto con tre gambe mantiene ferma una fotocamera?",
+      "answer": "Treppiede"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecniche e attrezzatura",
+      "difficulty": "facile",
+      "question": "Quale funzione permette di fotografarsi dopo un breve ritardo senza premere il pulsante al momento della ripresa?",
+      "answer": "Autoscatto"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecniche e attrezzatura",
+      "difficulty": "medio",
+      "question": "Come si chiama la situazione in cui la fonte luminosa principale si trova dietro il soggetto?",
+      "answer": "Controluce"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecniche e attrezzatura",
+      "difficulty": "medio",
+      "question": "Come si chiama l'estensione dello spazio che appare nitido davanti e dietro il punto messo a fuoco?",
+      "answer": "Profondità di campo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecniche e attrezzatura",
+      "difficulty": "medio",
+      "question": "Quale regolazione corregge le dominanti cromatiche dovute alla tonalità della luce presente?",
+      "answer": "Bilanciamento del bianco"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecniche e attrezzatura",
+      "difficulty": "medio",
+      "question": "Quale grafico mostra la distribuzione delle tonalità chiare e scure di una fotografia?",
+      "answer": "Istogramma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecniche e attrezzatura",
+      "difficulty": "medio",
+      "question": "Quale lente fotografica permette di inquadrare una porzione di scena particolarmente ampia?",
+      "answer": "Obiettivo grandangolare"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Sport e movimento",
+      "sub_category": "Regole e gesti",
+      "difficulty": "facile",
+      "question": "Quale gara prevede che più compagni percorrano a turno tratti successivi dello stesso percorso?",
+      "answer": "Staffetta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Sport e movimento",
+      "sub_category": "Regole e gesti",
+      "difficulty": "facile",
+      "question": "Quale prova richiede di passare alternativamente tra una serie di paletti?",
+      "answer": "Slalom"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Sport e movimento",
+      "sub_category": "Regole e gesti",
+      "difficulty": "facile",
+      "question": "Come si chiama la fase di esercizi leggeri che prepara il corpo prima di un'attività intensa?",
+      "answer": "Riscaldamento"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Sport e movimento",
+      "sub_category": "Regole e gesti",
+      "difficulty": "facile",
+      "question": "Quale pratica consiste nel distendere lentamente i muscoli per favorire la mobilità?",
+      "answer": "Stretching"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Sport e movimento",
+      "sub_category": "Regole e gesti",
+      "difficulty": "facile",
+      "question": "Quale capacità permette di mantenere stabile la postura anche su una superficie stretta?",
+      "answer": "Equilibrio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Sport e movimento",
+      "sub_category": "Regole e gesti",
+      "difficulty": "facile",
+      "question": "Quale movimento ginnico fa rotolare il corpo in avanti su un tappetino?",
+      "answer": "Capovolta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Sport e movimento",
+      "sub_category": "Regole e gesti",
+      "difficulty": "facile",
+      "question": "Come si chiama la ripetuta spinta di una palla verso terra con una mano durante il gioco?",
+      "answer": "Palleggio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Sport e movimento",
+      "sub_category": "Regole e gesti",
+      "difficulty": "facile",
+      "question": "Quale gesto dà inizio a uno scambio nella pallavolo?",
+      "answer": "Battuta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Sport e movimento",
+      "sub_category": "Regole e gesti",
+      "difficulty": "facile",
+      "question": "Quale attrezzo con manico e superficie a corde serve a colpire una pallina?",
+      "answer": "Racchetta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Sport e movimento",
+      "sub_category": "Regole e gesti",
+      "difficulty": "facile",
+      "question": "Quale strumento misura con precisione gli intervalli di tempo durante una gara?",
+      "answer": "Cronometro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente montano",
+      "sub_category": "Paesaggi e vita in quota",
+      "difficulty": "medio",
+      "question": "Come si chiama la linea sommitale che separa due versanti di un rilievo?",
+      "answer": "Crinale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente montano",
+      "sub_category": "Paesaggi e vita in quota",
+      "difficulty": "medio",
+      "question": "Come si chiama il pascolo d'alta quota utilizzato dal bestiame nella stagione calda?",
+      "answer": "Alpeggio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente montano",
+      "sub_category": "Paesaggi e vita in quota",
+      "difficulty": "medio",
+      "question": "Quale edificio di montagna ospita chi accudisce gli animali e lavora il latte durante l'estate?",
+      "answer": "Malga"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente montano",
+      "sub_category": "Paesaggi e vita in quota",
+      "difficulty": "facile",
+      "question": "Quale struttura offre riparo e pernottamento agli escursionisti lungo itinerari d'alta quota?",
+      "answer": "Rifugio alpino"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente montano",
+      "sub_category": "Paesaggi e vita in quota",
+      "difficulty": "medio",
+      "question": "Come si chiama l'accumulo di pietre sciolte ai piedi di una parete rocciosa?",
+      "answer": "Ghiaione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente montano",
+      "sub_category": "Paesaggi e vita in quota",
+      "difficulty": "medio",
+      "question": "Quale punto relativamente basso di una catena montuosa permette di attraversarla?",
+      "answer": "Valico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente montano",
+      "sub_category": "Paesaggi e vita in quota",
+      "difficulty": "facile",
+      "question": "Come si chiama una curva molto stretta che fa cambiare direzione a una strada in salita?",
+      "answer": "Tornante"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente montano",
+      "sub_category": "Paesaggi e vita in quota",
+      "difficulty": "facile",
+      "question": "Come si chiama un percorso stretto percorribile a piedi attraverso boschi e prati?",
+      "answer": "Sentiero"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente montano",
+      "sub_category": "Paesaggi e vita in quota",
+      "difficulty": "facile",
+      "question": "Come si chiama una piccola casa rustica tipica dei territori montani?",
+      "answer": "Baita"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ambiente montano",
+      "sub_category": "Paesaggi e vita in quota",
+      "difficulty": "medio",
+      "question": "Come si chiama un accumulo di neve che persiste per gran parte dell'anno senza formare una massa di ghiaccio in movimento?",
+      "answer": "Nevaio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque e territorio",
+      "sub_category": "Fiumi e risorse idriche",
+      "difficulty": "facile",
+      "question": "Come si chiama il punto in cui l'acqua sotterranea affiora naturalmente in superficie?",
+      "answer": "Sorgente"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque e territorio",
+      "sub_category": "Fiumi e risorse idriche",
+      "difficulty": "medio",
+      "question": "Quale ampia curva forma un corso d'acqua quando scorre lentamente in pianura?",
+      "answer": "Meandro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque e territorio",
+      "sub_category": "Fiumi e risorse idriche",
+      "difficulty": "medio",
+      "question": "Come si chiama il luogo in cui due corsi d'acqua si uniscono?",
+      "answer": "Confluenza"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque e territorio",
+      "sub_category": "Fiumi e risorse idriche",
+      "difficulty": "medio",
+      "question": "Quale territorio raccoglie le precipitazioni che alimentano lo stesso corso d'acqua principale?",
+      "answer": "Bacino idrografico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque e territorio",
+      "sub_category": "Fiumi e risorse idriche",
+      "difficulty": "facile",
+      "question": "Quale rete di condotte porta l'acqua potabile dai punti di raccolta alle abitazioni?",
+      "answer": "Acquedotto"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque e territorio",
+      "sub_category": "Fiumi e risorse idriche",
+      "difficulty": "facile",
+      "question": "Come si chiama un grande contenitore destinato alla raccolta e alla conservazione dell'acqua?",
+      "answer": "Cisterna"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque e territorio",
+      "sub_category": "Fiumi e risorse idriche",
+      "difficulty": "medio",
+      "question": "Quale struttura con porte mobili permette alle imbarcazioni di superare un dislivello lungo un canale?",
+      "answer": "Conca di navigazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque e territorio",
+      "sub_category": "Fiumi e risorse idriche",
+      "difficulty": "facile",
+      "question": "Quale rialzo di terra costruito lungo un fiume aiuta a contenere le piene?",
+      "answer": "Argine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque e territorio",
+      "sub_category": "Fiumi e risorse idriche",
+      "difficulty": "medio",
+      "question": "Quale corso artificiale distribuisce l'acqua ai campi coltivati?",
+      "answer": "Canale irriguo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acque e territorio",
+      "sub_category": "Fiumi e risorse idriche",
+      "difficulty": "medio",
+      "question": "Quale processo rende utilizzabile l'acqua marina rimuovendone i sali?",
+      "answer": "Dissalazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienze della materia",
+      "sub_category": "Proprietà e trasformazioni",
+      "difficulty": "medio",
+      "question": "Quale proprietà indica quanta sostanza può sciogliersi in un liquido a una data temperatura?",
+      "answer": "Solubilità"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienze della materia",
+      "sub_category": "Proprietà e trasformazioni",
+      "difficulty": "medio",
+      "question": "Quale metodo separa un liquido dal deposito sul fondo dopo aver lasciato riposare la miscela?",
+      "answer": "Decantazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienze della materia",
+      "sub_category": "Proprietà e trasformazioni",
+      "difficulty": "medio",
+      "question": "Quale processo forma strutture solide ordinate quando una soluzione si raffredda o perde solvente?",
+      "answer": "Cristallizzazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienze della materia",
+      "sub_category": "Proprietà e trasformazioni",
+      "difficulty": "medio",
+      "question": "Come si chiama l'aumento delle dimensioni di un materiale quando viene riscaldato?",
+      "answer": "Dilatazione termica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienze della materia",
+      "sub_category": "Proprietà e trasformazioni",
+      "difficulty": "medio",
+      "question": "Quale trasferimento di calore avviene grazie al movimento di un fluido?",
+      "answer": "Convezione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienze della materia",
+      "sub_category": "Proprietà e trasformazioni",
+      "difficulty": "medio",
+      "question": "Quale trasformazione chimica può far scurire una mela tagliata lasciata all'aria?",
+      "answer": "Ossidazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienze della materia",
+      "sub_category": "Proprietà e trasformazioni",
+      "difficulty": "medio",
+      "question": "Quale proprietà consente a certi piccoli insetti di restare sull'acqua senza affondare?",
+      "answer": "Tensione superficiale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienze della materia",
+      "sub_category": "Proprietà e trasformazioni",
+      "difficulty": "medio",
+      "question": "Come si chiama la condizione di una soluzione che non può sciogliere altra sostanza nelle stesse condizioni?",
+      "answer": "Saturazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienze della materia",
+      "sub_category": "Proprietà e trasformazioni",
+      "difficulty": "medio",
+      "question": "Come si chiama una trasformazione chimica che libera calore nell'ambiente circostante?",
+      "answer": "Reazione esotermica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienze della materia",
+      "sub_category": "Proprietà e trasformazioni",
+      "difficulty": "medio",
+      "question": "Quale grandezza indica quanto una soluzione è acida oppure basica?",
+      "answer": "pH"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Carta e cartoleria",
+      "sub_category": "Materiali e strumenti",
+      "difficulty": "medio",
+      "question": "Quale misura indica la massa di un foglio di carta per metro quadrato?",
+      "answer": "Grammatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Carta e cartoleria",
+      "sub_category": "Materiali e strumenti",
+      "difficulty": "facile",
+      "question": "Come si chiama una confezione standard di fogli per stampante venduti in blocco?",
+      "answer": "Risma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Carta e cartoleria",
+      "sub_category": "Materiali e strumenti",
+      "difficulty": "facile",
+      "question": "Quale materiale in fogli è più rigido della carta comune ma più sottile del cartone da imballaggio?",
+      "answer": "Cartoncino"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Carta e cartoleria",
+      "sub_category": "Materiali e strumenti",
+      "difficulty": "facile",
+      "question": "Quale foglio molto sottile e leggero si usa spesso per avvolgere oggetti delicati?",
+      "answer": "Carta velina"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Carta e cartoleria",
+      "sub_category": "Materiali e strumenti",
+      "difficulty": "facile",
+      "question": "Quale supporto semitrasparente permette di ricalcare un disegno?",
+      "answer": "Carta da lucido"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Carta e cartoleria",
+      "sub_category": "Materiali e strumenti",
+      "difficulty": "facile",
+      "question": "Quale attrezzo da ufficio permette di rifilare più fogli lungo una linea dritta?",
+      "answer": "Taglierina"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Carta e cartoleria",
+      "sub_category": "Materiali e strumenti",
+      "difficulty": "medio",
+      "question": "Quale macchina prepara pieghe regolari su grandi quantità di fogli?",
+      "answer": "Piegatrice"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Carta e cartoleria",
+      "sub_category": "Materiali e strumenti",
+      "difficulty": "medio",
+      "question": "Quale utensile sagomato ritaglia forme identiche da fogli o cartoncini?",
+      "answer": "Fustella"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Carta e cartoleria",
+      "sub_category": "Materiali e strumenti",
+      "difficulty": "facile",
+      "question": "Quale materiale modellabile si ottiene lavorando carta bagnata con un legante?",
+      "answer": "Cartapesta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Carta e cartoleria",
+      "sub_category": "Materiali e strumenti",
+      "difficulty": "facile",
+      "question": "Quale attrezzo da scrivania crea fori regolari nei fogli per inserirli in un raccoglitore?",
+      "answer": "Perforatrice"
     }
   ],
   "tabu": [
