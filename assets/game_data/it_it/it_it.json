@@ -4524,7 +4524,7 @@
       "main_category": "Meteorologia",
       "sub_category": "Venti e fenomeni atmosferici",
       "difficulty": "medio",
-      "question": "Come si chiama il confine atmosferico in cui una massa d'aria più fredda avanza sostituendone una più calda?",
+      "question": "Quale limite meteorologico avanza quando una massa d'aria più densa solleva bruscamente quella mite, favorendo rovesci?",
       "answer": "Fronte freddo"
     },
     {
@@ -4534,7 +4534,7 @@
       "main_category": "Meteorologia",
       "sub_category": "Venti e fenomeni atmosferici",
       "difficulty": "medio",
-      "question": "Come si chiama il confine atmosferico in cui una massa d'aria più calda avanza sopra una più fredda?",
+      "question": "Quale limite meteorologico si forma quando aria mite scorre gradualmente sopra una massa più densa, spesso producendo nubi stratificate?",
       "answer": "Fronte caldo"
     },
     {
@@ -4974,7 +4974,7 @@
       "main_category": "Astronomia",
       "sub_category": "Cielo e osservazione",
       "difficulty": "medio",
-      "question": "Quale unità di distanza corrisponde al percorso compiuto dalla luce nel vuoto durante un anno?",
+      "question": "Quale unità astronomica di distanza equivale a circa 9.460 miliardi di chilometri?",
       "answer": "Anno luce"
     },
     {
@@ -5106,6 +5106,806 @@
       "difficulty": "medio",
       "question": "Quale utensile a due impugnature è progettato per recidere fili metallici sottili?",
       "answer": "Tronchese"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Lettura delle mappe",
+      "difficulty": "medio",
+      "question": "Quale rapporto indica quante volte le distanze reali sono state ridotte su una mappa?",
+      "answer": "Scala cartografica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Lettura delle mappe",
+      "difficulty": "facile",
+      "question": "Come si chiama il riquadro che spiega il significato di colori e simboli su una mappa?",
+      "answer": "Legenda"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Lettura delle mappe",
+      "difficulty": "medio",
+      "question": "Quale linea unisce su una carta topografica punti situati alla stessa quota?",
+      "answer": "Curva di livello"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Orientamento",
+      "difficulty": "facile",
+      "question": "Quale figura grafica mostra le direzioni principali e intermedie dell'orientamento?",
+      "answer": "Rosa dei venti"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Orientamento",
+      "difficulty": "medio",
+      "question": "Quale coppia di valori permette di individuare un punto sulla superficie terrestre?",
+      "answer": "Coordinate geografiche"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Orientamento",
+      "difficulty": "medio",
+      "question": "Quale misura angolare esprime la distanza di un luogo dall'equatore verso nord o sud?",
+      "answer": "Latitudine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Orientamento",
+      "difficulty": "medio",
+      "question": "Quale misura angolare individua la posizione di un luogo verso est o ovest rispetto a Greenwich?",
+      "answer": "Longitudine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Orientamento",
+      "difficulty": "medio",
+      "question": "Come si chiama ciascuna semicirconferenza ideale che collega i due poli terrestri?",
+      "answer": "Meridiano"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Orientamento",
+      "difficulty": "medio",
+      "question": "Come si chiama ciascuna circonferenza ideale della Terra perpendicolare all'asse di rotazione?",
+      "answer": "Parallelo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Orientamento",
+      "difficulty": "facile",
+      "question": "Quale circonferenza ideale divide il globo terrestre in due emisferi uguali?",
+      "answer": "Equatore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Figure piane",
+      "difficulty": "facile",
+      "question": "Quale quadrilatero ha una coppia di lati opposti paralleli e gli altri due non paralleli?",
+      "answer": "Trapezio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Figure piane",
+      "difficulty": "facile",
+      "question": "Quale quadrilatero ha tutti i lati della stessa lunghezza ma non necessariamente gli angoli retti?",
+      "answer": "Rombo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Figure piane",
+      "difficulty": "medio",
+      "question": "Quale quadrilatero presenta entrambe le coppie di lati opposti paralleli?",
+      "answer": "Parallelogramma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Linee e angoli",
+      "difficulty": "medio",
+      "question": "Quale semiretta divide un angolo in due parti di uguale ampiezza?",
+      "answer": "Bisettrice"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Triangoli",
+      "difficulty": "medio",
+      "question": "In un triangolo, quale segmento unisce un vertice al punto medio del lato opposto?",
+      "answer": "Mediana"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Poligoni",
+      "difficulty": "difficile",
+      "question": "In un poligono regolare, come si chiama la distanza tra il centro e uno dei lati?",
+      "answer": "Apotema"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Poligoni",
+      "difficulty": "facile",
+      "question": "Quale segmento collega due vertici non consecutivi di un poligono?",
+      "answer": "Diagonale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Triangoli",
+      "difficulty": "facile",
+      "question": "Quale lato di un triangolo rettangolo si trova di fronte all'angolo di novanta gradi?",
+      "answer": "Ipotenusa"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Triangoli",
+      "difficulty": "facile",
+      "question": "Come si chiama ciascuno dei due lati che formano l'angolo retto di un triangolo?",
+      "answer": "Cateto"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geometria",
+      "sub_category": "Figure piane",
+      "difficulty": "medio",
+      "question": "Quale linea piana chiusa è formata dai punti tutti alla stessa distanza da un centro?",
+      "answer": "Circonferenza"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Uccelli",
+      "sub_category": "Specie comuni",
+      "difficulty": "facile",
+      "question": "Quale uccello dei boschi tamburella sui tronchi con il becco per cercare insetti?",
+      "answer": "Picchio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Uccelli",
+      "sub_category": "Specie comuni",
+      "difficulty": "medio",
+      "question": "Quale uccello dal lungo becco ricurvo mostra una vistosa cresta apribile sul capo?",
+      "answer": "Upupa"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Uccelli",
+      "sub_category": "Specie comuni",
+      "difficulty": "medio",
+      "question": "Quale uccello dai colori vivaci scava gallerie in pareti sabbiose e cattura insetti in volo?",
+      "answer": "Gruccione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Uccelli",
+      "sub_category": "Specie comuni",
+      "difficulty": "medio",
+      "question": "Quale piccolo uccello canoro presenta nel maschio un petto rosato e barre chiare sulle ali?",
+      "answer": "Fringuello"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Uccelli",
+      "sub_category": "Specie comuni",
+      "difficulty": "facile",
+      "question": "Quale comune uccello da giardino ha nel maschio piumaggio nero e becco giallo-arancio?",
+      "answer": "Merlo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Uccelli",
+      "sub_category": "Specie comuni",
+      "difficulty": "medio",
+      "question": "Quale piccolo rapace notturno, spesso attivo anche al crepuscolo, ha occhi gialli e capo tondeggiante senza ciuffi auricolari?",
+      "answer": "Civetta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Uccelli",
+      "sub_category": "Specie comuni",
+      "difficulty": "medio",
+      "question": "Quale piccolo falco può restare quasi immobile nell'aria battendo rapidamente le ali?",
+      "answer": "Gheppio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Uccelli",
+      "sub_category": "Specie comuni",
+      "difficulty": "difficile",
+      "question": "Quale uccello dei prati umidi si riconosce per il lungo ciuffo sottile rivolto all'indietro?",
+      "answer": "Pavoncella"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Uccelli",
+      "sub_category": "Specie comuni",
+      "difficulty": "difficile",
+      "question": "Quale minuscolo uccello sociale presenta una coda molto più lunga del corpo e un piumaggio soffice?",
+      "answer": "Codibugnolo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Uccelli",
+      "sub_category": "Specie comuni",
+      "difficulty": "medio",
+      "question": "Quale rapace diurno si riconosce in volo per la coda spesso nettamente forcuta?",
+      "answer": "Nibbio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "difficulty": "facile",
+      "question": "Quale utensile a rete fitta serve a separare piccoli residui da un liquido versato?",
+      "answer": "Colino"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "difficulty": "facile",
+      "question": "Quale utensile forato e dal manico lungo permette di prelevare cibi immersi nell'acqua bollente?",
+      "answer": "Schiumarola"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "difficulty": "facile",
+      "question": "Quale utensile con una coppa profonda e un lungo manico serve a distribuire minestre?",
+      "answer": "Mestolo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "difficulty": "facile",
+      "question": "Quale cilindro, spesso di legno, si fa rotolare per stendere un impasto?",
+      "answer": "Matterello"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "difficulty": "facile",
+      "question": "Quale utensile formato da fili metallici arcuati si usa per incorporare aria in uova e creme?",
+      "answer": "Frusta da cucina"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "difficulty": "facile",
+      "question": "Quale attrezzo estrae il succo da arance e limoni premendoli su una parte conica?",
+      "answer": "Spremiagrumi"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "difficulty": "facile",
+      "question": "Quale piccolo utensile dotato di lama mobile elimina lo strato esterno degli ortaggi?",
+      "answer": "Pelapatate"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "difficulty": "facile",
+      "question": "Quale tavoletta rigida protegge il piano di lavoro mentre si affettano gli alimenti?",
+      "answer": "Tagliere"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "difficulty": "facile",
+      "question": "Quale recipiente forato permette di eliminare l'acqua dopo la cottura di spaghetti e penne?",
+      "answer": "Scolapasta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina",
+      "sub_category": "Utensili",
+      "difficulty": "facile",
+      "question": "Quale recipiente basso, di metallo o ceramica, si mette in forno per cuocere pietanze?",
+      "answer": "Teglia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Anatomia del fiore",
+      "difficulty": "medio",
+      "question": "Quale struttura centrale del fiore comprende stigma, stilo e ovario?",
+      "answer": "Pistillo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Anatomia del fiore",
+      "difficulty": "medio",
+      "question": "Quale superficie ricettiva del fiore trattiene i granuli trasportati dagli impollinatori?",
+      "answer": "Stigma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Anatomia del fiore",
+      "difficulty": "medio",
+      "question": "Quale parte del fiore racchiude gli ovuli e può trasformarsi in frutto dopo la fecondazione?",
+      "answer": "Ovario"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Anatomia del fiore",
+      "difficulty": "medio",
+      "question": "Come si chiama ciascuna delle piccole strutture, spesso verdi, che proteggono il bocciolo?",
+      "answer": "Sepalo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Anatomia del fiore",
+      "difficulty": "facile",
+      "question": "Quale elemento del fiore è spesso colorato e contribuisce ad attirare gli impollinatori?",
+      "answer": "Petalo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Anatomia del fiore",
+      "difficulty": "medio",
+      "question": "Quale ghiandola vegetale produce una sostanza zuccherina ricercata da molti insetti?",
+      "answer": "Nettario"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Anatomia del fiore",
+      "difficulty": "difficile",
+      "question": "Quale parte sottile dello stame sostiene la struttura che produce il polline?",
+      "answer": "Filamento staminale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Semi e frutti",
+      "difficulty": "difficile",
+      "question": "Quale tessuto nutritivo presente in molti semi sostiene lo sviluppo dell'embrione?",
+      "answer": "Endosperma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Semi e frutti",
+      "difficulty": "difficile",
+      "question": "Come si chiama l'insieme degli strati della parete del frutto derivati dall'ovario?",
+      "answer": "Pericarpo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Semi e frutti",
+      "difficulty": "medio",
+      "question": "Quale prima struttura dell'embrione vegetale si allunga verso il terreno durante la germinazione?",
+      "answer": "Radichetta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Elementi e accessori",
+      "difficulty": "facile",
+      "question": "Quale fascia corre alla base delle pareti interne per proteggerle da urti e pulizie?",
+      "answer": "Battiscopa"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Elementi e accessori",
+      "difficulty": "facile",
+      "question": "Quale piccolo dispositivo montato su una porta permette di osservare chi si trova all'esterno?",
+      "answer": "Spioncino"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Elementi e accessori",
+      "difficulty": "facile",
+      "question": "Quale elemento si afferra per aprire o chiudere una porta senza toccarne la superficie?",
+      "answer": "Maniglia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Elementi e accessori",
+      "difficulty": "medio",
+      "question": "Quale perno articolato permette a un'anta pesante di ruotare sul proprio sostegno?",
+      "answer": "Cardine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Elementi e accessori",
+      "difficulty": "facile",
+      "question": "Quale meccanismo interno di una porta si aziona di solito con una chiave?",
+      "answer": "Serratura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Elementi e accessori",
+      "difficulty": "facile",
+      "question": "Quale chiusura esterna per finestre ha spesso lamelle inclinate che lasciano filtrare aria e poca luce?",
+      "answer": "Persiana"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Elementi e accessori",
+      "difficulty": "facile",
+      "question": "Quale schermo per finestre è formato da stecche articolate che si avvolgono sopra il vano?",
+      "answer": "Tapparella"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Elementi e accessori",
+      "difficulty": "medio",
+      "question": "Quale finestra installata su una copertura inclinata illumina un sottotetto?",
+      "answer": "Lucernario"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Elementi e accessori",
+      "difficulty": "facile",
+      "question": "Quale elemento continuo si afferra lungo una scala per mantenere l'equilibrio?",
+      "answer": "Corrimano"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Casa",
+      "sub_category": "Elementi e accessori",
+      "difficulty": "facile",
+      "question": "Quale rete sottile applicata alle finestre permette di arieggiare tenendo fuori gli insetti?",
+      "answer": "Zanzariera"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Meccanica celeste",
+      "difficulty": "difficile",
+      "question": "Come si chiama il punto dell'orbita di un corpo celeste in cui esso è più vicino al Sole?",
+      "answer": "Perielio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Meccanica celeste",
+      "difficulty": "difficile",
+      "question": "Come si chiama il punto dell'orbita di un corpo celeste in cui esso è più lontano dal Sole?",
+      "answer": "Afelio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Meccanica celeste",
+      "difficulty": "difficile",
+      "question": "Quale punto dell'orbita di un satellite terrestre si trova alla massima distanza dalla Terra?",
+      "answer": "Apogeo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Meccanica celeste",
+      "difficulty": "difficile",
+      "question": "Quale punto dell'orbita di un satellite terrestre si trova alla minima distanza dalla Terra?",
+      "answer": "Perigeo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Meccanica celeste",
+      "difficulty": "facile",
+      "question": "Quale movimento del nostro pianeta attorno al proprio asse determina l'alternanza di giorno e notte?",
+      "answer": "Rotazione terrestre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Meccanica celeste",
+      "difficulty": "facile",
+      "question": "Quale movimento del nostro pianeta lungo l'orbita attorno al Sole dura circa 365 giorni?",
+      "answer": "Rivoluzione terrestre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Meccanica celeste",
+      "difficulty": "difficile",
+      "question": "Quale grandezza descrive l'inclinazione dell'asse di un pianeta rispetto alla perpendicolare al piano orbitale?",
+      "answer": "Obliquità"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Osservazione",
+      "difficulty": "medio",
+      "question": "Come si chiama una regione temporaneamente più scura sulla superficie visibile del Sole, associata a forti campi magnetici?",
+      "answer": "Macchia solare"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Corpi celesti",
+      "difficulty": "medio",
+      "question": "Quale categoria comprende corpi celesti quasi sferici che orbitano attorno al Sole senza aver ripulito la propria zona orbitale?",
+      "answer": "Pianeta nano"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Astronomia",
+      "sub_category": "Corpi celesti",
+      "difficulty": "medio",
+      "question": "Come si chiama un mondo che orbita attorno a una stella diversa dal Sole?",
+      "answer": "Esopianeta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e minerali",
+      "difficulty": "medio",
+      "question": "Quale roccia vulcanica molto porosa può galleggiare sull'acqua grazie alle numerose cavità?",
+      "answer": "Pomice"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e minerali",
+      "difficulty": "medio",
+      "question": "Quale roccia scura si divide facilmente in lastre sottili usate anche per coperture?",
+      "answer": "Ardesia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e minerali",
+      "difficulty": "difficile",
+      "question": "Quale roccia metamorfica mostra spesso bande alternate chiare e scure?",
+      "answer": "Gneiss"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e minerali",
+      "difficulty": "facile",
+      "question": "Quale roccia metamorfica, lucidabile e spesso venata, è impiegata per pavimenti e sculture?",
+      "answer": "Marmo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e minerali",
+      "difficulty": "medio",
+      "question": "Quale minerale costituito da carbonato di calcio reagisce con acidi deboli producendo effervescenza?",
+      "answer": "Calcite"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e minerali",
+      "difficulty": "difficile",
+      "question": "Quale gruppo di minerali molto comune nelle rocce della crosta terrestre comprende varietà ricche di potassio e sodio?",
+      "answer": "Feldspato"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e minerali",
+      "difficulty": "medio",
+      "question": "Quale minerale si sfalda in lamine sottilissime, elastiche e spesso brillanti?",
+      "answer": "Mica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e minerali",
+      "difficulty": "facile",
+      "question": "Quale minerale tenero, composto da solfato di calcio idrato, viene impiegato per intonaci e stampi?",
+      "answer": "Gesso"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e minerali",
+      "difficulty": "facile",
+      "question": "Quale elemento naturale di colore giallo è presente anche nei depositi di origine vulcanica?",
+      "answer": "Zolfo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geologia",
+      "sub_category": "Rocce e minerali",
+      "difficulty": "difficile",
+      "question": "Quale minerale di ferro lascia una traccia rosso-bruna quando viene strofinato su porcellana non smaltata?",
+      "answer": "Ematite"
     }
   ],
   "tabu": [
