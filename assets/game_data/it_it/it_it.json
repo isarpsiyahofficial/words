@@ -10526,6 +10526,946 @@
       "difficulty": "medio",
       "question": "Quale ridondanza espressiva aggiunge parole non necessarie, come «a me mi piace»?",
       "answer": "Pleonasmo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Panificazione",
+      "sub_category": "Impasti e lievitazioni",
+      "difficulty": "facile",
+      "question": "Quale riposo iniziale di farina e acqua, prima dell'aggiunta degli altri ingredienti, facilita la formazione dell'impasto?",
+      "answer": "Autolisi"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Panificazione",
+      "sub_category": "Impasti e lievitazioni",
+      "difficulty": "medio",
+      "question": "Come si chiama il primo periodo di riposo dell'impasto in massa, prima della divisione in pezzi?",
+      "answer": "Puntatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Panificazione",
+      "sub_category": "Impasti e lievitazioni",
+      "difficulty": "difficile",
+      "question": "Quale fase finale di crescita avviene dopo aver dato forma ai pezzi di impasto?",
+      "answer": "Appretto"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Panificazione",
+      "sub_category": "Impasti e lievitazioni",
+      "difficulty": "facile",
+      "question": "Quale lavorazione manuale tende la superficie di una porzione d'impasto facendola ruotare sul banco?",
+      "answer": "Pirlatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Panificazione",
+      "sub_category": "Impasti e lievitazioni",
+      "difficulty": "medio",
+      "question": "Come si chiama l'insieme delle cavità d'aria visibili nella sezione di un pane?",
+      "answer": "Alveolatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Panificazione",
+      "sub_category": "Impasti e lievitazioni",
+      "difficulty": "difficile",
+      "question": "Quale parte soffice e porosa si trova all'interno di una pagnotta?",
+      "answer": "Mollica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Panificazione",
+      "sub_category": "Impasti e lievitazioni",
+      "difficulty": "facile",
+      "question": "Quale rivestimento esterno del pane diventa più asciutto e colorito durante la cottura?",
+      "answer": "Crosta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Panificazione",
+      "sub_category": "Impasti e lievitazioni",
+      "difficulty": "medio",
+      "question": "Come si chiama un piccolo impasto preparatorio che viene lasciato maturare e poi incorporato in quello principale?",
+      "answer": "Lievitino"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Panificazione",
+      "sub_category": "Impasti e lievitazioni",
+      "difficulty": "difficile",
+      "question": "Quale operazione consiste nell'aggiungere acqua e farina a una coltura fermentativa per mantenerla attiva?",
+      "answer": "Rinfresco"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Panificazione",
+      "sub_category": "Impasti e lievitazioni",
+      "difficulty": "facile",
+      "question": "Quale fase divide una massa di impasto in porzioni del peso desiderato?",
+      "answer": "Spezzatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orticoltura",
+      "sub_category": "Tecniche di coltivazione",
+      "difficulty": "medio",
+      "question": "Quale pratica agricola incorpora nel terreno una coltura appositamente cresciuta per arricchirlo?",
+      "answer": "Sovescio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orticoltura",
+      "sub_category": "Tecniche di coltivazione",
+      "difficulty": "difficile",
+      "question": "Quale intervento elimina l'estremità di crescita di un germoglio per favorire lo sviluppo laterale?",
+      "answer": "Cimatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orticoltura",
+      "sub_category": "Tecniche di coltivazione",
+      "difficulty": "facile",
+      "question": "Come si chiama la coltivazione ravvicinata di specie vegetali diverse che possono aiutarsi reciprocamente?",
+      "answer": "Consociazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orticoltura",
+      "sub_category": "Tecniche di coltivazione",
+      "difficulty": "medio",
+      "question": "Quale tecnica distribuisce i semi uniformemente sulla superficie senza predisporre file?",
+      "answer": "Semina a spaglio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orticoltura",
+      "sub_category": "Tecniche di coltivazione",
+      "difficulty": "difficile",
+      "question": "Quale sistemazione del campo crea aiuole rialzate per favorire lo sgrondo dell'acqua?",
+      "answer": "Baulatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orticoltura",
+      "sub_category": "Tecniche di coltivazione",
+      "difficulty": "facile",
+      "question": "Come si chiama l'eliminazione dei germogli indesiderati che nascono in punti specifici di una pianta coltivata?",
+      "answer": "Scacchiatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orticoltura",
+      "sub_category": "Tecniche di coltivazione",
+      "difficulty": "medio",
+      "question": "Quale attrezzo rompe superficialmente il terreno tra le file per contenere le erbe spontanee?",
+      "answer": "Sarchiatore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orticoltura",
+      "sub_category": "Tecniche di coltivazione",
+      "difficulty": "difficile",
+      "question": "Come si chiama lo strato di materiale steso sulla terra per limitarne l'evaporazione e la crescita di erbe spontanee?",
+      "answer": "Pacciame"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orticoltura",
+      "sub_category": "Tecniche di coltivazione",
+      "difficulty": "facile",
+      "question": "Quale superficie di terreno finemente preparata accoglie i semi prima della germinazione?",
+      "answer": "Letto di semina"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Orticoltura",
+      "sub_category": "Tecniche di coltivazione",
+      "difficulty": "medio",
+      "question": "Quale struttura verticale di fili e sostegni guida la crescita di piante rampicanti?",
+      "answer": "Spalliera"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Idrologia",
+      "sub_category": "Acque e territorio",
+      "difficulty": "difficile",
+      "question": "Come si chiama una riserva sotterranea d'acqua racchiusa tra strati di roccia poco permeabili?",
+      "answer": "Acquifero confinato"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Idrologia",
+      "sub_category": "Acque e territorio",
+      "difficulty": "facile",
+      "question": "Quale strumento permette di rilevare il livello dell'acqua in profondità nel sottosuolo?",
+      "answer": "Piezometro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Idrologia",
+      "sub_category": "Acque e territorio",
+      "difficulty": "medio",
+      "question": "Quale processo complessivo trasferisce acqua verso l'atmosfera sia dal suolo sia dalle piante?",
+      "answer": "Evapotraspirazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Idrologia",
+      "sub_category": "Acque e territorio",
+      "difficulty": "difficile",
+      "question": "Come si chiama il movimento dell'acqua piovana sulla superficie del terreno quando non penetra nel suolo?",
+      "answer": "Ruscellamento"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Idrologia",
+      "sub_category": "Acque e territorio",
+      "difficulty": "facile",
+      "question": "Quale grandezza misura il volume d'acqua che attraversa una sezione di un corso d'acqua nell'unità di tempo?",
+      "answer": "Portata fluviale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Idrologia",
+      "sub_category": "Acque e territorio",
+      "difficulty": "medio",
+      "question": "Quale area predisposta raccoglie temporaneamente le piene per ridurre il picco del deflusso a valle?",
+      "answer": "Bacino di laminazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Idrologia",
+      "sub_category": "Acque e territorio",
+      "difficulty": "difficile",
+      "question": "Quale dispositivo misura la profondità della superficie dell'acqua sotterranea in un pozzo di osservazione?",
+      "answer": "Freatimetro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Idrologia",
+      "sub_category": "Acque e territorio",
+      "difficulty": "facile",
+      "question": "Quale piccola riserva d'acqua sotterranea resta sopra il livello principale grazie a uno strato locale impermeabile?",
+      "answer": "Falda sospesa"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Idrologia",
+      "sub_category": "Acque e territorio",
+      "difficulty": "medio",
+      "question": "Quale processo fa entrare l'acqua piovana nei pori del terreno?",
+      "answer": "Infiltrazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Idrologia",
+      "sub_category": "Acque e territorio",
+      "difficulty": "difficile",
+      "question": "Come si chiama un'emergenza naturale d'acqua che alterna periodi di attività e di assenza di flusso?",
+      "answer": "Sorgente intermittente"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Falegnameria",
+      "sub_category": "Giunzioni e lavorazioni",
+      "difficulty": "facile",
+      "question": "Quale elemento sporgente di un pezzo di legno entra in una cavità corrispondente per formare una giunzione?",
+      "answer": "Tenone"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Falegnameria",
+      "sub_category": "Giunzioni e lavorazioni",
+      "difficulty": "medio",
+      "question": "Come si chiama l'alloggiamento scavato nel legno che riceve una linguetta di un altro pezzo?",
+      "answer": "Mortasa"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Falegnameria",
+      "sub_category": "Giunzioni e lavorazioni",
+      "difficulty": "difficile",
+      "question": "Quale giunzione tra tavole usa estremità trapezoidali che impediscono lo sfilamento?",
+      "answer": "Incastro a coda di rondine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Falegnameria",
+      "sub_category": "Giunzioni e lavorazioni",
+      "difficulty": "facile",
+      "question": "Quale rivestimento applica un sottile foglio di legno pregiato su un pannello meno costoso?",
+      "answer": "Impiallacciatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Falegnameria",
+      "sub_category": "Giunzioni e lavorazioni",
+      "difficulty": "medio",
+      "question": "Quale sagoma rigida guida la ripetizione precisa di tagli o fori in un laboratorio?",
+      "answer": "Dima"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Falegnameria",
+      "sub_category": "Giunzioni e lavorazioni",
+      "difficulty": "difficile",
+      "question": "Quale piccolo cilindro viene inserito in fori corrispondenti per allineare e unire due pannelli?",
+      "answer": "Tassello di legno"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Falegnameria",
+      "sub_category": "Giunzioni e lavorazioni",
+      "difficulty": "facile",
+      "question": "Quale lavorazione rende liscia una superficie mediante abrasione progressiva?",
+      "answer": "Levigatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Falegnameria",
+      "sub_category": "Giunzioni e lavorazioni",
+      "difficulty": "medio",
+      "question": "Come si chiama il disegno naturale delle fibre visibile sulla superficie di una tavola?",
+      "answer": "Venatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Falegnameria",
+      "sub_category": "Giunzioni e lavorazioni",
+      "difficulty": "difficile",
+      "question": "Quale elemento lungo e stretto di legno viene usato per cornici leggere o strutture di sostegno?",
+      "answer": "Listello"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Falegnameria",
+      "sub_category": "Giunzioni e lavorazioni",
+      "difficulty": "facile",
+      "question": "Quale materiale minuto si accumula durante il taglio del legno con una lama dentata?",
+      "answer": "Segatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina pratica",
+      "sub_category": "Preparazioni e tecniche",
+      "difficulty": "difficile",
+      "question": "Quale tecnica recupera i residui saporiti sul fondo di una padella aggiungendo un liquido?",
+      "answer": "Deglassatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina pratica",
+      "sub_category": "Preparazioni e tecniche",
+      "difficulty": "facile",
+      "question": "Quale rivestimento di briciole secche si applica a un alimento prima di cuocerlo?",
+      "answer": "Panatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina pratica",
+      "sub_category": "Preparazioni e tecniche",
+      "difficulty": "medio",
+      "question": "Quale miscela fluida di farina e liquido avvolge alcuni alimenti prima della frittura?",
+      "answer": "Pastella"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina pratica",
+      "sub_category": "Preparazioni e tecniche",
+      "difficulty": "difficile",
+      "question": "Quale soluzione di acqua e sale si usa per conservare o insaporire determinati alimenti?",
+      "answer": "Salamoia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina pratica",
+      "sub_category": "Preparazioni e tecniche",
+      "difficulty": "facile",
+      "question": "Quale metodo di conservazione riduce l'umidità di un alimento mediante aria o calore moderato?",
+      "answer": "Essiccazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina pratica",
+      "sub_category": "Preparazioni e tecniche",
+      "difficulty": "medio",
+      "question": "Quale trasformazione degli zuccheri da parte di microrganismi modifica gusto e consistenza degli alimenti?",
+      "answer": "Fermentazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina pratica",
+      "sub_category": "Preparazioni e tecniche",
+      "difficulty": "difficile",
+      "question": "Quale preparazione viene cotta in uno stampo e poi rovesciata sul piatto per servirla?",
+      "answer": "Sformato"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina pratica",
+      "sub_category": "Preparazioni e tecniche",
+      "difficulty": "facile",
+      "question": "Quale operazione separa un liquido da un composto facendolo passare attraverso un telo o un filtro?",
+      "answer": "Colatura"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina pratica",
+      "sub_category": "Preparazioni e tecniche",
+      "difficulty": "medio",
+      "question": "Quale lavorazione incorpora aria negli albumi fino a ottenere una massa bianca e stabile?",
+      "answer": "Montatura a neve"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Elettronica",
+      "sub_category": "Componenti e sensori",
+      "difficulty": "difficile",
+      "question": "Quale componente permette a un circuito di comandarne un altro tramite un contatto azionato elettricamente?",
+      "answer": "Relè"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Elettronica",
+      "sub_category": "Componenti e sensori",
+      "difficulty": "facile",
+      "question": "Quale dispositivo reagisce alla luce per attivare o interrompere automaticamente un comando?",
+      "answer": "Fotocellula"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Elettronica",
+      "sub_category": "Componenti e sensori",
+      "difficulty": "medio",
+      "question": "Quale sensore rileva la velocità di rotazione di un dispositivo attorno ai suoi assi?",
+      "answer": "Giroscopio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Elettronica",
+      "sub_category": "Componenti e sensori",
+      "difficulty": "difficile",
+      "question": "Quale sensore registra variazioni di velocità e orientamento dinamico di un dispositivo?",
+      "answer": "Accelerometro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Elettronica",
+      "sub_category": "Componenti e sensori",
+      "difficulty": "facile",
+      "question": "Quale sensore sfrutta una tensione generata tra metalli diversi per misurare la temperatura?",
+      "answer": "Termocoppia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Elettronica",
+      "sub_category": "Componenti e sensori",
+      "difficulty": "medio",
+      "question": "Quale componente semiconduttore lascia passare la corrente soprattutto in un solo verso?",
+      "answer": "Diodo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Elettronica",
+      "sub_category": "Componenti e sensori",
+      "difficulty": "difficile",
+      "question": "Quale protezione interrompe un circuito quando un elemento interno si fonde per corrente eccessiva?",
+      "answer": "Fusibile"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Elettronica",
+      "sub_category": "Componenti e sensori",
+      "difficulty": "facile",
+      "question": "Quale componente immagazzina temporaneamente carica tra due superfici conduttrici separate da un isolante?",
+      "answer": "Condensatore elettrico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Elettronica",
+      "sub_category": "Componenti e sensori",
+      "difficulty": "medio",
+      "question": "Quale componente regolabile modifica manualmente la resistenza tra un terminale e un contatto mobile?",
+      "answer": "Potenziometro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Elettronica",
+      "sub_category": "Componenti e sensori",
+      "difficulty": "difficile",
+      "question": "Quale componente immagazzina energia in un campo magnetico quando viene attraversato da corrente?",
+      "answer": "Induttore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ecologia",
+      "sub_category": "Ambienti e organismi",
+      "difficulty": "facile",
+      "question": "Quale organismo o gruppo di organismi aiuta a valutare le condizioni di un ambiente grazie alla sua sensibilità?",
+      "answer": "Bioindicatore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ecologia",
+      "sub_category": "Ambienti e organismi",
+      "difficulty": "difficile",
+      "question": "Come si chiama l'ambiente naturale che si sviluppa lungo le sponde di fiumi e torrenti?",
+      "answer": "Habitat ripariale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ecologia",
+      "sub_category": "Ambienti e organismi",
+      "difficulty": "facile",
+      "question": "Quale insieme comprende le popolazioni di organismi che vivono e interagiscono nello stesso ambiente?",
+      "answer": "Biocenosi"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ecologia",
+      "sub_category": "Ambienti e organismi",
+      "difficulty": "medio",
+      "question": "Quale porzione complessiva del pianeta comprende tutti gli ambienti in cui esiste la vita?",
+      "answer": "Biosfera"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ecologia",
+      "sub_category": "Ambienti e organismi",
+      "difficulty": "difficile",
+      "question": "Quale fenomeno aumenta la concentrazione di alcune sostanze persistenti passando ai livelli superiori di una rete alimentare?",
+      "answer": "Biomagnificazione"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Ecologia",
+      "sub_category": "Ambienti e organismi",
+      "difficulty": "facile",
+      "question": "Quale strato superficiale del terreno è formato da foglie cadute, rametti e altri residui vegetali?",
+      "answer": "Lettiera forestale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Navigazione",
+      "sub_category": "Imbarcazioni e porti",
+      "difficulty": "medio",
+      "question": "Quale galleggiante ancorato segnala un percorso, un limite o un pericolo nelle acque navigabili?",
+      "answer": "Boa"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Navigazione",
+      "sub_category": "Imbarcazioni e porti",
+      "difficulty": "difficile",
+      "question": "Quale bacino portuale riparato ospita imbarcazioni ferme all'ormeggio?",
+      "answer": "Darsena"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Navigazione",
+      "sub_category": "Imbarcazioni e porti",
+      "difficulty": "facile",
+      "question": "Quale struttura stretta si protende dalla riva sull'acqua per consentire l'accesso alle barche?",
+      "answer": "Pontile"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Navigazione",
+      "sub_category": "Imbarcazioni e porti",
+      "difficulty": "medio",
+      "question": "Quale costruzione si estende dalla costa per proteggere un porto o consentire l'attracco?",
+      "answer": "Molo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Navigazione",
+      "sub_category": "Imbarcazioni e porti",
+      "difficulty": "difficile",
+      "question": "Quale opera marittima riduce la forza delle onde prima che raggiungano un'area protetta?",
+      "answer": "Frangiflutti"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Navigazione",
+      "sub_category": "Imbarcazioni e porti",
+      "difficulty": "facile",
+      "question": "Come si chiama l'operazione di fissare un'imbarcazione a una banchina o a un punto stabile?",
+      "answer": "Ormeggio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Navigazione",
+      "sub_category": "Imbarcazioni e porti",
+      "difficulty": "medio",
+      "question": "Quale robusto elemento fissato sul ponte o sulla banchina serve per assicurare le cime?",
+      "answer": "Bitta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Navigazione",
+      "sub_category": "Imbarcazioni e porti",
+      "difficulty": "difficile",
+      "question": "Quale protezione morbida appesa al fianco di una barca evita urti contro la banchina?",
+      "answer": "Parabordo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Navigazione",
+      "sub_category": "Imbarcazioni e porti",
+      "difficulty": "facile",
+      "question": "Quale piccolo accessorio con due estremità sporgenti permette di fermare una cima avvolgendola?",
+      "answer": "Galloccia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Navigazione",
+      "sub_category": "Imbarcazioni e porti",
+      "difficulty": "medio",
+      "question": "Quale supporto sul bordo di una barca a remi sostiene il remo e ne permette il movimento?",
+      "answer": "Scalmo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Corpo umano",
+      "sub_category": "Anatomia e sensi",
+      "difficulty": "difficile",
+      "question": "Quale apertura centrale dell'occhio cambia dimensione in base alla quantità di luce?",
+      "answer": "Pupilla"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Corpo umano",
+      "sub_category": "Anatomia e sensi",
+      "difficulty": "facile",
+      "question": "Quale struttura colorata dell'occhio regola l'ampiezza dell'apertura centrale?",
+      "answer": "Iride"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Corpo umano",
+      "sub_category": "Anatomia e sensi",
+      "difficulty": "medio",
+      "question": "Quale tessuto sensibile alla luce riveste la parte interna posteriore dell'occhio?",
+      "answer": "Retina"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Corpo umano",
+      "sub_category": "Anatomia e sensi",
+      "difficulty": "difficile",
+      "question": "Quale lente naturale dell'occhio cambia forma per mettere a fuoco oggetti vicini e lontani?",
+      "answer": "Cristallino"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Corpo umano",
+      "sub_category": "Anatomia e sensi",
+      "difficulty": "facile",
+      "question": "Quale superficie trasparente e curva protegge la parte anteriore dell'occhio e contribuisce alla messa a fuoco?",
+      "answer": "Cornea"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Corpo umano",
+      "sub_category": "Anatomia e sensi",
+      "difficulty": "difficile",
+      "question": "Quale struttura a spirale dell'orecchio interno trasforma le vibrazioni in segnali nervosi?",
+      "answer": "Coclea"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Corpo umano",
+      "sub_category": "Anatomia e sensi",
+      "difficulty": "facile",
+      "question": "Quale tessuto fibroso collega un muscolo a un osso?",
+      "answer": "Tendine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Corpo umano",
+      "sub_category": "Anatomia e sensi",
+      "difficulty": "medio",
+      "question": "Quale tessuto elastico riveste molte superfici articolari riducendo l'attrito?",
+      "answer": "Cartilagine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Corpo umano",
+      "sub_category": "Anatomia e sensi",
+      "difficulty": "difficile",
+      "question": "Quale piccola sporgenza della lingua ospita in alcuni casi strutture che rilevano i sapori?",
+      "answer": "Papilla gustativa"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza dei materiali",
+      "sub_category": "Proprietà e impieghi",
+      "difficulty": "facile",
+      "question": "Quale tipo di lastra trasparente viene trattata per aumentare la resistenza e rompersi in piccoli frammenti?",
+      "answer": "Vetro temperato"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza dei materiali",
+      "sub_category": "Proprietà e impieghi",
+      "difficulty": "medio",
+      "question": "Quale materiale plastico trasparente e resistente agli urti si usa per visiere e pannelli?",
+      "answer": "Policarbonato"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza dei materiali",
+      "sub_category": "Proprietà e impieghi",
+      "difficulty": "difficile",
+      "question": "Quale polimero molto diffuso viene impiegato in pellicole, contenitori e tubazioni?",
+      "answer": "Polietilene"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza dei materiali",
+      "sub_category": "Proprietà e impieghi",
+      "difficulty": "facile",
+      "question": "Quale isolante fibroso si ottiene fondendo materiali minerali e trasformandoli in filamenti?",
+      "answer": "Lana di roccia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza dei materiali",
+      "sub_category": "Proprietà e impieghi",
+      "difficulty": "medio",
+      "question": "Quale rinforzo leggero è formato da sottilissimi filamenti di un elemento non metallico?",
+      "answer": "Fibra di carbonio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza dei materiali",
+      "sub_category": "Proprietà e impieghi",
+      "difficulty": "difficile",
+      "question": "Quale materiale elastico sintetico resiste bene a temperature variabili ed è usato per guarnizioni?",
+      "answer": "Gomma siliconica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza dei materiali",
+      "sub_category": "Proprietà e impieghi",
+      "difficulty": "facile",
+      "question": "Quale lega metallica resiste alla corrosione grazie a uno strato protettivo superficiale?",
+      "answer": "Acciaio inossidabile"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza dei materiali",
+      "sub_category": "Proprietà e impieghi",
+      "difficulty": "medio",
+      "question": "Quale materiale isolante naturale si ottiene agglomerando granuli di corteccia trattati con calore?",
+      "answer": "Sughero espanso"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza dei materiali",
+      "sub_category": "Proprietà e impieghi",
+      "difficulty": "difficile",
+      "question": "Quale lastra di sicurezza unisce più fogli trasparenti mediante un film intermedio che trattiene i frammenti?",
+      "answer": "Vetro stratificato"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza dei materiali",
+      "sub_category": "Proprietà e impieghi",
+      "difficulty": "facile",
+      "question": "Quale materiale leggero a celle viene usato per riempire cavità e limitare la dispersione termica?",
+      "answer": "Schiuma poliuretanica"
     }
   ],
   "tabu": [
