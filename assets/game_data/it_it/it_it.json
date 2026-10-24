@@ -15376,6 +15376,666 @@
       "difficulty": "medio",
       "question": "Quale tecnica grafica produce di norma una sola impressione trasferendo colore da una superficie liscia?",
       "answer": "Monotipo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Misure e orientamento",
+      "difficulty": "medio",
+      "answer": "Equidistanza altimetrica",
+      "question": "Qual è la differenza verticale costante fra due curve di livello consecutive su una mappa?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Misure e orientamento",
+      "difficulty": "difficile",
+      "answer": "Caposaldo topografico",
+      "question": "Come si chiama il punto materializzato sul terreno la cui posizione o quota è stata determinata con precisione?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Misure e orientamento",
+      "difficulty": "medio",
+      "answer": "Triangolazione",
+      "question": "Quale metodo determina una posizione misurando gli angoli rispetto a punti noti?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Misure e orientamento",
+      "difficulty": "medio",
+      "answer": "Ortofoto",
+      "question": "Come si chiama un'immagine aerea corretta geometricamente in modo da poter misurare distanze come su una carta?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Misure e orientamento",
+      "difficulty": "difficile",
+      "answer": "Isobata",
+      "question": "Quale linea unisce punti che si trovano alla stessa profondità sotto la superficie del mare?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cartografia",
+      "sub_category": "Misure e orientamento",
+      "difficulty": "difficile",
+      "answer": "Proiezione conforme",
+      "question": "Quale rappresentazione cartografica conserva localmente gli angoli, pur deformando altre grandezze?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Meteorologia",
+      "sub_category": "Fenomeni atmosferici",
+      "difficulty": "difficile",
+      "answer": "Nebbia di avvezione",
+      "question": "Quale fenomeno riduce la visibilità quando aria umida scorre sopra una superficie più fredda?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Meteorologia",
+      "sub_category": "Fenomeni atmosferici",
+      "difficulty": "medio",
+      "answer": "Brezza di monte",
+      "question": "Quale corrente locale notturna scende dai versanti verso le zone più basse?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Meteorologia",
+      "sub_category": "Fenomeni atmosferici",
+      "difficulty": "facile",
+      "answer": "Escursione termica",
+      "question": "Come si chiama la differenza fra la temperatura massima e minima rilevata in un periodo?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Strutture vegetali",
+      "difficulty": "medio",
+      "answer": "Samara",
+      "question": "Come si chiama il frutto secco provvisto di un'espansione simile a un'ala che favorisce il trasporto col vento?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Strutture vegetali",
+      "difficulty": "difficile",
+      "answer": "Siliqua",
+      "question": "Quale frutto secco allungato si apre in due valve lasciando i semi su una membrana centrale?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Botanica",
+      "sub_category": "Strutture vegetali",
+      "difficulty": "difficile",
+      "answer": "Germinazione ipogea",
+      "question": "Come si chiama lo sviluppo del seme in cui i cotiledoni restano sotto la superficie del terreno?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia fisica",
+      "sub_category": "Fiumi e coste",
+      "difficulty": "difficile",
+      "answer": "Alveo di piena",
+      "question": "Come si chiama la parte della sede fluviale occupata dall'acqua durante le portate elevate?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia fisica",
+      "sub_category": "Fiumi e coste",
+      "difficulty": "difficile",
+      "answer": "Barra fluviale",
+      "question": "Come si chiama un deposito allungato di sabbia o ghiaia formato dalla corrente all'interno di un fiume?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia fisica",
+      "sub_category": "Fiumi e coste",
+      "difficulty": "difficile",
+      "answer": "Lanca",
+      "question": "Come si chiama un tratto isolato e spesso stagnante di un vecchio meandro del fiume?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia fisica",
+      "sub_category": "Fiumi e coste",
+      "difficulty": "medio",
+      "answer": "Falesia",
+      "question": "Come si chiama una parete costiera alta e ripida, modellata dall'erosione del mare?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Geografia fisica",
+      "sub_category": "Fiumi e coste",
+      "difficulty": "difficile",
+      "answer": "Cordone dunale",
+      "question": "Come si chiama la fascia allungata di rilievi sabbiosi parallela alla spiaggia, modellata dal vento?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Cucina e alimenti",
+      "sub_category": "Preparazioni",
+      "difficulty": "medio",
+      "answer": "Sbianchitura",
+      "question": "Quale breve passaggio in acqua bollente, seguito spesso da raffreddamento rapido, precede altre lavorazioni di un alimento?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Utensili",
+      "difficulty": "medio",
+      "answer": "Brunitoio",
+      "question": "Quale attrezzo leviga e rende lucida una superficie metallica mediante sfregamento e pressione?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Utensili",
+      "difficulty": "medio",
+      "answer": "Rasiera",
+      "question": "Quale sottile lama d'acciaio viene trascinata sul legno per asportare trucioli molto fini?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Utensili",
+      "difficulty": "difficile",
+      "answer": "Filiera",
+      "question": "Quale utensile ricava una filettatura esterna su una barra cilindrica?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Artigianato",
+      "sub_category": "Utensili",
+      "difficulty": "medio",
+      "answer": "Calibro a corsoio",
+      "question": "Quale strumento a ganasce scorrevoli misura dimensioni esterne, interne e profondità?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acustica",
+      "sub_category": "Suono e propagazione",
+      "difficulty": "medio",
+      "answer": "Armonico",
+      "question": "Come si chiama una componente sonora la cui frequenza è un multiplo intero di quella fondamentale?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acustica",
+      "sub_category": "Suono e propagazione",
+      "difficulty": "medio",
+      "answer": "Rumore bianco",
+      "question": "Come si chiama un segnale casuale che ha la stessa potenza per unità di frequenza in una banda considerata?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acustica",
+      "sub_category": "Suono e propagazione",
+      "difficulty": "difficile",
+      "answer": "Battimento",
+      "question": "Come si chiama la variazione periodica dell'intensità percepita quando due suoni hanno frequenze molto vicine?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acustica",
+      "sub_category": "Suono e propagazione",
+      "difficulty": "medio",
+      "answer": "Attenuazione",
+      "question": "Quale fenomeno riduce progressivamente l'ampiezza di un'onda mentre si propaga?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acustica",
+      "sub_category": "Suono e propagazione",
+      "difficulty": "difficile",
+      "answer": "Sonogramma",
+      "question": "Quale rappresentazione mostra come le componenti in frequenza di un segnale sonoro cambiano nel tempo?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Acustica",
+      "sub_category": "Suono e propagazione",
+      "difficulty": "medio",
+      "answer": "Assorbimento acustico",
+      "question": "Quale fenomeno avviene quando una superficie trattiene parte dell'energia sonora incidente invece di rifletterla?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Lingua italiana",
+      "sub_category": "Figure e fenomeni",
+      "difficulty": "difficile",
+      "answer": "Crasi",
+      "question": "Come si chiama la fusione di due vocali appartenenti a parole contigue in un unico suono?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecnica e immagine",
+      "difficulty": "medio",
+      "answer": "Esposimetro",
+      "question": "Quale strumento valuta la luce presente nella scena per scegliere i parametri di ripresa?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecnica e immagine",
+      "difficulty": "medio",
+      "answer": "Lunghezza focale",
+      "question": "Quale distanza ottica, indicata in millimetri sugli obiettivi, influisce sull'angolo di campo?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecnica e immagine",
+      "difficulty": "difficile",
+      "answer": "Distorsione a barilotto",
+      "question": "Come si chiama il difetto ottico per cui le linee rette vicino ai bordi sembrano incurvarsi verso l'esterno?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Fotografia",
+      "sub_category": "Tecnica e immagine",
+      "difficulty": "medio",
+      "answer": "Vignettatura",
+      "question": "Come si chiama l'oscuramento progressivo degli angoli rispetto al centro di una fotografia?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi edilizi",
+      "difficulty": "medio",
+      "answer": "Marcapiano",
+      "question": "Come si chiama la fascia orizzontale che evidenzia all'esterno la separazione tra i piani di un edificio?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi edilizi",
+      "difficulty": "difficile",
+      "answer": "Pronao",
+      "question": "Come si chiama il portico anteriore di un edificio templare classico?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Architettura",
+      "sub_category": "Elementi edilizi",
+      "difficulty": "difficile",
+      "answer": "Scossalina",
+      "question": "Quale lamiera sagomata protegge dall'infiltrazione i raccordi fra tetto e parete?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnica tessile",
+      "sub_category": "Tessuti e lavorazioni",
+      "difficulty": "medio",
+      "answer": "Feltratura",
+      "question": "Come si chiama la compattazione di fibre di lana mediante umidità, calore e movimento?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnica tessile",
+      "sub_category": "Tessuti e lavorazioni",
+      "difficulty": "medio",
+      "answer": "Orlatura",
+      "question": "Quale cucitura rifinisce il margine ripiegato di un tessuto?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Tecnica tessile",
+      "sub_category": "Tessuti e lavorazioni",
+      "difficulty": "difficile",
+      "answer": "Rammendo",
+      "question": "Come si chiama la riparazione manuale di un piccolo foro nel tessuto ricostruendone l'intreccio?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Edilizia sostenibile",
+      "sub_category": "Materiali e isolamento",
+      "difficulty": "medio",
+      "answer": "Barriera al vapore",
+      "question": "Quale strato limita il passaggio dell'umidità in forma gassosa all'interno di una parete?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Edilizia sostenibile",
+      "sub_category": "Materiali e isolamento",
+      "difficulty": "difficile",
+      "answer": "Taglio termico",
+      "question": "Quale soluzione costruttiva interrompe la continuità di un materiale conduttivo in un serramento?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Edilizia sostenibile",
+      "sub_category": "Materiali e isolamento",
+      "difficulty": "medio",
+      "answer": "Laterizio alveolato",
+      "question": "Quale elemento per muratura presenta cavità interne che ne riducono il peso e migliorano l'isolamento?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Edilizia sostenibile",
+      "sub_category": "Materiali e isolamento",
+      "difficulty": "difficile",
+      "answer": "Calcestruzzo drenante",
+      "question": "Quale conglomerato per pavimentazioni lascia infiltrare l'acqua attraverso vuoti collegati?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Edilizia sostenibile",
+      "sub_category": "Materiali e isolamento",
+      "difficulty": "medio",
+      "answer": "Intonaco di calce",
+      "question": "Quale rivestimento murale tradizionale è realizzato con un legante minerale ottenuto dalla cottura di rocce calcaree?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Edilizia sostenibile",
+      "sub_category": "Materiali e isolamento",
+      "difficulty": "medio",
+      "answer": "Serramento a vasistas",
+      "question": "Quale tipo di finestra si apre inclinando verso l'interno soltanto la parte superiore dell'anta?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Edilizia sostenibile",
+      "sub_category": "Materiali e isolamento",
+      "difficulty": "difficile",
+      "answer": "Ponticello termico",
+      "question": "Come si chiama una zona localizzata dell'involucro edilizio in cui il calore passa più facilmente che nelle aree vicine?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Conservazione",
+      "sub_category": "Cura dei materiali",
+      "difficulty": "difficile",
+      "answer": "Velinatura",
+      "question": "Quale protezione temporanea con carta sottile mantiene in posizione gli strati fragili di una superficie durante il restauro?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Conservazione",
+      "sub_category": "Cura dei materiali",
+      "difficulty": "medio",
+      "answer": "Passepartout",
+      "question": "Come si chiama il cartoncino con apertura sagomata che separa una stampa dal vetro della cornice?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Conservazione",
+      "sub_category": "Cura dei materiali",
+      "difficulty": "facile",
+      "answer": "Teca",
+      "question": "Quale contenitore trasparente protegge ed espone un oggetto in una raccolta museale?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Conservazione",
+      "sub_category": "Cura dei materiali",
+      "difficulty": "difficile",
+      "answer": "Consolidamento",
+      "question": "Come si chiama il trattamento che restituisce coesione a un materiale deteriorato senza sostituirlo integralmente?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Conservazione",
+      "sub_category": "Cura dei materiali",
+      "difficulty": "medio",
+      "answer": "Patina",
+      "question": "Come si chiama il sottile strato superficiale che può formarsi nel tempo su un metallo o una pietra?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Conservazione",
+      "sub_category": "Cura dei materiali",
+      "difficulty": "difficile",
+      "answer": "Reversibilità",
+      "question": "Quale principio richiede che un intervento di restauro possa essere rimosso senza danneggiare l'originale?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Conservazione",
+      "sub_category": "Cura dei materiali",
+      "difficulty": "medio",
+      "answer": "Pulitura a secco",
+      "question": "Quale metodo elimina polvere e depositi superficiali senza utilizzare acqua o solventi liquidi?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Conservazione",
+      "sub_category": "Cura dei materiali",
+      "difficulty": "difficile",
+      "answer": "Tassellatura",
+      "question": "Come si chiama il confronto fra piccole aree di prova usato per valutare differenti interventi su una superficie?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Conservazione",
+      "sub_category": "Cura dei materiali",
+      "difficulty": "medio",
+      "answer": "Foderatura",
+      "question": "Quale intervento applica un nuovo supporto sul retro di un tessuto dipinto indebolito?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza alimentare",
+      "sub_category": "Processi",
+      "difficulty": "difficile",
+      "answer": "Gelatinizzazione",
+      "question": "Quale trasformazione avviene quando granuli di amido assorbono acqua e si gonfiano durante il riscaldamento?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza alimentare",
+      "sub_category": "Processi",
+      "difficulty": "medio",
+      "answer": "Denaturazione",
+      "question": "Come si chiama la modifica della struttura tridimensionale di una proteina causata per esempio dal calore?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza alimentare",
+      "sub_category": "Processi",
+      "difficulty": "medio",
+      "answer": "Chiarificazione",
+      "question": "Come si chiama la rimozione delle particelle sospese per rendere più limpido un liquido alimentare?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza alimentare",
+      "sub_category": "Processi",
+      "difficulty": "medio",
+      "answer": "Decorticazione",
+      "question": "Quale lavorazione elimina il rivestimento esterno di semi e cereali?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Scienza alimentare",
+      "sub_category": "Processi",
+      "difficulty": "difficile",
+      "answer": "Retrogradazione dell'amido",
+      "question": "Quale fenomeno fa riassestare nel tempo le molecole del pane cotto contribuendo al suo indurimento?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Sistemi digitali",
+      "difficulty": "medio",
+      "answer": "Buffer",
+      "question": "Quale area temporanea di memoria compensa differenze di velocità tra due componenti che scambiano dati?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Sistemi digitali",
+      "difficulty": "medio",
+      "answer": "Compressione senza perdita",
+      "question": "Quale tecnica riduce la dimensione di un file permettendo di ricostruirlo esattamente identico?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Sistemi digitali",
+      "difficulty": "difficile",
+      "answer": "Checksum",
+      "question": "Quale valore calcolato da un insieme di dati aiuta a rilevare modifiche accidentali durante il trasferimento?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Sistemi digitali",
+      "difficulty": "medio",
+      "answer": "Interfaccia grafica",
+      "question": "Come si chiama l'insieme di finestre, icone e pulsanti con cui una persona interagisce con un programma?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Sistemi digitali",
+      "difficulty": "medio",
+      "answer": "Versionamento",
+      "question": "Quale pratica conserva la cronologia delle modifiche a un documento o a un progetto?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "main_category": "Informatica",
+      "sub_category": "Sistemi digitali",
+      "difficulty": "difficile",
+      "answer": "Ridondanza",
+      "question": "Quale accorgimento mantiene componenti o copie aggiuntive per migliorare l'affidabilità di un sistema?"
     }
   ],
   "tabu": [
