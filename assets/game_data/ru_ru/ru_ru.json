@@ -46860,6 +46860,886 @@
         "difficulty": "средняя",
         "question": "Как называется горизонтальная последовательность петель в трикотажном полотне?",
         "answer": "Петельный ряд"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Информатика",
+        "sub_category": "Информатика",
+        "difficulty": "лёгкая",
+        "question": "Какой основной компонент компьютера выполняет инструкции программ и арифметические операции?",
+        "answer": "Процессор"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Информатика",
+        "sub_category": "Информатика",
+        "difficulty": "средняя",
+        "question": "Где компьютер временно хранит сведения, необходимые запущенным приложениям, пока включено питание?",
+        "answer": "Оперативная память"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Информатика",
+        "sub_category": "Информатика",
+        "difficulty": "сложная",
+        "question": "На какой основной печатной основе внутри компьютера соединяются центральный вычислительный узел, модули хранения и разъёмы?",
+        "answer": "Материнская плата"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Информатика",
+        "sub_category": "Информатика",
+        "difficulty": "лёгкая",
+        "question": "Как называется служебная программа, через которую операционная система управляет конкретным устройством?",
+        "answer": "Драйвер"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Информатика",
+        "sub_category": "Информатика",
+        "difficulty": "средняя",
+        "question": "Как называется приложение для открытия и просмотра страниц Всемирной паутины?",
+        "answer": "Браузер"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Информатика",
+        "sub_category": "Информатика",
+        "difficulty": "сложная",
+        "question": "Как называют компьютер, который по запросам предоставляет другим устройствам ресурсы или сетевые услуги?",
+        "answer": "Сервер"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Информатика",
+        "sub_category": "Информатика",
+        "difficulty": "лёгкая",
+        "question": "Как называется подвижный указатель на дисплее, показывающий место ввода или выбранную позицию?",
+        "answer": "Курсор"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Информатика",
+        "sub_category": "Информатика",
+        "difficulty": "средняя",
+        "question": "Как называется способ организации каталогов и документов на носителе с правилами их хранения и поиска?",
+        "answer": "Файловая система"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Информатика",
+        "sub_category": "Информатика",
+        "difficulty": "сложная",
+        "question": "Как называется способ представления информации последовательностями двух возможных символов — нуля и единицы?",
+        "answer": "Двоичный код"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Информатика",
+        "sub_category": "Информатика",
+        "difficulty": "лёгкая",
+        "question": "Как называется поверхность устройства, на которой изображение отображается и команды вводятся прикосновением?",
+        "answer": "Сенсорный экран"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Химия",
+        "sub_category": "Химия",
+        "difficulty": "лёгкая",
+        "question": "Как называется переход твёрдого вещества непосредственно в газообразное состояние, минуя жидкое?",
+        "answer": "Сублимация"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Химия",
+        "sub_category": "Химия",
+        "difficulty": "средняя",
+        "question": "Как называется образование твёрдого вещества непосредственно из газа, без промежуточной жидкой фазы?",
+        "answer": "Десублимация"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Химия",
+        "sub_category": "Химия",
+        "difficulty": "сложная",
+        "question": "Как называется разделение жидкой смеси с помощью испарения и последующего охлаждения образовавшегося пара?",
+        "answer": "Дистилляция"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Химия",
+        "sub_category": "Химия",
+        "difficulty": "лёгкая",
+        "question": "Как называется осторожное сливание прозрачной жидкости с осевшего на дно твёрдого остатка?",
+        "answer": "Декантация"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Химия",
+        "sub_category": "Химия",
+        "difficulty": "средняя",
+        "question": "Как называется отделение твёрдых частиц от жидкости путём пропускания смеси через пористую преграду?",
+        "answer": "Фильтрация"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Химия",
+        "sub_category": "Химия",
+        "difficulty": "сложная",
+        "question": "Как называется разложение вещества в растворе или расплаве под действием проходящего электрического тока?",
+        "answer": "Электролиз"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Химия",
+        "sub_category": "Химия",
+        "difficulty": "лёгкая",
+        "question": "Как называется лабораторный метод разделения компонентов смеси по различной скорости их перемещения между двумя фазами?",
+        "answer": "Хроматография"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Химия",
+        "sub_category": "Химия",
+        "difficulty": "средняя",
+        "question": "Как называется химическая реакция кислоты с основанием, в результате которой обычно образуются соль и вода?",
+        "answer": "Нейтрализация"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Химия",
+        "sub_category": "Химия",
+        "difficulty": "сложная",
+        "question": "Как называется химический процесс, при котором частица отдаёт электроны?",
+        "answer": "Окисление"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Химия",
+        "sub_category": "Химия",
+        "difficulty": "лёгкая",
+        "question": "Как называется атом или группа атомов с электрическим зарядом из-за потери либо приобретения электронов?",
+        "answer": "Ион"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ботаника",
+        "sub_category": "Ботаника",
+        "difficulty": "лёгкая",
+        "question": "Как называется тонкий одноклеточный вырост на подземном органе растения, увеличивающий площадь поглощения воды?",
+        "answer": "Корневой волосок"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ботаника",
+        "sub_category": "Ботаника",
+        "difficulty": "средняя",
+        "question": "Как называется тонкая часть растения, которой созревший плод прикреплён к ветви?",
+        "answer": "Плодоножка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ботаника",
+        "sub_category": "Ботаника",
+        "difficulty": "сложная",
+        "question": "Как называется участок побега, на котором держится отдельный цветок?",
+        "answer": "Цветоножка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ботаника",
+        "sub_category": "Ботаника",
+        "difficulty": "лёгкая",
+        "question": "Как называется зачаток нового побега, расположенный в углу между листом и стеблем?",
+        "answer": "Пазушная почка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ботаника",
+        "sub_category": "Ботаника",
+        "difficulty": "средняя",
+        "question": "Как называется зачаточный орган на самом конце растущего побега, обеспечивающий его удлинение?",
+        "answer": "Верхушечная почка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ботаника",
+        "sub_category": "Ботаника",
+        "difficulty": "сложная",
+        "question": "Как называется утолщённый запасающий орган моркови или свёклы, формирующийся преимущественно из главного подземного органа и основания стебля?",
+        "answer": "Корнеплод"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ботаника",
+        "sub_category": "Ботаника",
+        "difficulty": "лёгкая",
+        "question": "Как называется группа цветковых растений, у зародыша которых обычно две первые семенные пластинки?",
+        "answer": "Двудольные"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ботаника",
+        "sub_category": "Ботаника",
+        "difficulty": "средняя",
+        "question": "Как называется группа цветковых растений, у зародыша которых обычно одна первая семенная пластинка?",
+        "answer": "Однодольные"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ботаника",
+        "sub_category": "Ботаника",
+        "difficulty": "сложная",
+        "question": "Как называется след на стебле, остающийся после отделения от него пластинчатого органа?",
+        "answer": "Листовой рубец"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ботаника",
+        "sub_category": "Ботаника",
+        "difficulty": "лёгкая",
+        "question": "Как называется миниатюрное молодое растение внутри покоящейся структуры, способной дать начало новому экземпляру?",
+        "answer": "Зародыш семени"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геометрия",
+        "sub_category": "Геометрия",
+        "difficulty": "лёгкая",
+        "question": "Как называется линия всех точек, равноудалённых от центра, если она касается каждой стороны многоугольника изнутри?",
+        "answer": "Вписанная окружность"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геометрия",
+        "sub_category": "Геометрия",
+        "difficulty": "средняя",
+        "question": "Как называется линия всех точек, равноудалённых от центра, если через неё проходят все вершины многоугольника?",
+        "answer": "Описанная окружность"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геометрия",
+        "sub_category": "Геометрия",
+        "difficulty": "сложная",
+        "question": "Как называется прямая, проходящая через середину отрезка под прямым углом к нему?",
+        "answer": "Серединный перпендикуляр"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геометрия",
+        "sub_category": "Геометрия",
+        "difficulty": "лёгкая",
+        "question": "Как называется фигура с тремя сторонами, каждая из которых имеет одинаковую длину?",
+        "answer": "Равносторонний треугольник"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геометрия",
+        "sub_category": "Геометрия",
+        "difficulty": "средняя",
+        "question": "Как называется фигура с тремя сторонами, две из которых равны по длине?",
+        "answer": "Равнобедренный треугольник"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геометрия",
+        "sub_category": "Геометрия",
+        "difficulty": "сложная",
+        "question": "Как называются два угла с общей стороной, у которых две другие стороны составляют одну прямую?",
+        "answer": "Смежные углы"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геометрия",
+        "sub_category": "Геометрия",
+        "difficulty": "лёгкая",
+        "question": "Как называются противоположные друг другу углы, образованные пересечением двух прямых?",
+        "answer": "Вертикальные углы"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геометрия",
+        "sub_category": "Геометрия",
+        "difficulty": "средняя",
+        "question": "Как называется замкнутая плоская фигура, граница которой состоит из нескольких прямолинейных отрезков?",
+        "answer": "Многоугольник"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геометрия",
+        "sub_category": "Геометрия",
+        "difficulty": "сложная",
+        "question": "Как называется общее место двух линий на плоскости, в котором они встречаются?",
+        "answer": "Точка пересечения"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геометрия",
+        "sub_category": "Геометрия",
+        "difficulty": "лёгкая",
+        "question": "Как называется суммарная величина всех наружных граней или частей оболочки объёмного тела, выраженная в квадратных единицах?",
+        "answer": "Площадь поверхности"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Физика",
+        "sub_category": "Физика",
+        "difficulty": "лёгкая",
+        "question": "Как называется физическая величина, показывающая изменение скорости за единицу времени?",
+        "answer": "Ускорение"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Физика",
+        "sub_category": "Физика",
+        "difficulty": "средняя",
+        "question": "Как называется векторная величина, равная произведению массы движущегося тела на его скорость?",
+        "answer": "Импульс"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Физика",
+        "sub_category": "Физика",
+        "difficulty": "сложная",
+        "question": "Как называется увеличение размеров материала при нагревании без изменения количества вещества?",
+        "answer": "Тепловое расширение"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Физика",
+        "sub_category": "Физика",
+        "difficulty": "лёгкая",
+        "question": "Как называется переход вещества из твёрдого состояния в жидкое при нагревании?",
+        "answer": "Плавление"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Физика",
+        "sub_category": "Физика",
+        "difficulty": "средняя",
+        "question": "Как называется интенсивное образование пузырьков пара во всём объёме нагреваемой жидкости?",
+        "answer": "Кипение"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Физика",
+        "sub_category": "Физика",
+        "difficulty": "сложная",
+        "question": "Как называется свойство границы жидкости стремиться уменьшить свою площадь, из-за которого мелкие капли округляются?",
+        "answer": "Поверхностное натяжение"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Физика",
+        "sub_category": "Физика",
+        "difficulty": "лёгкая",
+        "question": "Как называется воздействие Земли, направленное к её центру и действующее на находящиеся рядом тела?",
+        "answer": "Сила тяжести"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Физика",
+        "sub_category": "Физика",
+        "difficulty": "средняя",
+        "question": "Как называется состояние тела, при котором суммарное действие внешних сил и моментов не вызывает изменения его движения?",
+        "answer": "Равновесие"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Физика",
+        "sub_category": "Физика",
+        "difficulty": "сложная",
+        "question": "Как называется изменение направления луча при встрече с границей двух сред, когда он возвращается в исходную среду?",
+        "answer": "Отражение света"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Физика",
+        "sub_category": "Физика",
+        "difficulty": "лёгкая",
+        "question": "Как называется упорядоченное движение заряженных частиц в проводящей среде?",
+        "answer": "Электрический ток"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Русский язык",
+        "sub_category": "Русский язык",
+        "difficulty": "лёгкая",
+        "question": "Как называется элемент высказывания, выражающий отношение говорящего к сообщению и не являющийся членом предложения?",
+        "answer": "Вводное слово"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Русский язык",
+        "sub_category": "Русский язык",
+        "difficulty": "средняя",
+        "question": "Как называется дословная передача чужого высказывания с сохранением его формы?",
+        "answer": "Прямая речь"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Русский язык",
+        "sub_category": "Русский язык",
+        "difficulty": "сложная",
+        "question": "Как называется передача чужих слов в придаточной части без точного воспроизведения первоначальной формы?",
+        "answer": "Косвенная речь"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Русский язык",
+        "sub_category": "Русский язык",
+        "difficulty": "лёгкая",
+        "question": "Как называется второстепенный член предложения, который указывает на время, место, причину или способ действия?",
+        "answer": "Обстоятельство"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Русский язык",
+        "sub_category": "Русский язык",
+        "difficulty": "средняя",
+        "question": "Как называется второстепенный член предложения, обозначающий предмет, на который направлено действие, и отвечающий на вопросы косвенных падежей?",
+        "answer": "Дополнение"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Русский язык",
+        "sub_category": "Русский язык",
+        "difficulty": "сложная",
+        "question": "Как называется второстепенный член предложения, характеризующий признак предмета и обычно отвечающий на вопрос «какой?»?",
+        "answer": "Определение"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Русский язык",
+        "sub_category": "Русский язык",
+        "difficulty": "лёгкая",
+        "question": "Как называется синтаксическая конструкция из главной части и одной или нескольких зависимых придаточных частей?",
+        "answer": "Сложноподчинённое предложение"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Русский язык",
+        "sub_category": "Русский язык",
+        "difficulty": "сложная",
+        "question": "Как называется конструкция, в которой действие или состояние выражено без действующего лица и без подлежащего?",
+        "answer": "Безличное предложение"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Русский язык",
+        "sub_category": "Русский язык",
+        "difficulty": "лёгкая",
+        "question": "Как называется высказывание, выражающее просьбу, приказ или совет совершить действие?",
+        "answer": "Побудительное предложение"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Сад и огород",
+        "difficulty": "лёгкая",
+        "question": "Как называется узкая обработанная полоса земли, выделенная для выращивания овощей или зелени?",
+        "answer": "Грядка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Сад и огород",
+        "difficulty": "средняя",
+        "question": "Как называется небольшое углубление в почве, подготовленное для посадки отдельного растения?",
+        "answer": "Лунка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Сад и огород",
+        "difficulty": "сложная",
+        "question": "Как называется ручное садовое орудие с поперечным металлическим лезвием для рыхления земли и удаления сорняков?",
+        "answer": "Мотыга"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Сад и огород",
+        "difficulty": "лёгкая",
+        "question": "Как называется инструмент с длинной рукоятью и несколькими прочными зубьями, которым переворачивают компост и рыхлят грунт?",
+        "answer": "Садовые вилы"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Сад и огород",
+        "difficulty": "средняя",
+        "question": "Как называется молодое растение на самой ранней стадии после выхода корешка из семени?",
+        "answer": "Проросток"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Сад и огород",
+        "difficulty": "сложная",
+        "question": "Как называется боковой побег томата, возникающий в углу между главным стеблем и листом?",
+        "answer": "Пасынок"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Сад и огород",
+        "difficulty": "лёгкая",
+        "question": "Как называется запас посевного материала, который хозяйство сохраняет для будущих сезонов?",
+        "answer": "Семенной фонд"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Сад и огород",
+        "difficulty": "средняя",
+        "question": "Как называется участок земли с многолетними деревьями, выращиваемыми ради яблок, груш или слив?",
+        "answer": "Плодовый сад"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Сад и огород",
+        "difficulty": "сложная",
+        "question": "Как называется ручное орудие с короткими зубьями, которым разбивают верхнюю корку почвы между посадками?",
+        "answer": "Рыхлитель"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Сад и огород",
+        "sub_category": "Сад и огород",
+        "difficulty": "лёгкая",
+        "question": "Как называется неглубокий продольный канал между посадками, по которому подают воду к растениям?",
+        "answer": "Поливочная борозда"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Столярное дело",
+        "sub_category": "Столярное дело",
+        "difficulty": "лёгкая",
+        "question": "Как называется крепёжный элемент с резьбой, который при вкручивании сам формирует себе отверстие в мягком материале?",
+        "answer": "Саморез"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Столярное дело",
+        "sub_category": "Столярное дело",
+        "difficulty": "средняя",
+        "question": "Как называется вставка в просверленное отверстие стены, обеспечивающая удержание крепежа?",
+        "answer": "Дюбель"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Столярное дело",
+        "sub_category": "Столярное дело",
+        "difficulty": "сложная",
+        "question": "Как называется переносной электрический инструмент для закручивания и выкручивания резьбового крепежа?",
+        "answer": "Шуруповёрт"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Столярное дело",
+        "sub_category": "Столярное дело",
+        "difficulty": "лёгкая",
+        "question": "Как называется гибкий лист с абразивными зёрнами для ручного сглаживания древесины и других материалов?",
+        "answer": "Наждачная бумага"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Столярное дело",
+        "sub_category": "Столярное дело",
+        "difficulty": "средняя",
+        "question": "Как называется режущий инструмент для обработки верхней части просверленного отверстия под головку крепежа?",
+        "answer": "Зенкер"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Столярное дело",
+        "sub_category": "Столярное дело",
+        "difficulty": "сложная",
+        "question": "Как называется вращающийся режущий инструмент для получения круглых отверстий в твёрдых материалах?",
+        "answer": "Сверло"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Столярное дело",
+        "sub_category": "Столярное дело",
+        "difficulty": "лёгкая",
+        "question": "Как называется наклонная несущая балка лестницы, на которую ступени опираются сверху?",
+        "answer": "Косоур"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Столярное дело",
+        "sub_category": "Столярное дело",
+        "difficulty": "сложная",
+        "question": "Как называется ручная пластина с рукояткой, которой наносят и разравнивают густую строительную смесь?",
+        "answer": "Шпатель"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Столярное дело",
+        "sub_category": "Столярное дело",
+        "difficulty": "лёгкая",
+        "question": "Как называется металлический ударный инструмент с клиновидным рабочим концом для отсечения небольших частей материала?",
+        "answer": "Зубило"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Анатомия",
+        "sub_category": "Анатомия",
+        "difficulty": "лёгкая",
+        "question": "Как называется прозрачная выпуклая передняя часть наружной оболочки глаза, через которую проходит поступающий свет?",
+        "answer": "Роговица"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Анатомия",
+        "sub_category": "Анатомия",
+        "difficulty": "средняя",
+        "question": "Как называется внутренний светочувствительный слой глаза, содержащий палочки и колбочки?",
+        "answer": "Сетчатка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Анатомия",
+        "sub_category": "Анатомия",
+        "difficulty": "сложная",
+        "question": "Как называется изменяющее диаметр отверстие в центре окрашенной части глаза?",
+        "answer": "Зрачок"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Анатомия",
+        "sub_category": "Анатомия",
+        "difficulty": "лёгкая",
+        "question": "Как называется прозрачная двояковыпуклая структура глаза, изменяющая кривизну для фокусировки изображения?",
+        "answer": "Хрусталик"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Анатомия",
+        "sub_category": "Анатомия",
+        "difficulty": "средняя",
+        "question": "Как называется плотная белая наружная оболочка глазного яблока?",
+        "answer": "Склера"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Анатомия",
+        "sub_category": "Анатомия",
+        "difficulty": "сложная",
+        "question": "Как называется стенка из хряща и кости, разделяющая полость носа на две половины?",
+        "answer": "Носовая перегородка"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Анатомия",
+        "sub_category": "Анатомия",
+        "difficulty": "лёгкая",
+        "question": "Как называется хрящевая пластинка, закрывающая вход в дыхательные пути во время глотания?",
+        "answer": "Надгортанник"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Анатомия",
+        "sub_category": "Анатомия",
+        "difficulty": "средняя",
+        "question": "Как называются парные складки в гортани, колебания которых позволяют человеку произносить звуки?",
+        "answer": "Голосовые связки"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Анатомия",
+        "sub_category": "Анатомия",
+        "difficulty": "сложная",
+        "question": "Как называется отдел головного мозга, особенно важный для точности движений и сохранения позы?",
+        "answer": "Мозжечок"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Анатомия",
+        "sub_category": "Анатомия",
+        "difficulty": "лёгкая",
+        "question": "Как называется небольшая железа у основания головного мозга, управляющая работой многих других эндокринных органов?",
+        "answer": "Гипофиз"
       }
     ]
   }
