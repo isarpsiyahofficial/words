@@ -39370,6 +39370,776 @@
         "difficulty": "中等",
         "question": "安排工作人员在不同日期或时段轮流负责事务的清单叫什么？",
         "answer": "值班表"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "茶文化",
+        "sub_category": "茶事与器具",
+        "difficulty": "简单",
+        "question": "泡茶时用一只带盖的小碗，既能浸泡茶叶，也能借盖子挡住叶片倒出茶水，这种茶具叫什么？",
+        "answer": "盖碗"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "茶文化",
+        "sub_category": "茶事与器具",
+        "difficulty": "简单",
+        "question": "功夫茶冲泡后，先把茶水汇入一个带嘴的容器，再均匀分给各个小杯，这个容器叫什么？",
+        "answer": "公道杯"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "茶文化",
+        "sub_category": "茶事与器具",
+        "difficulty": "简单",
+        "question": "冲泡过程中用来摆放壶杯、承接溢出茶水的带排水功能托盘叫什么？",
+        "answer": "茶盘"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "茶文化",
+        "sub_category": "茶事与器具",
+        "difficulty": "简单",
+        "question": "从装茶叶的罐中取出适量干叶、再送进壶口的细长小器具叫什么？",
+        "answer": "茶则"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "茶文化",
+        "sub_category": "茶事与器具",
+        "difficulty": "中等",
+        "question": "洗烫小茶杯时，为了避免手指碰到热杯而使用的竹制夹具叫什么？",
+        "answer": "茶夹"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "茶文化",
+        "sub_category": "茶事与器具",
+        "difficulty": "中等",
+        "question": "茶席上用来擦干壶底、杯底水迹的小块吸水布叫什么？",
+        "answer": "茶巾"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "茶文化",
+        "sub_category": "茶事与器具",
+        "difficulty": "中等",
+        "question": "将茶叶蒸软后压成扁圆形，便于存放和运输的成品通常叫什么？",
+        "answer": "茶饼"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "茶文化",
+        "sub_category": "茶事与器具",
+        "difficulty": "中等",
+        "question": "把茶叶紧压成长方体块状，外形像建筑材料的茶制品叫什么？",
+        "answer": "茶砖"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "茶文化",
+        "sub_category": "茶事与器具",
+        "difficulty": "困难",
+        "question": "品茶前盛放少量干叶，供客人观察叶形并闻香的浅口小器物叫什么？",
+        "answer": "茶荷"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "茶文化",
+        "sub_category": "茶事与器具",
+        "difficulty": "困难",
+        "question": "品饮茶水后，口腔里的涩苦感逐渐退去，继而出现清甜余味，这种体验叫什么？",
+        "answer": "回甘"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统园林",
+        "sub_category": "庭院建筑",
+        "difficulty": "简单",
+        "question": "园子里用天然石块堆叠，模仿峰峦与山洞的小型景观叫什么？",
+        "answer": "假山"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统园林",
+        "sub_category": "庭院建筑",
+        "difficulty": "简单",
+        "question": "池边或水面上建造、供游人临水休憩观景的开敞式小建筑叫什么？",
+        "answer": "水榭"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统园林",
+        "sub_category": "庭院建筑",
+        "difficulty": "中等",
+        "question": "庭院浅水或草地上间隔铺放的踏脚石，让人一步一步走过，这种设施叫什么？",
+        "answer": "汀步"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统园林",
+        "sub_category": "庭院建筑",
+        "difficulty": "中等",
+        "question": "把小树与山石配置在浅盆中，经过修剪养护呈现缩微自然景观的艺术品叫什么？",
+        "answer": "盆景"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统园林",
+        "sub_category": "庭院建筑",
+        "difficulty": "中等",
+        "question": "庭院中用木材或金属搭起，供藤本植物攀附并形成绿荫的框架叫什么？",
+        "answer": "花架"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统园林",
+        "sub_category": "庭院建筑",
+        "difficulty": "中等",
+        "question": "公园里用矮边围出一定形状，集中栽种观赏花卉的地块叫什么？",
+        "answer": "花坛"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统园林",
+        "sub_category": "庭院建筑",
+        "difficulty": "困难",
+        "question": "园林小路旁由石材做成、供游人短暂坐下休息的座椅叫什么？",
+        "answer": "石凳"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统园林",
+        "sub_category": "庭院建筑",
+        "difficulty": "困难",
+        "question": "传统四合院中分隔前后院落、门柱下端有悬垂装饰的内门叫什么？",
+        "answer": "垂花门"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书法文化",
+        "sub_category": "文房用品",
+        "difficulty": "简单",
+        "question": "传统书写中，笔头由动物毫毛扎成，蘸墨后可以写出粗细变化的笔画，这种工具叫什么？",
+        "answer": "毛笔"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书法文化",
+        "sub_category": "文房用品",
+        "difficulty": "简单",
+        "question": "传统书写前需要在石面上加水反复研磨、制成黑色书写液的固体材料叫什么？",
+        "answer": "墨锭"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书法文化",
+        "sub_category": "文房用品",
+        "difficulty": "简单",
+        "question": "写字作画前用来加水研磨固体黑色颜料、表面有平坦磨墨区的石质器具叫什么？",
+        "answer": "砚台"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书法文化",
+        "sub_category": "文房用品",
+        "difficulty": "简单",
+        "question": "中国传统书画常用的一种柔韧、适合表现水墨层次的安徽特产纸张叫什么？",
+        "answer": "宣纸"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书法文化",
+        "sub_category": "文房用品",
+        "difficulty": "中等",
+        "question": "写字时压在纸张边缘、防止薄纸卷起或滑动的长条重物叫什么？",
+        "answer": "镇纸"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书法文化",
+        "sub_category": "文房用品",
+        "difficulty": "中等",
+        "question": "暂时停笔时横放几支书写工具、使笔尖不接触桌面的小支座叫什么？",
+        "answer": "笔架"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书法文化",
+        "sub_category": "文房用品",
+        "difficulty": "中等",
+        "question": "书画桌上专门盛清水，供使用者洗净笔头颜料的小碗状器物叫什么？",
+        "answer": "笔洗"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书法文化",
+        "sub_category": "文房用品",
+        "difficulty": "中等",
+        "question": "在姓名或书画落款上盖红色印记前，需要让印面沾取的红色黏性材料叫什么？",
+        "answer": "印泥"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书法文化",
+        "sub_category": "文房用品",
+        "difficulty": "困难",
+        "question": "在木石等材料底面刻上姓名或图案，蘸取颜料后按压留下标记的器物叫什么？",
+        "answer": "印章"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书法文化",
+        "sub_category": "文房用品",
+        "difficulty": "困难",
+        "question": "练习书法时，照着优秀字帖的字形反复仿写，这种学习方法叫什么？",
+        "answer": "临摹"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与制作",
+        "difficulty": "简单",
+        "question": "传统村落里用两块圆形石盘相对旋转，把谷粒碾碎成粉浆的工具叫什么？",
+        "answer": "石磨"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与制作",
+        "difficulty": "简单",
+        "question": "把黄豆磨成浆煮熟，再加入凝固剂制成的柔软块状食品叫什么？",
+        "answer": "豆腐"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与制作",
+        "difficulty": "简单",
+        "question": "绿豆或黄豆浸水发芽后长出的脆嫩白茎，常用来清炒，这种食材叫什么？",
+        "answer": "豆芽"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与制作",
+        "difficulty": "简单",
+        "question": "南方常见的以稻米为原料做成的细长条状主食，煮汤或炒制都适合，叫什么？",
+        "answer": "米粉"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与制作",
+        "difficulty": "中等",
+        "question": "用绿豆或红薯等淀粉制成、干燥后细而透明的条状食材叫什么？",
+        "answer": "粉丝"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与制作",
+        "difficulty": "中等",
+        "question": "过年时常吃的、用米类原料蒸熟捣制而成的黏糯条块食品叫什么？",
+        "answer": "年糕"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与制作",
+        "difficulty": "中等",
+        "question": "豆浆加热时表面凝成一层薄膜，挑起晾干后得到的长条豆制品叫什么？",
+        "answer": "腐竹"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与制作",
+        "difficulty": "中等",
+        "question": "把淀粉浆煮稠并冷却凝固，切成条块后拌调料吃的清凉小吃叫什么？",
+        "answer": "凉粉"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与制作",
+        "difficulty": "困难",
+        "question": "以谷物发酵酿制、具有明显酸味，常用于凉拌和调味的液体叫什么？",
+        "answer": "米醋"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "中华饮食",
+        "sub_category": "食材与制作",
+        "difficulty": "困难",
+        "question": "将黄豆或黑豆经过发酵制成的咸香颗粒状传统调味品叫什么？",
+        "answer": "豆豉"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观察",
+        "sub_category": "测量与预报",
+        "difficulty": "简单",
+        "question": "气象站里用来遮挡日晒雨淋、四周有通风板条的白色仪器小箱叫什么？",
+        "answer": "百叶箱"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观察",
+        "sub_category": "测量与预报",
+        "difficulty": "简单",
+        "question": "气象人员用带刻度的容器收集降下的水，测算一段时间内降水量，这种仪器叫什么？",
+        "answer": "雨量筒"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观察",
+        "sub_category": "测量与预报",
+        "difficulty": "简单",
+        "question": "屋顶或空旷处装着可自由转动的箭头，用来指示空气从哪边吹来，它叫什么？",
+        "answer": "风向标"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观察",
+        "sub_category": "测量与预报",
+        "difficulty": "简单",
+        "question": "观测站里利用转动的小杯或其他传感器测量空气流动快慢的仪器叫什么？",
+        "answer": "风速仪"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观察",
+        "sub_category": "测量与预报",
+        "difficulty": "中等",
+        "question": "天气部门向空中发射电磁波，并根据降水粒子的回波追踪雨区的设备叫什么？",
+        "answer": "气象雷达"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观察",
+        "sub_category": "测量与预报",
+        "difficulty": "中等",
+        "question": "根据观测资料和数值模型，提前发布未来一段时间晴雨冷热情况的信息叫什么？",
+        "answer": "天气预报"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观察",
+        "sub_category": "测量与预报",
+        "difficulty": "中等",
+        "question": "有雾时驾驶员能够清楚辨认远处目标的最大距离，在气象观测中叫什么？",
+        "answer": "能见度"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观察",
+        "sub_category": "测量与预报",
+        "difficulty": "中等",
+        "question": "户外活动时用于表示太阳短波辐射对皮肤影响强弱的分级数值叫什么？",
+        "answer": "紫外线指数"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观察",
+        "sub_category": "测量与预报",
+        "difficulty": "困难",
+        "question": "观察天空时，记录云层遮盖了整个天空多大比例，这个气象要素叫什么？",
+        "answer": "云量"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观察",
+        "sub_category": "测量与预报",
+        "difficulty": "困难",
+        "question": "天气报告里所说的室外空气冷热程度，通常由离地一定高度的测温仪器获得，叫什么？",
+        "answer": "气温"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "乡村农事",
+        "sub_category": "耕作与灌溉",
+        "difficulty": "简单",
+        "question": "传统农田旁借水流或人力转动轮盘，把低处河水提升到田里的装置叫什么？",
+        "answer": "水车"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "乡村农事",
+        "sub_category": "耕作与灌溉",
+        "difficulty": "简单",
+        "question": "山区为了种植作物，沿山坡修筑成一层层水平阶地的农田叫什么？",
+        "answer": "梯田"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "乡村农事",
+        "sub_category": "耕作与灌溉",
+        "difficulty": "简单",
+        "question": "田间开挖的细长水道，用来把灌溉水引向各块土地，这种设施叫什么？",
+        "answer": "沟渠"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "乡村农事",
+        "sub_category": "耕作与灌溉",
+        "difficulty": "简单",
+        "question": "沿河岸修筑、用于阻挡河水漫过农田或村庄的土石构筑物叫什么？",
+        "answer": "堤坝"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "乡村农事",
+        "sub_category": "耕作与灌溉",
+        "difficulty": "中等",
+        "question": "在河谷筑坝拦蓄大量来水，供灌溉、供水或调节径流的人工湖叫什么？",
+        "answer": "水库"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "乡村农事",
+        "sub_category": "耕作与灌溉",
+        "difficulty": "中等",
+        "question": "果园旁专门建造的池体，用于暂存灌溉所需的水，叫什么？",
+        "answer": "蓄水池"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "乡村农事",
+        "sub_category": "耕作与灌溉",
+        "difficulty": "中等",
+        "question": "农田通过喷头把水喷洒到空中，让水滴像小雨一样落到作物上，这种方式叫什么？",
+        "answer": "喷灌"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "乡村农事",
+        "sub_category": "耕作与灌溉",
+        "difficulty": "中等",
+        "question": "翻耕土地时由人、牲畜或机械牵引，能把土层翻开的传统农具叫什么？",
+        "answer": "犁"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "乡村农事",
+        "sub_category": "耕作与灌溉",
+        "difficulty": "困难",
+        "question": "田地翻耕后，用带齿的农具打碎土块、平整土面，这种工具叫什么？",
+        "answer": "耙"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "乡村农事",
+        "sub_category": "耕作与灌溉",
+        "difficulty": "困难",
+        "question": "稻谷播种育成后、尚未移入大田的幼小植株通常叫什么？",
+        "answer": "秧苗"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生态常识",
+        "sub_category": "自然关系",
+        "difficulty": "简单",
+        "question": "草被兔子吃、兔子又被其他动物捕食，这种一环接一环的取食关系叫什么？",
+        "answer": "食物链"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生态常识",
+        "sub_category": "自然关系",
+        "difficulty": "简单",
+        "question": "一片森林中的动物、植物、微生物及其周围环境相互作用，形成的整体叫什么？",
+        "answer": "生态系统"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生态常识",
+        "sub_category": "自然关系",
+        "difficulty": "简单",
+        "question": "一处湿地里有许多不同物种、遗传类型和自然群落，这种丰富程度统称什么？",
+        "answer": "生物多样性"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生态常识",
+        "sub_category": "自然关系",
+        "difficulty": "简单",
+        "question": "蜜蜂从一朵花飞到另一朵花，把雄蕊产生的颗粒带到雌蕊接受部位的过程叫什么？",
+        "answer": "传粉"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生态常识",
+        "sub_category": "自然关系",
+        "difficulty": "中等",
+        "question": "地衣中真菌与藻类长期紧密生活在一起、彼此存在稳定联系的关系叫什么？",
+        "answer": "共生"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生态常识",
+        "sub_category": "自然关系",
+        "difficulty": "中等",
+        "question": "落叶落地后，真菌和细菌将残体逐步转化为简单物质，它们在自然循环中属于什么角色？",
+        "answer": "分解者"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生态常识",
+        "sub_category": "自然关系",
+        "difficulty": "中等",
+        "question": "鹿以草为食、不能直接利用阳光制造所需有机物，在自然界的营养角色叫什么？",
+        "answer": "消费者"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生态常识",
+        "sub_category": "自然关系",
+        "difficulty": "困难",
+        "question": "绿色植物通过吸收光能制造有机物，在自然界的营养角色叫什么？",
+        "answer": "生产者"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生态常识",
+        "sub_category": "自然关系",
+        "difficulty": "困难",
+        "question": "瓢虫经常捕食蚜虫，从蚜虫的角度看，瓢虫属于它的什么自然关系对象？",
+        "answer": "天敌"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "邮政物流",
+        "sub_category": "寄送与投递",
+        "difficulty": "简单",
+        "question": "住宅区里供配送员存放包裹、收件者凭取件码开门领取的智能格口设备叫什么？",
+        "answer": "快递柜"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "邮政物流",
+        "sub_category": "寄送与投递",
+        "difficulty": "简单",
+        "question": "托运货物时随货填写的单据，上面列明寄送双方、货物与运输信息，叫什么？",
+        "answer": "运单"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "邮政物流",
+        "sub_category": "寄送与投递",
+        "difficulty": "简单",
+        "question": "查询包裹走到哪个站点时，需要输入的那串唯一追踪编号叫什么？",
+        "answer": "物流单号"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "邮政物流",
+        "sub_category": "寄送与投递",
+        "difficulty": "简单",
+        "question": "街边专供人们投放已写好并付邮资信件的公共箱体叫什么？",
+        "answer": "邮筒"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "邮政物流",
+        "sub_category": "寄送与投递",
+        "difficulty": "中等",
+        "question": "寄普通信件前贴在信封上、用来证明已支付邮资的小纸片叫什么？",
+        "answer": "邮票"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "邮政物流",
+        "sub_category": "寄送与投递",
+        "difficulty": "中等",
+        "question": "寄纸质书信时，外面用来装信纸并写上地址的纸质套袋叫什么？",
+        "answer": "信封"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "邮政物流",
+        "sub_category": "寄送与投递",
+        "difficulty": "中等",
+        "question": "旅行途中寄给朋友的硬纸卡片，一面印着风景，另一面可以写简短问候，它叫什么？",
+        "answer": "明信片"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "邮政物流",
+        "sub_category": "寄送与投递",
+        "difficulty": "中等",
+        "question": "包裹上写着的、最终应当接收物品的那个人，在寄递信息中叫什么？",
+        "answer": "收件人"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "邮政物流",
+        "sub_category": "寄送与投递",
+        "difficulty": "困难",
+        "question": "填写邮寄单据时，负责把包裹交给快递公司发出的人叫什么？",
+        "answer": "寄件人"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "邮政物流",
+        "sub_category": "寄送与投递",
+        "difficulty": "困难",
+        "question": "寄送重要纸质文件时，邮政部门办理登记并提供查询凭据的信件类别叫什么？",
+        "answer": "挂号信"
       }
     ]
   }
