@@ -42700,6 +42700,816 @@
         "difficulty": "中等",
         "question": "只允许朝一个方向逐齿转动、反向会被卡住的带齿机构叫什么？",
         "answer": "棘轮"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "河流与地貌",
+        "sub_category": "地形形成",
+        "difficulty": "中等",
+        "question": "水道进入海洋或大型湖泊时，泥沙堆积并向外伸展成片的地貌叫什么？",
+        "answer": "河口三角洲"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "河流与地貌",
+        "sub_category": "地形形成",
+        "difficulty": "中等",
+        "question": "岸边由大量圆磨小石块覆盖、踩上去会发出碎响的地带叫什么？",
+        "answer": "砾石滩"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "河流与地貌",
+        "sub_category": "地形形成",
+        "difficulty": "困难",
+        "question": "海浪长期侵蚀岬角两侧，最终在岩体中打通一个天然洞口，形成的拱形地貌叫什么？",
+        "answer": "海蚀拱门"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "河流与地貌",
+        "sub_category": "地形形成",
+        "difficulty": "困难",
+        "question": "高山冰体在山坡上刨蚀形成的半碗状洼地，通常三面陡峭，叫什么？",
+        "answer": "冰斗"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "河流与地貌",
+        "sub_category": "地形形成",
+        "difficulty": "困难",
+        "question": "冰体退缩后，携带的碎石泥土在边缘留下的一道长条形堆积脊叫什么？",
+        "answer": "冰碛垄"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观测",
+        "sub_category": "天气过程",
+        "difficulty": "困难",
+        "question": "飞行器经过相邻气层时，短距离内遇到气流速度或方向突然变化的现象叫什么？",
+        "answer": "风切变"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观测",
+        "sub_category": "天气过程",
+        "difficulty": "困难",
+        "question": "温暖潮湿的空气水平移到较冷的地表上方，逐渐冷却形成的低层水滴悬浮现象叫什么？",
+        "answer": "平流雾"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观测",
+        "sub_category": "天气过程",
+        "difficulty": "中等",
+        "question": "天气图上把同一时刻大气压力相同的地点连接起来的曲线叫什么？",
+        "answer": "等压线"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观测",
+        "sub_category": "天气过程",
+        "difficulty": "中等",
+        "question": "某地一天内最高气温与最低气温之差，气象记录中称为什么？",
+        "answer": "日较差"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "气象观测",
+        "sub_category": "天气过程",
+        "difficulty": "困难",
+        "question": "潮湿气流翻越山脉后，背风坡因空气下沉而明显少雨的地带叫什么？",
+        "answer": "雨影区"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "天文常识",
+        "sub_category": "观测与运行",
+        "difficulty": "困难",
+        "question": "天文台依据地球相对于遥远恒星的转动来计量的时间系统叫什么？",
+        "answer": "恒星时"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "天文常识",
+        "sub_category": "观测与运行",
+        "difficulty": "困难",
+        "question": "发生日食或月食时，遮掩程度达到最大的一刻称为什么？",
+        "answer": "食甚"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "天文常识",
+        "sub_category": "观测与运行",
+        "difficulty": "困难",
+        "question": "从一次新月到下一次新月的平均时间间隔叫什么？",
+        "answer": "朔望月"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "天文常识",
+        "sub_category": "观测与运行",
+        "difficulty": "困难",
+        "question": "为了标记天体位置，天文学中假想以观测者为中心的巨大球面叫什么？",
+        "answer": "天球"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统园林",
+        "sub_category": "园林构件",
+        "difficulty": "困难",
+        "question": "园林营造中把天然岩块按山势层次组合成景的手法叫什么？",
+        "answer": "叠石"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统园林",
+        "sub_category": "园林构件",
+        "difficulty": "简单",
+        "question": "园林水面上不走直线、常有数次转折的步行桥叫什么？",
+        "answer": "曲桥"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "传统园林",
+        "sub_category": "园林构件",
+        "difficulty": "中等",
+        "question": "园林中连接不同建筑、可供人边走边赏景的有顶长通道叫什么？",
+        "answer": "游廊"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书籍与印刷",
+        "sub_category": "传统装帧",
+        "difficulty": "困难",
+        "question": "古书把印字的一面朝内对折，再将折缝粘在书脊处，展开时书页像双翼张开，这种装帧叫什么？",
+        "answer": "蝴蝶装"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书籍与印刷",
+        "sub_category": "传统装帧",
+        "difficulty": "困难",
+        "question": "古籍将书页折好后从书脊一侧粘连，再用整张封皮包住背部的装订方法叫什么？",
+        "answer": "包背装"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书籍与印刷",
+        "sub_category": "传统装帧",
+        "difficulty": "困难",
+        "question": "长纸张像手风琴一样反复折叠，首尾加硬封面的古籍形式叫什么？",
+        "answer": "经折装"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书籍与印刷",
+        "sub_category": "传统装帧",
+        "difficulty": "中等",
+        "question": "为保护成套古籍而制作的可折叠硬纸板外护壳叫什么？",
+        "answer": "函套"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书籍与印刷",
+        "sub_category": "传统装帧",
+        "difficulty": "中等",
+        "question": "纸质书与装订脊背相对、翻阅时可看到书页边缘的一侧叫什么？",
+        "answer": "书口"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书籍与印刷",
+        "sub_category": "传统装帧",
+        "difficulty": "困难",
+        "question": "传统木版书页中部靠近折缝、常印有页码或卷名的狭长区域叫什么？",
+        "answer": "版心"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书籍与印刷",
+        "sub_category": "传统装帧",
+        "difficulty": "中等",
+        "question": "传统书册外面包覆、用于保护正文纸张的封皮叫什么？",
+        "answer": "书衣"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "书籍与印刷",
+        "sub_category": "传统装帧",
+        "difficulty": "中等",
+        "question": "古籍封面上贴着、写有书名的一小条纸签叫什么？",
+        "answer": "题签"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "新型材料",
+        "sub_category": "材料性能",
+        "difficulty": "困难",
+        "question": "内部孔隙极多、密度很低，常被用作高性能隔热层的固态材料叫什么？",
+        "answer": "气凝胶"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "新型材料",
+        "sub_category": "材料性能",
+        "difficulty": "困难",
+        "question": "某种金属材料受力变形后，升到特定温度又能恢复原有外形，叫什么？",
+        "answer": "形状记忆合金"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "新型材料",
+        "sub_category": "材料性能",
+        "difficulty": "中等",
+        "question": "由细长含碳丝束制成，质量轻且抗拉性能好的增强材料叫什么？",
+        "answer": "碳纤维"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "新型材料",
+        "sub_category": "材料性能",
+        "difficulty": "中等",
+        "question": "普通透明板材经过热处理增强，破裂时通常碎成较小颗粒，这种材料叫什么？",
+        "answer": "钢化玻璃"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "新型材料",
+        "sub_category": "材料性能",
+        "difficulty": "中等",
+        "question": "两片透明板之间夹有韧性薄膜，即使破裂碎片也不易散落的材料叫什么？",
+        "answer": "夹层玻璃"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "新型材料",
+        "sub_category": "材料性能",
+        "difficulty": "中等",
+        "question": "黏土等原料高温烧制成的轻质多孔小颗粒，常用于园艺排水，叫什么？",
+        "answer": "陶粒"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "新型材料",
+        "sub_category": "材料性能",
+        "difficulty": "困难",
+        "question": "高温烧成后内部布满封闭微孔、常用于建筑保温的无机板材叫什么？",
+        "answer": "发泡陶瓷"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "新型材料",
+        "sub_category": "材料性能",
+        "difficulty": "困难",
+        "question": "把一种深色火山岩熔融拉成细丝后制得的耐热增强材料叫什么？",
+        "answer": "玄武岩纤维"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "新型材料",
+        "sub_category": "材料性能",
+        "difficulty": "中等",
+        "question": "纸制夹芯模仿六边形巢室排列，重量轻又能承受压力的板材叫什么？",
+        "answer": "蜂窝纸板"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生活中的科学",
+        "sub_category": "常见现象",
+        "difficulty": "简单",
+        "question": "水汽碰到温度较低的杯壁后，变成许多细小液滴的过程叫什么？",
+        "answer": "冷凝"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生活中的科学",
+        "sub_category": "常见现象",
+        "difficulty": "中等",
+        "question": "细管插入水中，液面能沿管壁自行升高的现象叫什么？",
+        "answer": "毛细作用"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生活中的科学",
+        "sub_category": "常见现象",
+        "difficulty": "中等",
+        "question": "溶剂透过只允许部分粒子通过的薄膜，向溶质浓度较高一侧移动的现象叫什么？",
+        "answer": "渗透"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生活中的科学",
+        "sub_category": "常见现象",
+        "difficulty": "中等",
+        "question": "活性炭能让空气中的异味分子附着在自身表面，这种作用叫什么？",
+        "answer": "吸附"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生活中的科学",
+        "sub_category": "常见现象",
+        "difficulty": "中等",
+        "question": "樟脑丸放置一段时间逐渐变小，却没有明显液态阶段，这种状态变化叫什么？",
+        "answer": "升华"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生活中的科学",
+        "sub_category": "常见现象",
+        "difficulty": "困难",
+        "question": "带电物体靠近金属导体时，即使不接触也会使内部电荷重新分布，这种现象叫什么？",
+        "answer": "静电感应"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "生活中的科学",
+        "sub_category": "常见现象",
+        "difficulty": "困难",
+        "question": "显微镜下，液体里极小颗粒持续作无规则抖动，这种现象叫什么？",
+        "answer": "布朗运动"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "汉语表达",
+        "sub_category": "修辞与语法",
+        "difficulty": "困难",
+        "question": "说话时不直接说出某事物，而用与它密切相关的名称来指称，这种修辞叫什么？",
+        "answer": "借代"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "汉语表达",
+        "sub_category": "修辞与语法",
+        "difficulty": "中等",
+        "question": "上下两句字数相等、结构相称，读起来整齐匀称的表达方式叫什么？",
+        "answer": "对偶"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "汉语表达",
+        "sub_category": "修辞与语法",
+        "difficulty": "困难",
+        "question": "前一句末尾的词语紧接着出现在下一句开头，形成首尾衔接，这种修辞叫什么？",
+        "answer": "顶真"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "汉语表达",
+        "sub_category": "修辞与语法",
+        "difficulty": "困难",
+        "question": "文字顺读和倒读都能形成有意义表达的特殊语句形式叫什么？",
+        "answer": "回文"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "汉语表达",
+        "sub_category": "修辞与语法",
+        "difficulty": "简单",
+        "question": "“哗啦”“咚咚”这类模仿自然声音的词语统称什么？",
+        "answer": "拟声词"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "汉语表达",
+        "sub_category": "修辞与语法",
+        "difficulty": "中等",
+        "question": "“但是”“因为”“或者”这类用来连接词语、分句或句子的词叫什么？",
+        "answer": "连词"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "汉语表达",
+        "sub_category": "修辞与语法",
+        "difficulty": "中等",
+        "question": "“从”“向”“按照”这类常放在名词或代词前引出关系的词叫什么？",
+        "answer": "介词"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "汉语表达",
+        "sub_category": "修辞与语法",
+        "difficulty": "中等",
+        "question": "句末的“吗”“呢”“吧”等主要用于表达说话态度的虚词叫什么？",
+        "answer": "语气助词"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "农业与园艺",
+        "sub_category": "田间管理",
+        "difficulty": "困难",
+        "question": "农机在不把表层土壤整体翻转的情况下，打破下层紧实土层的作业叫什么？",
+        "answer": "深松"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "海洋与海岸",
+        "sub_category": "海水运动",
+        "difficulty": "困难",
+        "question": "风和海水运动使较深处富含营养盐的水涌向海面，这种水流叫什么？",
+        "answer": "上升流"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "海洋与海岸",
+        "sub_category": "海水运动",
+        "difficulty": "中等",
+        "question": "太阳、月球和地球大致排成一线时，海水涨落幅度特别大的现象叫什么？",
+        "answer": "大潮"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "海洋与海岸",
+        "sub_category": "海水运动",
+        "difficulty": "中等",
+        "question": "太阳与月球对地球的引潮方向接近直角时，海水涨落幅度相对较小的现象叫什么？",
+        "answer": "小潮"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "海洋与海岸",
+        "sub_category": "海水运动",
+        "difficulty": "中等",
+        "question": "从深海海底突起、顶部仍位于水面以下的孤立高地叫什么？",
+        "answer": "海山"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "海洋与海岸",
+        "sub_category": "海水运动",
+        "difficulty": "困难",
+        "question": "海滩附近有一股狭窄而快速的水流，把表层海水从岸边带向外海，叫什么？",
+        "answer": "离岸流"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "海洋与海岸",
+        "sub_category": "海水运动",
+        "difficulty": "困难",
+        "question": "海水在某一深度范围内含盐量随深度突然明显变化的水层叫什么？",
+        "answer": "盐度跃层"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数学与统计",
+        "sub_category": "数列和数据",
+        "difficulty": "中等",
+        "question": "在一组每相邻两项的差都相等的数列中，这个固定差值叫什么？",
+        "answer": "公差"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数学与统计",
+        "sub_category": "数列和数据",
+        "difficulty": "中等",
+        "question": "在一组每相邻两项的比值都相等的数列中，这个固定比值叫什么？",
+        "answer": "公比"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数学与统计",
+        "sub_category": "数列和数据",
+        "difficulty": "困难",
+        "question": "把每个数据与平均值的偏差平方后求平均，用来描述离散程度的量叫什么？",
+        "answer": "方差"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数学与统计",
+        "sub_category": "数列和数据",
+        "difficulty": "困难",
+        "question": "某个描述数据波动大小的统计量，数值等于偏差平方平均值的算术平方根，叫什么？",
+        "answer": "标准差"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数学与统计",
+        "sub_category": "数列和数据",
+        "difficulty": "中等",
+        "question": "一组数据里最大值减去最小值所得的数叫什么？",
+        "answer": "极差"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "数学与统计",
+        "sub_category": "数列和数据",
+        "difficulty": "困难",
+        "question": "将排好顺序的一组数据划分成四个等量部分的三个位置值统称什么？",
+        "answer": "四分位数"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "交通与出行",
+        "sub_category": "公共设施",
+        "difficulty": "困难",
+        "question": "路口处用路面标线或实体设施划出的小块区域，用来引导车辆按指定方向通过，叫什么？",
+        "answer": "导流岛"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "交通与出行",
+        "sub_category": "公共设施",
+        "difficulty": "中等",
+        "question": "道路边沿用于区分车行区域和步行区域的一条长形石材构件叫什么？",
+        "answer": "路缘石"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "交通与出行",
+        "sub_category": "公共设施",
+        "difficulty": "中等",
+        "question": "道路中间用于分隔不同方向交通流、常栽种绿植的狭长区域叫什么？",
+        "answer": "隔离带"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "交通与出行",
+        "sub_category": "公共设施",
+        "difficulty": "中等",
+        "question": "车辆围绕中央圆形区域按规定方向绕行后驶向各出口的交叉路口叫什么？",
+        "answer": "环岛"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "交通与出行",
+        "sub_category": "公共设施",
+        "difficulty": "中等",
+        "question": "地铁站内连接不同线路站台、供乘客步行转车的走廊叫什么？",
+        "answer": "换乘通道"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "交通与出行",
+        "sub_category": "公共设施",
+        "difficulty": "困难",
+        "question": "地铁列车停靠处，安装在乘客等候区边缘、随车门同步开启的透明隔离设施叫什么？",
+        "answer": "站台屏蔽门"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "土壤与水文",
+        "sub_category": "自然资源",
+        "difficulty": "困难",
+        "question": "土壤细小颗粒在有机物作用下结合成稳定小团块、利于通气保水的组织状态叫什么？",
+        "answer": "团粒结构"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "土壤与水文",
+        "sub_category": "自然资源",
+        "difficulty": "中等",
+        "question": "从地表向下挖开后，可看到不同颜色与质地层次的垂直切面叫什么？",
+        "answer": "土壤剖面"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "土壤与水文",
+        "sub_category": "自然资源",
+        "difficulty": "困难",
+        "question": "岩石风化或搬运沉积形成、为后来土层发育提供基础的原始物质叫什么？",
+        "answer": "成土母质"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "土壤与水文",
+        "sub_category": "自然资源",
+        "difficulty": "中等",
+        "question": "干旱地区地表附近逐渐积聚可溶性盐类，影响作物生长的过程叫什么？",
+        "answer": "盐碱化"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "土壤与水文",
+        "sub_category": "自然资源",
+        "difficulty": "困难",
+        "question": "一份土样中空隙体积占总体积的比例叫什么？",
+        "answer": "土壤孔隙度"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "土壤与水文",
+        "sub_category": "自然资源",
+        "difficulty": "中等",
+        "question": "降雨后未能渗入地下、沿地面坡度流向沟渠河道的水流叫什么？",
+        "answer": "地表径流"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "土壤与水文",
+        "sub_category": "自然资源",
+        "difficulty": "困难",
+        "question": "雨水穿过堆放的有机物或其他多孔物料后，溶解并带走其中成分形成的液体叫什么？",
+        "answer": "渗滤液"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "纺织与手作",
+        "sub_category": "纺织技术",
+        "difficulty": "困难",
+        "question": "织机上带着许多穿线小眼、上下移动以分开两组纱线的框架叫什么？",
+        "answer": "综框"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "纺织与手作",
+        "sub_category": "纺织技术",
+        "difficulty": "中等",
+        "question": "传统织布机上穿行于两组纵向纱线之间、携带横向纱线的工具叫什么？",
+        "answer": "梭子"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "纺织与手作",
+        "sub_category": "纺织技术",
+        "difficulty": "困难",
+        "question": "织机上形似密排细齿的部件，用来控制纱线间距并把织入的横线推紧，叫什么？",
+        "answer": "筘"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "纺织与手作",
+        "sub_category": "纺织技术",
+        "difficulty": "中等",
+        "question": "把几股纤维或细纱朝一定方向拧合，以增加牢固程度的工序叫什么？",
+        "answer": "捻线"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "纺织与手作",
+        "sub_category": "纺织技术",
+        "difficulty": "中等",
+        "question": "织造时分别控制不同纱线的升降，在布面直接形成复杂图案的技术叫什么？",
+        "answer": "提花"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "main_category": "纺织与手作",
+        "sub_category": "纺织技术",
+        "difficulty": "困难",
+        "question": "传统丝织技艺中，不用连续横线织满整幅，而按图案局部换色织出纹样的方法叫什么？",
+        "answer": "缂丝"
       }
     ]
   }
