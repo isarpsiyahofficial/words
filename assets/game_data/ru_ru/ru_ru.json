@@ -49510,6 +49510,726 @@
         "difficulty": "средняя",
         "question": "Как называется линия пересечения поверхности спокойной воды с корпусом плавающего судна?",
         "answer": "Ватерлиния"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архивное дело",
+        "sub_category": "Учёт документов",
+        "difficulty": "средняя",
+        "answer": "Архивный фонд",
+        "question": "Как называют совокупность документов, сформировавшихся в деятельности одного учреждения или человека и хранящихся как единое целое?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архивное дело",
+        "sub_category": "Учёт документов",
+        "difficulty": "средняя",
+        "answer": "Опись",
+        "question": "Как называется систематизированный перечень единиц хранения с их заголовками и датами?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архивное дело",
+        "sub_category": "Учёт документов",
+        "difficulty": "сложная",
+        "answer": "Лист-заверитель",
+        "question": "Какой специальный лист в конце папки фиксирует количество пронумерованных страниц и особенности их состояния?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архивное дело",
+        "sub_category": "Учёт документов",
+        "difficulty": "средняя",
+        "answer": "Архивный шифр",
+        "question": "Как называется условное обозначение места документа в хранилище, включающее номера фонда, описи и дела?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архивное дело",
+        "sub_category": "Учёт документов",
+        "difficulty": "сложная",
+        "answer": "Номенклатура дел",
+        "question": "Как называется утверждённый перечень заголовков папок, которые учреждение формирует в течение года?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архивное дело",
+        "sub_category": "Хранение",
+        "difficulty": "средняя",
+        "answer": "Подшивка",
+        "question": "Как называется соединение листов нитью в папку для длительного хранения?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архивное дело",
+        "sub_category": "Хранение",
+        "difficulty": "средняя",
+        "answer": "Микрофильм",
+        "question": "На каком фотографическом носителе уменьшенные изображения страниц сохраняют в виде последовательности кадров?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архивное дело",
+        "sub_category": "Сохранность",
+        "difficulty": "сложная",
+        "answer": "Дезацидификация",
+        "question": "Как называют обработку старой бумаги, снижающую её кислотность для замедления разрушения?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архивное дело",
+        "sub_category": "Сохранность",
+        "difficulty": "средняя",
+        "answer": "Реставрация бумаги",
+        "question": "Как называют профессиональное восстановление повреждённых листов с сохранением их подлинных особенностей?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Готовый хлеб",
+        "difficulty": "лёгкая",
+        "answer": "Корка",
+        "question": "Как называется плотный наружный слой выпеченной буханки?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Технология",
+        "difficulty": "средняя",
+        "answer": "Формовка",
+        "question": "Как называется придание тестовой заготовке окончательной формы перед выдержкой и выпечкой?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Технология",
+        "difficulty": "средняя",
+        "answer": "Заварка",
+        "question": "Как называют часть мучной смеси, которую заранее соединяют с очень горячей водой для изменения свойств крахмала?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Виды изделий",
+        "difficulty": "средняя",
+        "answer": "Подовый хлеб",
+        "question": "Как называется буханка, выпекаемая непосредственно на поверхности печи, а не в металлической форме?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Технология",
+        "difficulty": "сложная",
+        "answer": "Автолиз",
+        "question": "Как называется предварительный отдых смеси муки с водой до внесения остальных ингредиентов для улучшения структуры теста?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Хлебопечение",
+        "sub_category": "Технология",
+        "difficulty": "средняя",
+        "answer": "Надрезы",
+        "question": "Что делают на поверхности тестовой заготовки острым лезвием, чтобы направить раскрытие при выпечке?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Механизмы",
+        "difficulty": "средняя",
+        "answer": "Анкер",
+        "question": "Как называется деталь спускового механизма, попеременно удерживающая и освобождающая зубья колеса?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Механизмы",
+        "difficulty": "средняя",
+        "answer": "Баланс",
+        "question": "Как называется колеблющееся колесо механических наручных часов, задающее ритм хода?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Механизмы",
+        "difficulty": "средняя",
+        "answer": "Заводная пружина",
+        "question": "Какая упругая деталь накапливает энергию при повороте головки механических часов?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Детали",
+        "difficulty": "лёгкая",
+        "answer": "Циферблат",
+        "question": "Как называется лицевая поверхность часов с делениями, по которым считывают время?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Детали",
+        "difficulty": "лёгкая",
+        "answer": "Заводная головка",
+        "question": "Как называется небольшая наружная деталь, которую поворачивают для настройки стрелок и пополнения запаса энергии?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Механизмы",
+        "difficulty": "сложная",
+        "answer": "Храповик",
+        "question": "Как называется зубчатая деталь, допускающая вращение в одну сторону и препятствующая обратному ходу?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Механизмы",
+        "difficulty": "сложная",
+        "answer": "Автоподзавод",
+        "question": "Как называется система, пополняющая запас энергии механических часов за счёт движений руки владельца?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Механизмы",
+        "difficulty": "сложная",
+        "answer": "Репетир",
+        "question": "Как называется часовой механизм, который по запросу сообщает время последовательностью звуковых сигналов?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Механизмы",
+        "difficulty": "средняя",
+        "answer": "Калибр",
+        "question": "Каким термином часовщики обозначают тип и конструкцию внутреннего механизма часов?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Измерения",
+        "difficulty": "средняя",
+        "answer": "Суточный ход",
+        "question": "Как называют величину, показывающую, насколько часы спешат или отстают за двадцать четыре часа?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Механизмы",
+        "difficulty": "сложная",
+        "answer": "Спираль баланса",
+        "question": "Какая тонкая упругая деталь возвращает колеблющийся регулятор механических часов к равновесию?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Часовое дело",
+        "sub_category": "Детали",
+        "difficulty": "средняя",
+        "answer": "Безель",
+        "question": "Как называется кольцевая деталь вокруг стекла наручных часов, иногда снабжённая шкалой?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Микроскопия",
+        "sub_category": "Оптика",
+        "difficulty": "сложная",
+        "answer": "Иммерсия",
+        "question": "Как называется метод повышения разрешения микроскопа с использованием специальной жидкости между линзой и препаратом?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Микроскопия",
+        "sub_category": "Измерения",
+        "difficulty": "средняя",
+        "answer": "Окуляр-микрометр",
+        "question": "Как называется шкала внутри наблюдательной части микроскопа, позволяющая измерять размеры объектов после калибровки?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Микроскопия",
+        "sub_category": "Препараты",
+        "difficulty": "средняя",
+        "answer": "Микропрепарат",
+        "question": "Как называется специально подготовленный образец ткани или материала для изучения при сильном увеличении?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Микроскопия",
+        "sub_category": "Приборы",
+        "difficulty": "сложная",
+        "answer": "Микротом",
+        "question": "Как называется устройство, с помощью которого получают очень тонкие срезы тканей для исследования?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Микроскопия",
+        "sub_category": "Измерения",
+        "difficulty": "средняя",
+        "answer": "Поле зрения",
+        "question": "Как называется круглая область образца, видимая наблюдателю через оптический прибор?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Микроскопия",
+        "sub_category": "Методы",
+        "difficulty": "сложная",
+        "answer": "Темнопольная микроскопия",
+        "question": "Как называется способ наблюдения, при котором объект выглядит ярким на почти чёрном фоне благодаря боковому освещению?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Микроскопия",
+        "sub_category": "Методы",
+        "difficulty": "сложная",
+        "answer": "Фазовый контраст",
+        "question": "Как называется оптический метод, позволяющий видеть почти прозрачные живые клетки без окрашивания?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геодезия",
+        "sub_category": "Направления",
+        "difficulty": "сложная",
+        "answer": "Румб",
+        "question": "Как называется острый угол между ближайшим направлением меридиана и линией на объект?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геодезия",
+        "sub_category": "Измерения",
+        "difficulty": "средняя",
+        "answer": "Нивелирование",
+        "question": "Как называется процесс определения превышений одних точек земной поверхности над другими?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геодезия",
+        "sub_category": "Разметка",
+        "difficulty": "средняя",
+        "answer": "Трассировка",
+        "question": "Как называется выбор и закрепление на местности направления будущей линейной постройки?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Геодезия",
+        "sub_category": "Приборы",
+        "difficulty": "лёгкая",
+        "answer": "Отвес",
+        "question": "Как называется груз на нити, показывающий точное вертикальное направление?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ткачество",
+        "sub_category": "Устройство станка",
+        "difficulty": "сложная",
+        "answer": "Навой",
+        "question": "Как называется вал станка, на который наматывают продольные нити перед изготовлением ткани?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ткачество",
+        "sub_category": "Устройство станка",
+        "difficulty": "сложная",
+        "answer": "Батан",
+        "question": "Как называется подвижная часть станка, которая подводит гребёнку к краю формируемого полотна?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Ткачество",
+        "sub_category": "Устройство станка",
+        "difficulty": "средняя",
+        "answer": "Зев",
+        "question": "Как называется пространство между поднятыми и опущенными продольными нитями, через которое проходит поперечная нить?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Стекольное дело",
+        "sub_category": "Материалы",
+        "difficulty": "средняя",
+        "answer": "Стекломасса",
+        "question": "Как называется вязкий расплав, из которого формуют прозрачные изделия?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Стекольное дело",
+        "sub_category": "Технологии",
+        "difficulty": "сложная",
+        "answer": "Фьюзинг",
+        "question": "Как называется способ соединения разноцветных стеклянных деталей нагреванием в печи до их сплавления?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Стекольное дело",
+        "sub_category": "Технологии",
+        "difficulty": "средняя",
+        "answer": "Ламинирование стекла",
+        "question": "Как называется соединение нескольких прозрачных листов с промежуточной полимерной плёнкой?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Стекольное дело",
+        "sub_category": "Материалы",
+        "difficulty": "средняя",
+        "answer": "Шихта",
+        "question": "Как называется заранее отмеренная смесь сырьевых компонентов, загружаемая в печь для получения стекла?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Стекольное дело",
+        "sub_category": "Инструменты",
+        "difficulty": "средняя",
+        "answer": "Стеклодувная трубка",
+        "question": "Как называется длинный полый металлический инструмент, через который мастер подаёт воздух в раскалённую заготовку?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Стекольное дело",
+        "sub_category": "Материалы",
+        "difficulty": "средняя",
+        "answer": "Смальта",
+        "question": "Как называется непрозрачное цветное стекло в небольших кусочках, используемое для декоративных панно?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Аквариумистика",
+        "sub_category": "Оборудование",
+        "difficulty": "средняя",
+        "answer": "Компрессор",
+        "question": "Как называется электрический прибор, подающий воздух по трубке к распылителю в аквариуме?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Аквариумистика",
+        "sub_category": "Оборудование",
+        "difficulty": "средняя",
+        "answer": "Терморегулятор",
+        "question": "Как называется устройство, поддерживающее заданную температуру воды включением и отключением нагревателя?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Аквариумистика",
+        "sub_category": "Размножение",
+        "difficulty": "лёгкая",
+        "answer": "Малёк",
+        "question": "Как называется молодая рыбка после перехода к самостоятельному питанию?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Аквариумистика",
+        "sub_category": "Водная среда",
+        "difficulty": "сложная",
+        "answer": "Нитрификация",
+        "question": "Как называется биологическое превращение аммония сначала в нитриты, а затем в нитраты?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Аквариумистика",
+        "sub_category": "Уход",
+        "difficulty": "средняя",
+        "answer": "Капельный тест",
+        "question": "Как называется способ проверки параметров воды, при котором реагент добавляют по каплям и оценивают изменение окраски?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Аквариумистика",
+        "sub_category": "Водная среда",
+        "difficulty": "сложная",
+        "answer": "Буферность",
+        "question": "Как называется способность воды сопротивляться резким изменениям кислотности при добавлении небольшого количества кислоты?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Аквариумистика",
+        "sub_category": "Оборудование",
+        "difficulty": "средняя",
+        "answer": "Распылитель",
+        "question": "Как называется пористая насадка на воздушной трубке, образующая множество мелких пузырьков?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Изображение местности",
+        "difficulty": "средняя",
+        "answer": "Картодиаграмма",
+        "question": "Как называется тематическая карта, на которой статистические величины показаны диаграммами внутри территорий?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Рельеф",
+        "difficulty": "средняя",
+        "answer": "Бергштрих",
+        "question": "Как называется короткая черточка на линии высоты, указывающая направление понижения склона?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Обозначения",
+        "difficulty": "средняя",
+        "answer": "Масштабная линейка",
+        "question": "Как называется графическая полоска с делениями, по которой расстояние на карте переводят в реальное?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Проекции",
+        "difficulty": "сложная",
+        "answer": "Азимутальная проекция",
+        "question": "Как называется способ изображения поверхности Земли на плоскости, касающейся шара в одной точке?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Названия",
+        "difficulty": "средняя",
+        "answer": "Топоним",
+        "question": "Как называется собственное географическое название населённого пункта, реки, горы или другой местности?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Картография",
+        "sub_category": "Координаты",
+        "difficulty": "средняя",
+        "answer": "Градусная сетка",
+        "question": "Как называется система пересекающихся линий широты и долготы на географической карте?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Метеорологические приборы",
+        "sub_category": "Измерения",
+        "difficulty": "средняя",
+        "answer": "Термограф",
+        "question": "Как называется самопишущий прибор, фиксирующий изменения температуры на движущейся диаграммной ленте?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Метеорологические приборы",
+        "sub_category": "Измерения",
+        "difficulty": "лёгкая",
+        "answer": "Флюгер",
+        "question": "Как называется свободно поворачивающийся указатель направления ветра на крыше?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Метеорологические приборы",
+        "sub_category": "Измерения",
+        "difficulty": "средняя",
+        "answer": "Снегомер",
+        "question": "Как называется измерительное приспособление для определения толщины снежного покрова?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Метеорологические приборы",
+        "sub_category": "Измерения",
+        "difficulty": "сложная",
+        "answer": "Пиранометр",
+        "question": "Как называется прибор для измерения суммарного солнечного излучения, поступающего на плоскую поверхность?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Метеорологические приборы",
+        "sub_category": "Измерения",
+        "difficulty": "сложная",
+        "answer": "Актинометр",
+        "question": "Как называется прибор, измеряющий интенсивность прямого солнечного излучения?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Метеорологические приборы",
+        "sub_category": "Наблюдения",
+        "difficulty": "средняя",
+        "answer": "Радиозонд",
+        "question": "Как называется небольшой приборный блок, поднимаемый воздушным шаром для передачи данных о состоянии атмосферы?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Метеорологические приборы",
+        "sub_category": "Наблюдения",
+        "difficulty": "средняя",
+        "answer": "Метеобудка",
+        "question": "Как называется защищённый от прямого солнца проветриваемый ящик для размещения датчиков погоды?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Агрономия",
+        "sub_category": "Обработка почвы",
+        "difficulty": "средняя",
+        "answer": "Боронование",
+        "question": "Как называется поверхностное рыхление поля зубчатыми орудиями для разрушения почвенной корки?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Агрономия",
+        "sub_category": "Система посевов",
+        "difficulty": "средняя",
+        "answer": "Сидерат",
+        "question": "Как называется растение, выращиваемое с целью последующего заделывания зелёной массы в почву?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Агрономия",
+        "sub_category": "Размножение",
+        "difficulty": "сложная",
+        "answer": "Скарификация",
+        "question": "Как называется нарушение плотной оболочки семени для облегчения проникновения воды?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архитектура",
+        "sub_category": "Детали фасада",
+        "difficulty": "сложная",
+        "answer": "Импост",
+        "question": "Как называется промежуточный элемент, на который опирается пятá арки?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Русский",
+        "locale": "ru-RU",
+        "main_category": "Архитектура",
+        "sub_category": "Своды",
+        "difficulty": "сложная",
+        "answer": "Нервюра",
+        "question": "Как называется выступающее ребро каменного свода, подчёркивающее его конструктивные линии?"
       }
     ]
   }
