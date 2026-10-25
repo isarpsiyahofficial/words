@@ -5,7 +5,720 @@
     "asset_filename": "it_it.json"
   },
   "analysis": {},
-  "bilmece": [],
+  "bilmece": [
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Non ho lancette né batterie: uno stilo proietta su di me un'ombra che indica l'ora.",
+      "answer": "Meridiana"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Due ampolle comunicano attraverso un passaggio sottile; capovolgendomi, i granelli ricominciano a scendere.",
+      "answer": "Clessidra"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Ogni mia pagina colloca i giorni dentro settimane e mesi, e il mio numero cambia a ogni nuovo anno.",
+      "answer": "Calendario"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Tengo il tempo ai musicisti con battiti regolari che possono diventare più lenti o più rapidi.",
+      "answer": "Metronomo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un peso sospeso che oscilla con ritmo costante e regola molti orologi antichi.",
+      "answer": "Pendolo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Se l'aria diventa più calda o più fredda, la mia scala mostra di quanto è cambiata.",
+      "answer": "Termometro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Le variazioni della pressione atmosferica muovono il mio indice e aiutano a prevedere il tempo.",
+      "answer": "Barometro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Una piccola lancetta magnetica mi permette di trovare il nord anche lontano dalle strade.",
+      "answer": "Bussola"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Attraverso il mio vetro, le lettere minuscole sembrano molto più grandi.",
+      "answer": "Lente d'ingrandimento"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Ho due oculari affiancati e avvicino allo sguardo montagne e uccelli lontani.",
+      "answer": "Binocolo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Puntato verso il cielo, raccolgo la luce di pianeti e galassie troppo lontani per l'occhio.",
+      "answer": "Telescopio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Rendo visibili cellule e dettagli minuscoli che a occhio nudo non si distinguono.",
+      "answer": "Microscopio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Raccolgo in un cilindro graduato l'acqua caduta dal cielo per misurarne la quantità.",
+      "answer": "Pluviometro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Le mie coppette girano all'aperto: dalla loro velocità si ricava quanto soffia l'aria.",
+      "answer": "Anemometro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Misuro la quantità di vapore acqueo presente nell'aria di una stanza.",
+      "answer": "Igrometro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "La mia retina trattiene le foglioline mentre la bevanda calda passa nella tazza.",
+      "answer": "Colino"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Ho la bocca larga e il collo stretto: aiuto a versare liquidi senza rovesciarli.",
+      "answer": "Imbuto"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sul mio metallo forato, un pezzo di formaggio diventa una pioggia di scaglie.",
+      "answer": "Grattugia"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Ho un lungo manico e una coppa profonda: porto la minestra dalla pentola al piatto.",
+      "answer": "Mestolo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "La mia coppa bucherellata solleva gli gnocchi dall'acqua lasciando scolare il liquido.",
+      "answer": "Schiumarola"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono un cilindro che rotola sul piano di lavoro e rende sottile l'impasto.",
+      "answer": "Mattarello"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "I miei fili metallici curvi incorporano aria nella panna quando mi muovi velocemente.",
+      "answer": "Frusta da cucina"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "La pasta cotta resta dentro di me, mentre l'acqua esce dai tanti fori.",
+      "answer": "Scolapasta"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Ho una caldaia inferiore, un filtro centrale e una raccolta superiore: sul fornello preparo il caffè.",
+      "answer": "Caffettiera moka"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono una tavoletta resistente su cui si preparano gli ingredienti con il coltello.",
+      "answer": "Tagliere"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "La farina attraversa la mia rete e i grumi più grossi rimangono indietro.",
+      "answer": "Setaccio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono una ciotola robusta in cui si pestano spezie ed erbe con un apposito utensile.",
+      "answer": "Mortaio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Indico in grammi la quantità degli ingredienti prima che entrino nell'impasto.",
+      "answer": "Bilancia da cucina"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Premendo su di me un'arancia tagliata a metà, si raccoglie il suo succo.",
+      "answer": "Spremiagrumi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "La mia lama scorre sulla superficie dei tuberi e ne toglie uno strato sottilissimo.",
+      "answer": "Pelapatate"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "La mia spirale entra nel sughero e lo estrae dal collo della bottiglia.",
+      "answer": "Cavatappi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Al mattino appaio come piccole gocce sui fili d'erba, anche se durante la notte non ha piovuto.",
+      "answer": "Rugiada"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Con il gelo notturno ricopro erba e tetti di minuscoli cristalli bianchi.",
+      "answer": "Brina"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Dopo la pioggia posso disegnare nel cielo un arco con sette colori.",
+      "answer": "Arcobaleno"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Nelle cavità calcaree cresco lentamente verso il basso, appesa alla volta.",
+      "answer": "Stalattite"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Nelle cavità calcaree cresco lentamente verso l'alto, partendo dal pavimento.",
+      "answer": "Stalagmite"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "A intervalli lancio naturalmente getti d'acqua molto calda dal sottosuolo.",
+      "answer": "Geyser"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Prima di raggiungere il mare, un fiume si divide in più rami e deposita sedimenti a ventaglio.",
+      "answer": "Delta"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono una foce ampia a imbuto dove l'acqua del fiume incontra le maree.",
+      "answer": "Estuario"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Il vento mi costruisce spostando la sabbia e può farmi avanzare nel deserto.",
+      "answer": "Duna"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Nel deserto offro acqua e vegetazione in mezzo a grandi distese aride.",
+      "answer": "Oasi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono una cavità naturale nella roccia, spesso esplorabile entrando da una piccola apertura.",
+      "answer": "Grotta"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono la grande depressione circolare che spesso si apre sulla sommità di un vulcano.",
+      "answer": "Cratere"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Due volte circa al giorno il livello del mare sale e scende anche per l'attrazione della Luna.",
+      "answer": "Marea"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Per un breve periodo un corpo celeste ne nasconde un altro alla vista di chi osserva.",
+      "answer": "Eclissi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Alle alte latitudini coloro la notte con tende luminose verdi e talvolta violacee.",
+      "answer": "Aurora boreale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Ho squame legnose che proteggono i semi di molti pini.",
+      "answer": "Pigna"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono il frutto della quercia, con una piccola cupola che copre un'estremità.",
+      "answer": "Ghianda"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono granelli prodotti dai fiori che insetti e vento trasportano per favorire la fecondazione.",
+      "answer": "Polline"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un liquido dolce offerto dai fiori agli insetti che li visitano.",
+      "answer": "Nettare"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Se trovo acqua, aria e condizioni adatte, da me può nascere una nuova pianta.",
+      "answer": "Seme"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono la prima parte tenera e verde che spunta da un ramo o dal terreno durante la crescita.",
+      "answer": "Germoglio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Resto quasi sempre nascosta nella terra, assorbo acqua e tengo salda la pianta.",
+      "answer": "Radice"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Coloro la corolla e attiro gli insetti attorno al centro del fiore.",
+      "answer": "Petalo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Rivesto il tronco degli alberi come una protezione ruvida contro l'esterno.",
+      "answer": "Corteccia"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Formo cuscinetti verdi su rocce umide e muri ombrosi, senza produrre fiori.",
+      "answer": "Muschio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Nasce dall'associazione stabile tra un fungo e un organismo capace di fotosintesi; spesso ricopre sassi.",
+      "answer": "Lichene"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Le mie fronde si aprono nel sottobosco e mi riproduco con spore, non con fiori.",
+      "answer": "Felce"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Mi arrampico sui muri grazie a piccole radichette che aderiscono alle superfici.",
+      "answer": "Edera"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Porto un grande capolino giallo e, da giovane, seguo la direzione della luce diurna.",
+      "answer": "Girasole"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Viaggio su rotaie posate lungo le strade cittadine e mi fermo a molte banchine.",
+      "answer": "Tram"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Le mie cabine sospese a un cavo portano persone in alto, spesso lungo i pendii delle montagne.",
+      "answer": "Funivia"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un'imbarcazione veneziana stretta e scura, guidata da un solo rematore in piedi.",
+      "answer": "Gondola"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "A Venezia faccio il servizio di linea sull'acqua, con fermate e passeggeri come un autobus.",
+      "answer": "Vaporetto"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Porto passeggeri e anche automobili da una sponda all'altra attraverso uno specchio d'acqua.",
+      "answer": "Traghetto"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Tre luci colorate regolano il passaggio dei veicoli agli incroci.",
+      "answer": "Semaforo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Attorno alla mia isola centrale le automobili procedono in un unico senso di circolazione.",
+      "answer": "Rotatoria"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono il percorso rialzato accanto alla carreggiata, riservato a chi cammina.",
+      "answer": "Marciapiede"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono una corsia riservata alle biciclette, separata o segnalata rispetto al traffico.",
+      "answer": "Pista ciclabile"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono le bande bianche parallele sulla strada che indicano dove attraversare a piedi.",
+      "answer": "Strisce pedonali"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Attraverso una montagna permettendo a veicoli e treni di passare al suo interno.",
+      "answer": "Galleria"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sostengo una strada alta sopra una valle grazie a piloni e campate successive.",
+      "answer": "Viadotto"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Una cabina chiusa sale e scende tra i piani di un edificio premendo un pulsante.",
+      "answer": "Ascensore"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "I miei gradini si muovono da soli tra due livelli di una stazione o di un centro commerciale.",
+      "answer": "Scala mobile"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Ruoto di uno scatto per far entrare una persona alla volta dopo il controllo del biglietto.",
+      "answer": "Tornello"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Faccio ruotare un pezzo di legno o metallo mentre un utensile gli dà una forma regolare.",
+      "answer": "Tornio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Tendo fili in una direzione e ne intreccio altri per ottenere un tessuto.",
+      "answer": "Telaio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono un piccolo cappuccio rigido che protegge la punta del dito mentre si cuce.",
+      "answer": "Ditale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Ho una punta ricurva con cui si formano anelli di filo concatenati.",
+      "answer": "Uncinetto"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono un lungo filo avvolto su sé stesso in una palla morbida pronta per lavorare a maglia.",
+      "answer": "Gomitolo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Ruotando, torco le fibre e le trasformo in un filo continuo durante la filatura.",
+      "answer": "Fuso"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Premuto su un cuscinetto inchiostrato, lascio sempre lo stesso segno sui documenti.",
+      "answer": "Timbro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Una goccia di cera impressa con un simbolo mi rende riconoscibile su una busta chiusa.",
+      "answer": "Sigillo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Ho due aste incernierate: una punta resta ferma e l'altra traccia cerchi sulla carta.",
+      "answer": "Compasso"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono un righello triangolare che aiuta a tracciare angoli retti.",
+      "answer": "Squadra"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Con due becchi scorrevoli misuro con precisione diametri esterni, interni e profondità.",
+      "answer": "Calibro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "La mia bolla d'aria deve stare tra due tacche quando una superficie è perfettamente orizzontale.",
+      "answer": "Livella"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Le mie due ganasce stringono un pezzo sul banco mentre lo si lavora.",
+      "answer": "Morsa"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Scivolando sul legno, la mia lama asporta trucioli sottili e rende liscia la superficie.",
+      "answer": "Pialla"
+    }
+  ],
   "kelime_ustasi": [
     {
       "game_type": "kelime_ustasi",
