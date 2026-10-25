@@ -41351,8 +41351,8 @@
         "language": "简体中文",
         "locale": "zh-CN",
         "difficulty": "中等",
-        "question": "有些热带植物不把全部吸收器官埋入泥土，而让一部分悬在空中。",
-        "answer": "气根"
+        "question": "榕树枝条垂下的细长结构接触土壤后逐渐增粗，像立柱一样帮助托住庞大的树冠。",
+        "answer": "支柱根"
       },
       {
         "game_type": "bilmece",
@@ -42359,8 +42359,8 @@
         "language": "简体中文",
         "locale": "zh-CN",
         "difficulty": "中等",
-        "question": "大河入海处流速减缓，携带的泥沙向外堆积成扇状陆地。",
-        "answer": "河口三角洲"
+        "question": "涨落的海水在泥质滩面上反复冲刷，逐渐形成纵横分布的小水道。",
+        "answer": "潮沟"
       },
       {
         "game_type": "bilmece",
@@ -42441,6 +42441,806 @@
         "difficulty": "简单",
         "question": "乌梅搭配山楂等食材熬煮，冰镇后酸甜清爽的传统饮品。",
         "answer": "酸梅汤"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "以夏季常煮汤解暑的小颗粒豆子为主料，慢煮到细腻起沙，加糖制成的甜品。",
+        "answer": "绿豆沙"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "广东烧味店里，腌过的猪肉挂炉烤熟，外层红亮，入口带有淡淡甜香。",
+        "answer": "叉烧"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "岭南街头常见，用多种草本原料煎煮，放凉后饮用，味道往往微苦。",
+        "answer": "凉茶"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "薯类淀粉做成的细长条浸在带醋香和辣椒味的汤中，是川渝常见小吃。",
+        "answer": "酸辣粉"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "外皮薄而有褶，夹起时鼓鼓的，咬开先有热腾腾的鲜汁流出的蒸制面点。",
+        "answer": "灌汤包"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "潮汕地区常用厚重陶制容器慢煮大米，加入虾蟹等食材的一种稠汤饭。",
+        "answer": "砂锅粥"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "面团擀薄后抹油撒切碎的绿色香辛蔬菜，再烙成层层酥香的圆形面食。",
+        "answer": "葱油饼"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "把大米制成的细长条与蔬菜、鸡蛋等放入热锅快速翻动，做成的一盘主食。",
+        "answer": "炒米粉"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "莲的地下茎灌入糯米煮熟，切片后淋上带秋日细小香朵气味的甜汁。",
+        "answer": "桂花糖藕"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "顺德传统甜品，表面有细腻凝固的乳脂薄膜，内部柔滑，常用小碗盛放。",
+        "answer": "双皮奶"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "岭南古村落常见，枝条垂下许多须状结构，触地后还能形成额外支撑的高大乔木。",
+        "answer": "榕树"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "春末开出一串串下垂的蝶形小朵，老枝盘绕廊架，是庭院常见的木本攀缘植物。",
+        "answer": "紫藤"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "宽大的叶片像一把把长扇，庭院中常用来造绿荫，古诗常写雨点敲打它的叶面。",
+        "answer": "芭蕉"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "夏秋时开出较大的五瓣小朵，常常早晨开放傍晚凋谢，适合栽成庭院绿篱。",
+        "answer": "木槿"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "冬季尚未结束时，细长下垂的枝条先冒出鲜黄色小朵，叶片随后才长出。",
+        "answer": "迎春花"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "秋季庭院里能闻到浓郁甜香，枝叶间却只藏着一簇簇极细小的黄白色小朵。",
+        "answer": "桂花"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "一种缠绕植物，成对的筒状小朵初开偏白，随后转黄，常晒干用来泡水。",
+        "answer": "金银花"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "细长的剑形叶直立生长，开放时花被片舒展如蝴蝶，常见蓝紫色园艺品种。",
+        "answer": "鸢尾"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "从地下鳞茎抽出粗壮的中空花葶，顶端开放数朵硕大的喇叭状花。",
+        "answer": "朱顶红"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "常绿灌木，夏天开厚瓣乳白色芳香小朵，成熟果实还可提取天然黄色色素。",
+        "answer": "栀子"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "中国山溪里体形很大的两栖动物，头扁、四肢短，叫声常被形容得像婴儿啼哭。",
+        "answer": "大鲵"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "雄性头部长着显眼的大型分叉角，幼虫生活在腐朽木屑中，属于一种甲虫。",
+        "answer": "独角仙"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "尾巴蓬松像一把大刷子，常在树枝间跳跃，还会储藏坚果的小型啮齿动物。",
+        "answer": "松鼠"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "珊瑚礁附近常见，身体粗壮、嘴大，身上布满不规则花纹的海产食用鱼。",
+        "answer": "石斑鱼"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "海边泥滩上的雄性个体常有一只特别巨大的螯，像举小旗一样反复挥动。",
+        "answer": "招潮蟹"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "澳大利亚的卵生哺乳动物，前端扁平似鸟喙，脚上有蹼，善于游泳。",
+        "answer": "鸭嘴兽"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "长腿涉禽，喙的末端宽扁像小汤匙，常在浅水里左右扫动觅食。",
+        "answer": "琵鹭"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "我国南方山林中的一种雉类，雄鸟有醒目的浅色长尾和鲜红的面部皮肤。",
+        "answer": "白鹇"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "我国西南山地的一种雉类，雄鸟头顶金黄，胸前呈火焰般颜色，羽饰极为艳丽。",
+        "answer": "红腹锦鸡"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "喙向下弯曲，双足能灵巧抓握，有些种类还能模仿人说话的鸟类。",
+        "answer": "鹦鹉"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "我国西北干旱地区常见，地表多砾石和裸露岩屑，植被稀少的荒漠类型。",
+        "answer": "戈壁"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "土壤表层常出现白色结晶，许多作物难以正常生长，需要改良才能耕种。",
+        "answer": "盐碱地"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "地下熔融物喷出后留下的圆形洼地，后来积满雨水形成的封闭水域。",
+        "answer": "火山湖"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "山体滑落的岩土堵住河道后，上游水流积聚而形成的临时水域。",
+        "answer": "堰塞湖"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "浪花长期冲刷岬角两侧，最终打通岩体，留下顶部仍相连的天然弧形孔洞。",
+        "answer": "海蚀拱门"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "近岸岩石长期受波浪侵袭，与陆地分离后孤立矗立在水中的高耸石体。",
+        "answer": "海蚀柱"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "高山谷地源头长期受积雪压实的缓慢移动物磨削，形成半圆形盆状凹地。",
+        "answer": "冰斗"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "高山中巨大的冻结水体沿谷地向低处延伸，前端细长的部分被形象地称为什么？",
+        "answer": "冰舌"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "广阔陆地被常年积雪压实形成的厚层覆盖，面积超过五万平方千米的巨大整体。",
+        "answer": "冰盖"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "地势低平、土壤长期饱水，生长大量喜湿草本植物的地带。",
+        "answer": "沼泽"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "把装满液体的弯管一端放进较高容器，另一端伸向低处，液体便能持续流出。",
+        "answer": "虹吸"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "细玻璃管插入清水后，管内液面竟比外面高；纸巾也能沿纤维吸水。",
+        "answer": "毛细现象"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "金属瓶盖用温水浸一下更容易拧开，冬天电线也会绷得更紧，反映物质的哪种变化规律？",
+        "answer": "热胀冷缩"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "干燥天气脱毛衣时听到轻微噼啪声，梳子摩擦头发后还能吸起碎纸。",
+        "answer": "静电"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "站在空旷山谷中喊一句，稍等片刻又听见相同的话语从远处返回。",
+        "answer": "回声"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "一束白光穿过三棱玻璃后，屏幕上出现连续排列的多种颜色。",
+        "answer": "色散"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "先加热液体让易挥发成分变成气体，再冷却收集，以分离混合物的实验方法。",
+        "answer": "蒸馏"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "冬天晾在室外的冻衣服没有融化却逐渐变干，固态物质直接变成气态。",
+        "answer": "升华"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "寒冷清晨，空气中的水汽未经过液态便直接附着成白色晶体的相变过程。",
+        "answer": "凝华"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "细小昆虫能在平静水面行走而不立刻下沉，水滴也倾向于缩成圆形。",
+        "answer": "表面张力"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "洗净的盘碗竖放在有缝隙的支架上，残留液滴可以自行流走。",
+        "answer": "沥水架"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "滚筒里放入一个细网兜保护容易勾丝的衣物，防止缠绕变形。",
+        "answer": "洗衣袋"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "桌上摆着一个带开口的容器，薄薄的清洁纸张可以一张接一张从顶部取出。",
+        "answer": "抽纸盒"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "浴室台面上有个带排液孔的小托盘，专门放一块固体清洁用品。",
+        "answer": "香皂盒"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "暂时不用的风扇或家电外面套一层布，避免长期闲置时积灰。",
+        "answer": "防尘罩"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "从烤箱取出高温烤盘时，戴在双手上避免被烫到的厚垫式用品。",
+        "answer": "隔热手套"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "吃剩的零食袋折叠开口后，用一件带弹力的小工具固定，避免食物受潮。",
+        "answer": "封口夹"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "皮鞋不穿时塞进内部，帮助保持鞋头形状、防止皮面起皱的小器具。",
+        "answer": "鞋撑"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "衣服挂着不必平铺，设备喷出热雾使布料褶皱舒展开的家电。",
+        "answer": "蒸汽挂烫机"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "把餐具摆入内部支架，按键后自动喷水冲洗并烘干的厨房电器。",
+        "answer": "洗碗机"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "在木板或橡皮表面雕出细线与图案，常用带可更换尖锐金属刃的手工工具。",
+        "answer": "刻刀"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "皮革或木片上需要预先扎出小洞时，握住木柄用尖锐金属杆刺入的工具。",
+        "answer": "锥子"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "不用电池，转动侧边曲柄便可带动前端金属尖端旋转打洞的工具。",
+        "answer": "手摇钻"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "细窄的齿状金属条绷在弓形框架中，适合沿曲线切割薄木板。",
+        "answer": "线锯"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "木工在板边保持固定距离，沿边移动便能划出平行痕迹的测量工具。",
+        "answer": "划线规"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "金属零件上先打好圆洞，再用带螺旋刃的工具在洞内加工螺纹。",
+        "answer": "丝锥"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "纸艺制作时按下带图案的冲头，在卡纸上留下凸起纹饰的小工具。",
+        "answer": "压花器"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "用带倒钩的尖细工具反复戳刺羊毛纤维，使它们纠缠成造型的手工技法。",
+        "answer": "针毡"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "用于手工粘合的圆柱形固体材料，插入加热装置后软化流出并迅速凝固。",
+        "answer": "热熔胶棒"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "在腰带上补出整齐圆洞，手柄一夹便能冲出小圆片的钳形工具。",
+        "answer": "皮革打孔器"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "建筑两端呈三角轮廓的竖直围护部分，常位于双坡屋顶侧面。",
+        "answer": "山墙"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "屋顶覆盖在跨越溪谷的通道之上，行人走过时还能遮风避雨的传统建筑。",
+        "answer": "廊桥"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "中国传统屋顶上，从最高处的水平隆起线条两端向下延伸的斜向构件。",
+        "answer": "垂脊"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "传统大屋顶角部向外斜伸、连接屋角的那道隆起构件，常见于歇山式建筑。",
+        "answer": "戗脊"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "古代桥面或台阶边缘，用雕刻过的坚硬矿物材料做成的连续防护围挡。",
+        "answer": "石栏杆"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "室内隔断由许多等间距细条排列，既能透光通风，又保持一定遮挡。",
+        "answer": "木格栅"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "古代砌筑弧形洞口时，许多楔形小块沿曲线排列并相互挤压承重的结构。",
+        "answer": "砖券"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "街道边缘低处开设带格网的小洞，降水时把路面积液引入地下管道。",
+        "answer": "雨水口"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "抬头看见室内最上方的平整装饰面，通常遮住梁和管线。",
+        "answer": "天花板"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "楼梯中供脚掌落下的一个个水平面。",
+        "answer": "踏步"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "汉语中把同一个音节或表达重复使用，例如“慢慢”“看看”，形成的形式。",
+        "answer": "叠词"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "“哗啦”“咚咚”“滴答”这类模拟自然界或动作发出的动静的表达统称什么？",
+        "answer": "象声词"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "“高”和“低”、“远”和“近”这类意义处在两个极端的表达彼此是什么关系？",
+        "answer": "反义词"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "“美丽”和“漂亮”在多数语境中意思接近，彼此属于哪种词语关系？",
+        "answer": "同义词"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "说“一张纸”“一把椅子”时，中间用来表示事物单位的那类词叫什么？",
+        "answer": "量词"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "汉语里结构固定、常由四个字组成且带有整体含义的习惯表达。",
+        "answer": "成语"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "“芝麻开花——节节高”这种前半句打比方、后半句揭示意思的民间表达叫什么？",
+        "answer": "歇后语"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "写“小草向我点头”，把自然景物写得像有情感的角色，这是什么修辞？",
+        "answer": "拟人"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "“弯弯的月亮像小船”通过相似点来描写事物，采用哪种修辞？",
+        "answer": "比喻"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "连续写出三个以上结构相似、语气一致的分句来加强表达气势，属于哪种修辞？",
+        "answer": "排比"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "绕太阳运行、近似球形，却未清空轨道附近其他小天体的一类成员。",
+        "answer": "矮行星"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "主要集中在火星与木星轨道之间、体积通常较小的岩质天体。",
+        "answer": "小行星"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "地球与太阳之间的平均距离约一亿五千万千米，研究宇宙时常用什么专门尺度表示？",
+        "answer": "天文单位"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "地球绕太阳运行的椭圆轨道上，两者间距达到全年最大值的位置。",
+        "answer": "远日点"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "月球始终以几乎同一面对着地球，是因为自转周期与公转周期相等，这种同步状态叫什么？",
+        "answer": "潮汐锁定"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "从地球上看，水星或金星变成小黑点，缓慢经过太阳明亮圆盘前方的天象。",
+        "answer": "凌日"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "月球从观察者视线前方经过，短时间把远处的一颗恒星完全遮住的天象。",
+        "answer": "掩星"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "简单",
+        "question": "以一颗中等大小恒星为中心，八颗主要大行星及许多小天体共同构成的系统。",
+        "answer": "太阳系"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "中等",
+        "question": "数以亿计的发光天体、气体和尘埃受引力束缚组成的巨大集合。",
+        "answer": "星系"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "简体中文",
+        "locale": "zh-CN",
+        "difficulty": "困难",
+        "question": "为了标记天空中物体的位置，人们想象把所有天体投影在以观察者为中心的巨大球面上。",
+        "answer": "天球"
       }
     ],
     "kelime_ustasi": [
