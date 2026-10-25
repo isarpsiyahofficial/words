@@ -34003,7 +34003,1280 @@
       "target_text": "Eine Stofftasche an einem Marktstand öffnen"
     }
   ],
-  "bilmece": [],
+  "bilmece": [
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich brauche keine Batterie. Ein wandernder Schatten zeigt auf meiner Fläche die Tagesstunde. Was bin ich?",
+      "answer": "Sonnenuhr"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Zwei gläserne Kammern teilen sich feine Körner. Drehst du mich um, beginnt das Rinnen von vorn. Was bin ich?",
+      "answer": "Sanduhr"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Meine bewegliche Nadel kennt den Norden, auch wenn weit und breit kein Straßenschild steht. Was bin ich?",
+      "answer": "Kompass"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich verrate mit einer Skala, wie warm oder kalt es gerade ist. Was bin ich?",
+      "answer": "Thermometer"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Wenn sich der Luftdruck ändert, reagiert meine Anzeige. Bei der Wetterbeobachtung bin ich nützlich. Was bin ich?",
+      "answer": "Barometer"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich zeige an, wie viel Wasserdampf die Luft enthält, ohne selbst ein Tropfenfänger zu sein. Was bin ich?",
+      "answer": "Hygrometer"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Kleine Schrift erscheint durch mich groß, obwohl die Buchstaben auf dem Papier unverändert bleiben. Was bin ich?",
+      "answer": "Lupe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Unter meinem Objektiv werden Zellen sichtbar, die das bloße Auge nicht erkennen kann. Was bin ich?",
+      "answer": "Mikroskop"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Du hältst mich vor beide Augen, und entfernte Berge scheinen plötzlich näher zu sein. Was bin ich?",
+      "answer": "Fernglas"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ein weißer Lichtstrahl tritt in mich ein und verlässt mich in verschiedenen Farben. Was bin ich?",
+      "answer": "Prisma"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Nach einem Schauer erscheine ich als farbige Brücke am Himmel, wenn Sonnenlicht auf Tropfen trifft. Was bin ich?",
+      "answer": "Regenbogen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich bin wie eine Wolke direkt über dem Boden und lasse selbst vertraute Wege verschwimmen. Was bin ich?",
+      "answer": "Nebel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Über Nacht setze ich mich als kleine Tropfen auf Grashalme, obwohl kein Schauer gefallen ist. Was bin ich?",
+      "answer": "Tau"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "In frostigen Nächten überziehe ich Zweige mit einer zarten weißen Schicht aus Eiskristallen. Was bin ich?",
+      "answer": "Raureif"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich falle aus mächtigen Gewitterwolken als harte Eiskörner und prassle auf Dächer. Was bin ich?",
+      "answer": "Hagel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Du kannst mich nicht sehen, doch Blätter zeigen meine Richtung und Segel füllen sich durch mich. Was bin ich?",
+      "answer": "Wind"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Hoch über dem Dach drehe ich mich und verrate, aus welcher Richtung die Luft strömt. Was bin ich?",
+      "answer": "Windfahne"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Mal sehe ich aus wie Watte, mal bin ich dunkel und bringe einen Schauer. Was bin ich?",
+      "answer": "Wolke"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich erhelle den Gewitterhimmel für einen Augenblick, bevor das laute Grollen zu hören ist. Was bin ich?",
+      "answer": "Blitz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Nach einem grellen Leuchten rolle ich als tiefes Grollen durch den Himmel. Was bin ich?",
+      "answer": "Donner"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich falle im Winter fast lautlos, bestehe aus Eis und habe häufig sechs feine Arme. Was bin ich?",
+      "answer": "Schneeflocke"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Unter einer Dachrinne wachse ich bei Frost nach unten und werde bei Wärme immer kürzer. Was bin ich?",
+      "answer": "Eiszapfen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich bin eine riesige Masse aus festem Eis und bewege mich über viele Jahre langsam talwärts. Was bin ich?",
+      "answer": "Gletscher"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Hier beginnt ein Bach, wenn Wasser von selbst aus dem Erdboden hervortritt. Was bin ich?",
+      "answer": "Quelle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Kurz vor dem Meer verzweigt sich ein Fluss in mehrere Arme und lagert mitgeführte Teilchen ab. Was bin ich?",
+      "answer": "Delta"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "An einer steilen Felskante stürzt ein Fluss plötzlich in die Tiefe. Was bin ich?",
+      "answer": "Wasserfall"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "An vielen Küsten steigt und sinkt der Meeresspiegel regelmäßig, weil Mond und Sonne an den Wassermassen ziehen. Was bin ich?",
+      "answer": "Gezeiten"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Aus losem Sand häuft mich die bewegte Luft auf; meine Form verändert sich mit der Zeit. Was bin ich?",
+      "answer": "Düne"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "schwierig",
+      "question": "Ich entstehe Tropfen für Tropfen aus Kalk und hänge von der Decke einer Höhle herab. Was bin ich?",
+      "answer": "Stalaktit"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "schwierig",
+      "question": "In einer Tropfsteinhöhle wachse ich langsam vom Boden nach oben. Was bin ich?",
+      "answer": "Stalagmit"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Tief in mir sammelt sich geschmolzenes Gestein, das bei einem Ausbruch nach außen gelangen kann. Was bin ich?",
+      "answer": "Vulkan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich bin eine schüsselförmige Vertiefung an der Spitze eines Berges, aus dem glühendes Gestein austreten kann. Was bin ich?",
+      "answer": "Krater"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Als Abdruck oder versteinerten Rest bewahre ich Spuren längst vergangener Lebewesen. Was bin ich?",
+      "answer": "Fossil"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich war einst klebriges Baumharz und kann ein winziges Insekt für sehr lange Zeit einschließen. Was bin ich?",
+      "answer": "Bernstein"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Als feines Pulver werde ich von Blüte zu Blüte getragen und bin für die Fortpflanzung vieler Pflanzen wichtig. Was bin ich?",
+      "answer": "Pollen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Blüten bieten mich als süßen Saft an und locken damit viele Insekten an. Was bin ich?",
+      "answer": "Nektar"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "In mir steckt eine junge Pflanze mit einem kleinen Vorrat für ihren ersten Wachstumsschub. Was bin ich?",
+      "answer": "Samen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Gerade erst aus einem kleinen Korn hervorgekommen, strecke ich meine ersten grünen Teile ins Licht. Was bin ich?",
+      "answer": "Keimling"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Meist im Erdreich verankere ich eine Pflanze und nehme Wasser sowie Mineralstoffe auf. Was bin ich?",
+      "answer": "Wurzel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Wie eine raue äußere Hülle schütze ich den Stamm eines Baumes. Was bin ich?",
+      "answer": "Rinde"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich bilde weiche grüne Polster auf feuchten Steinen und Waldböden, ohne Blüten zu tragen. Was bin ich?",
+      "answer": "Moos"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "schwierig",
+      "question": "Ich bestehe aus einer engen Lebensgemeinschaft von Pilz und einem Partner, der Lichtenergie nutzt; oft wachse ich auf Felsen. Was bin ich?",
+      "answer": "Flechte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich habe keine grünen Blätter, bilde manchmal einen Hut und verbreite mich durch Sporen. Was bin ich?",
+      "answer": "Pilz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich trage gefiederte Wedel und vermehre mich ohne Blüten durch Sporen. Was bin ich?",
+      "answer": "Farn"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Mein großer gelber Blütenkopf besteht aus vielen Einzelblüten und liefert ölreiche Kerne. Was bin ich?",
+      "answer": "Sonnenblume"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "In trockenen Gegenden speichere ich Wasser in meinem dicken Spross und trage häufig Dornen. Was bin ich?",
+      "answer": "Kaktus"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Meine runden Blätter schwimmen auf Teichen, während meine Blüten auf dem Wasser ruhen. Was bin ich?",
+      "answer": "Seerose"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich bin ein schnell wachsendes Gras mit hohen, oft hohlen Halmen, aus denen auch Möbel entstehen. Was bin ich?",
+      "answer": "Bambus"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich trage ein kleines Hütchen, falle im Herbst von einem Baum mit gelappten Blättern und diene Waldtieren als Nahrung. Was bin ich?",
+      "answer": "Eichel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich gleite auf einer feuchten Spur; manche von uns tragen ein spiraliges Haus. Was bin ich?",
+      "answer": "Schnecke"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich lockere unterirdisch den Boden, habe keine Beine und komme bei feuchtem Wetter oft an die Oberfläche. Was bin ich?",
+      "answer": "Regenwurm"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Mit vier durchsichtigen Flügeln schwebe ich oft über Teichen; meine Jugend verbringe ich im Wasser. Was bin ich?",
+      "answer": "Libelle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Auf meinem roten Rücken sitzen schwarze Punkte; Blattläuse stehen auf meinem Speiseplan. Was bin ich?",
+      "answer": "Marienkäfer"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich sammle süßen Blütensaft, trage gelbes Pulver heim und baue sechseckige Waben. Was bin ich?",
+      "answer": "Biene"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich brumme tief, bin rund und pelzig und besuche selbst bei kühlem Wetter noch Blüten. Was bin ich?",
+      "answer": "Hummel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich lebe in großen Staaten, folge Duftspuren und kann Lasten tragen, die schwerer sind als ich. Was bin ich?",
+      "answer": "Ameise"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Mit meinem kräftigen Schnabel klopfe ich an Baumstämme und suche darin kleine Insekten. Was bin ich?",
+      "answer": "Specht"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Meine großen Augen blicken nach vorn; nachts bin ich besonders aktiv und fliege fast lautlos. Was bin ich?",
+      "answer": "Eule"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich bin ein fliegendes Säugetier und finde mich im Dunkeln mithilfe von Echos zurecht. Was bin ich?",
+      "answer": "Fledermaus"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Bei Gefahr rolle ich mich zu einer Kugel zusammen und zeige nach außen viele Stacheln. Was bin ich?",
+      "answer": "Igel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Mit kräftigen Schneidezähnen bearbeite ich Holz und staue kleine Gewässer mit Ästen. Was bin ich?",
+      "answer": "Biber"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich schwimme geschickt in Flüssen, habe dichtes Fell und bin oft verspielt am Ufer. Was bin ich?",
+      "answer": "Otter"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Unter Wiesen grabe ich lange Gänge und hinterlasse kleine Hügel aus Erde. Was bin ich?",
+      "answer": "Maulwurf"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Mit buschigem Schwanz springe ich von Ast zu Ast und verstecke Nüsse für später. Was bin ich?",
+      "answer": "Eichhörnchen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Zuerst krieche ich als Raupe, später fliege ich mit zwei Paar oft bunt gemusterten Flügeln. Was bin ich?",
+      "answer": "Schmetterling"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Manche Insekten umgeben ihre Puppe mit mir, einer selbst gesponnenen Hülle aus feinen Fäden. Was bin ich?",
+      "answer": "Kokon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich bestehe aus feinen klebrigen Fäden und glitzere morgens zwischen Zweigen. Was bin ich?",
+      "answer": "Spinnennetz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich habe zwei harte Schalen, die durch ein Gelenk verbunden sind, und lebe im Wasser. Was bin ich?",
+      "answer": "Muschel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Auf dem Meeresgrund bewege ich mich mit vielen winzigen Füßchen und habe meistens fünf Arme. Was bin ich?",
+      "answer": "Seestern"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Mein gallertiger, oft durchsichtiger Körper treibt im Wasser; lange Tentakel hängen daran. Was bin ich?",
+      "answer": "Qualle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Viele winzige Meerestiere bilden gemeinsam mein hartes Kalkgerüst, aus dem große Riffe entstehen. Was bin ich?",
+      "answer": "Koralle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich lebe auf dem Meeresboden, bin rund und trage zahlreiche bewegliche Stacheln. Was bin ich?",
+      "answer": "Seeigel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich laufe häufig seitwärts, trage mehrere Beinpaare und vorn zwei kräftige Scheren. Was bin ich?",
+      "answer": "Krabbe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich schwimme aufrecht, habe eine pferdeähnliche Schnauze und bei mir trägt das Männchen die Jungen. Was bin ich?",
+      "answer": "Seepferdchen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "In meinem Gehäuse ist eine Lichtquelle geschützt; oft trage ich einen Henkel. Was bin ich?",
+      "answer": "Laterne"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ein Docht ragt aus meinem Wachs, und während ich Licht spende, werde ich kleiner. Was bin ich?",
+      "answer": "Kerze"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich behalte kein Bild, doch zeige ich dir sofort dein eigenes Gesicht. Was bin ich?",
+      "answer": "Spiegel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Bei hellem Sonnenschein folge ich dir, und am Abend werde ich besonders lang. Was bin ich?",
+      "answer": "Schatten"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Rufst du in eine Schlucht, gebe ich dir deine eigenen Worte etwas später zurück. Was bin ich?",
+      "answer": "Echo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich passe in ein bestimmtes Schloss und bewege darin einen Mechanismus. Was bin ich?",
+      "answer": "Schlüssel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Zwei Zahnreihen greifen ineinander, wenn ein kleiner Schieber darübergleitet. Was bin ich?",
+      "answer": "Reißverschluss"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich halte zwei Stoffteile zusammen, indem ich durch eine passende Öffnung geschoben werde. Was bin ich?",
+      "answer": "Knopf"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Beim Nähen schütze ich eine Fingerspitze, wenn eine Nadel durch festen Stoff gedrückt wird. Was bin ich?",
+      "answer": "Fingerhut"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Viele spitze Nähwerkzeuge stecken ordentlich in meinem weichen Polster. Was bin ich?",
+      "answer": "Nadelkissen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich bin biegsam, mit Strichen und Zahlen versehen und passe auch rund um eine Taille. Was bin ich?",
+      "answer": "Maßband"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Größere Stücke bleiben bei mir zurück, während Flüssigkeit oder feines Pulver durch viele Löcher gelangt. Was bin ich?",
+      "answer": "Sieb"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Oben bin ich weit, unten schmal; durch mich gelangt Flüssigkeit sauber in eine Flasche. Was bin ich?",
+      "answer": "Trichter"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Viele dünne Drahtschlaufen an einem Griff schlagen Luft in Sahne und andere schaumige Massen. Was bin ich?",
+      "answer": "Schneebesen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Über meine rauen kleinen Öffnungen geführt, wird ein Stück Hartkäse zu feinen Flocken. Was bin ich?",
+      "answer": "Reibe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Als glatter Zylinder rolle ich über eine weiche Masse und mache sie flach. Was bin ich?",
+      "answer": "Nudelholz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich gebe einer weichen Masse im Ofen eine feste Gestalt, rund oder eckig. Was bin ich?",
+      "answer": "Backform"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Auf meiner ebenen Fläche werden Obst und Gemüse mit einem Küchenmesser zerkleinert. Was bin ich?",
+      "answer": "Schneidebrett"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich halte feuchte Stoffstücke an einer Leine fest, bis sie trocken sind. Was bin ich?",
+      "answer": "Wäscheklammer"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Aus meiner langen Tülle fließt Wasser ins Beet; manchmal hat mein Ausguss viele kleine Löcher. Was bin ich?",
+      "answer": "Gießkanne"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Mit meiner breiten Fläche kann man Erde oder Sand anheben und forttragen. Was bin ich?",
+      "answer": "Schaufel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Viele Borsten an einem langen Stiel sammeln Staub und Krümel vom Boden. Was bin ich?",
+      "answer": "Besen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ein Motor zieht Luft samt Staub durch einen Schlauch in meinen Behälter. Was bin ich?",
+      "answer": "Staubsauger"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Meine Zähne stehen in einer Reihe, doch ich esse nicht; ich ordne Haare. Was bin ich?",
+      "answer": "Kamm"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich habe viele Borsten, aber kein Fell; ich entwirre Haare oder reinige Oberflächen. Was bin ich?",
+      "answer": "Bürste"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Über meinem Griff spannt sich ein faltbares Dach, das dich bei Schauern trocken hält. Was bin ich?",
+      "answer": "Regenschirm"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich reise mit zwei Trägern über deinen Schultern und bewahre Proviant oder Bücher auf. Was bin ich?",
+      "answer": "Rucksack"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Zwei Räder, Pedale und eine Kette bringen mich ohne Motor vorwärts. Was bin ich?",
+      "answer": "Fahrrad"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich rolle auf Schienen mitten durch die Stadt und bekomme meinen Strom häufig von oben. Was bin ich?",
+      "answer": "Straßenbahn"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich bringe Menschen in einem Schacht senkrecht von Stockwerk zu Stockwerk. Was bin ich?",
+      "answer": "Aufzug"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Meine Stufen bewegen sich selbst und tragen Menschen zwischen Etagen. Was bin ich?",
+      "answer": "Rolltreppe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Von einer hohen Anlage an der Küste sende ich nachts weithin sichtbare Signale an Schiffe. Was bin ich?",
+      "answer": "Leuchtturm"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich verbinde zwei Ufer, damit man trockenen Fußes über einen Fluss gelangt. Was bin ich?",
+      "answer": "Brücke"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich führe einen Weg durch einen Berg, ohne über seinen Gipfel zu steigen. Was bin ich?",
+      "answer": "Tunnel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich liege quer über die Fahrbahn, bin hell-dunkel markiert und kennzeichne einen Übergang für Fußgänger. Was bin ich?",
+      "answer": "Zebrastreifen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Meine drei farbigen Lichter regeln, wann Fahrzeuge halten oder weiterfahren dürfen. Was bin ich?",
+      "answer": "Ampel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich stehe oft am Straßenrand und nehme frankierte Umschläge entgegen. Was bin ich?",
+      "answer": "Briefkasten"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich trage Grüße und eine Adresse offen auf meinen beiden Seiten; ein Umschlag ist nicht nötig. Was bin ich?",
+      "answer": "Postkarte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich ordne Tage in Wochen und Monate und zeige dir, wann ein Termin ist. Was bin ich?",
+      "answer": "Kalender"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Meine leeren Seiten sammeln Gedanken, Skizzen und kleine Erinnerungen. Was bin ich?",
+      "answer": "Notizbuch"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich lasse Bleistiftstriche verschwinden, ohne das Papier zu zerreißen. Was bin ich?",
+      "answer": "Radiergummi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich habe eine gerade Kante und eine Skala; mit mir ziehst du saubere Linien. Was bin ich?",
+      "answer": "Lineal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ein Bein steht fest, das andere zieht mit einer Mine einen perfekten Kreis. Was bin ich?",
+      "answer": "Zirkel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich bin meist halbkreisförmig und mit Gradstrichen versehen; mit mir misst du die Öffnung zwischen zwei Linien. Was bin ich?",
+      "answer": "Winkelmesser"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ohne Klebstoff ziehe ich bestimmte Metalle an und besitze einen Nord- und einen Südpol. Was bin ich?",
+      "answer": "Magnet"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "In mir steckt chemisch gespeicherte Energie, die eine Taschenlampe mit Strom versorgen kann. Was bin ich?",
+      "answer": "Batterie"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Licht fällt auf meine Fläche und wird unmittelbar zu elektrischem Strom. Was bin ich?",
+      "answer": "Solarzelle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Mit einem Klick öffne oder schließe ich einen elektrischen Stromkreis. Was bin ich?",
+      "answer": "Schalter"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Wenn zu viel Strom fließt, unterbreche ich den Kreis und schütze so die Leitungen. Was bin ich?",
+      "answer": "Sicherung"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich verwandle elektrische Signale in hörbare Schwingungen der Luft. Was bin ich?",
+      "answer": "Lautsprecher"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich verwandle deine Stimme in elektrische Signale, die man speichern oder übertragen kann. Was bin ich?",
+      "answer": "Mikrofon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Durch mein Objektiv fällt Licht auf einen Sensor, und ein Bild bleibt erhalten. Was bin ich?",
+      "answer": "Kamera"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Auf drei Beinen stehe ich ruhig und halte ein Aufnahmegerät verwacklungsfrei. Was bin ich?",
+      "answer": "Stativ"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Mit meinen Linsen oder Spiegeln betrachtet man sehr weit entfernte Himmelskörper. Was bin ich?",
+      "answer": "Teleskop"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich zeige, welche Lichtpunkte und Muster zu einer bestimmten Jahreszeit über dir am Nachthimmel stehen. Was bin ich?",
+      "answer": "Sternkarte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich bin eine drehbare Kugel, auf der Länder, Meere und Kontinente im Kleinformat liegen. Was bin ich?",
+      "answer": "Globus"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Auf Papier oder Bildschirm zeige ich Wege, Orte und Entfernungen aus der Vogelperspektive. Was bin ich?",
+      "answer": "Landkarte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "An einer Kreuzung trage ich Ortsnamen und zeige mit Pfeilen die Richtung. Was bin ich?",
+      "answer": "Wegweiser"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich passe in die Tasche, nenne Strecke und Gültigkeit und berechtige dich zur Nutzung von Bus oder Zug. Was bin ich?",
+      "answer": "Fahrkarte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "In meiner Tabelle stehen Linien, Haltestellen und Uhrzeiten für Bus und Zug. Was bin ich?",
+      "answer": "Fahrplan"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Mein doppelwandiger Behälter hält Getränke über viele Stunden warm oder kalt. Was bin ich?",
+      "answer": "Thermoskanne"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Hinter meiner Tür bleiben Lebensmittel bei wenigen Grad länger frisch. Was bin ich?",
+      "answer": "Kühlschrank"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "In mir bleiben Lebensmittel bei Temperaturen weit unter null fest und lange haltbar. Was bin ich?",
+      "answer": "Gefrierfach"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich bringe Flüssigkeit in einem elektrischen Gefäß rasch zum Sieden. Was bin ich?",
+      "answer": "Wasserkocher"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Zwei Scheiben Brot verschwinden in mir und springen warm und gebräunt wieder heraus. Was bin ich?",
+      "answer": "Toaster"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich zerkleinere geröstete Bohnen zu feinem Pulver für ein heißes Getränk. Was bin ich?",
+      "answer": "Kaffeemühle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Mit einem Stößel zerdrücke ich Kräuter und Gewürze in einer schweren Schale. Was bin ich?",
+      "answer": "Mörser"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich bin süß und golden, entstehe durch emsige Blütenbesuche und lagere in sechseckigen Waben. Was bin ich?",
+      "answer": "Honig"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich bin ein winziger Pilz, der Brotteig durch entstehende Gasblasen locker macht. Was bin ich?",
+      "answer": "Hefe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "In mir arbeiten wilde Hefen und Milchsäurebakterien zusammen und lockern Brot. Was bin ich?",
+      "answer": "Sauerteig"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Milchsäurebakterien verwandeln Milch in mich: cremig, leicht säuerlich und oft zum Frühstück gegessen. Was bin ich?",
+      "answer": "Joghurt"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich bin ein frisches, dickes Milchprodukt, das durch Säuerung und Abtropfen entsteht. Was bin ich?",
+      "answer": "Quark"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Aus Rahm geschlagen werde ich streichfähig und schmelze auf warmem Brot. Was bin ich?",
+      "answer": "Butter"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Milch wird dickgelegt, die Molke getrennt, und nach der Reifung bin ich fest oder weich. Was bin ich?",
+      "answer": "Käse"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Früchte und Zucker werden eingekocht; morgens lande ich süß auf Brot. Was bin ich?",
+      "answer": "Marmelade"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Aus Teig geformt komme ich trocken oder frisch in kochendes Wasser und auf den Teller. Was bin ich?",
+      "answer": "Nudeln"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Als runde Beilage aus Kartoffeln oder Brot werde ich meist in heißem Wasser gegart. Was bin ich?",
+      "answer": "Knödel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Meine geschlungene Form hat drei Öffnungen; außen bin ich braun und oft mit grobem Salz bestreut. Was bin ich?",
+      "answer": "Brezel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich bin eine süddeutsche Teigbeilage, werde ins heiße Wasser geschabt oder gepresst und oft mit Käse serviert. Was bin ich?",
+      "answer": "Spätzle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Fein geschnittener Kohl wird durch Milchsäuregärung zu mir und schmeckt angenehm säuerlich. Was bin ich?",
+      "answer": "Sauerkraut"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Als violettes Gemüse werde ich in Deutschland oft mit Apfel und Gewürzen geschmort. Was bin ich?",
+      "answer": "Rotkohl"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ein dünner Teig wird in wenig Fett beidseitig goldbraun; oft rolle ich mich um süße Füllungen. Was bin ich?",
+      "answer": "Pfannkuchen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "einfach",
+      "question": "Ich bekomme mein regelmäßiges Gittermuster zwischen zwei heißen Platten. Was bin ich?",
+      "answer": "Waffel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Ich bin ein würziges Gebäck, das besonders in der kalten Jahreszeit auf Märkten duftet. Was bin ich?",
+      "answer": "Lebkuchen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Deutsch",
+      "locale": "de-DE",
+      "difficulty": "mittel",
+      "question": "Hauchdünner Teig umhüllt kleingeschnittene Früchte mit Kerngehäuse, Rosinen und Zimt; ich werde aufgerollt gebacken. Was bin ich?",
+      "answer": "Apfelstrudel"
+    }
+  ],
   "kelime_oyunu": [
     {
       "game_type": "kelime_oyunu",
