@@ -3,7 +3,968 @@
   "locale": "pt-BR",
   "games": {
     "taboo": [],
-    "charades": [],
+    "charades": [
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Tarefas do dia a dia",
+        "target_text": "Acordar com o despertador e procurar o celular"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Tarefas do dia a dia",
+        "target_text": "Puxar o cobertor para arrumar a cama"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Tarefas do dia a dia",
+        "target_text": "Varrer a poeira debaixo do sofá"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Tarefas do dia a dia",
+        "target_text": "Estender uma toalha no varal"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Tarefas do dia a dia",
+        "target_text": "Dobrar um lençol de elástico"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Tarefas do dia a dia",
+        "target_text": "Trocar a fronha do travesseiro"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Tarefas do dia a dia",
+        "target_text": "Regar as plantas da varanda"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Tarefas do dia a dia",
+        "target_text": "Tirar o pó da estante com um pano"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Tarefas do dia a dia",
+        "target_text": "Separar as roupas antes da lavagem"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Tarefas do dia a dia",
+        "target_text": "Tentar abrir uma janela emperrada"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha brasileira",
+        "sub_category": "Preparos caseiros",
+        "target_text": "Lavar o arroz numa peneira"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha brasileira",
+        "sub_category": "Preparos caseiros",
+        "target_text": "Amassar o feijão com uma concha"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha brasileira",
+        "sub_category": "Preparos caseiros",
+        "target_text": "Virar uma tapioca na frigideira"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha brasileira",
+        "sub_category": "Preparos caseiros",
+        "target_text": "Modelar bolinhas de pão de queijo"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha brasileira",
+        "sub_category": "Preparos caseiros",
+        "target_text": "Ralar um pedaço de coco"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha brasileira",
+        "sub_category": "Preparos caseiros",
+        "target_text": "Mexer brigadeiro até desgrudar da panela"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha brasileira",
+        "sub_category": "Preparos caseiros",
+        "target_text": "Espremer limões numa jarra"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha brasileira",
+        "sub_category": "Preparos caseiros",
+        "target_text": "Coar café num filtro de pano"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha brasileira",
+        "sub_category": "Preparos caseiros",
+        "target_text": "Debulhar o milho de uma espiga"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha brasileira",
+        "sub_category": "Preparos caseiros",
+        "target_text": "Untar uma forma antes de assar bolo"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira livre",
+        "sub_category": "Compras e bancas",
+        "target_text": "Escolher uma manga pelo toque"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira livre",
+        "sub_category": "Compras e bancas",
+        "target_text": "Pesar tomates na balança da feira"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira livre",
+        "sub_category": "Compras e bancas",
+        "target_text": "Carregar sacolas pesadas sem derrubar nada"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira livre",
+        "sub_category": "Compras e bancas",
+        "target_text": "Abrir um guarda-chuva sobre a banca"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira livre",
+        "sub_category": "Compras e bancas",
+        "target_text": "Contar moedas para dar o troco"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira livre",
+        "sub_category": "Compras e bancas",
+        "target_text": "Encher uma sacola com laranjas"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira livre",
+        "sub_category": "Compras e bancas",
+        "target_text": "Cheirar um melão para conferir se está maduro"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira livre",
+        "sub_category": "Compras e bancas",
+        "target_text": "Pedir desconto ao feirante com gestos"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira livre",
+        "sub_category": "Compras e bancas",
+        "target_text": "Colocar etiquetas de preço nas frutas"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira livre",
+        "sub_category": "Compras e bancas",
+        "target_text": "Empilhar caixas vazias atrás da barraca"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Praia e parque",
+        "sub_category": "Passeios ao ar livre",
+        "target_text": "Fincar um guarda-sol na areia"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Praia e parque",
+        "sub_category": "Passeios ao ar livre",
+        "target_text": "Passar protetor solar nos braços"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Praia e parque",
+        "sub_category": "Passeios ao ar livre",
+        "target_text": "Sacudir a areia de uma toalha"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Praia e parque",
+        "sub_category": "Passeios ao ar livre",
+        "target_text": "Encher uma boia soprando"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Praia e parque",
+        "sub_category": "Passeios ao ar livre",
+        "target_text": "Procurar um chinelo perdido na areia"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Praia e parque",
+        "sub_category": "Passeios ao ar livre",
+        "target_text": "Andar depressa sobre a areia quente"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Praia e parque",
+        "sub_category": "Passeios ao ar livre",
+        "target_text": "Lançar um disco de brincar para um amigo"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Praia e parque",
+        "sub_category": "Passeios ao ar livre",
+        "target_text": "Recolher conchinhas na beira da praia"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Praia e parque",
+        "sub_category": "Passeios ao ar livre",
+        "target_text": "Estender uma canga sobre a areia"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Praia e parque",
+        "sub_category": "Passeios ao ar livre",
+        "target_text": "Abrir uma cadeira de praia dobrável"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festa junina",
+        "sub_category": "Tradições e brincadeiras",
+        "target_text": "Pendurar bandeirinhas de papel colorido"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festa junina",
+        "sub_category": "Tradições e brincadeiras",
+        "target_text": "Girar com um par numa quadrilha junina"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festa junina",
+        "sub_category": "Tradições e brincadeiras",
+        "target_text": "Bater palmas acompanhando a dança da quadrilha"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festa junina",
+        "sub_category": "Tradições e brincadeiras",
+        "target_text": "Lançar argolas num jogo de barraca"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festa junina",
+        "sub_category": "Tradições e brincadeiras",
+        "target_text": "Participar de uma pescaria de peixinhos de papel"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festa junina",
+        "sub_category": "Tradições e brincadeiras",
+        "target_text": "Equilibrar uma bandeja cheia de pamonhas"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festa junina",
+        "sub_category": "Tradições e brincadeiras",
+        "target_text": "Ajustar um chapéu de palha na cabeça"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festa junina",
+        "sub_category": "Tradições e brincadeiras",
+        "target_text": "Amarrar fitas coloridas numa decoração"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festa junina",
+        "sub_category": "Tradições e brincadeiras",
+        "target_text": "Cobrir uma mesa com tecido de chita"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festa junina",
+        "sub_category": "Tradições e brincadeiras",
+        "target_text": "Entregar um bilhete de correio elegante"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes de bairro",
+        "sub_category": "Movimentos esportivos",
+        "target_text": "Chutar uma bola em direção ao gol"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes de bairro",
+        "sub_category": "Movimentos esportivos",
+        "target_text": "Defender um chute como goleiro"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes de bairro",
+        "sub_category": "Movimentos esportivos",
+        "target_text": "Quicar uma bola de basquete entre as pernas"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes de bairro",
+        "sub_category": "Movimentos esportivos",
+        "target_text": "Sacar uma bola de vôlei por cima da rede"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes de bairro",
+        "sub_category": "Movimentos esportivos",
+        "target_text": "Girar um bambolê na cintura"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes de bairro",
+        "sub_category": "Movimentos esportivos",
+        "target_text": "Pular corda alternando os pés"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes de bairro",
+        "sub_category": "Movimentos esportivos",
+        "target_text": "Rebater uma peteca com a palma da mão"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes de bairro",
+        "sub_category": "Movimentos esportivos",
+        "target_text": "Arremessar uma bola numa cesta alta"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes de bairro",
+        "sub_category": "Movimentos esportivos",
+        "target_text": "Fazer embaixadinhas sem deixar a bola cair"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes de bairro",
+        "sub_category": "Movimentos esportivos",
+        "target_text": "Esticar uma rede de vôlei na quadra"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Transporte urbano",
+        "sub_category": "Deslocamentos cotidianos",
+        "target_text": "Fazer sinal para o ônibus parar"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Transporte urbano",
+        "sub_category": "Deslocamentos cotidianos",
+        "target_text": "Passar o cartão na catraca do ônibus"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Transporte urbano",
+        "sub_category": "Deslocamentos cotidianos",
+        "target_text": "Segurar a barra do ônibus durante uma curva"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Transporte urbano",
+        "sub_category": "Deslocamentos cotidianos",
+        "target_text": "Apertar o botão para chamar o elevador"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Transporte urbano",
+        "sub_category": "Deslocamentos cotidianos",
+        "target_text": "Descer uma escada rolante com cuidado"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Transporte urbano",
+        "sub_category": "Deslocamentos cotidianos",
+        "target_text": "Colocar o capacete antes de pedalar"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Transporte urbano",
+        "sub_category": "Deslocamentos cotidianos",
+        "target_text": "Encher o pneu da bicicleta com uma bomba"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Transporte urbano",
+        "sub_category": "Deslocamentos cotidianos",
+        "target_text": "Prender a bicicleta num bicicletário"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Transporte urbano",
+        "sub_category": "Deslocamentos cotidianos",
+        "target_text": "Conferir o caminho no mapa do celular"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Transporte urbano",
+        "sub_category": "Deslocamentos cotidianos",
+        "target_text": "Fechar delicadamente a porta de um carro"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Quintal e natureza",
+        "sub_category": "Cuidados com plantas",
+        "target_text": "Plantar uma muda num vaso"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Quintal e natureza",
+        "sub_category": "Cuidados com plantas",
+        "target_text": "Juntar folhas secas com um rastelo"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Quintal e natureza",
+        "sub_category": "Cuidados com plantas",
+        "target_text": "Colher jabuticabas diretamente do tronco"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Quintal e natureza",
+        "sub_category": "Cuidados com plantas",
+        "target_text": "Pendurar um comedouro para passarinhos"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Quintal e natureza",
+        "sub_category": "Cuidados com plantas",
+        "target_text": "Observar uma formiga com lupa"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Quintal e natureza",
+        "sub_category": "Cuidados com plantas",
+        "target_text": "Transferir uma suculenta para outro vaso"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Quintal e natureza",
+        "sub_category": "Cuidados com plantas",
+        "target_text": "Espalhar sementes numa pequena horta"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Quintal e natureza",
+        "sub_category": "Cuidados com plantas",
+        "target_text": "Arrancar ervas daninhas pela raiz"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Quintal e natureza",
+        "sub_category": "Cuidados com plantas",
+        "target_text": "Encher um regador na torneira"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Quintal e natureza",
+        "sub_category": "Cuidados com plantas",
+        "target_text": "Colher pitangas maduras de uma árvore"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e estudos",
+        "sub_category": "Materiais escolares",
+        "target_text": "Apontar um lápis até formar uma ponta"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e estudos",
+        "sub_category": "Materiais escolares",
+        "target_text": "Apagar a lousa com um apagador"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e estudos",
+        "sub_category": "Materiais escolares",
+        "target_text": "Virar a página de um livro enorme"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e estudos",
+        "sub_category": "Materiais escolares",
+        "target_text": "Colar um recorte colorido no caderno"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e estudos",
+        "sub_category": "Materiais escolares",
+        "target_text": "Medir uma linha usando régua"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e estudos",
+        "sub_category": "Materiais escolares",
+        "target_text": "Organizar os materiais dentro da mochila"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e estudos",
+        "sub_category": "Materiais escolares",
+        "target_text": "Procurar uma borracha embaixo da carteira"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e estudos",
+        "sub_category": "Materiais escolares",
+        "target_text": "Levantar a mão para fazer uma pergunta"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e estudos",
+        "sub_category": "Materiais escolares",
+        "target_text": "Tentar fechar um estojo muito cheio"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e estudos",
+        "sub_category": "Materiais escolares",
+        "target_text": "Dobrar um aviãozinho de papel"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios e manutenção",
+        "sub_category": "Ferramentas e serviços",
+        "target_text": "Pintar uma parede usando um rolo"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios e manutenção",
+        "sub_category": "Ferramentas e serviços",
+        "target_text": "Apertar um parafuso com chave de fenda"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios e manutenção",
+        "sub_category": "Ferramentas e serviços",
+        "target_text": "Medir uma janela com fita métrica"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios e manutenção",
+        "sub_category": "Ferramentas e serviços",
+        "target_text": "Lixar uma tábua de madeira"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios e manutenção",
+        "sub_category": "Ferramentas e serviços",
+        "target_text": "Assentar um azulejo numa parede"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios e manutenção",
+        "sub_category": "Ferramentas e serviços",
+        "target_text": "Limpar uma vitrine com rodo"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios e manutenção",
+        "sub_category": "Ferramentas e serviços",
+        "target_text": "Enrolar um cabo de extensão para guardar"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios e manutenção",
+        "sub_category": "Ferramentas e serviços",
+        "target_text": "Trocar uma lâmpada com a energia desligada"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios e manutenção",
+        "sub_category": "Ferramentas e serviços",
+        "target_text": "Fixar uma etiqueta numa caixa de ferramentas"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios e manutenção",
+        "sub_category": "Ferramentas e serviços",
+        "target_text": "Montar uma prateleira com suportes"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e costura",
+        "sub_category": "Trabalhos manuais",
+        "target_text": "Fazer pontos de crochê com agulha"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e costura",
+        "sub_category": "Trabalhos manuais",
+        "target_text": "Passar uma linha pelo buraco da agulha"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e costura",
+        "sub_category": "Trabalhos manuais",
+        "target_text": "Costurar um botão numa camisa"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e costura",
+        "sub_category": "Trabalhos manuais",
+        "target_text": "Bordar uma flor num pedaço de tecido"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e costura",
+        "sub_category": "Trabalhos manuais",
+        "target_text": "Enrolar um novelo de lã solto"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e costura",
+        "sub_category": "Trabalhos manuais",
+        "target_text": "Recortar uma estrela em papel colorido"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e costura",
+        "sub_category": "Trabalhos manuais",
+        "target_text": "Dobrar papel para fazer um sapinho"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e costura",
+        "sub_category": "Trabalhos manuais",
+        "target_text": "Enfiar miçangas numa pulseira"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e costura",
+        "sub_category": "Trabalhos manuais",
+        "target_text": "Amassar argila para moldar um vaso"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e costura",
+        "sub_category": "Trabalhos manuais",
+        "target_text": "Pintar um desenho com pincel fino"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Brincadeiras populares",
+        "sub_category": "Jogos em grupo",
+        "target_text": "Pular as casas desenhadas da amarelinha"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Brincadeiras populares",
+        "sub_category": "Jogos em grupo",
+        "target_text": "Ficar imóvel durante a brincadeira de estátua"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Brincadeiras populares",
+        "sub_category": "Jogos em grupo",
+        "target_text": "Esconder um anel entre as mãos"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Brincadeiras populares",
+        "sub_category": "Jogos em grupo",
+        "target_text": "Adivinhar pelo tato o objeto dentro de uma caixa"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Brincadeiras populares",
+        "sub_category": "Jogos em grupo",
+        "target_text": "Colocar uma peça de dominó na mesa"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Brincadeiras populares",
+        "sub_category": "Jogos em grupo",
+        "target_text": "Encaixar peças de um quebra-cabeça"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Brincadeiras populares",
+        "sub_category": "Jogos em grupo",
+        "target_text": "Empilhar blocos de madeira sem derrubá-los"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Brincadeiras populares",
+        "sub_category": "Jogos em grupo",
+        "target_text": "Sussurrar uma frase no telefone sem fio"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Brincadeiras populares",
+        "sub_category": "Jogos em grupo",
+        "target_text": "Derrubar pinos feitos de garrafas plásticas"
+      },
+      {
+        "game_type": "sessiz_sinema",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Brincadeiras populares",
+        "sub_category": "Jogos em grupo",
+        "target_text": "Fazer um pião girar no chão"
+      }
+    ],
     "riddle": [],
     "word_master": []
   }
