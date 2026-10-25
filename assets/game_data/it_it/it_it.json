@@ -1493,6 +1493,798 @@
       "difficulty": "facile",
       "question": "Sono una frase piena di suoni simili: ripetermi velocemente senza inciampare è una sfida.",
       "answer": "Scioglilingua"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Al piano terreno offro riparo dalla pioggia: il mio tetto si regge su una fila di colonne aperte verso la strada.",
+      "answer": "Portico"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono una galleria coperta ma aperta verso l'esterno, spesso affacciata da un piano rialzato di un palazzo.",
+      "answer": "Loggia"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Mi alzo sopra i tetti del paese e da me si diffondono rintocchi che segnano le ore.",
+      "answer": "Campanile"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Nel cuore di un antico convento circondo un giardino quadrato con un camminamento coperto su quattro lati.",
+      "answer": "Chiostro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sporgo dalla falda inclinata di un tetto e porto aria e luce alla stanza ricavata nel sottotetto.",
+      "answer": "Abbaino"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono una superficie vetrata inserita nella copertura: guardando attraverso di me, dalla stanza si vede il cielo.",
+      "answer": "Lucernario"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Giaccio in orizzontale sopra un'apertura e trasferisco il peso della muratura ai sostegni laterali.",
+      "answer": "Architrave"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sto in cima a una colonna, proprio sotto ciò che essa sostiene; spesso mi ornano foglie scolpite.",
+      "answer": "Capitello"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sporgo lungo la parte alta di una facciata e allontano dalla parete parte dell'acqua piovana.",
+      "answer": "Cornicione"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono una fila di piccoli sostegni ravvicinati sotto un corrimano, lungo scale e terrazze.",
+      "answer": "Balaustra"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Nascondo il corpo di ceramica sotto una superficie bianca e lucida, pronta per decorazioni colorate.",
+      "answer": "Maiolica"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Da una massa modellabile divento dura e rossastra dopo un passaggio nel calore; spesso formo vasi e tegole.",
+      "answer": "Terracotta"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Quando sono umida mi lascio modellare; asciugata e cotta posso diventare una tazza o una tegola.",
+      "answer": "Argilla"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Nel mio ventre si raggiungono temperature elevate per trasformare impasti minerali in mattoni e ceramiche.",
+      "answer": "Fornace"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Con le mani e un disco che gira trasformo una massa morbida in ciotole e recipienti.",
+      "answer": "Vasaio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Nella decorazione delle pareti faccio emergere uno strato di colore incidendo quello steso sopra.",
+      "answer": "Graffito"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Unisco pezzi sagomati di legni diversi fino a comporre un disegno sulla superficie di un mobile.",
+      "answer": "Intarsio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Da lontano sembro un disegno continuo; da vicino sono fatto di moltissimi piccoli frammenti accostati.",
+      "answer": "Mosaico"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono uno dei minuscoli elementi di pietra o vetro che, accostati agli altri, formano un'immagine pavimentale.",
+      "answer": "Tessera musiva"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "I miei colori vengono stesi su intonaco ancora umido e restano legati alla parete quando asciuga.",
+      "answer": "Affresco"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Vivo all'ombra degli alberi più alti: qui crescono arbusti, funghi ed erbe tra foglie cadute.",
+      "answer": "Sottobosco"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Dall'alto di un albero mi allargo come un ombrello fatto di rami e foglie.",
+      "answer": "Chioma"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Scorro dentro i tessuti vegetali portando acqua, sali e sostanze nutritive da una parte all'altra.",
+      "answer": "Linfa"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono il pigmento verde che aiuta le piante a catturare l'energia della luce.",
+      "answer": "Clorofilla"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono un'apertura minuscola della superficie di una foglia: due cellule regolano il mio aprirmi e chiudermi.",
+      "answer": "Stoma"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Avvengo quando granuli prodotti dagli organi maschili di un fiore raggiungono la parte femminile adatta.",
+      "answer": "Impollinazione"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Cresco sotto terra in orizzontale, ma sono un fusto: da me possono nascere nuove radici e germogli.",
+      "answer": "Rizoma"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sotto terra conservo riserve in foglie carnose raccolte attorno a un fusto cortissimo; la cipolla ne è un esempio.",
+      "answer": "Bulbo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un organo vegetale ingrossato che accumula riserve; la patata è l'esempio più noto.",
+      "answer": "Tubero"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono una piccola unità riproduttiva di funghi e felci, capace di svilupparsi senza essere un seme.",
+      "answer": "Spora"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Un bruco può avvolgersi in un involucro di seta da lui prodotto prima della trasformazione.",
+      "answer": "Bozzolo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Nella vita di molte farfalle sono lo stadio immobile fra il bruco e l'insetto adulto.",
+      "answer": "Crisalide"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Negli insetti sporgo dal capo, spesso in coppia, e percepisco odori e contatti.",
+      "answer": "Antenna"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono il rivestimento dorsale rigido che protegge il corpo di una tartaruga.",
+      "answer": "Carapace"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "L'acqua mi attraversa e permette a molti animali acquatici di ricavarne ossigeno.",
+      "answer": "Branchia"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sporgo sul dorso di molti pesci e contribuisco a mantenerli stabili durante il nuoto.",
+      "answer": "Pinna dorsale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Negli uccelli sostituisco le labbra e i denti: posso essere sottile, ricurvo o robusto.",
+      "answer": "Becco"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Gli uccelli mi costruiscono con rametti, fili d'erba o fango per ospitare le uova.",
+      "answer": "Nido"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono una struttura di fili sottilissimi tesi da un aracnide per catturare piccoli insetti.",
+      "answer": "Ragnatela"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Ospito una colonia di api e file di cellette esagonali in cui vengono conservate le provviste.",
+      "answer": "Alveare"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono una curva ampia e sinuosa di un corso d'acqua che serpeggia in pianura.",
+      "answer": "Meandro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "È qui che un corso d'acqua termina il viaggio entrando nel mare o in un lago.",
+      "answer": "Foce"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Qui l'acqua sotterranea affiora spontaneamente e può dare origine a un ruscello.",
+      "answer": "Sorgente"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Quando il letto di un fiume compie un salto brusco, l'acqua precipita formando me.",
+      "answer": "Cascata"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un passaggio naturale stretto e profondo tra pareti rocciose, scavato spesso da un torrente.",
+      "answer": "Gola"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Mi distendo tra due catene di rilievi, spesso percorsa sul fondo da un corso d'acqua.",
+      "answer": "Vallata"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono un antico livello pianeggiante lasciato in alto quando un fiume incide più in basso il proprio letto.",
+      "answer": "Terrazzo fluviale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Alla fine di una valle stretta i sedimenti di un torrente si aprono a ventaglio e formano me.",
+      "answer": "Conoide alluvionale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono un accumulo di detriti rocciosi trasportati e depositati da una grande massa di ghiaccio in movimento.",
+      "answer": "Morena"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Mi muovo lentamente lungo le montagne pur sembrando immobile, fatto di neve compressa per molti anni.",
+      "answer": "Ghiacciaio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Due volte l'anno segno uno degli estremi della durata del giorno, nell'emisfero in cui ti trovi.",
+      "answer": "Solstizio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In due momenti dell'anno la durata del giorno e della notte è quasi uguale: sono uno di quei momenti.",
+      "answer": "Equinozio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Attorno al Sole seguo una lunga traiettoria; avvicinandomi al calore posso mostrare una chioma e una coda.",
+      "answer": "Cometa"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un piccolo corpo roccioso che gira attorno al Sole, spesso nella fascia fra Marte e Giove.",
+      "answer": "Asteroide"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un frammento proveniente dallo spazio che riesce a raggiungere il suolo terrestre.",
+      "answer": "Meteorite"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Unisco idealmente stelle lontanissime tra loro in una figura riconoscibile nel cielo.",
+      "answer": "Costellazione"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono il percorso seguito da un corpo celeste attorno a un altro per effetto della gravità.",
+      "answer": "Orbita"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Giro attorno al Sole e ho forma quasi sferica, ma non ho liberato la zona vicina alla mia traiettoria.",
+      "answer": "Pianeta nano"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Nelle notti molto buie appaio come una striscia lattiginosa: è la galassia a cui appartiene il Sole.",
+      "answer": "Via Lattea"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In questa fase il lato illuminato del nostro satellite è rivolto quasi tutto lontano da chi osserva dalla Terra.",
+      "answer": "Luna nuova"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In Toscana nasco da pane raffermo, cavolo nero e legumi; il mio nome ricorda che torno sul fuoco.",
+      "answer": "Ribollita"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In Liguria mi cuociono sottile in una grande teglia: bastano farina di ceci, acqua e olio.",
+      "answer": "Farinata"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "A Livorno sono una zuppa marinara dal sapore intenso, preparata con diverse varietà di pesce.",
+      "answer": "Cacciucco"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "In Piemonte arrivo calda in tavola: sono una salsa con aglio e acciughe in cui si intingono verdure.",
+      "answer": "Bagna càuda"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In Trentino-Alto Adige sono grandi gnocchi rotondi di pane, spesso serviti in brodo.",
+      "answer": "Canederli"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Nel Sud Italia sono un pane secco a forma di ciambella, da ammorbidire prima di condirlo.",
+      "answer": "Frisella"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In Sicilia sono un dolce ricco con ricotta, pan di Spagna e una copertura spesso decorata.",
+      "answer": "Cassata"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In Toscana sono un piatto estivo freddo con pane ammollato, pomodoro, cipolla e basilico.",
+      "answer": "Panzanella"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un dolce di pasta fritta o cotta al forno, spesso a ciambella e talvolta farcito di crema.",
+      "answer": "Zeppola"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Nell'Appennino modenese sono un piccolo disco di pane cotto e aperto per accogliere una farcitura.",
+      "answer": "Tigella"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono il punto fissato alla parete in cui si inserisce una spina per alimentare un apparecchio.",
+      "answer": "Presa elettrica"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Con un gesto apro o chiudo un circuito e faccio accendere o spegnere una luce.",
+      "answer": "Interruttore"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Se rilevo una dispersione di corrente pericolosa, interrompo rapidamente l'alimentazione dell'impianto.",
+      "answer": "Salvavita"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Porto più lontano un collegamento alla corrente grazie a un cavo con spina a un'estremità.",
+      "answer": "Prolunga"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Su un unico supporto offro diversi alloggiamenti per collegare più spine alla corrente.",
+      "answer": "Multipresa"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Un piccolo bulbo di vetro o plastica racchiude ciò che produce luce quando arriva energia.",
+      "answer": "Lampadina"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Tengo fermo e collego ai contatti elettrici il piccolo elemento che illumina un apparecchio.",
+      "answer": "Portalampada"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Vesto la parte luminosa di una lampada per schermare gli occhi e diffondere il chiarore.",
+      "answer": "Paralume"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Conservo energia chimica e, dopo essermi scaricata, posso riceverne di nuova da una fonte esterna.",
+      "answer": "Batteria ricaricabile"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Trasferisco energia dalla rete o da un'altra fonte a un accumulatore che potrà essere riutilizzato.",
+      "answer": "Caricabatterie"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Quando sono fitta, le strade e gli alberi vicini scompaiono dietro minuscole gocce sospese nell'aria.",
+      "answer": "Nebbia"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Cado dalle nubi temporalesche in chicchi duri di ghiaccio, talvolta rimbalzando sui davanzali.",
+      "answer": "Grandine"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono una precipitazione di piccoli fiocchi mescolati talvolta a gocce, più rada e minuta di una nevicata.",
+      "answer": "Nevischio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Velo il paesaggio e attenuo i contorni lontani, ma lascio vedere più in là di una coltre molto fitta.",
+      "answer": "Foschia"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono un vento leggero che sulle coste cambia spesso direzione tra il giorno e la notte.",
+      "answer": "Brezza"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Arrivo da sud-est e posso portare verso l'Italia aria calda e polvere del Sahara.",
+      "answer": "Scirocco"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Soffio da nord-ovest e in Sardegna posso rendere il mare molto mosso.",
+      "answer": "Maestrale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Arrivo da sud-ovest e spesso porto umidità e mare agitato sulle coste tirreniche.",
+      "answer": "Libeccio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Scendo da nord e sono noto per portare aria fredda e secca su molte regioni italiane.",
+      "answer": "Tramontana"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sull'alto Adriatico arrivo da nord-est in raffiche fredde e fortissime, soprattutto verso Trieste.",
+      "answer": "Bora"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In italiano il mio segno scende verso destra, come sulla vocale finale di «caffè».",
+      "answer": "Accento grave"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In italiano il mio segno sale verso destra, come sulla vocale finale di «perché».",
+      "answer": "Accento acuto"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Siamo due piccoli segni sovrapposti e annunciamo spesso una spiegazione o un elenco.",
+      "answer": "Due punti"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Mi mettono alla fine di una domanda diretta, con una curva e un piccolo segno sotto.",
+      "answer": "Punto interrogativo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Mi usano dopo un'esclamazione: sono un tratto verticale con un piccolo segno alla base.",
+      "answer": "Punto esclamativo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un segno breve e orizzontale che può unire due parole o separare le parti di un composto.",
+      "answer": "Trattino"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Siamo tre segni consecutivi alla fine di un pensiero lasciato in sospeso.",
+      "answer": "Puntini di sospensione"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono una parola che ha significato uguale o molto vicino a quello di un'altra.",
+      "answer": "Sinonimo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono una parola che esprime il significato opposto rispetto a un'altra.",
+      "answer": "Antonimo"
     }
   ],
   "kelime_ustasi": [
