@@ -10643,7 +10643,7 @@
       "language": "Italiano",
       "locale": "it-IT",
       "difficulty": "medio",
-      "question": "Incido profondamente il fondale della piattaforma continentale come una valle, ma resto sotto il livello del mare.",
+      "question": "Sono una profonda valle incisa nella scarpata continentale, nascosta dalle acque e spesso collegata al trasporto di sedimenti.",
       "answer": "Canyon sottomarino"
     },
     {
@@ -10771,7 +10771,7 @@
       "language": "Italiano",
       "locale": "it-IT",
       "difficulty": "medio",
-      "question": "Una curva può avvicinarsi sempre più a me senza raggiungermi, mentre si allontana verso l'infinito.",
+      "question": "Sono una retta alla quale un grafico si avvicina sempre più, quando la variabile tende a un valore o all'infinito.",
       "answer": "Asintoto"
     },
     {
@@ -11051,7 +11051,7 @@
       "language": "Italiano",
       "locale": "it-IT",
       "difficulty": "medio",
-      "question": "Compongo un disegno con pezzi di vetro colorato tenuti insieme da sottili profili metallici.",
+      "question": "In molte chiese filtro la luce attraverso un mosaico di tessere traslucide colorate, unite da sottili profili metallici.",
       "answer": "Vetrata piombata"
     },
     {
@@ -11139,7 +11139,7 @@
       "language": "Italiano",
       "locale": "it-IT",
       "difficulty": "facile",
-      "question": "Mostro più di metà del disco illuminato, ma non sono ancora completamente piena.",
+      "question": "Tra il quarto e la fase completamente illuminata, mostro un disco visibile per più della metà ma non ancora intero.",
       "answer": "Luna gibbosa"
     },
     {
@@ -11219,8 +11219,376 @@
       "language": "Italiano",
       "locale": "it-IT",
       "difficulty": "difficile",
-      "question": "Nel suolo trasformo, grazie ai microrganismi, l'ammonio prima in nitriti e poi in nitrati.",
+      "question": "Nel terreno sono il processo in due tappe con cui alcuni batteri ossidano composti ridotti dell'azoto, rendendoli più disponibili alle piante.",
       "answer": "Nitrificazione"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Nella tradizione reggiana racchiudo bietole e formaggio tra due strati sottili di pasta salata.",
+      "answer": "Erbazzone"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In Puglia, durante le feste, sono nastri di pasta arrotolati a rosa, fritti e ricoperti di miele o mosto cotto.",
+      "answer": "Cartellate"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono un disco sottilissimo e croccante della tradizione pastorale sarda, cotto due volte.",
+      "answer": "Pane carasau"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In Sicilia sono una preparazione da forno di pasta ripiegata, con ripieni salati variabili.",
+      "answer": "Scacciata"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono una cavità tondeggiante scavata nella roccia del letto di un fiume da vortici carichi di ciottoli.",
+      "answer": "Marmitta fluviale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Dopo aver attraversato cavità sotterranee in rocce solubili, l'acqua riappare in superficie attraverso di me.",
+      "answer": "Sorgente carsica"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono una roccia compatta formata dalla trasformazione di sedimenti finissimi ricchi di minerali lamellari.",
+      "answer": "Argillite"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Mi deposito lentamente in acque tranquille; i miei granuli sono più fini della sabbia ma più grossi dell'argilla.",
+      "answer": "Limo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un accumulo scuro di resti vegetali parzialmente decomposti in ambienti molto umidi.",
+      "answer": "Torba"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono una grande foglia modificata che avvolge o accompagna una particolare infiorescenza, come nelle calle.",
+      "answer": "Spata"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Mi nutro di frammenti di materia organica già caduti al suolo o sul fondale, contribuendo al riciclo dei nutrienti.",
+      "answer": "Detritivoro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "La mia presenza o assenza permette di valutare lo stato di salute di un ambiente.",
+      "answer": "Bioindicatore"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono l'insieme delle popolazioni di organismi che convivono in uno stesso luogo.",
+      "answer": "Biocenosi"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono il cambiamento graduale delle comunità viventi in un luogo, dalle prime colonizzatrici a quelle più stabili.",
+      "answer": "Successione ecologica"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Arrivo tra i primi organismi in un terreno appena esposto e preparo condizioni adatte ad altri.",
+      "answer": "Specie pioniera"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Al di sopra del limite degli alberi, sono una distesa erbosa montana che fiorisce nella breve stagione mite.",
+      "answer": "Prateria alpina"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono uno spazio verticale interno a un edificio, spesso usato per far passare aria, luce o impianti.",
+      "answer": "Cavedio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Corro all'esterno o all'interno lungo più porte e permetto di raggiungere diversi appartamenti.",
+      "answer": "Ballatoio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono una serie di ambienti aperti su un lato, spesso ritmati da colonne o archi.",
+      "answer": "Loggiato"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In fotografia esprimo, con un numero preceduto da f, quanto è largo il passaggio della luce nell'obiettivo.",
+      "answer": "Apertura focale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Regolo la proporzione tra acqua calda e fredda per ottenere una temperatura d'uscita desiderata.",
+      "answer": "Valvola miscelatrice"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Tolgo corrente quando rilevo uno squilibrio tra quella che entra e quella che ritorna nel circuito.",
+      "answer": "Interruttore differenziale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono l'insieme di soluzioni che limitano il passaggio dei rumori da una stanza all'altra.",
+      "answer": "Isolamento acustico"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Impedisco a due superfici a contatto di iniziare a scivolare l'una sull'altra, fino a una certa soglia.",
+      "answer": "Attrito statico"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono una particella priva di accento proprio che si appoggia nella pronuncia a una parola vicina.",
+      "answer": "Clitico"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Porto un filo avvolto e posso essere inserita in una navetta per tessere.",
+      "answer": "Spoletta"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono un antico impianto mosso spesso dall'acqua, usato per battere e infeltrire i panni di lana.",
+      "answer": "Gualchiera"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Imprimo un segno su metallo o cuoio quando vengo colpito con precisione.",
+      "answer": "Punzone"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Decoro una lamina lavorandola dal retro, così che il disegno emerga in rilievo sul davanti.",
+      "answer": "Sbalzo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Sono una miscela scura inserita nelle incisioni di un oggetto metallico per far risaltare i motivi.",
+      "answer": "Niello"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Dopo aver ricevuto il materiale fuso, devo essere rotto per estrarre l'oggetto ottenuto.",
+      "answer": "Stampo a perdere"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sulle carte nautiche unisco punti che hanno la stessa profondità sotto la superficie dell'acqua.",
+      "answer": "Isobata"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In mare sono uno strato nel quale la temperatura dell'acqua cambia rapidamente con la profondità.",
+      "answer": "Termoclino"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sono un'onda che si rovescia su se stessa quando arriva in acque poco profonde.",
+      "answer": "Frangente"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un piccolo galleggiante ancorato che segnala un punto in acqua o offre un appiglio per l'ormeggio.",
+      "answer": "Gavitello"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Dalle nubi scendono scie di precipitazione che si dissolvono prima di raggiungere il suolo: sono io.",
+      "answer": "Virga"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un cerchio luminoso visibile attorno al Sole quando i cristalli di ghiaccio sospesi deviano la luce.",
+      "answer": "Alone solare"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "difficile",
+      "question": "Trasformo una figura ingrandendola o riducendola rispetto a un centro, mantenendo gli angoli.",
+      "answer": "Omotetia"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Rifletto ogni punto di una figura dall'altra parte di una retta, alla stessa distanza.",
+      "answer": "Simmetria assiale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "facile",
+      "question": "Sposto tutti i punti di una figura della stessa distanza e nella stessa direzione, senza ruotarla.",
+      "answer": "Traslazione"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Due figure che si possono sovrapporre perfettamente, senza deformarle, hanno questa relazione.",
+      "answer": "Congruenza"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Sono un valore medio nel quale alcuni dati contano più di altri grazie a pesi assegnati.",
+      "answer": "Media ponderata"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Contengo tutti i numeri tra due estremi, ma escludo proprio gli estremi.",
+      "answer": "Intervallo aperto"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Aumentando l'argomento, i miei valori non diminuiscono nell'intervallo considerato.",
+      "answer": "Funzione crescente"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "In una curva sono il luogo in cui cambia la concavità.",
+      "answer": "Punto di flesso"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Italiano",
+      "locale": "it-IT",
+      "difficulty": "medio",
+      "question": "Riscrivo un'espressione come prodotto di termini più semplici.",
+      "answer": "Scomposizione in fattori"
     }
   ],
   "kelime_ustasi": [
