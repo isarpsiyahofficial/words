@@ -10407,6 +10407,2086 @@
         "calle",
         "adaptado"
       ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia del sonido",
+      "sub_category": "Acústica",
+      "word": "eco",
+      "forbidden_words": [
+        "repetición",
+        "pared",
+        "montaña"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia del sonido",
+      "sub_category": "Acústica",
+      "word": "reverberación",
+      "forbidden_words": [
+        "sala",
+        "prolongación",
+        "acústica"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia del sonido",
+      "sub_category": "Acústica",
+      "word": "frecuencia",
+      "forbidden_words": [
+        "oscilaciones",
+        "hercios",
+        "periodicidad"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia del sonido",
+      "sub_category": "Acústica",
+      "word": "decibelio",
+      "forbidden_words": [
+        "volumen",
+        "medida",
+        "ruido"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia del sonido",
+      "sub_category": "Acústica",
+      "word": "tono",
+      "forbidden_words": [
+        "agudo",
+        "grave",
+        "voz"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia del sonido",
+      "sub_category": "Acústica",
+      "word": "timbre",
+      "forbidden_words": [
+        "identidad",
+        "instrumento",
+        "sonoridad"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia del sonido",
+      "sub_category": "Acústica",
+      "word": "resonancia",
+      "forbidden_words": [
+        "vibración",
+        "amplificación",
+        "cavidad"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia del sonido",
+      "sub_category": "Acústica",
+      "word": "ultrasonido",
+      "forbidden_words": [
+        "alta",
+        "inaudible",
+        "ecografía"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia del sonido",
+      "sub_category": "Acústica",
+      "word": "infrasonido",
+      "forbidden_words": [
+        "baja",
+        "inaudible",
+        "vibraciones"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia del sonido",
+      "sub_category": "Acústica",
+      "word": "sonómetro",
+      "forbidden_words": [
+        "medidor",
+        "ruido",
+        "acústica"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Cartografía práctica",
+      "sub_category": "Interpretación de mapas",
+      "word": "escala gráfica",
+      "forbidden_words": [
+        "distancia",
+        "barra",
+        "plano"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Cartografía práctica",
+      "sub_category": "Interpretación de mapas",
+      "word": "curvas de nivel",
+      "forbidden_words": [
+        "relieve",
+        "altura",
+        "mapa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Cartografía práctica",
+      "sub_category": "Interpretación de mapas",
+      "word": "leyenda cartográfica",
+      "forbidden_words": [
+        "símbolos",
+        "mapa",
+        "explicación"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Cartografía práctica",
+      "sub_category": "Interpretación de mapas",
+      "word": "coordenadas",
+      "forbidden_words": [
+        "ubicación",
+        "pares",
+        "números"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Cartografía práctica",
+      "sub_category": "Interpretación de mapas",
+      "word": "latitud",
+      "forbidden_words": [
+        "paralelos",
+        "ecuador",
+        "grados"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Cartografía práctica",
+      "sub_category": "Interpretación de mapas",
+      "word": "longitud",
+      "forbidden_words": [
+        "meridianos",
+        "Greenwich",
+        "grados"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Cartografía práctica",
+      "sub_category": "Interpretación de mapas",
+      "word": "rosa de los vientos",
+      "forbidden_words": [
+        "direcciones",
+        "brújula",
+        "orientación"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Cartografía práctica",
+      "sub_category": "Interpretación de mapas",
+      "word": "altitud",
+      "forbidden_words": [
+        "elevación",
+        "mar",
+        "metros"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Cartografía práctica",
+      "sub_category": "Interpretación de mapas",
+      "word": "punto cardinal",
+      "forbidden_words": [
+        "norte",
+        "sur",
+        "orientación"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Cartografía práctica",
+      "sub_category": "Interpretación de mapas",
+      "word": "topónimo",
+      "forbidden_words": [
+        "nombre",
+        "lugar",
+        "geografía"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica ornamental",
+      "sub_category": "Flores de jardín",
+      "word": "geranio",
+      "forbidden_words": [
+        "balcón",
+        "flor",
+        "maceta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica ornamental",
+      "sub_category": "Flores de jardín",
+      "word": "buganvilla",
+      "forbidden_words": [
+        "trepadora",
+        "brácteas",
+        "fachada"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica ornamental",
+      "sub_category": "Flores de jardín",
+      "word": "hortensia",
+      "forbidden_words": [
+        "racimos",
+        "arbusto",
+        "azul"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica ornamental",
+      "sub_category": "Flores de jardín",
+      "word": "azalea",
+      "forbidden_words": [
+        "primavera",
+        "arbusto",
+        "floración"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica ornamental",
+      "sub_category": "Flores de jardín",
+      "word": "jazmín",
+      "forbidden_words": [
+        "aroma",
+        "blanco",
+        "trepadora"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica ornamental",
+      "sub_category": "Flores de jardín",
+      "word": "magnolia",
+      "forbidden_words": [
+        "árbol",
+        "pétalos",
+        "primavera"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica ornamental",
+      "sub_category": "Flores de jardín",
+      "word": "camelia",
+      "forbidden_words": [
+        "arbusto",
+        "ornamental",
+        "pétalos"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica ornamental",
+      "sub_category": "Flores de jardín",
+      "word": "glicinia",
+      "forbidden_words": [
+        "racimos",
+        "lila",
+        "pérgola"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica ornamental",
+      "sub_category": "Flores de jardín",
+      "word": "petunia",
+      "forbidden_words": [
+        "jardinera",
+        "colorido",
+        "verano"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica ornamental",
+      "sub_category": "Flores de jardín",
+      "word": "clavel",
+      "forbidden_words": [
+        "fragancia",
+        "ramo",
+        "pétalos"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Orden y almacenaje",
+      "sub_category": "Accesorios domésticos",
+      "word": "cesta de ropa",
+      "forbidden_words": [
+        "lavandería",
+        "prendas",
+        "recipiente"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Orden y almacenaje",
+      "sub_category": "Accesorios domésticos",
+      "word": "cajonera",
+      "forbidden_words": [
+        "mueble",
+        "guardar",
+        "compartimentos"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Orden y almacenaje",
+      "sub_category": "Accesorios domésticos",
+      "word": "organizador de cables",
+      "forbidden_words": [
+        "escritorio",
+        "orden",
+        "enchufes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Orden y almacenaje",
+      "sub_category": "Accesorios domésticos",
+      "word": "escurreplatos",
+      "forbidden_words": [
+        "vajilla",
+        "lavado",
+        "secado"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Orden y almacenaje",
+      "sub_category": "Accesorios domésticos",
+      "word": "percha múltiple",
+      "forbidden_words": [
+        "armario",
+        "colgar",
+        "prendas"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Orden y almacenaje",
+      "sub_category": "Accesorios domésticos",
+      "word": "separador de cajones",
+      "forbidden_words": [
+        "compartimentos",
+        "orden",
+        "ropa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Orden y almacenaje",
+      "sub_category": "Accesorios domésticos",
+      "word": "estante flotante",
+      "forbidden_words": [
+        "pared",
+        "soporte",
+        "libros"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Orden y almacenaje",
+      "sub_category": "Accesorios domésticos",
+      "word": "caja apilable",
+      "forbidden_words": [
+        "guardar",
+        "encajar",
+        "almacén"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Orden y almacenaje",
+      "sub_category": "Accesorios domésticos",
+      "word": "bolsa al vacío",
+      "forbidden_words": [
+        "aspirar",
+        "aire",
+        "ropa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Orden y almacenaje",
+      "sub_category": "Accesorios domésticos",
+      "word": "saco de almacenaje",
+      "forbidden_words": [
+        "guardar",
+        "volumen",
+        "tejido"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Infraestructura del agua",
+      "sub_category": "Instalaciones y abastecimiento",
+      "word": "aljibe",
+      "forbidden_words": [
+        "depósito",
+        "lluvia",
+        "subterráneo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Infraestructura del agua",
+      "sub_category": "Instalaciones y abastecimiento",
+      "word": "pozo",
+      "forbidden_words": [
+        "profundidad",
+        "extraer",
+        "acuífero"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Infraestructura del agua",
+      "sub_category": "Instalaciones y abastecimiento",
+      "word": "noria",
+      "forbidden_words": [
+        "rueda",
+        "elevar",
+        "corriente"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Infraestructura del agua",
+      "sub_category": "Instalaciones y abastecimiento",
+      "word": "fuente pública",
+      "forbidden_words": [
+        "plaza",
+        "beber",
+        "caño"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Infraestructura del agua",
+      "sub_category": "Instalaciones y abastecimiento",
+      "word": "balsa de riego",
+      "forbidden_words": [
+        "reservorio",
+        "campo",
+        "almacenamiento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Infraestructura del agua",
+      "sub_category": "Instalaciones y abastecimiento",
+      "word": "contador de agua",
+      "forbidden_words": [
+        "consumo",
+        "lectura",
+        "suministro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Infraestructura del agua",
+      "sub_category": "Instalaciones y abastecimiento",
+      "word": "sifón",
+      "forbidden_words": [
+        "tubería",
+        "curva",
+        "olores"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Infraestructura del agua",
+      "sub_category": "Instalaciones y abastecimiento",
+      "word": "desagüe",
+      "forbidden_words": [
+        "evacuación",
+        "fregadero",
+        "tubería"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Infraestructura del agua",
+      "sub_category": "Instalaciones y abastecimiento",
+      "word": "sumidero",
+      "forbidden_words": [
+        "lluvia",
+        "rejilla",
+        "drenaje"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Infraestructura del agua",
+      "sub_category": "Instalaciones y abastecimiento",
+      "word": "arqueta de registro",
+      "forbidden_words": [
+        "tapa",
+        "conexiones",
+        "inspección"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes gráficas",
+      "sub_category": "Técnicas de impresión",
+      "word": "serigrafía",
+      "forbidden_words": [
+        "pantalla",
+        "malla",
+        "tinta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes gráficas",
+      "sub_category": "Técnicas de impresión",
+      "word": "litografía",
+      "forbidden_words": [
+        "piedra",
+        "plancha",
+        "impresión"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes gráficas",
+      "sub_category": "Técnicas de impresión",
+      "word": "xilografía",
+      "forbidden_words": [
+        "madera",
+        "grabado",
+        "estampa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes gráficas",
+      "sub_category": "Técnicas de impresión",
+      "word": "linograbado",
+      "forbidden_words": [
+        "plancha",
+        "gubia",
+        "relieve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes gráficas",
+      "sub_category": "Técnicas de impresión",
+      "word": "estampación",
+      "forbidden_words": [
+        "tela",
+        "rodillo",
+        "motivo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes gráficas",
+      "sub_category": "Técnicas de impresión",
+      "word": "impresión digital",
+      "forbidden_words": [
+        "ordenador",
+        "papel",
+        "tóner"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes gráficas",
+      "sub_category": "Técnicas de impresión",
+      "word": "tinta vegetal",
+      "forbidden_words": [
+        "pigmento",
+        "origen",
+        "natural"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes gráficas",
+      "sub_category": "Técnicas de impresión",
+      "word": "rodillo entintador",
+      "forbidden_words": [
+        "cilindro",
+        "estampar",
+        "pigmento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes gráficas",
+      "sub_category": "Técnicas de impresión",
+      "word": "matriz de impresión",
+      "forbidden_words": [
+        "plancha",
+        "original",
+        "transferencia"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes gráficas",
+      "sub_category": "Técnicas de impresión",
+      "word": "prueba de color",
+      "forbidden_words": [
+        "ajuste",
+        "tonos",
+        "imprenta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Astronomía cotidiana",
+      "sub_category": "Observación del cielo",
+      "word": "nebulosa",
+      "forbidden_words": [
+        "gas",
+        "polvo",
+        "espacio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Astronomía cotidiana",
+      "sub_category": "Observación del cielo",
+      "word": "asteroide",
+      "forbidden_words": [
+        "roca",
+        "órbita",
+        "espacio"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Astronomía cotidiana",
+      "sub_category": "Observación del cielo",
+      "word": "eclíptica",
+      "forbidden_words": [
+        "trayectoria",
+        "Sol",
+        "plano"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Astronomía cotidiana",
+      "sub_category": "Observación del cielo",
+      "word": "estrella polar",
+      "forbidden_words": [
+        "norte",
+        "orientación",
+        "cielo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Astronomía cotidiana",
+      "sub_category": "Observación del cielo",
+      "word": "vía láctea",
+      "forbidden_words": [
+        "galaxia",
+        "franja",
+        "cielo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Astronomía cotidiana",
+      "sub_category": "Observación del cielo",
+      "word": "luna nueva",
+      "forbidden_words": [
+        "fase",
+        "oscuridad",
+        "mes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Astronomía cotidiana",
+      "sub_category": "Observación del cielo",
+      "word": "crepúsculo",
+      "forbidden_words": [
+        "atardecer",
+        "luz",
+        "horizonte"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Astronomía cotidiana",
+      "sub_category": "Observación del cielo",
+      "word": "aurora boreal",
+      "forbidden_words": [
+        "luces",
+        "latitudes",
+        "cielo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Astronomía cotidiana",
+      "sub_category": "Observación del cielo",
+      "word": "conjunción planetaria",
+      "forbidden_words": [
+        "alineación",
+        "cielo",
+        "astros"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Astronomía cotidiana",
+      "sub_category": "Observación del cielo",
+      "word": "anillo planetario",
+      "forbidden_words": [
+        "partículas",
+        "gigante",
+        "órbita"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ecosistemas forestales",
+      "sub_category": "Elementos del bosque",
+      "word": "bellota",
+      "forbidden_words": [
+        "encina",
+        "fruto",
+        "otoño"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ecosistemas forestales",
+      "sub_category": "Elementos del bosque",
+      "word": "piña de pino",
+      "forbidden_words": [
+        "escamas",
+        "semillas",
+        "conífera"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ecosistemas forestales",
+      "sub_category": "Elementos del bosque",
+      "word": "hojarasca",
+      "forbidden_words": [
+        "otoño",
+        "suelo",
+        "secas"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ecosistemas forestales",
+      "sub_category": "Elementos del bosque",
+      "word": "sotobosque",
+      "forbidden_words": [
+        "vegetación",
+        "sombra",
+        "arbustos"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ecosistemas forestales",
+      "sub_category": "Elementos del bosque",
+      "word": "madriguera",
+      "forbidden_words": [
+        "refugio",
+        "tierra",
+        "animales"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ecosistemas forestales",
+      "sub_category": "Elementos del bosque",
+      "word": "hormiguero",
+      "forbidden_words": [
+        "colonia",
+        "túneles",
+        "insectos"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ecosistemas forestales",
+      "sub_category": "Elementos del bosque",
+      "word": "seta",
+      "forbidden_words": [
+        "sombrero",
+        "hongo",
+        "otoño"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ecosistemas forestales",
+      "sub_category": "Elementos del bosque",
+      "word": "tronco caído",
+      "forbidden_words": [
+        "árbol",
+        "suelo",
+        "madera"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ecosistemas forestales",
+      "sub_category": "Elementos del bosque",
+      "word": "claro del bosque",
+      "forbidden_words": [
+        "espacio",
+        "árboles",
+        "luz"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ecosistemas forestales",
+      "sub_category": "Elementos del bosque",
+      "word": "camino forestal",
+      "forbidden_words": [
+        "senderismo",
+        "pista",
+        "árboles"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Vivienda eficiente",
+      "sub_category": "Materiales y soluciones",
+      "word": "aislamiento térmico",
+      "forbidden_words": [
+        "temperatura",
+        "paredes",
+        "eficiencia"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Vivienda eficiente",
+      "sub_category": "Materiales y soluciones",
+      "word": "lana de roca",
+      "forbidden_words": [
+        "aislante",
+        "mineral",
+        "fibras"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Vivienda eficiente",
+      "sub_category": "Materiales y soluciones",
+      "word": "doble acristalamiento",
+      "forbidden_words": [
+        "ventana",
+        "dos",
+        "cámara"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Vivienda eficiente",
+      "sub_category": "Materiales y soluciones",
+      "word": "panel solar",
+      "forbidden_words": [
+        "tejado",
+        "electricidad",
+        "células"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Vivienda eficiente",
+      "sub_category": "Materiales y soluciones",
+      "word": "teja cerámica",
+      "forbidden_words": [
+        "cubierta",
+        "barro",
+        "tejado"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Vivienda eficiente",
+      "sub_category": "Materiales y soluciones",
+      "word": "fachada ventilada",
+      "forbidden_words": [
+        "cámara",
+        "aire",
+        "revestimiento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Vivienda eficiente",
+      "sub_category": "Materiales y soluciones",
+      "word": "madera laminada",
+      "forbidden_words": [
+        "capas",
+        "adhesivo",
+        "tableros"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Vivienda eficiente",
+      "sub_category": "Materiales y soluciones",
+      "word": "mortero de cal",
+      "forbidden_words": [
+        "mezcla",
+        "muros",
+        "restauración"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Vivienda eficiente",
+      "sub_category": "Materiales y soluciones",
+      "word": "corcho expandido",
+      "forbidden_words": [
+        "aislamiento",
+        "granulado",
+        "calor"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Vivienda eficiente",
+      "sub_category": "Materiales y soluciones",
+      "word": "ventana oscilobatiente",
+      "forbidden_words": [
+        "apertura",
+        "inclinación",
+        "marco"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Verduras de temporada",
+      "sub_category": "Productos de la huerta",
+      "word": "calçot",
+      "forbidden_words": [
+        "cebolla",
+        "brasa",
+        "salsa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Verduras de temporada",
+      "sub_category": "Productos de la huerta",
+      "word": "borraja",
+      "forbidden_words": [
+        "tallo",
+        "verdura",
+        "Aragón"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Verduras de temporada",
+      "sub_category": "Productos de la huerta",
+      "word": "cardo",
+      "forbidden_words": [
+        "penca",
+        "invierno",
+        "cocido"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Verduras de temporada",
+      "sub_category": "Productos de la huerta",
+      "word": "chirivía",
+      "forbidden_words": [
+        "raíz",
+        "blanca",
+        "sopa"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Verduras de temporada",
+      "sub_category": "Productos de la huerta",
+      "word": "boniato",
+      "forbidden_words": [
+        "tubérculo",
+        "dulce",
+        "asado"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Verduras de temporada",
+      "sub_category": "Productos de la huerta",
+      "word": "coliflor",
+      "forbidden_words": [
+        "ramilletes",
+        "blanca",
+        "hortaliza"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Verduras de temporada",
+      "sub_category": "Productos de la huerta",
+      "word": "judía verde",
+      "forbidden_words": [
+        "vaina",
+        "verdura",
+        "plana"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Verduras de temporada",
+      "sub_category": "Productos de la huerta",
+      "word": "grelos",
+      "forbidden_words": [
+        "Galicia",
+        "hojas",
+        "invierno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Verduras de temporada",
+      "sub_category": "Productos de la huerta",
+      "word": "acelga",
+      "forbidden_words": [
+        "penca",
+        "verde",
+        "verdura"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Verduras de temporada",
+      "sub_category": "Productos de la huerta",
+      "word": "rábano",
+      "forbidden_words": [
+        "crujiente",
+        "raíz",
+        "picante"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Herramientas de taller",
+      "sub_category": "Reparación y medición",
+      "word": "estaño",
+      "forbidden_words": [
+        "soldadura",
+        "metal",
+        "aleación"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Herramientas de taller",
+      "sub_category": "Reparación y medición",
+      "word": "cinta aislante",
+      "forbidden_words": [
+        "electricidad",
+        "adhesiva",
+        "protección"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Herramientas de taller",
+      "sub_category": "Reparación y medición",
+      "word": "llave inglesa",
+      "forbidden_words": [
+        "ajustable",
+        "tuerca",
+        "mandíbula"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Herramientas de taller",
+      "sub_category": "Reparación y medición",
+      "word": "llave hexagonal",
+      "forbidden_words": [
+        "tornillos",
+        "ángulos",
+        "seis"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Herramientas de taller",
+      "sub_category": "Reparación y medición",
+      "word": "multímetro",
+      "forbidden_words": [
+        "voltaje",
+        "resistencia",
+        "medición"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Herramientas de taller",
+      "sub_category": "Reparación y medición",
+      "word": "cortatubos",
+      "forbidden_words": [
+        "fontanería",
+        "rueda",
+        "metal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Herramientas de taller",
+      "sub_category": "Reparación y medición",
+      "word": "mordaza de banco",
+      "forbidden_words": [
+        "sujetar",
+        "mesa",
+        "pieza"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Herramientas de taller",
+      "sub_category": "Reparación y medición",
+      "word": "cepillo de alambre",
+      "forbidden_words": [
+        "óxido",
+        "limpieza",
+        "metal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Herramientas de taller",
+      "sub_category": "Reparación y medición",
+      "word": "llave de tubo",
+      "forbidden_words": [
+        "tuercas",
+        "mecánica",
+        "hueca"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Herramientas de taller",
+      "sub_category": "Reparación y medición",
+      "word": "pie de rey",
+      "forbidden_words": [
+        "medición",
+        "precisión",
+        "mordazas"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Apicultura",
+      "sub_category": "Vida de las abejas",
+      "word": "colmena",
+      "forbidden_words": [
+        "caja",
+        "abejas",
+        "cría"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Apicultura",
+      "sub_category": "Vida de las abejas",
+      "word": "panal",
+      "forbidden_words": [
+        "hexágonos",
+        "celdas",
+        "cera"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Apicultura",
+      "sub_category": "Vida de las abejas",
+      "word": "cera de abeja",
+      "forbidden_words": [
+        "velas",
+        "panales",
+        "sólido"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Apicultura",
+      "sub_category": "Vida de las abejas",
+      "word": "apicultor",
+      "forbidden_words": [
+        "colmenas",
+        "protección",
+        "miel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Apicultura",
+      "sub_category": "Vida de las abejas",
+      "word": "abeja obrera",
+      "forbidden_words": [
+        "recolectar",
+        "néctar",
+        "trabajo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Apicultura",
+      "sub_category": "Vida de las abejas",
+      "word": "enjambre",
+      "forbidden_words": [
+        "grupo",
+        "volar",
+        "insectos"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Apicultura",
+      "sub_category": "Vida de las abejas",
+      "word": "propóleo",
+      "forbidden_words": [
+        "resina",
+        "colmena",
+        "sustancia"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Apicultura",
+      "sub_category": "Vida de las abejas",
+      "word": "jalea real",
+      "forbidden_words": [
+        "nutrición",
+        "larvas",
+        "crema"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Apicultura",
+      "sub_category": "Vida de las abejas",
+      "word": "ahumador apícola",
+      "forbidden_words": [
+        "humo",
+        "calmar",
+        "abejas"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Apicultura",
+      "sub_category": "Vida de las abejas",
+      "word": "miel",
+      "forbidden_words": [
+        "dulce",
+        "tarro",
+        "flores"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Partes de bicicleta",
+      "sub_category": "Componentes y mantenimiento",
+      "word": "guardabarros",
+      "forbidden_words": [
+        "salpicaduras",
+        "rueda",
+        "protección"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Partes de bicicleta",
+      "sub_category": "Componentes y mantenimiento",
+      "word": "portabultos",
+      "forbidden_words": [
+        "carga",
+        "trasera",
+        "alforjas"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Partes de bicicleta",
+      "sub_category": "Componentes y mantenimiento",
+      "word": "cambio de marchas",
+      "forbidden_words": [
+        "velocidades",
+        "engranajes",
+        "palanca"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Partes de bicicleta",
+      "sub_category": "Componentes y mantenimiento",
+      "word": "piñón",
+      "forbidden_words": [
+        "engranaje",
+        "rueda",
+        "transmisión"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Partes de bicicleta",
+      "sub_category": "Componentes y mantenimiento",
+      "word": "cadena de bicicleta",
+      "forbidden_words": [
+        "eslabones",
+        "transmisión",
+        "engranaje"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Partes de bicicleta",
+      "sub_category": "Componentes y mantenimiento",
+      "word": "manillar",
+      "forbidden_words": [
+        "agarrar",
+        "girar",
+        "dirección"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Partes de bicicleta",
+      "sub_category": "Componentes y mantenimiento",
+      "word": "sillín",
+      "forbidden_words": [
+        "asiento",
+        "altura",
+        "ajuste"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Partes de bicicleta",
+      "sub_category": "Componentes y mantenimiento",
+      "word": "pedal",
+      "forbidden_words": [
+        "pie",
+        "impulsar",
+        "giro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Partes de bicicleta",
+      "sub_category": "Componentes y mantenimiento",
+      "word": "cámara de aire",
+      "forbidden_words": [
+        "hinchar",
+        "rueda",
+        "goma"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Partes de bicicleta",
+      "sub_category": "Componentes y mantenimiento",
+      "word": "válvula de neumático",
+      "forbidden_words": [
+        "inflar",
+        "presión",
+        "boquilla"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Confección y calzado",
+      "sub_category": "Detalles de prendas",
+      "word": "capucha",
+      "forbidden_words": [
+        "cabeza",
+        "chaqueta",
+        "lluvia"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Confección y calzado",
+      "sub_category": "Detalles de prendas",
+      "word": "manga ranglán",
+      "forbidden_words": [
+        "hombro",
+        "diagonal",
+        "prenda"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Confección y calzado",
+      "sub_category": "Detalles de prendas",
+      "word": "puño de camisa",
+      "forbidden_words": [
+        "muñeca",
+        "manga",
+        "botón"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Confección y calzado",
+      "sub_category": "Detalles de prendas",
+      "word": "cuello alto",
+      "forbidden_words": [
+        "garganta",
+        "jersey",
+        "invierno"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Confección y calzado",
+      "sub_category": "Detalles de prendas",
+      "word": "pespunte",
+      "forbidden_words": [
+        "costura",
+        "visible",
+        "hilo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Confección y calzado",
+      "sub_category": "Detalles de prendas",
+      "word": "costura francesa",
+      "forbidden_words": [
+        "remate",
+        "interior",
+        "tela"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Confección y calzado",
+      "sub_category": "Detalles de prendas",
+      "word": "ojal",
+      "forbidden_words": [
+        "botón",
+        "abertura",
+        "tela"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Confección y calzado",
+      "sub_category": "Detalles de prendas",
+      "word": "alpargata",
+      "forbidden_words": [
+        "esparto",
+        "verano",
+        "suela"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Confección y calzado",
+      "sub_category": "Detalles de prendas",
+      "word": "zueco",
+      "forbidden_words": [
+        "madera",
+        "calzado",
+        "suela"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Confección y calzado",
+      "sub_category": "Detalles de prendas",
+      "word": "mocasín",
+      "forbidden_words": [
+        "cuero",
+        "flexible",
+        "cordones"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes del papel",
+      "sub_category": "Creaciones manuales",
+      "word": "origami",
+      "forbidden_words": [
+        "doblar",
+        "figuras",
+        "hojas"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes del papel",
+      "sub_category": "Creaciones manuales",
+      "word": "papel maché",
+      "forbidden_words": [
+        "pulpa",
+        "cola",
+        "modelado"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes del papel",
+      "sub_category": "Creaciones manuales",
+      "word": "tarjeta desplegable",
+      "forbidden_words": [
+        "abrir",
+        "relieve",
+        "felicitación"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes del papel",
+      "sub_category": "Creaciones manuales",
+      "word": "calado de papel",
+      "forbidden_words": [
+        "recortes",
+        "patrón",
+        "decoración"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes del papel",
+      "sub_category": "Creaciones manuales",
+      "word": "marmoleado",
+      "forbidden_words": [
+        "vetas",
+        "agua",
+        "tinta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes del papel",
+      "sub_category": "Creaciones manuales",
+      "word": "filigrana de papel",
+      "forbidden_words": [
+        "tiras",
+        "enrollar",
+        "ornamentos"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes del papel",
+      "sub_category": "Creaciones manuales",
+      "word": "cianotipia",
+      "forbidden_words": [
+        "azul",
+        "sol",
+        "contacto"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes del papel",
+      "sub_category": "Creaciones manuales",
+      "word": "libro de artista",
+      "forbidden_words": [
+        "obra",
+        "páginas",
+        "único"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes del papel",
+      "sub_category": "Creaciones manuales",
+      "word": "papel reciclado",
+      "forbidden_words": [
+        "fibras",
+        "reutilizar",
+        "hojas"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Artes del papel",
+      "sub_category": "Creaciones manuales",
+      "word": "sellos decorativos",
+      "forbidden_words": [
+        "estampar",
+        "motivo",
+        "tinta"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Fenómenos atmosféricos",
+      "sub_category": "Observación meteorológica",
+      "word": "helada",
+      "forbidden_words": [
+        "madrugada",
+        "escarcha",
+        "temperatura"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Fenómenos atmosféricos",
+      "sub_category": "Observación meteorológica",
+      "word": "nube lenticular",
+      "forbidden_words": [
+        "montaña",
+        "disco",
+        "atmósfera"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Fenómenos atmosféricos",
+      "sub_category": "Observación meteorológica",
+      "word": "halo solar",
+      "forbidden_words": [
+        "círculo",
+        "atmósfera",
+        "astro"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Fenómenos atmosféricos",
+      "sub_category": "Observación meteorológica",
+      "word": "calima",
+      "forbidden_words": [
+        "polvo",
+        "suspensión",
+        "visibilidad"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Fenómenos atmosféricos",
+      "sub_category": "Observación meteorológica",
+      "word": "cencellada",
+      "forbidden_words": [
+        "hielo",
+        "niebla",
+        "ramas"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Fenómenos atmosféricos",
+      "sub_category": "Observación meteorológica",
+      "word": "frente frío",
+      "forbidden_words": [
+        "masa",
+        "temperatura",
+        "desplazamiento"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Fenómenos atmosféricos",
+      "sub_category": "Observación meteorológica",
+      "word": "viento de levante",
+      "forbidden_words": [
+        "este",
+        "Mediterráneo",
+        "aire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Fenómenos atmosféricos",
+      "sub_category": "Observación meteorológica",
+      "word": "viento de poniente",
+      "forbidden_words": [
+        "oeste",
+        "Atlántico",
+        "aire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Fenómenos atmosféricos",
+      "sub_category": "Observación meteorológica",
+      "word": "temperatura aparente",
+      "forbidden_words": [
+        "sensación",
+        "humedad",
+        "cuerpo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Fenómenos atmosféricos",
+      "sub_category": "Observación meteorológica",
+      "word": "punto de rocío",
+      "forbidden_words": [
+        "condensación",
+        "humedad",
+        "termómetro"
+      ]
     }
   ],
   "sessiz_sinema": [
