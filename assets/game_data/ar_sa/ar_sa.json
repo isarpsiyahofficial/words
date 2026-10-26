@@ -5,7 +5,968 @@
     "notes": [],
     "games": {
       "taboo": [],
-      "charades": [],
+      "charades": [
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحياة اليومية",
+          "sub_category": "الصباح",
+          "target_text": "إطفاء المنبه ثم العودة إلى النوم"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحياة اليومية",
+          "sub_category": "الصباح",
+          "target_text": "التمدد بعد الاستيقاظ"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحياة اليومية",
+          "sub_category": "الصباح",
+          "target_text": "البحث عن النعال تحت السرير"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحياة اليومية",
+          "sub_category": "الصباح",
+          "target_text": "فتح الستائر لاستقبال ضوء الصباح"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحياة اليومية",
+          "sub_category": "الصباح",
+          "target_text": "ترتيب الوسادة فوق السرير"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحياة اليومية",
+          "sub_category": "الصباح",
+          "target_text": "تمشيط الشعر أمام المرآة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحياة اليومية",
+          "sub_category": "الصباح",
+          "target_text": "تنظيف الأسنان بالفرشاة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحياة اليومية",
+          "sub_category": "الصباح",
+          "target_text": "غسل الوجه بالماء البارد"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحياة اليومية",
+          "sub_category": "الصباح",
+          "target_text": "ارتداء الساعة حول المعصم"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحياة اليومية",
+          "sub_category": "الصباح",
+          "target_text": "ربط رباط الحذاء قبل الخروج"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "إعداد الطعام",
+          "target_text": "تقليب الحساء في قدر كبير"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "إعداد الطعام",
+          "target_text": "عجن الدقيق بكلتا اليدين"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "إعداد الطعام",
+          "target_text": "فرد العجين بالشوبك"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "إعداد الطعام",
+          "target_text": "تقطيع الخضراوات على لوح"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "إعداد الطعام",
+          "target_text": "تقشير برتقالة باليد"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "إعداد الطعام",
+          "target_text": "عصر الليمون فوق طبق"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "إعداد الطعام",
+          "target_text": "نخل الدقيق في وعاء"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "إعداد الطعام",
+          "target_text": "فتح غطاء مرطبان محكم"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "إعداد الطعام",
+          "target_text": "صب العصير في أكواب متتالية"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "إعداد الطعام",
+          "target_text": "تذوق الطعام ثم إضافة التوابل"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنزل",
+          "sub_category": "التنظيف والترتيب",
+          "target_text": "كنس الأرض بالمكنسة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنزل",
+          "sub_category": "التنظيف والترتيب",
+          "target_text": "مسح نافذة بقطعة قماش"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنزل",
+          "sub_category": "التنظيف والترتيب",
+          "target_text": "نفض الغبار عن رف مرتفع"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنزل",
+          "sub_category": "التنظيف والترتيب",
+          "target_text": "طي منشفة كبيرة بعناية"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنزل",
+          "sub_category": "التنظيف والترتيب",
+          "target_text": "نشر الملابس على الحبل"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنزل",
+          "sub_category": "التنظيف والترتيب",
+          "target_text": "جمع الألعاب في صندوق"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنزل",
+          "sub_category": "التنظيف والترتيب",
+          "target_text": "تلميع مرآة الحمام"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنزل",
+          "sub_category": "التنظيف والترتيب",
+          "target_text": "سحب سلة الغسيل الثقيلة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنزل",
+          "sub_category": "التنظيف والترتيب",
+          "target_text": "تغيير غطاء الوسادة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنزل",
+          "sub_category": "التنظيف والترتيب",
+          "target_text": "مسح طاولة بعد الطعام"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الثقافة المحلية",
+          "sub_category": "الضيافة والمجلس",
+          "target_text": "استقبال ضيف عند الباب بابتسامة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الثقافة المحلية",
+          "sub_category": "الضيافة والمجلس",
+          "target_text": "صب القهوة العربية من الدلة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الثقافة المحلية",
+          "sub_category": "الضيافة والمجلس",
+          "target_text": "تقديم طبق التمر للضيوف"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الثقافة المحلية",
+          "sub_category": "الضيافة والمجلس",
+          "target_text": "ترتيب الوسائد في المجلس"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الثقافة المحلية",
+          "sub_category": "الضيافة والمجلس",
+          "target_text": "حمل صينية أكواب الشاي"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الثقافة المحلية",
+          "sub_category": "الضيافة والمجلس",
+          "target_text": "إضافة الهيل إلى القهوة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الثقافة المحلية",
+          "sub_category": "الضيافة والمجلس",
+          "target_text": "تقديم المبخرة في المجلس"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الثقافة المحلية",
+          "sub_category": "الضيافة والمجلس",
+          "target_text": "الإشارة إلى مكان جلوس الضيف"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الثقافة المحلية",
+          "sub_category": "الضيافة والمجلس",
+          "target_text": "إعادة ملء فنجان فارغ"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الثقافة المحلية",
+          "sub_category": "الضيافة والمجلس",
+          "target_text": "توديع الضيوف عند الباب"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التسوق",
+          "sub_category": "السوق والمتجر",
+          "target_text": "دفع عربة التسوق بين الرفوف"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التسوق",
+          "sub_category": "السوق والمتجر",
+          "target_text": "مقارنة حجم عبوتين في المتجر"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التسوق",
+          "sub_category": "السوق والمتجر",
+          "target_text": "وضع المشتريات على سير المحاسبة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التسوق",
+          "sub_category": "السوق والمتجر",
+          "target_text": "حمل أكياس ثقيلة من السوق"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التسوق",
+          "sub_category": "السوق والمتجر",
+          "target_text": "قياس حذاء جديد في المتجر"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التسوق",
+          "sub_category": "السوق والمتجر",
+          "target_text": "فحص نضج حبة شمام"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التسوق",
+          "sub_category": "السوق والمتجر",
+          "target_text": "اختيار باقة زهور من محل"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التسوق",
+          "sub_category": "السوق والمتجر",
+          "target_text": "البحث عن منتج على رف مرتفع"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التسوق",
+          "sub_category": "السوق والمتجر",
+          "target_text": "فتح محفظة لدفع ثمن المشتريات"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التسوق",
+          "sub_category": "السوق والمتجر",
+          "target_text": "تغليف هدية بورق ملون"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التعليم",
+          "sub_category": "المدرسة والتعلم",
+          "target_text": "رفع اليد للإجابة عن سؤال"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التعليم",
+          "sub_category": "المدرسة والتعلم",
+          "target_text": "كتابة عنوان كبير على السبورة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التعليم",
+          "sub_category": "المدرسة والتعلم",
+          "target_text": "مسح السبورة بممحاة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التعليم",
+          "sub_category": "المدرسة والتعلم",
+          "target_text": "تقليب صفحات كتاب سميك"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التعليم",
+          "sub_category": "المدرسة والتعلم",
+          "target_text": "رسم دائرة باستخدام الفرجار"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التعليم",
+          "sub_category": "المدرسة والتعلم",
+          "target_text": "بري قلم رصاص بالمبراة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التعليم",
+          "sub_category": "المدرسة والتعلم",
+          "target_text": "قياس خط بمسطرة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التعليم",
+          "sub_category": "المدرسة والتعلم",
+          "target_text": "حمل حقيبة مدرسية ثقيلة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التعليم",
+          "sub_category": "المدرسة والتعلم",
+          "target_text": "الإشارة إلى موقع على خريطة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التعليم",
+          "sub_category": "المدرسة والتعلم",
+          "target_text": "إجراء تجربة باستخدام عدسة مكبرة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمل",
+          "sub_category": "المكتب",
+          "target_text": "ختم ورقة بختم مكتبي"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمل",
+          "sub_category": "المكتب",
+          "target_text": "ترتيب ملفات داخل درج"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمل",
+          "sub_category": "المكتب",
+          "target_text": "تثبيت أوراق بمشبك"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمل",
+          "sub_category": "المكتب",
+          "target_text": "الكتابة على لوحة المفاتيح بسرعة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمل",
+          "sub_category": "المكتب",
+          "target_text": "الرد على مكالمة هاتفية رسمية"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمل",
+          "sub_category": "المكتب",
+          "target_text": "وضع ورقة في آلة التصوير"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمل",
+          "sub_category": "المكتب",
+          "target_text": "الكتابة على ورقة ملاحظات لاصقة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمل",
+          "sub_category": "المكتب",
+          "target_text": "تدوير كرسي المكتب للالتفات"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمل",
+          "sub_category": "المكتب",
+          "target_text": "تسليم ملف إلى زميل"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمل",
+          "sub_category": "المكتب",
+          "target_text": "فتح مظروف وإخراج رسالة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الطريق والقيادة",
+          "target_text": "ربط حزام الأمان في السيارة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الطريق والقيادة",
+          "target_text": "ضبط المرآة الجانبية للسيارة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الطريق والقيادة",
+          "target_text": "فتح مظلة عند هطول المطر"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الطريق والقيادة",
+          "target_text": "انتظار الحافلة عند المحطة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الطريق والقيادة",
+          "target_text": "إظهار تذكرة قبل الصعود"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الطريق والقيادة",
+          "target_text": "حمل حقيبة إلى صندوق السيارة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الطريق والقيادة",
+          "target_text": "الضغط على زر المصعد"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الطريق والقيادة",
+          "target_text": "الإشارة لسائق سيارة أجرة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الطريق والقيادة",
+          "target_text": "تعبئة هواء إطار دراجة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الطريق والقيادة",
+          "target_text": "ركوب الدراجة مع تحريك الدواسات"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "الحديقة والنباتات",
+          "target_text": "حفر حفرة صغيرة لشتلة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "الحديقة والنباتات",
+          "target_text": "غرس بذور في أصيص"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "الحديقة والنباتات",
+          "target_text": "سقي الزهور بإبريق"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "الحديقة والنباتات",
+          "target_text": "قص أغصان يابسة بمقص تقليم"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "الحديقة والنباتات",
+          "target_text": "جمع أوراق متساقطة بمشط حديقة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "الحديقة والنباتات",
+          "target_text": "شم رائحة وردة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "الحديقة والنباتات",
+          "target_text": "نقل أصيص ثقيل إلى الظل"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "الحديقة والنباتات",
+          "target_text": "ربط ساق نبات بدعامة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "الحديقة والنباتات",
+          "target_text": "قطف حبة طماطم ناضجة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "الحديقة والنباتات",
+          "target_text": "فحص ورقة نبات بعدسة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البحر",
+          "sub_category": "الشاطئ والأنشطة البحرية",
+          "target_text": "بناء قلعة من الرمل"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البحر",
+          "sub_category": "الشاطئ والأنشطة البحرية",
+          "target_text": "جمع الأصداف على الشاطئ"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البحر",
+          "sub_category": "الشاطئ والأنشطة البحرية",
+          "target_text": "فرد منشفة فوق الرمل"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البحر",
+          "sub_category": "الشاطئ والأنشطة البحرية",
+          "target_text": "ارتداء نظارة السباحة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البحر",
+          "sub_category": "الشاطئ والأنشطة البحرية",
+          "target_text": "السباحة بحركات الذراعين"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البحر",
+          "sub_category": "الشاطئ والأنشطة البحرية",
+          "target_text": "التجديف بقارب صغير"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البحر",
+          "sub_category": "الشاطئ والأنشطة البحرية",
+          "target_text": "رمي صنارة الصيد في الماء"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البحر",
+          "sub_category": "الشاطئ والأنشطة البحرية",
+          "target_text": "ارتداء سترة نجاة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البحر",
+          "sub_category": "الشاطئ والأنشطة البحرية",
+          "target_text": "المشي على الرمل الساخن بحذر"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البحر",
+          "sub_category": "الشاطئ والأنشطة البحرية",
+          "target_text": "نفخ عوامة للسباحة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المهن",
+          "sub_category": "الحرف والأعمال اليدوية",
+          "target_text": "طرق مسمار بمطرقة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المهن",
+          "sub_category": "الحرف والأعمال اليدوية",
+          "target_text": "نشر لوح خشب بمنشار يدوي"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المهن",
+          "sub_category": "الحرف والأعمال اليدوية",
+          "target_text": "شد برغي بمفك"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المهن",
+          "sub_category": "الحرف والأعمال اليدوية",
+          "target_text": "قياس قطعة قماش بشريط"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المهن",
+          "sub_category": "الحرف والأعمال اليدوية",
+          "target_text": "خياطة زر بإبرة وخيط"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المهن",
+          "sub_category": "الحرف والأعمال اليدوية",
+          "target_text": "تشكيل إناء من الطين"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المهن",
+          "sub_category": "الحرف والأعمال اليدوية",
+          "target_text": "تلوين جدار بفرشاة كبيرة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المهن",
+          "sub_category": "الحرف والأعمال اليدوية",
+          "target_text": "حياكة وشاح بإبرتين"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المهن",
+          "sub_category": "الحرف والأعمال اليدوية",
+          "target_text": "لف حبل حول بكرة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المهن",
+          "sub_category": "الحرف والأعمال اليدوية",
+          "target_text": "تلميع قطعة خشبية بورق صنفرة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضة",
+          "sub_category": "التمارين والألعاب",
+          "target_text": "القفز بالحبل عدة مرات"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضة",
+          "sub_category": "التمارين والألعاب",
+          "target_text": "تسديد كرة نحو سلة مرتفعة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضة",
+          "sub_category": "التمارين والألعاب",
+          "target_text": "تنطيط كرة على الأرض"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضة",
+          "sub_category": "التمارين والألعاب",
+          "target_text": "ضرب كرة بمضرب تنس"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضة",
+          "sub_category": "التمارين والألعاب",
+          "target_text": "تمرير كرة بالقدم إلى زميل"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضة",
+          "sub_category": "التمارين والألعاب",
+          "target_text": "أداء تمرين القرفصاء"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضة",
+          "sub_category": "التمارين والألعاب",
+          "target_text": "رفع أثقال خفيفة بكلتا اليدين"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضة",
+          "sub_category": "التمارين والألعاب",
+          "target_text": "الموازنة على قدم واحدة"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضة",
+          "sub_category": "التمارين والألعاب",
+          "target_text": "رمي قرص طائر إلى صديق"
+        },
+        {
+          "game_type": "sessiz_sinema",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضة",
+          "sub_category": "التمارين والألعاب",
+          "target_text": "القفز فوق حاجز منخفض"
+        }
+      ],
       "riddle": [],
       "word_master": []
     }
