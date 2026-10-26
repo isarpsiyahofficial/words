@@ -2,7 +2,1568 @@
   "language": "Portuguese",
   "locale": "pt-BR",
   "games": {
-    "taboo": [],
+    "taboo": [
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Pratos e doces",
+        "word": "Tapioca",
+        "forbidden_words": [
+          "goma",
+          "frigideira",
+          "recheio"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Pratos e doces",
+        "word": "Cuscuz paulista",
+        "forbidden_words": [
+          "milho",
+          "forma",
+          "salgado"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Pratos e doces",
+        "word": "Pão de queijo",
+        "forbidden_words": [
+          "polvilho",
+          "forno",
+          "Minas"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Pratos e doces",
+        "word": "Acarajé",
+        "forbidden_words": [
+          "feijão-fradinho",
+          "Bahia",
+          "dendê"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Pratos e doces",
+        "word": "Moqueca",
+        "forbidden_words": [
+          "panela de barro",
+          "peixe",
+          "coentro"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Pratos e doces",
+        "word": "Pamonha",
+        "forbidden_words": [
+          "palha",
+          "milho verde",
+          "cozida"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Pratos e doces",
+        "word": "Canjica",
+        "forbidden_words": [
+          "grãos brancos",
+          "leite",
+          "doce"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Pratos e doces",
+        "word": "Feijão tropeiro",
+        "forbidden_words": [
+          "farinha",
+          "couve",
+          "torresmo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Pratos e doces",
+        "word": "Brigadeiro",
+        "forbidden_words": [
+          "chocolate",
+          "granulado",
+          "festa"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Pratos e doces",
+        "word": "Quindim",
+        "forbidden_words": [
+          "coco",
+          "gema",
+          "amarelo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Sabores do Brasil",
+        "sub_category": "Frutas e plantas alimentícias",
+        "word": "Jabuticaba",
+        "forbidden_words": [
+          "casca escura",
+          "tronco",
+          "fruta"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Sabores do Brasil",
+        "sub_category": "Frutas e plantas alimentícias",
+        "word": "Cupuaçu",
+        "forbidden_words": [
+          "Amazônia",
+          "polpa",
+          "creme"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Sabores do Brasil",
+        "sub_category": "Frutas e plantas alimentícias",
+        "word": "Graviola",
+        "forbidden_words": [
+          "espinhos macios",
+          "suco",
+          "polpa branca"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Sabores do Brasil",
+        "sub_category": "Frutas e plantas alimentícias",
+        "word": "Caju",
+        "forbidden_words": [
+          "castanha",
+          "pedúnculo",
+          "suco"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Sabores do Brasil",
+        "sub_category": "Frutas e plantas alimentícias",
+        "word": "Pitanga",
+        "forbidden_words": [
+          "gomos",
+          "vermelha",
+          "quintal"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Sabores do Brasil",
+        "sub_category": "Frutas e plantas alimentícias",
+        "word": "Acerola",
+        "forbidden_words": [
+          "vitamina C",
+          "azeda",
+          "suco"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Sabores do Brasil",
+        "sub_category": "Frutas e plantas alimentícias",
+        "word": "Açaí",
+        "forbidden_words": [
+          "tigela",
+          "polpa roxa",
+          "guaraná"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Sabores do Brasil",
+        "sub_category": "Frutas e plantas alimentícias",
+        "word": "Pequi",
+        "forbidden_words": [
+          "Cerrado",
+          "caroço",
+          "arroz"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Sabores do Brasil",
+        "sub_category": "Frutas e plantas alimentícias",
+        "word": "Mandioca",
+        "forbidden_words": [
+          "raiz",
+          "farinha",
+          "cozida"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Sabores do Brasil",
+        "sub_category": "Frutas e plantas alimentícias",
+        "word": "Taioba",
+        "forbidden_words": [
+          "folhas grandes",
+          "refogada",
+          "horta"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira e comércio",
+        "sub_category": "Compras do cotidiano",
+        "word": "Banca de feira",
+        "forbidden_words": [
+          "vendedor",
+          "barraca",
+          "hortaliças"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira e comércio",
+        "sub_category": "Compras do cotidiano",
+        "word": "Sacola retornável",
+        "forbidden_words": [
+          "compras",
+          "reutilizar",
+          "tecido"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira e comércio",
+        "sub_category": "Compras do cotidiano",
+        "word": "Balança digital",
+        "forbidden_words": [
+          "peso",
+          "visor",
+          "quilograma"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira e comércio",
+        "sub_category": "Compras do cotidiano",
+        "word": "Carrinho de feira",
+        "forbidden_words": [
+          "rodinhas",
+          "compras",
+          "puxar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira e comércio",
+        "sub_category": "Compras do cotidiano",
+        "word": "Pastel de feira",
+        "forbidden_words": [
+          "massa frita",
+          "recheio",
+          "barraca"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira e comércio",
+        "sub_category": "Compras do cotidiano",
+        "word": "Caldo de cana",
+        "forbidden_words": [
+          "garapa",
+          "moenda",
+          "copo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira e comércio",
+        "sub_category": "Compras do cotidiano",
+        "word": "Etiqueta de preço",
+        "forbidden_words": [
+          "valor",
+          "produto",
+          "prateleira"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira e comércio",
+        "sub_category": "Compras do cotidiano",
+        "word": "Troco",
+        "forbidden_words": [
+          "dinheiro",
+          "caixa",
+          "devolver"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira e comércio",
+        "sub_category": "Compras do cotidiano",
+        "word": "Caixa registradora",
+        "forbidden_words": [
+          "gaveta",
+          "pagamento",
+          "comércio"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Feira e comércio",
+        "sub_category": "Compras do cotidiano",
+        "word": "Provador",
+        "forbidden_words": [
+          "roupa",
+          "espelho",
+          "loja"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Utensílios domésticos",
+        "word": "Varal",
+        "forbidden_words": [
+          "roupa",
+          "secar",
+          "quintal"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Utensílios domésticos",
+        "word": "Pregador de roupa",
+        "forbidden_words": [
+          "prender",
+          "tecido",
+          "corda"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Utensílios domésticos",
+        "word": "Rodo",
+        "forbidden_words": [
+          "borracha",
+          "piso",
+          "água"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Utensílios domésticos",
+        "word": "Pano de chão",
+        "forbidden_words": [
+          "limpeza",
+          "balde",
+          "esfregar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Utensílios domésticos",
+        "word": "Filtro de barro",
+        "forbidden_words": [
+          "água",
+          "vela",
+          "cerâmica"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Utensílios domésticos",
+        "word": "Liquidificador",
+        "forbidden_words": [
+          "bater",
+          "copo",
+          "vitamina"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Utensílios domésticos",
+        "word": "Panela de pressão",
+        "forbidden_words": [
+          "cozimento",
+          "válvula",
+          "feijão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Utensílios domésticos",
+        "word": "Escorredor de louça",
+        "forbidden_words": [
+          "pratos",
+          "pia",
+          "secar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Utensílios domésticos",
+        "word": "Ventilador de teto",
+        "forbidden_words": [
+          "hélices",
+          "brisa",
+          "quarto"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e rotina",
+        "sub_category": "Utensílios domésticos",
+        "word": "Mosquiteiro",
+        "forbidden_words": [
+          "rede fina",
+          "insetos",
+          "cama"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Paisagens brasileiras",
+        "sub_category": "Biomas e formações naturais",
+        "word": "Manguezal",
+        "forbidden_words": [
+          "raízes",
+          "maré",
+          "caranguejo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Paisagens brasileiras",
+        "sub_category": "Biomas e formações naturais",
+        "word": "Restinga",
+        "forbidden_words": [
+          "areia",
+          "vegetação",
+          "litoral"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Paisagens brasileiras",
+        "sub_category": "Biomas e formações naturais",
+        "word": "Cerrado",
+        "forbidden_words": [
+          "savana",
+          "árvores retorcidas",
+          "seca"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Paisagens brasileiras",
+        "sub_category": "Biomas e formações naturais",
+        "word": "Caatinga",
+        "forbidden_words": [
+          "semiárido",
+          "cactos",
+          "Nordeste"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Paisagens brasileiras",
+        "sub_category": "Biomas e formações naturais",
+        "word": "Pantanal",
+        "forbidden_words": [
+          "alagamento",
+          "planície",
+          "biodiversidade"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Paisagens brasileiras",
+        "sub_category": "Biomas e formações naturais",
+        "word": "Mata de galeria",
+        "forbidden_words": [
+          "rio",
+          "vegetação",
+          "margens"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Paisagens brasileiras",
+        "sub_category": "Biomas e formações naturais",
+        "word": "Nascente",
+        "forbidden_words": [
+          "água",
+          "origem",
+          "riacho"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Paisagens brasileiras",
+        "sub_category": "Biomas e formações naturais",
+        "word": "Cachoeira",
+        "forbidden_words": [
+          "queda-d'água",
+          "rio",
+          "cascata"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Paisagens brasileiras",
+        "sub_category": "Biomas e formações naturais",
+        "word": "Duna",
+        "forbidden_words": [
+          "areia",
+          "vento",
+          "montículo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Paisagens brasileiras",
+        "sub_category": "Biomas e formações naturais",
+        "word": "Falésia",
+        "forbidden_words": [
+          "paredão",
+          "costa",
+          "erosão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fauna brasileira",
+        "sub_category": "Animais e habitats",
+        "word": "Capivara",
+        "forbidden_words": [
+          "roedor",
+          "lagoa",
+          "grupo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fauna brasileira",
+        "sub_category": "Animais e habitats",
+        "word": "Tamanduá-bandeira",
+        "forbidden_words": [
+          "formigas",
+          "focinho",
+          "cauda"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fauna brasileira",
+        "sub_category": "Animais e habitats",
+        "word": "Tucano",
+        "forbidden_words": [
+          "bico grande",
+          "ave",
+          "floresta"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fauna brasileira",
+        "sub_category": "Animais e habitats",
+        "word": "Arara-azul",
+        "forbidden_words": [
+          "penas",
+          "papagaio",
+          "azulada"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fauna brasileira",
+        "sub_category": "Animais e habitats",
+        "word": "Mico-leão-dourado",
+        "forbidden_words": [
+          "primata",
+          "pelagem alaranjada",
+          "Mata Atlântica"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fauna brasileira",
+        "sub_category": "Animais e habitats",
+        "word": "Boto-cor-de-rosa",
+        "forbidden_words": [
+          "rio",
+          "golfinho",
+          "Amazônia"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fauna brasileira",
+        "sub_category": "Animais e habitats",
+        "word": "Lobo-guará",
+        "forbidden_words": [
+          "pernas longas",
+          "Cerrado",
+          "pelagem avermelhada"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fauna brasileira",
+        "sub_category": "Animais e habitats",
+        "word": "Jabuti",
+        "forbidden_words": [
+          "casco",
+          "terrestre",
+          "lento"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fauna brasileira",
+        "sub_category": "Animais e habitats",
+        "word": "Quati",
+        "forbidden_words": [
+          "focinho alongado",
+          "cauda listrada",
+          "bando"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fauna brasileira",
+        "sub_category": "Animais e habitats",
+        "word": "Ariranha",
+        "forbidden_words": [
+          "lontra",
+          "rios",
+          "bigodes"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cidade e mobilidade",
+        "sub_category": "Transporte e circulação",
+        "word": "Faixa de pedestres",
+        "forbidden_words": [
+          "atravessar",
+          "listras",
+          "rua"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cidade e mobilidade",
+        "sub_category": "Transporte e circulação",
+        "word": "Ciclovia",
+        "forbidden_words": [
+          "bicicleta",
+          "pista",
+          "pedalar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cidade e mobilidade",
+        "sub_category": "Transporte e circulação",
+        "word": "Terminal rodoviário",
+        "forbidden_words": [
+          "ônibus",
+          "viagem",
+          "plataforma"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cidade e mobilidade",
+        "sub_category": "Transporte e circulação",
+        "word": "Ponto de ônibus",
+        "forbidden_words": [
+          "embarque",
+          "parada",
+          "coletivo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cidade e mobilidade",
+        "sub_category": "Transporte e circulação",
+        "word": "Catraca",
+        "forbidden_words": [
+          "girar",
+          "passagem",
+          "acesso"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cidade e mobilidade",
+        "sub_category": "Transporte e circulação",
+        "word": "Bilhete único",
+        "forbidden_words": [
+          "cartão",
+          "transporte",
+          "integração"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cidade e mobilidade",
+        "sub_category": "Transporte e circulação",
+        "word": "Faixa exclusiva",
+        "forbidden_words": [
+          "corredor",
+          "ônibus",
+          "trânsito"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cidade e mobilidade",
+        "sub_category": "Transporte e circulação",
+        "word": "Elevador",
+        "forbidden_words": [
+          "andares",
+          "cabine",
+          "botão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cidade e mobilidade",
+        "sub_category": "Transporte e circulação",
+        "word": "Escada rolante",
+        "forbidden_words": [
+          "degraus",
+          "shopping",
+          "movimento"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cidade e mobilidade",
+        "sub_category": "Transporte e circulação",
+        "word": "Semáforo",
+        "forbidden_words": [
+          "luzes",
+          "cruzamento",
+          "sinal"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e aprendizado",
+        "sub_category": "Materiais e espaços escolares",
+        "word": "Quadro branco",
+        "forbidden_words": [
+          "caneta",
+          "apagador",
+          "aula"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e aprendizado",
+        "sub_category": "Materiais e espaços escolares",
+        "word": "Estojo",
+        "forbidden_words": [
+          "lápis",
+          "guardar",
+          "zíper"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e aprendizado",
+        "sub_category": "Materiais e espaços escolares",
+        "word": "Apontador",
+        "forbidden_words": [
+          "ponta",
+          "grafite",
+          "lâmina"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e aprendizado",
+        "sub_category": "Materiais e espaços escolares",
+        "word": "Régua",
+        "forbidden_words": [
+          "medida",
+          "reta",
+          "centímetros"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e aprendizado",
+        "sub_category": "Materiais e espaços escolares",
+        "word": "Caderno espiral",
+        "forbidden_words": [
+          "folhas",
+          "anotações",
+          "arame"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e aprendizado",
+        "sub_category": "Materiais e espaços escolares",
+        "word": "Mochila escolar",
+        "forbidden_words": [
+          "alças",
+          "livros",
+          "costas"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e aprendizado",
+        "sub_category": "Materiais e espaços escolares",
+        "word": "Laboratório de ciências",
+        "forbidden_words": [
+          "experimento",
+          "bancada",
+          "pesquisa"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e aprendizado",
+        "sub_category": "Materiais e espaços escolares",
+        "word": "Biblioteca escolar",
+        "forbidden_words": [
+          "livros",
+          "empréstimo",
+          "leitura"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e aprendizado",
+        "sub_category": "Materiais e espaços escolares",
+        "word": "Recreio",
+        "forbidden_words": [
+          "intervalo",
+          "pátio",
+          "brincadeira"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Escola e aprendizado",
+        "sub_category": "Materiais e espaços escolares",
+        "word": "Boletim escolar",
+        "forbidden_words": [
+          "notas",
+          "avaliação",
+          "semestre"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e ofícios",
+        "sub_category": "Técnicas manuais",
+        "word": "Cerâmica artesanal",
+        "forbidden_words": [
+          "argila",
+          "forno",
+          "modelagem"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e ofícios",
+        "sub_category": "Técnicas manuais",
+        "word": "Crochê",
+        "forbidden_words": [
+          "agulha",
+          "linha",
+          "pontos"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e ofícios",
+        "sub_category": "Técnicas manuais",
+        "word": "Bordado",
+        "forbidden_words": [
+          "tecido",
+          "agulha",
+          "desenho"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e ofícios",
+        "sub_category": "Técnicas manuais",
+        "word": "Cestaria",
+        "forbidden_words": [
+          "fibras",
+          "trançado",
+          "cesto"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e ofícios",
+        "sub_category": "Técnicas manuais",
+        "word": "Tear manual",
+        "forbidden_words": [
+          "fios",
+          "trama",
+          "tecido"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e ofícios",
+        "sub_category": "Técnicas manuais",
+        "word": "Marcenaria",
+        "forbidden_words": [
+          "madeira",
+          "móveis",
+          "oficina"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e ofícios",
+        "sub_category": "Técnicas manuais",
+        "word": "Xilogravura",
+        "forbidden_words": [
+          "matriz de madeira",
+          "impressão",
+          "entalhe"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e ofícios",
+        "sub_category": "Técnicas manuais",
+        "word": "Mosaico",
+        "forbidden_words": [
+          "peças",
+          "composição",
+          "azulejos"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e ofícios",
+        "sub_category": "Técnicas manuais",
+        "word": "Vitral",
+        "forbidden_words": [
+          "vidro colorido",
+          "luz",
+          "janela"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato e ofícios",
+        "sub_category": "Técnicas manuais",
+        "word": "Encadernação",
+        "forbidden_words": [
+          "páginas",
+          "capa",
+          "costura"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes e lazer",
+        "sub_category": "Atividades e brincadeiras",
+        "word": "Peteca",
+        "forbidden_words": [
+          "penas",
+          "rebater",
+          "mão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes e lazer",
+        "sub_category": "Atividades e brincadeiras",
+        "word": "Frescobol",
+        "forbidden_words": [
+          "raquetes",
+          "praia",
+          "dupla"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes e lazer",
+        "sub_category": "Atividades e brincadeiras",
+        "word": "Futevôlei",
+        "forbidden_words": [
+          "rede",
+          "areia",
+          "bola"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes e lazer",
+        "sub_category": "Atividades e brincadeiras",
+        "word": "Caminhada ecológica",
+        "forbidden_words": [
+          "trilha",
+          "natureza",
+          "passeio"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes e lazer",
+        "sub_category": "Atividades e brincadeiras",
+        "word": "Pipa",
+        "forbidden_words": [
+          "vento",
+          "linha",
+          "céu"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes e lazer",
+        "sub_category": "Atividades e brincadeiras",
+        "word": "Amarelinha",
+        "forbidden_words": [
+          "quadrados",
+          "pular",
+          "calçada"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes e lazer",
+        "sub_category": "Atividades e brincadeiras",
+        "word": "Boliche",
+        "forbidden_words": [
+          "pinos",
+          "pista",
+          "bola"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes e lazer",
+        "sub_category": "Atividades e brincadeiras",
+        "word": "Patins",
+        "forbidden_words": [
+          "rodinhas",
+          "equilíbrio",
+          "calçados"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes e lazer",
+        "sub_category": "Atividades e brincadeiras",
+        "word": "Caiaque",
+        "forbidden_words": [
+          "remo",
+          "água",
+          "embarcação"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Esportes e lazer",
+        "sub_category": "Atividades e brincadeiras",
+        "word": "Esconde-esconde",
+        "forbidden_words": [
+          "procurar",
+          "contar",
+          "brincadeira"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festas e tradições",
+        "sub_category": "Costumes populares",
+        "word": "Festa junina",
+        "forbidden_words": [
+          "arraial",
+          "bandeirinhas",
+          "inverno"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festas e tradições",
+        "sub_category": "Costumes populares",
+        "word": "Quadrilha junina",
+        "forbidden_words": [
+          "dança",
+          "pares",
+          "passos"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festas e tradições",
+        "sub_category": "Costumes populares",
+        "word": "Correio elegante",
+        "forbidden_words": [
+          "recado",
+          "bilhete",
+          "carinho"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festas e tradições",
+        "sub_category": "Costumes populares",
+        "word": "Bandeirinhas",
+        "forbidden_words": [
+          "papel colorido",
+          "decoração",
+          "cordão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festas e tradições",
+        "sub_category": "Costumes populares",
+        "word": "Barraca de argolas",
+        "forbidden_words": [
+          "brincadeira",
+          "arremesso",
+          "prêmio"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festas e tradições",
+        "sub_category": "Costumes populares",
+        "word": "Chapéu de palha",
+        "forbidden_words": [
+          "cabeça",
+          "trançado",
+          "sol"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festas e tradições",
+        "sub_category": "Costumes populares",
+        "word": "Arraial",
+        "forbidden_words": [
+          "comidas típicas",
+          "música",
+          "barracas"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festas e tradições",
+        "sub_category": "Costumes populares",
+        "word": "Paçoca",
+        "forbidden_words": [
+          "amendoim",
+          "doce",
+          "farelenta"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festas e tradições",
+        "sub_category": "Costumes populares",
+        "word": "Cocada",
+        "forbidden_words": [
+          "coco ralado",
+          "açúcar",
+          "doce"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Festas e tradições",
+        "sub_category": "Costumes populares",
+        "word": "Bolo de milho",
+        "forbidden_words": [
+          "forno",
+          "fubá",
+          "fatia"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e sustentabilidade",
+        "sub_category": "Meio ambiente e instrumentos",
+        "word": "Compostagem",
+        "forbidden_words": [
+          "resíduos orgânicos",
+          "adubo",
+          "decomposição"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e sustentabilidade",
+        "sub_category": "Meio ambiente e instrumentos",
+        "word": "Coleta seletiva",
+        "forbidden_words": [
+          "reciclagem",
+          "separação",
+          "lixeiras"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e sustentabilidade",
+        "sub_category": "Meio ambiente e instrumentos",
+        "word": "Cisterna",
+        "forbidden_words": [
+          "armazenar",
+          "água da chuva",
+          "reservatório"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e sustentabilidade",
+        "sub_category": "Meio ambiente e instrumentos",
+        "word": "Energia solar",
+        "forbidden_words": [
+          "painéis",
+          "luz do sol",
+          "eletricidade"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e sustentabilidade",
+        "sub_category": "Meio ambiente e instrumentos",
+        "word": "Horta comunitária",
+        "forbidden_words": [
+          "vizinhos",
+          "plantio",
+          "verduras"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e sustentabilidade",
+        "sub_category": "Meio ambiente e instrumentos",
+        "word": "Estação meteorológica",
+        "forbidden_words": [
+          "previsão",
+          "clima",
+          "sensores"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e sustentabilidade",
+        "sub_category": "Meio ambiente e instrumentos",
+        "word": "Telescópio",
+        "forbidden_words": [
+          "astros",
+          "lente",
+          "observação"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e sustentabilidade",
+        "sub_category": "Meio ambiente e instrumentos",
+        "word": "Microscópio",
+        "forbidden_words": [
+          "ampliar",
+          "células",
+          "laboratório"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e sustentabilidade",
+        "sub_category": "Meio ambiente e instrumentos",
+        "word": "Lupa",
+        "forbidden_words": [
+          "aumento",
+          "vidro",
+          "detalhes"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e sustentabilidade",
+        "sub_category": "Meio ambiente e instrumentos",
+        "word": "Termômetro",
+        "forbidden_words": [
+          "temperatura",
+          "graus",
+          "medir"
+        ]
+      }
+    ],
     "charades": [
       {
         "game_type": "sessiz_sinema",
