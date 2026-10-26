@@ -6296,6 +6296,1566 @@
             "حامض",
             "رمضان"
           ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "تفاصيل المباني",
+          "sub_category": "الأبواب والنوافذ",
+          "word": "نافذة سقفية",
+          "forbidden_words": [
+            "ضوء",
+            "علوي",
+            "زجاج"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "تفاصيل المباني",
+          "sub_category": "الأبواب والنوافذ",
+          "word": "عتبة باب",
+          "forbidden_words": [
+            "مدخل",
+            "قدم",
+            "ارتفاع"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "تفاصيل المباني",
+          "sub_category": "الأبواب والنوافذ",
+          "word": "مزلاج معدني",
+          "forbidden_words": [
+            "إغلاق",
+            "بوابة",
+            "تحريك"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "تفاصيل المباني",
+          "sub_category": "الأبواب والنوافذ",
+          "word": "مفصلة نحاسية",
+          "forbidden_words": [
+            "دوران",
+            "باب",
+            "تثبيت"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "تفاصيل المباني",
+          "sub_category": "الأبواب والنوافذ",
+          "word": "مقبض دائري",
+          "forbidden_words": [
+            "إمساك",
+            "فتح",
+            "يد"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "تفاصيل المباني",
+          "sub_category": "الأبواب والنوافذ",
+          "word": "سقف مستعار",
+          "forbidden_words": [
+            "ديكور",
+            "جبس",
+            "غرفة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "تفاصيل المباني",
+          "sub_category": "الأبواب والنوافذ",
+          "word": "بلاط سيراميك",
+          "forbidden_words": [
+            "أرضية",
+            "لمعان",
+            "مربعات"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "تفاصيل المباني",
+          "sub_category": "الأبواب والنوافذ",
+          "word": "فاصل زجاجي",
+          "forbidden_words": [
+            "شفاف",
+            "تقسيم",
+            "مكتب"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "تفاصيل المباني",
+          "sub_category": "الأبواب والنوافذ",
+          "word": "عازل حراري",
+          "forbidden_words": [
+            "حرارة",
+            "حماية",
+            "جدار"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "تفاصيل المباني",
+          "sub_category": "الأبواب والنوافذ",
+          "word": "حاجز شرفة",
+          "forbidden_words": [
+            "ارتفاع",
+            "سياج",
+            "منزل"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات الطهي",
+          "sub_category": "التحضير والتقديم",
+          "word": "ملقط طعام",
+          "forbidden_words": [
+            "إمساك",
+            "تقديم",
+            "معدن"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات الطهي",
+          "sub_category": "التحضير والتقديم",
+          "word": "وعاء خلط",
+          "forbidden_words": [
+            "مكونات",
+            "تقليب",
+            "عجين"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات الطهي",
+          "sub_category": "التحضير والتقديم",
+          "word": "قمع مطبخ",
+          "forbidden_words": [
+            "صب",
+            "فتحة",
+            "سوائل"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات الطهي",
+          "sub_category": "التحضير والتقديم",
+          "word": "قالب ثلج",
+          "forbidden_words": [
+            "تجميد",
+            "مكعبات",
+            "مشروب"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات الطهي",
+          "sub_category": "التحضير والتقديم",
+          "word": "مضرب بيض",
+          "forbidden_words": [
+            "خفق",
+            "رغوة",
+            "يدوي"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات الطهي",
+          "sub_category": "التحضير والتقديم",
+          "word": "قطاعة بسكويت",
+          "forbidden_words": [
+            "أشكال",
+            "عجين",
+            "حلوى"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات الطهي",
+          "sub_category": "التحضير والتقديم",
+          "word": "حامل مناديل",
+          "forbidden_words": [
+            "طاولة",
+            "ورق",
+            "سحب"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات الطهي",
+          "sub_category": "التحضير والتقديم",
+          "word": "موزع صلصة",
+          "forbidden_words": [
+            "ضغط",
+            "طعام",
+            "عبوة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات الطهي",
+          "sub_category": "التحضير والتقديم",
+          "word": "ملعقة خشبية",
+          "forbidden_words": [
+            "تحريك",
+            "طبخ",
+            "طويلة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات الطهي",
+          "sub_category": "التحضير والتقديم",
+          "word": "شبكة تبريد",
+          "forbidden_words": [
+            "مخبوزات",
+            "هواء",
+            "رف"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الملابس والمنسوجات",
+          "sub_category": "تفاصيل الأقمشة",
+          "word": "ياقة قميص",
+          "forbidden_words": [
+            "رقبة",
+            "خياطة",
+            "ثوب"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الملابس والمنسوجات",
+          "sub_category": "تفاصيل الأقمشة",
+          "word": "جيب داخلي",
+          "forbidden_words": [
+            "حفظ",
+            "ملابس",
+            "مخفي"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الملابس والمنسوجات",
+          "sub_category": "تفاصيل الأقمشة",
+          "word": "رباط حذاء",
+          "forbidden_words": [
+            "عقدة",
+            "قدم",
+            "شد"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الملابس والمنسوجات",
+          "sub_category": "تفاصيل الأقمشة",
+          "word": "نعل مطاطي",
+          "forbidden_words": [
+            "أسفل",
+            "حذاء",
+            "مرونة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الملابس والمنسوجات",
+          "sub_category": "تفاصيل الأقمشة",
+          "word": "بطانة معطف",
+          "forbidden_words": [
+            "داخل",
+            "دفء",
+            "قماش"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الملابس والمنسوجات",
+          "sub_category": "تفاصيل الأقمشة",
+          "word": "قماش مخملي",
+          "forbidden_words": [
+            "ناعم",
+            "وبر",
+            "فاخر"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الملابس والمنسوجات",
+          "sub_category": "تفاصيل الأقمشة",
+          "word": "طية تنورة",
+          "forbidden_words": [
+            "نسيج",
+            "ثنيات",
+            "ملابس"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الملابس والمنسوجات",
+          "sub_category": "تفاصيل الأقمشة",
+          "word": "حاشية ثوب",
+          "forbidden_words": [
+            "طرف",
+            "خياطة",
+            "تشطيب"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الملابس والمنسوجات",
+          "sub_category": "تفاصيل الأقمشة",
+          "word": "ربطة شعر",
+          "forbidden_words": [
+            "تسريحة",
+            "مطاط",
+            "جمع"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الملابس والمنسوجات",
+          "sub_category": "تفاصيل الأقمشة",
+          "word": "أزرار أكمام",
+          "forbidden_words": [
+            "قميص",
+            "معصم",
+            "إغلاق"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأجهزة الرقمية",
+          "sub_category": "ملحقات الحاسوب",
+          "word": "ميكروفون مكتبي",
+          "forbidden_words": [
+            "صوت",
+            "تسجيل",
+            "حديث"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأجهزة الرقمية",
+          "sub_category": "ملحقات الحاسوب",
+          "word": "مكبر صوت",
+          "forbidden_words": [
+            "استماع",
+            "موجات",
+            "جهاز"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأجهزة الرقمية",
+          "sub_category": "ملحقات الحاسوب",
+          "word": "جهاز تحكم",
+          "forbidden_words": [
+            "أزرار",
+            "بعيد",
+            "تلفاز"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأجهزة الرقمية",
+          "sub_category": "ملحقات الحاسوب",
+          "word": "كابل شبكة",
+          "forbidden_words": [
+            "اتصال",
+            "إنترنت",
+            "سلك"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأجهزة الرقمية",
+          "sub_category": "ملحقات الحاسوب",
+          "word": "موزع منافذ",
+          "forbidden_words": [
+            "توصيل",
+            "حاسوب",
+            "وصلات"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأجهزة الرقمية",
+          "sub_category": "ملحقات الحاسوب",
+          "word": "ذاكرة فلاش",
+          "forbidden_words": [
+            "ملفات",
+            "نقل",
+            "تخزين"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأجهزة الرقمية",
+          "sub_category": "ملحقات الحاسوب",
+          "word": "قرص صلب",
+          "forbidden_words": [
+            "بيانات",
+            "حاسوب",
+            "سعة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأجهزة الرقمية",
+          "sub_category": "ملحقات الحاسوب",
+          "word": "قلم رقمي",
+          "forbidden_words": [
+            "شاشة",
+            "كتابة",
+            "لوحي"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأجهزة الرقمية",
+          "sub_category": "ملحقات الحاسوب",
+          "word": "حاسبة علمية",
+          "forbidden_words": [
+            "معادلات",
+            "أرقام",
+            "دراسة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأجهزة الرقمية",
+          "sub_category": "ملحقات الحاسوب",
+          "word": "قارئ بطاقات",
+          "forbidden_words": [
+            "تمرير",
+            "بيانات",
+            "إلكتروني"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات التعليم",
+          "sub_category": "داخل الصف",
+          "word": "دفتر حضور",
+          "forbidden_words": [
+            "طلاب",
+            "أسماء",
+            "تسجيل"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات التعليم",
+          "sub_category": "داخل الصف",
+          "word": "بطاقة طالب",
+          "forbidden_words": [
+            "مدرسة",
+            "تعريف",
+            "صورة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات التعليم",
+          "sub_category": "داخل الصف",
+          "word": "حقيبة غداء",
+          "forbidden_words": [
+            "وجبة",
+            "طعام",
+            "حمل"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات التعليم",
+          "sub_category": "داخل الصف",
+          "word": "طاولة مختبر",
+          "forbidden_words": [
+            "تجارب",
+            "دراسة",
+            "معدات"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات التعليم",
+          "sub_category": "داخل الصف",
+          "word": "ساعة رملية",
+          "forbidden_words": [
+            "وقت",
+            "حبيبات",
+            "زجاج"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات التعليم",
+          "sub_category": "داخل الصف",
+          "word": "لوحة مغناطيسية",
+          "forbidden_words": [
+            "تعليق",
+            "معدن",
+            "سطح"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات التعليم",
+          "sub_category": "داخل الصف",
+          "word": "خزانة صفية",
+          "forbidden_words": [
+            "تخزين",
+            "مدرسة",
+            "أرفف"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات التعليم",
+          "sub_category": "داخل الصف",
+          "word": "منصة قراءة",
+          "forbidden_words": [
+            "كتاب",
+            "وقوف",
+            "عرض"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات التعليم",
+          "sub_category": "داخل الصف",
+          "word": "دفتر واجبات",
+          "forbidden_words": [
+            "منزلية",
+            "دروس",
+            "كتابة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "أدوات التعليم",
+          "sub_category": "داخل الصف",
+          "word": "مكعب هندسي",
+          "forbidden_words": [
+            "أضلاع",
+            "مجسم",
+            "رياضيات"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفنون البصرية",
+          "sub_category": "مواد الرسم والتصميم",
+          "word": "ألوان مائية",
+          "forbidden_words": [
+            "رسم",
+            "فرشاة",
+            "تخفيف"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفنون البصرية",
+          "sub_category": "مواد الرسم والتصميم",
+          "word": "طباشير زيتي",
+          "forbidden_words": [
+            "تلوين",
+            "أصابع",
+            "ورق"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفنون البصرية",
+          "sub_category": "مواد الرسم والتصميم",
+          "word": "ورق شفاف",
+          "forbidden_words": [
+            "نسخ",
+            "رسم",
+            "طبقة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفنون البصرية",
+          "sub_category": "مواد الرسم والتصميم",
+          "word": "عجلة ألوان",
+          "forbidden_words": [
+            "درجات",
+            "مزج",
+            "دائرة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفنون البصرية",
+          "sub_category": "مواد الرسم والتصميم",
+          "word": "معجون تشكيل",
+          "forbidden_words": [
+            "نحت",
+            "أشكال",
+            "لين"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفنون البصرية",
+          "sub_category": "مواد الرسم والتصميم",
+          "word": "لوحة قماشية",
+          "forbidden_words": [
+            "رسم",
+            "إطار",
+            "سطح"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفنون البصرية",
+          "sub_category": "مواد الرسم والتصميم",
+          "word": "شريط زخرفي",
+          "forbidden_words": [
+            "تزيين",
+            "حواف",
+            "لاصق"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفنون البصرية",
+          "sub_category": "مواد الرسم والتصميم",
+          "word": "ورق كربون",
+          "forbidden_words": [
+            "نسخ",
+            "ضغط",
+            "كتابة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفنون البصرية",
+          "sub_category": "مواد الرسم والتصميم",
+          "word": "قلم فحم",
+          "forbidden_words": [
+            "تظليل",
+            "رسم",
+            "أسود"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفنون البصرية",
+          "sub_category": "مواد الرسم والتصميم",
+          "word": "مسطرة منحنية",
+          "forbidden_words": [
+            "قياس",
+            "تصميم",
+            "أقواس"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البستنة",
+          "sub_category": "التجهيز والعناية",
+          "word": "صنبور حديقة",
+          "forbidden_words": [
+            "ماء",
+            "فتح",
+            "خرطوم"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البستنة",
+          "sub_category": "التجهيز والعناية",
+          "word": "خزان مياه",
+          "forbidden_words": [
+            "تجميع",
+            "سائل",
+            "سعة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البستنة",
+          "sub_category": "التجهيز والعناية",
+          "word": "مؤقت ري",
+          "forbidden_words": [
+            "نباتات",
+            "مواعيد",
+            "تدفق"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البستنة",
+          "sub_category": "التجهيز والعناية",
+          "word": "قفص طماطم",
+          "forbidden_words": [
+            "دعم",
+            "ثمار",
+            "أسلاك"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البستنة",
+          "sub_category": "التجهيز والعناية",
+          "word": "مسار حجري",
+          "forbidden_words": [
+            "مشي",
+            "أرض",
+            "حديقة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البستنة",
+          "sub_category": "التجهيز والعناية",
+          "word": "حوض طيور",
+          "forbidden_words": [
+            "شرب",
+            "ماء",
+            "أجنحة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البستنة",
+          "sub_category": "التجهيز والعناية",
+          "word": "آلة تقليب التربة",
+          "forbidden_words": [
+            "زراعة",
+            "تهوية",
+            "أرض"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البستنة",
+          "sub_category": "التجهيز والعناية",
+          "word": "صندوق زراعة مرتفع",
+          "forbidden_words": [
+            "خضروات",
+            "خشب",
+            "حديقة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البستنة",
+          "sub_category": "التجهيز والعناية",
+          "word": "جهاز قياس الحموضة",
+          "forbidden_words": [
+            "تربة",
+            "مؤشر",
+            "اختبار"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البستنة",
+          "sub_category": "التجهيز والعناية",
+          "word": "حافة عشب",
+          "forbidden_words": [
+            "حديقة",
+            "حدود",
+            "قص"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الركوب والتنقل",
+          "word": "مقعد حافلة",
+          "forbidden_words": [
+            "ركاب",
+            "جلوس",
+            "نقل"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الركوب والتنقل",
+          "word": "عداد سرعة",
+          "forbidden_words": [
+            "قياس",
+            "قيادة",
+            "كيلومتر"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الركوب والتنقل",
+          "word": "مسند رأس",
+          "forbidden_words": [
+            "راحة",
+            "مقعد",
+            "رقبة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الركوب والتنقل",
+          "word": "حزام أمان",
+          "forbidden_words": [
+            "مركبة",
+            "تثبيت",
+            "ركاب"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الركوب والتنقل",
+          "word": "صندوق سقفي",
+          "forbidden_words": [
+            "أمتعة",
+            "سيارة",
+            "تخزين"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الركوب والتنقل",
+          "word": "نافذة بانورامية",
+          "forbidden_words": [
+            "منظر",
+            "واسعة",
+            "زجاج"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الركوب والتنقل",
+          "word": "بطاقة مترو",
+          "forbidden_words": [
+            "نقل",
+            "بوابة",
+            "مرور"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الركوب والتنقل",
+          "word": "آلة تذاكر",
+          "forbidden_words": [
+            "شراء",
+            "محطة",
+            "ورق"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الركوب والتنقل",
+          "word": "محطة شحن",
+          "forbidden_words": [
+            "كهرباء",
+            "مركبات",
+            "بطارية"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المواصلات",
+          "sub_category": "الركوب والتنقل",
+          "word": "جهاز ملاحة",
+          "forbidden_words": [
+            "اتجاهات",
+            "طريق",
+            "موقع"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "نباتات وتضاريس",
+          "word": "حجر خفاف",
+          "forbidden_words": [
+            "مسامي",
+            "بركان",
+            "خفيف"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "نباتات وتضاريس",
+          "word": "تربة رملية",
+          "forbidden_words": [
+            "حبيبات",
+            "نباتات",
+            "جفاف"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "نباتات وتضاريس",
+          "word": "ورق سرخس",
+          "forbidden_words": [
+            "نبات",
+            "أخضر",
+            "ريشي"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "نباتات وتضاريس",
+          "word": "نبتة خزامى",
+          "forbidden_words": [
+            "عطر",
+            "بنفسجي",
+            "حديقة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "نباتات وتضاريس",
+          "word": "زهرة أقحوان",
+          "forbidden_words": [
+            "بتلات",
+            "أبيض",
+            "ربيع"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "نباتات وتضاريس",
+          "word": "شجرة توت",
+          "forbidden_words": [
+            "ثمار",
+            "أغصان",
+            "أوراق"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "نباتات وتضاريس",
+          "word": "ثمرة خوخ",
+          "forbidden_words": [
+            "فاكهة",
+            "صيف",
+            "نواة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "نباتات وتضاريس",
+          "word": "غصن يابس",
+          "forbidden_words": [
+            "خشب",
+            "شجرة",
+            "جاف"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "نباتات وتضاريس",
+          "word": "جدول ماء",
+          "forbidden_words": [
+            "جريان",
+            "صغير",
+            "طبيعة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطبيعة",
+          "sub_category": "نباتات وتضاريس",
+          "word": "جرف صخري",
+          "forbidden_words": [
+            "منحدر",
+            "ارتفاع",
+            "حافة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأطعمة اليومية",
+          "sub_category": "مكونات وأطباق",
+          "word": "خبز صامولي",
+          "forbidden_words": [
+            "ساندويتش",
+            "فرن",
+            "طويل"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأطعمة اليومية",
+          "sub_category": "مكونات وأطباق",
+          "word": "مرق بامية",
+          "forbidden_words": [
+            "خضار",
+            "طبخ",
+            "صلصة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأطعمة اليومية",
+          "sub_category": "مكونات وأطباق",
+          "word": "عصيدة تمر",
+          "forbidden_words": [
+            "حلوى",
+            "دقيق",
+            "دافئ"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأطعمة اليومية",
+          "sub_category": "مكونات وأطباق",
+          "word": "دقيق الذرة",
+          "forbidden_words": [
+            "طحن",
+            "أصفر",
+            "خبز"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأطعمة اليومية",
+          "sub_category": "مكونات وأطباق",
+          "word": "شوربة خضار",
+          "forbidden_words": [
+            "مرق",
+            "جزر",
+            "طبق"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأطعمة اليومية",
+          "sub_category": "مكونات وأطباق",
+          "word": "صلصة طماطم",
+          "forbidden_words": [
+            "معكرونة",
+            "أحمر",
+            "طبخ"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأطعمة اليومية",
+          "sub_category": "مكونات وأطباق",
+          "word": "جبن قريش",
+          "forbidden_words": [
+            "حليب",
+            "أبيض",
+            "طري"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأطعمة اليومية",
+          "sub_category": "مكونات وأطباق",
+          "word": "شراب ليمون",
+          "forbidden_words": [
+            "عصير",
+            "حامض",
+            "بارد"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأطعمة اليومية",
+          "sub_category": "مكونات وأطباق",
+          "word": "أرز بالحليب",
+          "forbidden_words": [
+            "حلوى",
+            "حبات",
+            "قرفة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأطعمة اليومية",
+          "sub_category": "مكونات وأطباق",
+          "word": "مربى مشمش",
+          "forbidden_words": [
+            "فطور",
+            "فاكهة",
+            "مرطبان"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العناية الشخصية",
+          "sub_category": "أدوات يومية",
+          "word": "فرشاة أسنان",
+          "forbidden_words": [
+            "تنظيف",
+            "فم",
+            "شعيرات"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العناية الشخصية",
+          "sub_category": "أدوات يومية",
+          "word": "خيط أسنان",
+          "forbidden_words": [
+            "لثة",
+            "تنظيف",
+            "رفيع"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العناية الشخصية",
+          "sub_category": "أدوات يومية",
+          "word": "معجون أسنان",
+          "forbidden_words": [
+            "فم",
+            "نعناع",
+            "أنبوب"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العناية الشخصية",
+          "sub_category": "أدوات يومية",
+          "word": "منشفة وجه",
+          "forbidden_words": [
+            "تجفيف",
+            "قطن",
+            "غسل"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العناية الشخصية",
+          "sub_category": "أدوات يومية",
+          "word": "صابون سائل",
+          "forbidden_words": [
+            "رغوة",
+            "نظافة",
+            "مضخة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العناية الشخصية",
+          "sub_category": "أدوات يومية",
+          "word": "كريم مرطب",
+          "forbidden_words": [
+            "بشرة",
+            "نعومة",
+            "جفاف"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العناية الشخصية",
+          "sub_category": "أدوات يومية",
+          "word": "مشط خشبي",
+          "forbidden_words": [
+            "شعر",
+            "تسريح",
+            "أسنان"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العناية الشخصية",
+          "sub_category": "أدوات يومية",
+          "word": "مرآة جيب",
+          "forbidden_words": [
+            "انعكاس",
+            "صغيرة",
+            "حقيبة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العناية الشخصية",
+          "sub_category": "أدوات يومية",
+          "word": "مبرد أظافر",
+          "forbidden_words": [
+            "تنعيم",
+            "أطراف",
+            "عناية"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العناية الشخصية",
+          "sub_category": "أدوات يومية",
+          "word": "ميزان شخصي",
+          "forbidden_words": [
+            "وزن",
+            "منزل",
+            "وقوف"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الألعاب والرياضة",
+          "sub_category": "معدات وأنشطة",
+          "word": "كرة سلة",
+          "forbidden_words": [
+            "ارتداد",
+            "ملعب",
+            "رمي"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الألعاب والرياضة",
+          "sub_category": "معدات وأنشطة",
+          "word": "مضرب ريشة",
+          "forbidden_words": [
+            "شبكة",
+            "طيران",
+            "رياضة"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الألعاب والرياضة",
+          "sub_category": "معدات وأنشطة",
+          "word": "لوحة نتائج",
+          "forbidden_words": [
+            "نقاط",
+            "مباراة",
+            "عرض"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الألعاب والرياضة",
+          "sub_category": "معدات وأنشطة",
+          "word": "مخروط تدريب",
+          "forbidden_words": [
+            "ملعب",
+            "علامة",
+            "تمارين"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الألعاب والرياضة",
+          "sub_category": "معدات وأنشطة",
+          "word": "كرة يد",
+          "forbidden_words": [
+            "تمرير",
+            "فريق",
+            "مرمى"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الألعاب والرياضة",
+          "sub_category": "معدات وأنشطة",
+          "word": "ملعب بادل",
+          "forbidden_words": [
+            "زجاج",
+            "مضرب",
+            "أزواج"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الألعاب والرياضة",
+          "sub_category": "معدات وأنشطة",
+          "word": "كرة بولينغ",
+          "forbidden_words": [
+            "دحرجة",
+            "قوارير",
+            "مسار"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الألعاب والرياضة",
+          "sub_category": "معدات وأنشطة",
+          "word": "طاولة شطرنج",
+          "forbidden_words": [
+            "مربعات",
+            "قطع",
+            "تفكير"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الألعاب والرياضة",
+          "sub_category": "معدات وأنشطة",
+          "word": "قرص طائر",
+          "forbidden_words": [
+            "رمي",
+            "حديقة",
+            "التقاط"
+          ]
+        },
+        {
+          "game_type": "tabu",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الألعاب والرياضة",
+          "sub_category": "معدات وأنشطة",
+          "word": "قفاز حارس",
+          "forbidden_words": [
+            "مرمى",
+            "يد",
+            "رياضة"
+          ]
         }
       ],
       "charades": [
