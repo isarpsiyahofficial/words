@@ -3,7 +3,1568 @@
   "locale": "ja-JP",
   "notes": [],
   "games": {
-    "taboo": [],
+    "taboo": [
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食と食卓",
+        "sub_category": "家庭の味",
+        "word": "おにぎり",
+        "forbidden_words": [
+          "海苔",
+          "三角",
+          "ご飯"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食と食卓",
+        "sub_category": "家庭の味",
+        "word": "味噌汁",
+        "forbidden_words": [
+          "大豆",
+          "だし",
+          "お椀"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食と食卓",
+        "sub_category": "家庭の味",
+        "word": "茶碗蒸し",
+        "forbidden_words": [
+          "卵",
+          "蒸す",
+          "なめらか"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食と食卓",
+        "sub_category": "家庭の味",
+        "word": "だし巻き卵",
+        "forbidden_words": [
+          "フライパン",
+          "ふんわり",
+          "朝食"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食と食卓",
+        "sub_category": "家庭の味",
+        "word": "そば",
+        "forbidden_words": [
+          "麺",
+          "つゆ",
+          "年越し"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食と食卓",
+        "sub_category": "家庭の味",
+        "word": "うどん",
+        "forbidden_words": [
+          "太麺",
+          "小麦",
+          "つるつる"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食と食卓",
+        "sub_category": "家庭の味",
+        "word": "天ぷら",
+        "forbidden_words": [
+          "衣",
+          "揚げる",
+          "えび"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食と食卓",
+        "sub_category": "家庭の味",
+        "word": "漬物",
+        "forbidden_words": [
+          "野菜",
+          "塩",
+          "発酵"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食と食卓",
+        "sub_category": "家庭の味",
+        "word": "お茶漬け",
+        "forbidden_words": [
+          "ご飯",
+          "お湯",
+          "あられ"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食と食卓",
+        "sub_category": "家庭の味",
+        "word": "いなり寿司",
+        "forbidden_words": [
+          "油揚げ",
+          "酢飯",
+          "甘辛"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の住まい",
+        "sub_category": "部屋と建具",
+        "word": "畳",
+        "forbidden_words": [
+          "い草",
+          "和室",
+          "敷く"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の住まい",
+        "sub_category": "部屋と建具",
+        "word": "障子",
+        "forbidden_words": [
+          "和紙",
+          "格子",
+          "光"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の住まい",
+        "sub_category": "部屋と建具",
+        "word": "ふすま",
+        "forbidden_words": [
+          "引き戸",
+          "仕切り",
+          "絵柄"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の住まい",
+        "sub_category": "部屋と建具",
+        "word": "こたつ",
+        "forbidden_words": [
+          "布団",
+          "暖房",
+          "足元"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の住まい",
+        "sub_category": "部屋と建具",
+        "word": "座布団",
+        "forbidden_words": [
+          "正座",
+          "床",
+          "クッション"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の住まい",
+        "sub_category": "部屋と建具",
+        "word": "風鈴",
+        "forbidden_words": [
+          "夏",
+          "音色",
+          "軒先"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の住まい",
+        "sub_category": "部屋と建具",
+        "word": "玄関",
+        "forbidden_words": [
+          "靴",
+          "入口",
+          "段差"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の住まい",
+        "sub_category": "部屋と建具",
+        "word": "押し入れ",
+        "forbidden_words": [
+          "布団",
+          "収納",
+          "引き戸"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の住まい",
+        "sub_category": "部屋と建具",
+        "word": "物干し竿",
+        "forbidden_words": [
+          "洗濯物",
+          "ベランダ",
+          "長い棒"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の住まい",
+        "sub_category": "部屋と建具",
+        "word": "すだれ",
+        "forbidden_words": [
+          "日よけ",
+          "竹",
+          "窓辺"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "四季と天気",
+        "sub_category": "季節の風景",
+        "word": "桜",
+        "forbidden_words": [
+          "春",
+          "花見",
+          "薄桃色"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "四季と天気",
+        "sub_category": "季節の風景",
+        "word": "紅葉",
+        "forbidden_words": [
+          "秋",
+          "色づく",
+          "山"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "四季と天気",
+        "sub_category": "季節の風景",
+        "word": "梅雨",
+        "forbidden_words": [
+          "雨",
+          "湿気",
+          "初夏"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "四季と天気",
+        "sub_category": "季節の風景",
+        "word": "霜柱",
+        "forbidden_words": [
+          "寒い朝",
+          "地面",
+          "氷"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "四季と天気",
+        "sub_category": "季節の風景",
+        "word": "木漏れ日",
+        "forbidden_words": [
+          "木の葉",
+          "日差し",
+          "森"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "四季と天気",
+        "sub_category": "季節の風景",
+        "word": "夕立",
+        "forbidden_words": [
+          "夏",
+          "にわか雨",
+          "午後"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "四季と天気",
+        "sub_category": "季節の風景",
+        "word": "つらら",
+        "forbidden_words": [
+          "屋根",
+          "凍る",
+          "冬"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "四季と天気",
+        "sub_category": "季節の風景",
+        "word": "虹",
+        "forbidden_words": [
+          "七色",
+          "雨上がり",
+          "空"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "四季と天気",
+        "sub_category": "季節の風景",
+        "word": "朝露",
+        "forbidden_words": [
+          "草",
+          "水滴",
+          "夜明け"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "四季と天気",
+        "sub_category": "季節の風景",
+        "word": "春一番",
+        "forbidden_words": [
+          "強い風",
+          "季節の変わり目",
+          "南寄り"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "学校生活",
+        "sub_category": "学びの場",
+        "word": "黒板",
+        "forbidden_words": [
+          "チョーク",
+          "教室",
+          "書く"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "学校生活",
+        "sub_category": "学びの場",
+        "word": "教科書",
+        "forbidden_words": [
+          "授業",
+          "ページ",
+          "勉強"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "学校生活",
+        "sub_category": "学びの場",
+        "word": "筆箱",
+        "forbidden_words": [
+          "鉛筆",
+          "消しゴム",
+          "収納"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "学校生活",
+        "sub_category": "学びの場",
+        "word": "給食",
+        "forbidden_words": [
+          "昼休み",
+          "献立",
+          "配膳"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "学校生活",
+        "sub_category": "学びの場",
+        "word": "図書室",
+        "forbidden_words": [
+          "本棚",
+          "貸し出し",
+          "静か"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "学校生活",
+        "sub_category": "学びの場",
+        "word": "運動会",
+        "forbidden_words": [
+          "校庭",
+          "競技",
+          "応援"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "学校生活",
+        "sub_category": "学びの場",
+        "word": "上履き",
+        "forbidden_words": [
+          "校舎",
+          "履き替え",
+          "白い靴"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "学校生活",
+        "sub_category": "学びの場",
+        "word": "時間割",
+        "forbidden_words": [
+          "曜日",
+          "科目",
+          "予定"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "学校生活",
+        "sub_category": "学びの場",
+        "word": "理科室",
+        "forbidden_words": [
+          "実験",
+          "ビーカー",
+          "授業"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "学校生活",
+        "sub_category": "学びの場",
+        "word": "校庭",
+        "forbidden_words": [
+          "遊具",
+          "休み時間",
+          "屋外"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "交通と町並み",
+        "sub_category": "移動と街角",
+        "word": "改札口",
+        "forbidden_words": [
+          "駅",
+          "通過",
+          "交通系カード"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "交通と町並み",
+        "sub_category": "移動と街角",
+        "word": "切符",
+        "forbidden_words": [
+          "乗車",
+          "運賃",
+          "紙"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "交通と町並み",
+        "sub_category": "移動と街角",
+        "word": "路線図",
+        "forbidden_words": [
+          "駅名",
+          "乗り換え",
+          "線"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "交通と町並み",
+        "sub_category": "移動と街角",
+        "word": "バス停",
+        "forbidden_words": [
+          "時刻表",
+          "乗り場",
+          "待つ"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "交通と町並み",
+        "sub_category": "移動と街角",
+        "word": "歩道橋",
+        "forbidden_words": [
+          "階段",
+          "道路",
+          "渡る"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "交通と町並み",
+        "sub_category": "移動と街角",
+        "word": "横断歩道",
+        "forbidden_words": [
+          "白い線",
+          "信号",
+          "歩行者"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "交通と町並み",
+        "sub_category": "移動と街角",
+        "word": "自転車置き場",
+        "forbidden_words": [
+          "駐輪",
+          "二輪",
+          "鍵"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "交通と町並み",
+        "sub_category": "移動と街角",
+        "word": "駅弁",
+        "forbidden_words": [
+          "列車",
+          "旅",
+          "ご当地料理"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "交通と町並み",
+        "sub_category": "移動と街角",
+        "word": "商店街",
+        "forbidden_words": [
+          "アーケード",
+          "個人商店",
+          "買い物"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "交通と町並み",
+        "sub_category": "移動と街角",
+        "word": "宅配便",
+        "forbidden_words": [
+          "荷物",
+          "配達",
+          "受け取り"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "手仕事と工芸",
+        "sub_category": "伝統の道具",
+        "word": "折り紙",
+        "forbidden_words": [
+          "折る",
+          "一枚",
+          "鶴"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "手仕事と工芸",
+        "sub_category": "伝統の道具",
+        "word": "和紙",
+        "forbidden_words": [
+          "繊維",
+          "手すき",
+          "丈夫"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "手仕事と工芸",
+        "sub_category": "伝統の道具",
+        "word": "陶芸",
+        "forbidden_words": [
+          "粘土",
+          "ろくろ",
+          "窯"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "手仕事と工芸",
+        "sub_category": "伝統の道具",
+        "word": "染め物",
+        "forbidden_words": [
+          "布",
+          "色",
+          "模様"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "手仕事と工芸",
+        "sub_category": "伝統の道具",
+        "word": "竹細工",
+        "forbidden_words": [
+          "編む",
+          "かご",
+          "素材"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "手仕事と工芸",
+        "sub_category": "伝統の道具",
+        "word": "木彫り",
+        "forbidden_words": [
+          "彫刻刀",
+          "木材",
+          "立体"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "手仕事と工芸",
+        "sub_category": "伝統の道具",
+        "word": "風呂敷",
+        "forbidden_words": [
+          "包む",
+          "四角い布",
+          "結ぶ"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "手仕事と工芸",
+        "sub_category": "伝統の道具",
+        "word": "うちわ",
+        "forbidden_words": [
+          "扇ぐ",
+          "竹骨",
+          "夏"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "手仕事と工芸",
+        "sub_category": "伝統の道具",
+        "word": "提灯",
+        "forbidden_words": [
+          "明かり",
+          "紙",
+          "祭り"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "手仕事と工芸",
+        "sub_category": "伝統の道具",
+        "word": "こけし",
+        "forbidden_words": [
+          "木製",
+          "人形",
+          "東北"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "買い物とお店",
+        "sub_category": "身近な売り場",
+        "word": "八百屋",
+        "forbidden_words": [
+          "野菜",
+          "果物",
+          "青果"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "買い物とお店",
+        "sub_category": "身近な売り場",
+        "word": "魚屋",
+        "forbidden_words": [
+          "鮮魚",
+          "切り身",
+          "市場"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "買い物とお店",
+        "sub_category": "身近な売り場",
+        "word": "パン屋",
+        "forbidden_words": [
+          "小麦粉",
+          "焼きたて",
+          "香り"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "買い物とお店",
+        "sub_category": "身近な売り場",
+        "word": "花屋",
+        "forbidden_words": [
+          "花束",
+          "切り花",
+          "贈り物"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "買い物とお店",
+        "sub_category": "身近な売り場",
+        "word": "文房具店",
+        "forbidden_words": [
+          "ノート",
+          "ペン",
+          "学用品"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "買い物とお店",
+        "sub_category": "身近な売り場",
+        "word": "レジ袋",
+        "forbidden_words": [
+          "会計",
+          "持ち帰り",
+          "買い物"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "買い物とお店",
+        "sub_category": "身近な売り場",
+        "word": "買い物かご",
+        "forbidden_words": [
+          "商品",
+          "持ち手",
+          "店内"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "買い物とお店",
+        "sub_category": "身近な売り場",
+        "word": "値札",
+        "forbidden_words": [
+          "価格",
+          "商品棚",
+          "表示"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "買い物とお店",
+        "sub_category": "身近な売り場",
+        "word": "試着室",
+        "forbidden_words": [
+          "服",
+          "鏡",
+          "サイズ"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "買い物とお店",
+        "sub_category": "身近な売り場",
+        "word": "領収書",
+        "forbidden_words": [
+          "支払い",
+          "金額",
+          "証明"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "遊びと趣味",
+        "sub_category": "手と頭を使う遊び",
+        "word": "けん玉",
+        "forbidden_words": [
+          "玉",
+          "皿",
+          "ひも"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "遊びと趣味",
+        "sub_category": "手と頭を使う遊び",
+        "word": "あやとり",
+        "forbidden_words": [
+          "毛糸",
+          "指",
+          "形"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "遊びと趣味",
+        "sub_category": "手と頭を使う遊び",
+        "word": "すごろく",
+        "forbidden_words": [
+          "さいころ",
+          "マス",
+          "進む"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "遊びと趣味",
+        "sub_category": "手と頭を使う遊び",
+        "word": "かるた",
+        "forbidden_words": [
+          "読み札",
+          "取り札",
+          "正月"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "遊びと趣味",
+        "sub_category": "手と頭を使う遊び",
+        "word": "凧揚げ",
+        "forbidden_words": [
+          "風",
+          "空",
+          "糸"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "遊びと趣味",
+        "sub_category": "手と頭を使う遊び",
+        "word": "シャボン玉",
+        "forbidden_words": [
+          "泡",
+          "息",
+          "虹色"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "遊びと趣味",
+        "sub_category": "手と頭を使う遊び",
+        "word": "砂時計",
+        "forbidden_words": [
+          "砂粒",
+          "時間",
+          "ガラス"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "遊びと趣味",
+        "sub_category": "手と頭を使う遊び",
+        "word": "虫眼鏡",
+        "forbidden_words": [
+          "拡大",
+          "レンズ",
+          "観察"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "遊びと趣味",
+        "sub_category": "手と頭を使う遊び",
+        "word": "双眼鏡",
+        "forbidden_words": [
+          "両目",
+          "遠く",
+          "野鳥"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "遊びと趣味",
+        "sub_category": "手と頭を使う遊び",
+        "word": "パズル",
+        "forbidden_words": [
+          "ピース",
+          "組み合わせ",
+          "完成"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "庭と植物",
+        "sub_category": "育てる楽しみ",
+        "word": "盆栽",
+        "forbidden_words": [
+          "小さな鉢",
+          "剪定",
+          "樹木"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "庭と植物",
+        "sub_category": "育てる楽しみ",
+        "word": "苗木",
+        "forbidden_words": [
+          "植える",
+          "若い木",
+          "根"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "庭と植物",
+        "sub_category": "育てる楽しみ",
+        "word": "じょうろ",
+        "forbidden_words": [
+          "水やり",
+          "注ぎ口",
+          "庭"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "庭と植物",
+        "sub_category": "育てる楽しみ",
+        "word": "植木鉢",
+        "forbidden_words": [
+          "土",
+          "底穴",
+          "園芸"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "庭と植物",
+        "sub_category": "育てる楽しみ",
+        "word": "花壇",
+        "forbidden_words": [
+          "花",
+          "土づくり",
+          "庭"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "庭と植物",
+        "sub_category": "育てる楽しみ",
+        "word": "種まき",
+        "forbidden_words": [
+          "発芽",
+          "土",
+          "春"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "庭と植物",
+        "sub_category": "育てる楽しみ",
+        "word": "芝生",
+        "forbidden_words": [
+          "緑",
+          "庭",
+          "刈る"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "庭と植物",
+        "sub_category": "育てる楽しみ",
+        "word": "竹林",
+        "forbidden_words": [
+          "節",
+          "まっすぐ",
+          "群生"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "庭と植物",
+        "sub_category": "育てる楽しみ",
+        "word": "ひまわり",
+        "forbidden_words": [
+          "黄色",
+          "夏",
+          "太陽"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "庭と植物",
+        "sub_category": "育てる楽しみ",
+        "word": "どんぐり",
+        "forbidden_words": [
+          "木の実",
+          "秋",
+          "帽子"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "家事の道具",
+        "sub_category": "掃除と台所",
+        "word": "ほうき",
+        "forbidden_words": [
+          "掃く",
+          "床",
+          "柄"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "家事の道具",
+        "sub_category": "掃除と台所",
+        "word": "ちりとり",
+        "forbidden_words": [
+          "ごみ",
+          "掃除",
+          "集める"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "家事の道具",
+        "sub_category": "掃除と台所",
+        "word": "雑巾",
+        "forbidden_words": [
+          "拭く",
+          "布",
+          "水"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "家事の道具",
+        "sub_category": "掃除と台所",
+        "word": "洗濯ばさみ",
+        "forbidden_words": [
+          "干す",
+          "挟む",
+          "洗濯物"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "家事の道具",
+        "sub_category": "掃除と台所",
+        "word": "アイロン",
+        "forbidden_words": [
+          "しわ",
+          "熱",
+          "衣服"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "家事の道具",
+        "sub_category": "掃除と台所",
+        "word": "まな板",
+        "forbidden_words": [
+          "包丁",
+          "切る",
+          "台所"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "家事の道具",
+        "sub_category": "掃除と台所",
+        "word": "おたま",
+        "forbidden_words": [
+          "汁物",
+          "すくう",
+          "鍋"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "家事の道具",
+        "sub_category": "掃除と台所",
+        "word": "しゃもじ",
+        "forbidden_words": [
+          "ご飯",
+          "よそう",
+          "炊飯"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "家事の道具",
+        "sub_category": "掃除と台所",
+        "word": "ふきん",
+        "forbidden_words": [
+          "食器",
+          "拭く",
+          "布"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "家事の道具",
+        "sub_category": "掃除と台所",
+        "word": "湯たんぽ",
+        "forbidden_words": [
+          "お湯",
+          "寝具",
+          "暖かい"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生き物",
+        "sub_category": "水辺と野山",
+        "word": "金魚",
+        "forbidden_words": [
+          "水槽",
+          "尾びれ",
+          "観賞"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生き物",
+        "sub_category": "水辺と野山",
+        "word": "めだか",
+        "forbidden_words": [
+          "小川",
+          "小魚",
+          "群れ"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生き物",
+        "sub_category": "水辺と野山",
+        "word": "すずめ",
+        "forbidden_words": [
+          "小鳥",
+          "街角",
+          "茶色"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生き物",
+        "sub_category": "水辺と野山",
+        "word": "つばめ",
+        "forbidden_words": [
+          "巣",
+          "軒先",
+          "春"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生き物",
+        "sub_category": "水辺と野山",
+        "word": "てんとう虫",
+        "forbidden_words": [
+          "赤い羽",
+          "黒い点",
+          "葉"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生き物",
+        "sub_category": "水辺と野山",
+        "word": "かたつむり",
+        "forbidden_words": [
+          "殻",
+          "雨の日",
+          "ゆっくり"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生き物",
+        "sub_category": "水辺と野山",
+        "word": "ほたる",
+        "forbidden_words": [
+          "光",
+          "夏の夜",
+          "川辺"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生き物",
+        "sub_category": "水辺と野山",
+        "word": "こおろぎ",
+        "forbidden_words": [
+          "秋",
+          "鳴き声",
+          "草むら"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生き物",
+        "sub_category": "水辺と野山",
+        "word": "かえる",
+        "forbidden_words": [
+          "水辺",
+          "跳ねる",
+          "おたまじゃくし"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生き物",
+        "sub_category": "水辺と野山",
+        "word": "りす",
+        "forbidden_words": [
+          "木の実",
+          "しっぽ",
+          "木登り"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学と宇宙",
+        "sub_category": "観察と計測",
+        "word": "望遠鏡",
+        "forbidden_words": [
+          "遠く",
+          "レンズ",
+          "星"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学と宇宙",
+        "sub_category": "観察と計測",
+        "word": "星座",
+        "forbidden_words": [
+          "夜空",
+          "星の並び",
+          "形"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学と宇宙",
+        "sub_category": "観察と計測",
+        "word": "惑星",
+        "forbidden_words": [
+          "太陽",
+          "公転",
+          "天体"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学と宇宙",
+        "sub_category": "観察と計測",
+        "word": "月食",
+        "forbidden_words": [
+          "地球の影",
+          "満月",
+          "天文"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学と宇宙",
+        "sub_category": "観察と計測",
+        "word": "流れ星",
+        "forbidden_words": [
+          "夜空",
+          "一瞬",
+          "光の筋"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学と宇宙",
+        "sub_category": "観察と計測",
+        "word": "気圧計",
+        "forbidden_words": [
+          "空気",
+          "天気",
+          "測定"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学と宇宙",
+        "sub_category": "観察と計測",
+        "word": "温度計",
+        "forbidden_words": [
+          "気温",
+          "目盛り",
+          "測る"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学と宇宙",
+        "sub_category": "観察と計測",
+        "word": "方位磁針",
+        "forbidden_words": [
+          "北",
+          "針",
+          "方向"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学と宇宙",
+        "sub_category": "観察と計測",
+        "word": "顕微鏡",
+        "forbidden_words": [
+          "小さいもの",
+          "拡大",
+          "観察"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学と宇宙",
+        "sub_category": "観察と計測",
+        "word": "化石",
+        "forbidden_words": [
+          "地層",
+          "昔の生物",
+          "石"
+        ]
+      }
+    ],
     "charades": [
       {
         "game_type": "sessiz_sinema",
