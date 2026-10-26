@@ -25704,6 +25704,305 @@
           "高さが変わる",
           "相対運動"
         ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "植物のしくみ",
+        "sub_category": "茎の成長",
+        "word": "形成層",
+        "forbidden_words": [
+          "木の幹",
+          "太く成長する",
+          "年輪をつくる"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "植物のしくみ",
+        "sub_category": "種子の構造",
+        "word": "種皮",
+        "forbidden_words": [
+          "種子の外側",
+          "中身を守る",
+          "薄い覆い"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "植物のしくみ",
+        "sub_category": "葉の構造",
+        "word": "托葉",
+        "forbidden_words": [
+          "葉の付け根",
+          "小さな付属物",
+          "茎の節"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "植物のしくみ",
+        "sub_category": "花の構造",
+        "word": "子房",
+        "forbidden_words": [
+          "雌しべの下部",
+          "胚珠を包む",
+          "果実になる"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "植物のしくみ",
+        "sub_category": "果実の構造",
+        "word": "果皮",
+        "forbidden_words": [
+          "実の外側",
+          "種を包む",
+          "厚さが異なる"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "台所の道具",
+        "sub_category": "調理の計測",
+        "word": "計量カップ",
+        "forbidden_words": [
+          "液体の分量",
+          "目盛り",
+          "料理の準備"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "台所の道具",
+        "sub_category": "調理の下ごしらえ",
+        "word": "漉し器",
+        "forbidden_words": [
+          "細かな網",
+          "かすを取り除く",
+          "液体を通す"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "本と文字",
+        "sub_category": "印刷の準備",
+        "word": "校正記号",
+        "forbidden_words": [
+          "原稿の修正",
+          "赤字で指示",
+          "印刷前の確認"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "本と文字",
+        "sub_category": "文字の配置",
+        "word": "字間",
+        "forbidden_words": [
+          "文字と文字",
+          "詰めて調整",
+          "組版"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "本と文字",
+        "sub_category": "本の構成",
+        "word": "ノンブル",
+        "forbidden_words": [
+          "ページの端",
+          "通し番号",
+          "本の印刷"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "光の科学",
+        "sub_category": "光学の基礎",
+        "word": "光軸",
+        "forbidden_words": [
+          "レンズの中心",
+          "一直線",
+          "光学系"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "光の科学",
+        "sub_category": "光の性質",
+        "word": "反射率",
+        "forbidden_words": [
+          "入射した光",
+          "跳ね返る割合",
+          "表面の性質"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "光の科学",
+        "sub_category": "光の分解",
+        "word": "回折格子",
+        "forbidden_words": [
+          "細かな溝",
+          "色を分ける",
+          "干渉"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "光の科学",
+        "sub_category": "光学部品",
+        "word": "偏光板",
+        "forbidden_words": [
+          "特定方向の振動",
+          "まぶしさを抑える",
+          "フィルター"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "光の科学",
+        "sub_category": "レンズの特性",
+        "word": "収差",
+        "forbidden_words": [
+          "像のぼやけ",
+          "レンズの欠点",
+          "理想との差"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "光の科学",
+        "sub_category": "情報を伝える素材",
+        "word": "光ファイバー",
+        "forbidden_words": [
+          "ガラスの細い線",
+          "通信回線",
+          "内部で光が進む"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "季節の空",
+        "sub_category": "月の見え方",
+        "word": "朧月",
+        "forbidden_words": [
+          "春の夜",
+          "かすんだ空",
+          "ぼんやりした輪郭"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "季節の空",
+        "sub_category": "大気の光学現象",
+        "word": "月暈",
+        "forbidden_words": [
+          "月の周り",
+          "光の輪",
+          "薄い雲"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "街と建物",
+        "sub_category": "扉のしくみ",
+        "word": "引き戸",
+        "forbidden_words": [
+          "横に滑らせる",
+          "レール",
+          "開け閉め"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "街と建物",
+        "sub_category": "道の素材",
+        "word": "石畳",
+        "forbidden_words": [
+          "石を敷く",
+          "歩く道",
+          "舗装"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "街と建物",
+        "sub_category": "道路の構造",
+        "word": "縁石",
+        "forbidden_words": [
+          "歩道の端",
+          "車道との境目",
+          "細長いブロック"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "地形と観測",
+        "sub_category": "地形の成り立ち",
+        "word": "断層崖",
+        "forbidden_words": [
+          "地殻のずれ",
+          "急な斜面",
+          "地形の段差"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "地形と観測",
+        "sub_category": "自然の調査",
+        "word": "定点観測",
+        "forbidden_words": [
+          "同じ場所",
+          "時間ごとの記録",
+          "変化を比べる"
+        ]
       }
     ],
     "charades": [
