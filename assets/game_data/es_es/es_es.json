@@ -14144,8 +14144,8 @@
       "main_category": "Estadística",
       "sub_category": "Estadística",
       "difficulty": "fácil",
-      "question": "¿Cómo se llama el valor que aparece más veces en un conjunto de observaciones?",
-      "answer": "moda"
+      "question": "¿Cómo se llama el punto medio de un intervalo utilizado para agrupar datos en una tabla estadística?",
+      "answer": "marca de clase"
     },
     {
       "game_type": "kelime_ustasi",
@@ -14584,8 +14584,8 @@
       "main_category": "Cerámica y alfarería",
       "sub_category": "Técnicas artesanas",
       "difficulty": "difícil",
-      "question": "¿Qué pieza rígida de yeso se utiliza para reproducir una forma decorativa en serie?",
-      "answer": "moldura de escayola"
+      "question": "¿Qué pieza porosa de yeso se emplea para reproducir formas vertiendo barbotina en su interior?",
+      "answer": "molde de escayola"
     },
     {
       "game_type": "kelime_ustasi",
@@ -15114,7 +15114,7 @@
       "main_category": "Meteorología",
       "sub_category": "Fenómenos atmosféricos",
       "difficulty": "fácil",
-      "question": "¿Qué límite atmosférico aparece cuando una masa de aire frío alcanza a otra más templada y eleva el aire cálido?",
+      "question": "¿Cómo se llama el fenómeno meteorológico que ocurre cuando una masa fría más rápida alcanza a otra menos fría y eleva el aire templado?",
       "answer": "frente ocluido"
     },
     {
@@ -15156,6 +15156,1286 @@
       "difficulty": "difícil",
       "question": "¿Qué línea de una matriz cuadrada une sus elementos desde la esquina superior izquierda hasta la inferior derecha?",
       "answer": "diagonal principal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Estructura terrestre",
+      "difficulty": "medio",
+      "question": "¿Qué pliegue de los estratos tiene forma de arco y presenta los materiales más antiguos en su núcleo?",
+      "answer": "anticlinal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Estructura terrestre",
+      "difficulty": "medio",
+      "question": "¿Qué pliegue de las capas rocosas suele tener forma de cubeta y materiales más jóvenes en su centro?",
+      "answer": "sinclinal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Estructura terrestre",
+      "difficulty": "difícil",
+      "question": "¿Qué fractura tectónica desplaza hacia abajo el bloque situado sobre el plano de ruptura?",
+      "answer": "falla normal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Estructura terrestre",
+      "difficulty": "difícil",
+      "question": "¿Qué fractura tectónica eleva el bloque superior respecto al inferior por compresión?",
+      "answer": "falla inversa"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Estructura terrestre",
+      "difficulty": "medio",
+      "question": "¿Qué proceso desgasta a distinta velocidad rocas de diferente resistencia y crea relieves contrastados?",
+      "answer": "erosión diferencial"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Rocas y minerales",
+      "difficulty": "medio",
+      "question": "¿Qué roca sedimentaria contiene una mezcla natural de arcilla y carbonato cálcico?",
+      "answer": "marga"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Rocas y minerales",
+      "difficulty": "medio",
+      "question": "¿Qué roca porosa se forma por precipitación de carbonato cálcico en manantiales y cursos de agua?",
+      "answer": "travertino"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Cuevas y volcanes",
+      "difficulty": "difícil",
+      "question": "¿Qué nombre general reciben los depósitos minerales que crecen dentro de las cuevas?",
+      "answer": "espeleotema"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Cuevas y volcanes",
+      "difficulty": "medio",
+      "question": "¿Cómo se llama la masa de roca fundida que fluye por la superficie durante una erupción?",
+      "answer": "colada de lava"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Cuevas y volcanes",
+      "difficulty": "medio",
+      "question": "¿Qué relieve en forma de montaña se construye alrededor de una abertura por acumulación de materiales expulsados?",
+      "answer": "cono volcánico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Cuevas y volcanes",
+      "difficulty": "medio",
+      "question": "¿Qué gran depresión circular se forma al hundirse parte de la cima de un edificio eruptivo?",
+      "answer": "caldera volcánica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Cuevas y volcanes",
+      "difficulty": "difícil",
+      "question": "¿Qué estructura redondeada adquiere el material fundido al enfriarse rápidamente bajo el agua?",
+      "answer": "lava almohadillada"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Estructura terrestre",
+      "difficulty": "difícil",
+      "question": "¿Qué cuerpo de roca solidificada corta transversalmente las capas más antiguas?",
+      "answer": "dique ígneo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Estructura terrestre",
+      "difficulty": "difícil",
+      "question": "¿Qué enorme masa de roca intrusiva se consolida a gran profundidad y puede aflorar tras la erosión?",
+      "answer": "batolito"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Geología",
+      "sub_category": "Estructura terrestre",
+      "difficulty": "difícil",
+      "question": "¿Qué superficie geológica separa capas antiguas inclinadas de otras más recientes depositadas con distinta orientación?",
+      "answer": "discordancia angular"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Medición del terreno",
+      "difficulty": "medio",
+      "question": "¿Qué medida expresa el desnivel de un terreno por cada cien unidades de distancia horizontal?",
+      "answer": "pendiente porcentual"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Medición del terreno",
+      "difficulty": "medio",
+      "question": "¿Qué número en un plano indica la elevación de un punto respecto a una referencia vertical?",
+      "answer": "cota altimétrica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Mapas y perfiles",
+      "difficulty": "medio",
+      "question": "¿Qué línea de un mapa de relieve se dibuja más gruesa y lleva anotada su elevación para facilitar la lectura?",
+      "answer": "curva maestra"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Mapas y perfiles",
+      "difficulty": "medio",
+      "question": "¿Qué representación muestra los cambios de altura a lo largo del eje de una carretera o camino?",
+      "answer": "perfil longitudinal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Mapas y perfiles",
+      "difficulty": "medio",
+      "question": "¿Qué representación muestra la forma del terreno en un corte perpendicular al eje de una obra lineal?",
+      "answer": "perfil transversal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Medición del terreno",
+      "difficulty": "medio",
+      "question": "¿Qué señal estable sobre el terreno sirve de referencia para medir posiciones con precisión?",
+      "answer": "punto geodésico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Medición del terreno",
+      "difficulty": "difícil",
+      "question": "¿Qué método topográfico calcula posiciones desde puntos conocidos mediante medidas angulares cruzadas?",
+      "answer": "triangulación"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Medición del terreno",
+      "difficulty": "medio",
+      "question": "¿Qué operación topográfica determina diferencias de altura entre puntos del terreno?",
+      "answer": "nivelación"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Mapas y perfiles",
+      "difficulty": "medio",
+      "question": "¿Qué parte de la representación topográfica muestra posiciones horizontales sin considerar las alturas?",
+      "answer": "planimetría"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Mapas y perfiles",
+      "difficulty": "medio",
+      "question": "¿Qué rama de la topografía se ocupa de medir y representar elevaciones?",
+      "answer": "altimetría"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Cartografía",
+      "difficulty": "difícil",
+      "question": "¿Qué representación cartográfica utiliza una superficie imaginaria que toca el globo a lo largo de uno o dos paralelos?",
+      "answer": "proyección cónica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Cartografía",
+      "difficulty": "difícil",
+      "question": "¿Qué representación cartográfica sitúa los puntos terrestres sobre un plano tangente a la esfera?",
+      "answer": "proyección azimutal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Cartografía",
+      "difficulty": "difícil",
+      "question": "¿Qué sistema de localización divide la Tierra en husos de seis grados y expresa posiciones mediante valores métricos?",
+      "answer": "coordenadas UTM"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Topografía",
+      "sub_category": "Cartografía",
+      "difficulty": "difícil",
+      "question": "¿Qué referencia matemática fija la forma y posición del modelo terrestre usado en un mapa?",
+      "answer": "datum geodésico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos clásicos",
+      "difficulty": "medio",
+      "question": "¿Qué elemento exterior en forma de arco transmite el empuje de una cubierta a un apoyo separado del muro?",
+      "answer": "arbotante"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos clásicos",
+      "difficulty": "medio",
+      "question": "¿Qué pieza remata la parte superior de una columna y recibe el peso de los elementos que sostiene?",
+      "answer": "capitel"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos clásicos",
+      "difficulty": "medio",
+      "question": "¿Cómo se llama la parte alargada de una columna situada entre la base y el remate superior?",
+      "answer": "fuste"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos clásicos",
+      "difficulty": "medio",
+      "question": "¿Qué elemento inferior sirve de apoyo al cuerpo vertical de una columna clásica?",
+      "answer": "basa"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos clásicos",
+      "difficulty": "medio",
+      "question": "¿Qué viga horizontal descansa directamente sobre las columnas en un edificio clásico?",
+      "answer": "arquitrabe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos clásicos",
+      "difficulty": "medio",
+      "question": "¿Qué banda horizontal decorada se encuentra entre la viga inferior y la cornisa de un entablamento clásico?",
+      "answer": "friso"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos clásicos",
+      "difficulty": "medio",
+      "question": "¿Qué remate triangular suele coronar la fachada de un templo clásico?",
+      "answer": "frontón"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos clásicos",
+      "difficulty": "medio",
+      "question": "¿Qué ventana circular pequeña se abre en una fachada o una cubierta?",
+      "answer": "óculo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos góticos",
+      "difficulty": "difícil",
+      "question": "¿Qué galería estrecha recorre un nivel intermedio de algunos edificios góticos?",
+      "answer": "triforio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos góticos",
+      "difficulty": "difícil",
+      "question": "¿Qué zona alta de una nave incorpora ventanas que iluminan el interior por encima de las cubiertas laterales?",
+      "answer": "claristorio"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos góticos",
+      "difficulty": "medio",
+      "question": "¿Qué espacio semicircular o poligonal suele cerrar el extremo de la cabecera de una iglesia?",
+      "answer": "ábside"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Elementos góticos",
+      "difficulty": "difícil",
+      "question": "¿Qué pasillo rodea la parte posterior del altar principal en algunas iglesias?",
+      "answer": "girola"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Cubiertas",
+      "difficulty": "medio",
+      "question": "¿Qué cubierta se produce al cruzar perpendicularmente dos superficies semicilíndricas de igual altura?",
+      "answer": "bóveda de arista"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Cubiertas",
+      "difficulty": "difícil",
+      "question": "¿Qué cubierta gótica se apoya en nervios que se cruzan y delimitan paños?",
+      "answer": "bóveda de crucería"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Cubiertas",
+      "difficulty": "difícil",
+      "question": "¿Qué superficie triangular curva permite apoyar una cúpula circular sobre una planta cuadrada?",
+      "answer": "pechina"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Muros y acabados",
+      "difficulty": "medio",
+      "question": "¿Qué bloque de piedra labrada se coloca en hiladas para construir muros?",
+      "answer": "sillar"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Muros y acabados",
+      "difficulty": "medio",
+      "question": "¿Qué técnica levanta muros con piedras irregulares unidas con mortero o colocadas en seco?",
+      "answer": "mampostería"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Muros y acabados",
+      "difficulty": "medio",
+      "question": "¿Qué capa de mortero se aplica sobre un muro para regularizar su superficie antes del acabado?",
+      "answer": "enfoscado"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Muros y acabados",
+      "difficulty": "medio",
+      "question": "¿Qué revestimiento fino de mortero protege y termina la superficie exterior de un muro?",
+      "answer": "revoco"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Arquitectura",
+      "sub_category": "Muros y acabados",
+      "difficulty": "medio",
+      "question": "¿Qué acabado muy fino alisa una pared antes de pintarla?",
+      "answer": "enlucido"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Imprenta y edición",
+      "sub_category": "Composición tipográfica",
+      "difficulty": "difícil",
+      "question": "¿Qué ajuste modifica el espacio entre pares concretos de letras para equilibrar su apariencia?",
+      "answer": "kerning"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Imprenta y edición",
+      "sub_category": "Composición tipográfica",
+      "difficulty": "difícil",
+      "question": "¿Qué error de composición deja la última línea de un párrafo aislada al comienzo de la página siguiente?",
+      "answer": "viuda tipográfica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Imprenta y edición",
+      "sub_category": "Composición tipográfica",
+      "difficulty": "difícil",
+      "question": "¿Qué error de composición deja la primera línea de un párrafo sola al final de una página?",
+      "answer": "huérfana tipográfica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Imprenta y edición",
+      "sub_category": "Producción de libros",
+      "difficulty": "difícil",
+      "question": "¿Qué marca impresa ayuda a identificar el orden de los pliegos antes de encuadernar?",
+      "answer": "signatura tipográfica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Imprenta y edición",
+      "sub_category": "Producción de libros",
+      "difficulty": "medio",
+      "question": "¿Qué conjunto de hojas dobladas unas dentro de otras forma una unidad de un libro cosido?",
+      "answer": "cuadernillo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Imprenta y edición",
+      "sub_category": "Producción de libros",
+      "difficulty": "medio",
+      "question": "¿Qué proceso recorta papel o cartón con una forma determinada usando una matriz de corte?",
+      "answer": "troquelado"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Imprenta y edición",
+      "sub_category": "Producción de libros",
+      "difficulty": "medio",
+      "question": "¿Qué operación crea una marca lineal en cartulina para facilitar su doblez sin agrietarla?",
+      "answer": "hendido"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Imprenta y edición",
+      "sub_category": "Producción de libros",
+      "difficulty": "fácil",
+      "question": "¿Qué operación transforma una hoja plana en varias caras mediante dobleces ordenados?",
+      "answer": "plegado"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Imprenta y edición",
+      "sub_category": "Producción de libros",
+      "difficulty": "medio",
+      "question": "¿Qué tipo de hoja lleva una capa superficial que mejora la reproducción de fotografías impresas?",
+      "answer": "papel estucado"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Imprenta y edición",
+      "sub_category": "Propiedades del papel",
+      "difficulty": "medio",
+      "question": "¿Qué propiedad indica cuánto impide una hoja que se vea el texto impreso en la otra cara?",
+      "answer": "opacidad del papel"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Imprenta y edición",
+      "sub_category": "Propiedades del papel",
+      "difficulty": "medio",
+      "question": "¿Qué dibujo visible a contraluz se incorpora a una hoja durante su fabricación?",
+      "answer": "marca de agua"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Capas y movimientos",
+      "difficulty": "difícil",
+      "question": "¿Qué zona de una masa de agua presenta un cambio rápido de salinidad con la profundidad?",
+      "answer": "haloclina"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Capas y movimientos",
+      "difficulty": "difícil",
+      "question": "¿Qué capa del océano muestra un cambio acusado de densidad al descender?",
+      "answer": "picnoclina"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Capas y movimientos",
+      "difficulty": "medio",
+      "question": "¿Qué proceso hace ascender agua profunda y rica en nutrientes cerca del litoral?",
+      "answer": "afloramiento costero"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Mareas y oleaje",
+      "difficulty": "medio",
+      "question": "¿Qué oscilación del nivel del mar tiene mayor amplitud cuando el Sol, la Luna y la Tierra están alineados?",
+      "answer": "marea viva"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Mareas y oleaje",
+      "difficulty": "medio",
+      "question": "¿Qué movimiento regular del mar llega desde temporales lejanos incluso con viento local débil?",
+      "answer": "oleaje de fondo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Costas y fondos",
+      "difficulty": "medio",
+      "question": "¿Qué transporte de arena paralelo a la costa produce la llegada oblicua de las olas?",
+      "answer": "deriva litoral"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Costas y fondos",
+      "difficulty": "medio",
+      "question": "¿Qué lengua estrecha de sedimentos crece desde la costa hacia el mar por acción de las corrientes?",
+      "answer": "flecha litoral"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Costas y fondos",
+      "difficulty": "medio",
+      "question": "¿Qué formación coralina se dispone paralela a la costa y queda separada de ella por una laguna?",
+      "answer": "arrecife barrera"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Costas y fondos",
+      "difficulty": "medio",
+      "question": "¿Qué zona de agua relativamente tranquila queda entre la costa y una formación coralina exterior?",
+      "answer": "laguna arrecifal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Costas y fondos",
+      "difficulty": "medio",
+      "question": "¿Qué prolongación submarina de poca pendiente bordea los continentes antes de descender bruscamente?",
+      "answer": "plataforma continental"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Costas y fondos",
+      "difficulty": "medio",
+      "question": "¿Qué gran cordillera submarina se forma donde las placas tectónicas se separan?",
+      "answer": "dorsal oceánica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Costas y fondos",
+      "difficulty": "difícil",
+      "question": "¿Qué estructura del fondo marino expulsa agua caliente cargada de minerales?",
+      "answer": "chimenea hidrotermal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Regiones marinas",
+      "difficulty": "difícil",
+      "question": "¿Qué región marina abarca las aguas poco profundas situadas sobre el borde sumergido de un continente?",
+      "answer": "zona nerítica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Regiones marinas",
+      "difficulty": "medio",
+      "question": "¿Qué región del océano comprende las aguas abiertas alejadas del fondo?",
+      "answer": "zona pelágica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Oceanografía",
+      "sub_category": "Regiones marinas",
+      "difficulty": "medio",
+      "question": "¿Qué región marina incluye el lecho y los organismos que viven sobre él o en sus sedimentos?",
+      "answer": "zona bentónica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Pantallas y datos",
+      "difficulty": "fácil",
+      "question": "¿Qué medida en hercios indica cuántas veces por segundo se actualiza una pantalla?",
+      "answer": "tasa de refresco"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Pantallas y datos",
+      "difficulty": "medio",
+      "question": "¿Qué proceso convierte formas vectoriales en una cuadrícula de puntos de imagen?",
+      "answer": "rasterizado"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Pantallas y datos",
+      "difficulty": "medio",
+      "question": "¿Qué método reduce el tamaño de un archivo y permite recuperar exactamente los datos originales?",
+      "answer": "compresión sin pérdida"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Pantallas y datos",
+      "difficulty": "medio",
+      "question": "¿Qué método reduce el tamaño descartando información que no se recupera al descomprimir?",
+      "answer": "compresión con pérdida"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Pantallas y datos",
+      "difficulty": "medio",
+      "question": "¿Qué valor calculado a partir de los datos permite detectar cambios accidentales en un archivo?",
+      "answer": "suma de verificación"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Pantallas y datos",
+      "difficulty": "medio",
+      "question": "¿Qué proceso divide un texto en unidades pequeñas que puede analizar un programa?",
+      "answer": "tokenización"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Protección y copias",
+      "difficulty": "medio",
+      "question": "¿Qué método de protección de datos usa la misma clave para codificar y recuperar la información?",
+      "answer": "cifrado simétrico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Protección y copias",
+      "difficulty": "difícil",
+      "question": "¿Qué método de protección de datos emplea una clave pública y otra privada relacionadas matemáticamente?",
+      "answer": "cifrado asimétrico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Protección y copias",
+      "difficulty": "medio",
+      "question": "¿Qué procedimiento de acceso exige pruebas de identidad de clases distintas, como contraseña y código temporal?",
+      "answer": "autenticación multifactor"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Protección y copias",
+      "difficulty": "medio",
+      "question": "¿Qué respaldo guarda solo los cambios realizados desde el último respaldo de cualquier tipo?",
+      "answer": "copia incremental"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Protección y copias",
+      "difficulty": "medio",
+      "question": "¿Qué respaldo guarda los cambios realizados desde la última copia completa?",
+      "answer": "copia diferencial"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Componentes y programas",
+      "difficulty": "medio",
+      "question": "¿Qué tipo de almacenamiento pierde su contenido cuando se corta la alimentación eléctrica?",
+      "answer": "memoria volátil"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Componentes y programas",
+      "difficulty": "medio",
+      "question": "¿Qué tipo de almacenamiento conserva los datos aunque se apague el dispositivo?",
+      "answer": "memoria no volátil"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Componentes y programas",
+      "difficulty": "medio",
+      "question": "¿Qué programa integrado en un aparato controla sus funciones básicas y se guarda en memoria interna?",
+      "answer": "firmware"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Componentes y programas",
+      "difficulty": "medio",
+      "question": "¿Qué programa permite al sistema operativo comunicarse correctamente con un periférico?",
+      "answer": "controlador de dispositivo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Componentes y programas",
+      "difficulty": "medio",
+      "question": "¿Qué estructura lógica organiza nombres, carpetas y datos dentro de un volumen de almacenamiento?",
+      "answer": "sistema de archivos"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Componentes y programas",
+      "difficulty": "fácil",
+      "question": "¿Qué forma de interacción permite manejar un programa mediante ventanas, iconos y menús?",
+      "answer": "interfaz gráfica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Informática cotidiana",
+      "sub_category": "Componentes y programas",
+      "difficulty": "medio",
+      "question": "¿Qué entorno permite controlar un sistema escribiendo instrucciones de texto?",
+      "answer": "línea de comandos"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Zoología",
+      "sub_category": "Adaptaciones animales",
+      "difficulty": "difícil",
+      "question": "¿Qué estado de desarrollo suspendido permite a ciertos insectos superar épocas desfavorables?",
+      "answer": "diapausa"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Zoología",
+      "sub_category": "Adaptaciones animales",
+      "difficulty": "medio",
+      "question": "¿Qué periodo de inactividad adoptan algunos animales para soportar calor y sequía?",
+      "answer": "estivación"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Zoología",
+      "sub_category": "Adaptaciones animales",
+      "difficulty": "difícil",
+      "question": "¿Qué estado de baja actividad presentan algunos reptiles durante los meses fríos?",
+      "answer": "brumación"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Zoología",
+      "sub_category": "Adaptaciones animales",
+      "difficulty": "medio",
+      "question": "¿Qué capacidad permite a algunos organismos emitir iluminación mediante reacciones químicas internas?",
+      "answer": "bioluminiscencia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Zoología",
+      "sub_category": "Adaptaciones animales",
+      "difficulty": "difícil",
+      "question": "¿Qué estrategia utiliza colores llamativos para advertir a otros animales de una defensa desagradable?",
+      "answer": "aposematismo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Zoología",
+      "sub_category": "Alimentación y reproducción",
+      "difficulty": "medio",
+      "question": "¿Qué tipo de animal obtiene alimento reteniendo partículas suspendidas en el agua?",
+      "answer": "filtrador"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Zoología",
+      "sub_category": "Alimentación y reproducción",
+      "difficulty": "medio",
+      "question": "¿Qué tipo de animal se alimenta principalmente del líquido azucarado de las flores?",
+      "answer": "nectarívoro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Zoología",
+      "sub_category": "Alimentación y reproducción",
+      "difficulty": "medio",
+      "question": "¿Qué tipo de animal basa su alimentación en semillas y granos?",
+      "answer": "granívoro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Zoología",
+      "sub_category": "Alimentación y reproducción",
+      "difficulty": "medio",
+      "question": "¿Qué tipo de animal se alimenta principalmente de frutos?",
+      "answer": "frugívoro"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Zoología",
+      "sub_category": "Alimentación y reproducción",
+      "difficulty": "difícil",
+      "question": "¿Qué tipo de reproducción mantiene los huevos dentro del progenitor hasta que las crías salen de ellos?",
+      "answer": "ovovivíparo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Zoología",
+      "sub_category": "Alimentación y reproducción",
+      "difficulty": "difícil",
+      "question": "¿Qué forma de reproducción permite que se desarrolle un nuevo individuo a partir de un óvulo no fecundado?",
+      "answer": "partenogénesis"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades mecánicas",
+      "difficulty": "difícil",
+      "question": "¿Qué deterioro progresivo aparece en una pieza sometida repetidamente a cargas variables?",
+      "answer": "fatiga de materiales"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades mecánicas",
+      "difficulty": "difícil",
+      "question": "¿Qué deformación lenta puede sufrir un material al mantener una carga durante mucho tiempo?",
+      "answer": "fluencia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades mecánicas",
+      "difficulty": "medio",
+      "question": "¿Qué esfuerzo máximo soporta un material antes de quedar deformado de manera permanente?",
+      "answer": "límite elástico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades físicas",
+      "difficulty": "medio",
+      "question": "¿Qué propiedad indica la facilidad con que una sustancia permite circular corriente?",
+      "answer": "conductividad eléctrica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades físicas",
+      "difficulty": "difícil",
+      "question": "¿Qué magnitud indica cuánto cambia la dimensión de un material al variar su temperatura?",
+      "answer": "coeficiente de dilatación"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades físicas",
+      "difficulty": "medio",
+      "question": "¿Qué material se utiliza para reducir la transmisión de sonidos entre espacios?",
+      "answer": "aislante acústico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades físicas",
+      "difficulty": "difícil",
+      "question": "¿Qué propiedad permite a un material soportar temperaturas muy altas sin perder su forma?",
+      "answer": "refractariedad"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades ópticas",
+      "difficulty": "medio",
+      "question": "¿Qué propiedad permite pasar parte de la iluminación sin dejar ver con nitidez los objetos detrás?",
+      "answer": "translucidez"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades ópticas",
+      "difficulty": "fácil",
+      "question": "¿Qué propiedad impide que la iluminación atraviese un material?",
+      "answer": "opacidad"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades ópticas",
+      "difficulty": "difícil",
+      "question": "¿Qué fenómeno óptico divide un rayo incidente en dos trayectorias dentro de ciertos cristales?",
+      "answer": "birefringencia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades ópticas",
+      "difficulty": "difícil",
+      "question": "¿Qué propiedad de algunos minerales hace que cambie su color aparente según la dirección de observación?",
+      "answer": "pleocroísmo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades ópticas",
+      "difficulty": "medio",
+      "question": "¿Qué emisión de iluminación cesa casi inmediatamente al retirar la fuente que excita un material?",
+      "answer": "fluorescencia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades ópticas",
+      "difficulty": "medio",
+      "question": "¿Qué emisión de iluminación persiste durante un tiempo después de retirar la fuente de excitación?",
+      "answer": "fosforescencia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Ciencia de materiales",
+      "sub_category": "Propiedades ópticas",
+      "difficulty": "difícil",
+      "question": "¿Qué emisión de iluminación aparece al calentar ciertos minerales que almacenaron energía previamente?",
+      "answer": "termoluminiscencia"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica",
+      "sub_category": "Estructuras vegetales",
+      "difficulty": "medio",
+      "question": "¿Qué pequeño apéndice suele aparecer a ambos lados de la base de una hoja en algunas plantas?",
+      "answer": "estípula"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica",
+      "sub_category": "Estructuras vegetales",
+      "difficulty": "medio",
+      "question": "¿Qué superficie receptora del órgano femenino de una planta recibe los granos de polen?",
+      "answer": "estigma floral"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica",
+      "sub_category": "Estructuras vegetales",
+      "difficulty": "medio",
+      "question": "¿Qué estructura reproductiva contiene los óvulos y puede convertirse en fruto tras la fecundación?",
+      "answer": "ovario floral"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica",
+      "sub_category": "Estructuras vegetales",
+      "difficulty": "difícil",
+      "question": "¿Qué inflorescencia presenta unidades reproductoras sin pedúnculo a lo largo de un eje?",
+      "answer": "espiga floral"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica",
+      "sub_category": "Estructuras vegetales",
+      "difficulty": "difícil",
+      "question": "¿Qué inflorescencia agrupa muchas unidades pequeñas sobre una base común, como en la margarita?",
+      "answer": "capítulo floral"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica",
+      "sub_category": "Estructuras vegetales",
+      "difficulty": "difícil",
+      "question": "¿Qué inflorescencia presenta pequeñas unidades con pedúnculo distribuidas a lo largo de un eje central?",
+      "answer": "racimo floral"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica",
+      "sub_category": "Crecimiento vegetal",
+      "difficulty": "difícil",
+      "question": "¿Qué tejido de crecimiento produce madera nueva hacia el interior y tejidos conductores hacia el exterior?",
+      "answer": "cambium"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica",
+      "sub_category": "Crecimiento vegetal",
+      "difficulty": "medio",
+      "question": "¿Qué alteración de las hojas provoca una coloración amarillenta por falta de pigmento verde?",
+      "answer": "clorosis"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica",
+      "sub_category": "Crecimiento vegetal",
+      "difficulty": "difícil",
+      "question": "¿Qué crecimiento débil, alargado y pálido aparece en una planta que recibe muy poca iluminación?",
+      "answer": "etiolación"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica",
+      "sub_category": "Crecimiento vegetal",
+      "difficulty": "medio",
+      "question": "¿Qué parte del embrión de una semilla origina la primera raíz durante la germinación?",
+      "answer": "radícula"
     }
   ],
   "tabu": [
