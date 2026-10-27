@@ -42288,6 +42288,546 @@
         "difficulty": "簡単",
         "answer": "積雪",
         "question": "地面に降った白い氷の結晶が溶けずに重なって残っている状態は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "季節の暮らし",
+        "sub_category": "衣類の手入れ",
+        "difficulty": "普通",
+        "answer": "防虫剤",
+        "question": "衣装箱の中に置き、布を食べる小さな生き物を寄せ付けないための用品は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "季節の暮らし",
+        "sub_category": "衣類の手入れ",
+        "difficulty": "普通",
+        "answer": "毛玉取り",
+        "question": "セーターの表面にできた小さな繊維の塊を、刃やブラシで除く道具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "季節の暮らし",
+        "sub_category": "衣類の手入れ",
+        "difficulty": "簡単",
+        "answer": "靴べら",
+        "question": "かかとをつぶさずに履物へ足を入れるための、細長い補助具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "季節の暮らし",
+        "sub_category": "住まいの道具",
+        "difficulty": "普通",
+        "answer": "簾",
+        "question": "細い竹などを糸で編み、夏の日差しを和らげるため窓辺につるすものは何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "文房具と紙",
+        "sub_category": "筆記の道具",
+        "difficulty": "普通",
+        "answer": "下敷き",
+        "question": "ノートに文字を書くとき、ページの裏に挟んで筆圧を安定させる薄い板は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "文房具と紙",
+        "sub_category": "整理の道具",
+        "difficulty": "普通",
+        "answer": "綴じ紐",
+        "question": "穴を開けた書類をまとめるため、二つの穴に通して結ぶ細い用品は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "文房具と紙",
+        "sub_category": "印刷のしくみ",
+        "difficulty": "難しい",
+        "answer": "活版",
+        "question": "金属などの小さな文字の型を組み合わせ、紙にインクを押し付ける印刷方式は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "文房具と紙",
+        "sub_category": "印刷のしくみ",
+        "difficulty": "難しい",
+        "answer": "版下",
+        "question": "印刷工程で複製のもととなる、文字や図を整えて作った原稿は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "文房具と紙",
+        "sub_category": "紙の加工",
+        "difficulty": "普通",
+        "answer": "透かし",
+        "question": "紙を光にかざしたときだけ濃淡の模様が見えるようにする加工は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和の住まい",
+        "sub_category": "建具の細部",
+        "difficulty": "難しい",
+        "answer": "長押",
+        "question": "柱と柱の間を横に渡し、室内の壁面に見える化粧材は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和の住まい",
+        "sub_category": "建具の細部",
+        "difficulty": "難しい",
+        "answer": "落し掛け",
+        "question": "床の間の正面上部に渡される、細長い化粧用の横材は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和の住まい",
+        "sub_category": "庭との境界",
+        "difficulty": "難しい",
+        "answer": "犬走り",
+        "question": "建物の外壁に沿って設けられる、幅の狭い舗装部分は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和の住まい",
+        "sub_category": "庭との境界",
+        "difficulty": "難しい",
+        "answer": "袖垣",
+        "question": "庭の一部をゆるやかに仕切るため、建物の脇などに短く設ける囲いは何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食の知恵",
+        "sub_category": "保存と下ごしらえ",
+        "difficulty": "普通",
+        "answer": "塩抜き",
+        "question": "味を濃く付けて保存した食品を水に浸し、しょっぱさを弱める作業は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食の知恵",
+        "sub_category": "保存と下ごしらえ",
+        "difficulty": "難しい",
+        "answer": "油通し",
+        "question": "野菜や肉を短時間だけ高温の食用脂にくぐらせ、色や食感を整える下処理は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食の知恵",
+        "sub_category": "食感の表現",
+        "difficulty": "普通",
+        "answer": "歯応え",
+        "question": "食べ物をかんだとき、硬さや弾力として感じる感覚は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食の知恵",
+        "sub_category": "食感の表現",
+        "difficulty": "普通",
+        "answer": "口溶け",
+        "question": "菓子などが舌の上でほどけるように消えていく感覚は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和食の知恵",
+        "sub_category": "食感の表現",
+        "difficulty": "難しい",
+        "answer": "喉越し",
+        "question": "麺や飲み物が飲み込まれるときの滑らかさを表す言葉は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な植物",
+        "sub_category": "芽と成長",
+        "difficulty": "難しい",
+        "answer": "幼根",
+        "question": "種子の内部にあり、発芽すると最初に地中へ伸びる部分は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な植物",
+        "sub_category": "芽と成長",
+        "difficulty": "難しい",
+        "answer": "頂芽",
+        "question": "茎のいちばん先にあり、新しい葉や枝の成長を担う部分は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な植物",
+        "sub_category": "芽と成長",
+        "difficulty": "難しい",
+        "answer": "腋芽",
+        "question": "葉の付け根にでき、やがて側枝などになる小さな成長点は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な植物",
+        "sub_category": "花と果実",
+        "difficulty": "難しい",
+        "answer": "果皮",
+        "question": "成熟した実の種子を包む外側の組織は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な植物",
+        "sub_category": "花と果実",
+        "difficulty": "難しい",
+        "answer": "胚珠",
+        "question": "受精後に種子へと発達する、めしべの内部の構造は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の地形",
+        "sub_category": "川の働き",
+        "difficulty": "難しい",
+        "answer": "自然堤防",
+        "question": "川があふれた際に粗い土砂が岸の近くに積もってできる、周囲より少し高い土地は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本の地形",
+        "sub_category": "海岸の形",
+        "difficulty": "難しい",
+        "answer": "波食台",
+        "question": "岩の海岸が繰り返し削られてできた、海面近くの平らな岩盤は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "気象と観測",
+        "sub_category": "雲と光",
+        "difficulty": "難しい",
+        "answer": "光環",
+        "question": "太陽や月のすぐ周囲に、細かな水滴による回折で現れる色付きの輪は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "気象と観測",
+        "sub_category": "雲と光",
+        "difficulty": "難しい",
+        "answer": "幻日",
+        "question": "太陽の左右に、氷の結晶による屈折で明るい光点が現れる現象は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "気象と観測",
+        "sub_category": "雲と光",
+        "difficulty": "難しい",
+        "answer": "環天頂アーク",
+        "question": "太陽より高い空に、逆さの虹のような色の弧が現れる現象は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "気象と観測",
+        "sub_category": "地表の変化",
+        "difficulty": "難しい",
+        "answer": "凝結",
+        "question": "空気中の気体の水分が冷えて小さな液滴になる変化は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "天体のしくみ",
+        "sub_category": "月の見え方",
+        "difficulty": "難しい",
+        "answer": "秤動",
+        "question": "月がわずかに揺れるように見え、表面の見える範囲が少し変化する現象は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "天体のしくみ",
+        "sub_category": "月の見え方",
+        "difficulty": "普通",
+        "answer": "上弦",
+        "question": "半月のうち、日没ごろ南の空に見え、右半分が明るい状態を何と呼びますか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "天体のしくみ",
+        "sub_category": "月の見え方",
+        "difficulty": "普通",
+        "answer": "下弦",
+        "question": "半月のうち、日の出ごろ南の空に見え、左半分が明るい状態を何と呼びますか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "天体のしくみ",
+        "sub_category": "星の観察",
+        "difficulty": "難しい",
+        "answer": "年周視差",
+        "question": "観測する季節によって近くの恒星の位置が遠方の背景に対してわずかにずれる現象は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "天体のしくみ",
+        "sub_category": "星の観察",
+        "difficulty": "難しい",
+        "answer": "等級",
+        "question": "夜空の天体の明るさを数値で示し、小さい数ほど明るい尺度は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "理科の実験",
+        "sub_category": "測定器具",
+        "difficulty": "普通",
+        "answer": "メスシリンダー",
+        "question": "細長い円筒形の容器の目盛りを読み、液体の体積を測る道具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "理科の実験",
+        "sub_category": "測定器具",
+        "difficulty": "普通",
+        "answer": "駒込ピペット",
+        "question": "ゴム球を押して少量の液体を吸い上げ、別の容器へ移すガラス器具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "理科の実験",
+        "sub_category": "測定器具",
+        "difficulty": "普通",
+        "answer": "電子天秤",
+        "question": "物体を皿に載せると、その質量が数字で表示される測定器は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "理科の実験",
+        "sub_category": "測定器具",
+        "difficulty": "普通",
+        "answer": "ノギス",
+        "question": "二組のくちばしと目盛りを使い、外径や内径、深さを細かく測れる工具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "理科の実験",
+        "sub_category": "測定器具",
+        "difficulty": "難しい",
+        "answer": "マイクロメーター",
+        "question": "ねじの回転を利用し、薄い板などの厚さを非常に細かく測る器具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "理科の実験",
+        "sub_category": "測定器具",
+        "difficulty": "普通",
+        "answer": "温度計",
+        "question": "物の熱さや冷たさを数値で調べるための測定器は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "理科の実験",
+        "sub_category": "測定器具",
+        "difficulty": "難しい",
+        "answer": "屈折計",
+        "question": "光の曲がり方を利用し、液体の糖度などを調べる測定器は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本語の表現",
+        "sub_category": "文章の構造",
+        "difficulty": "難しい",
+        "answer": "掛詞",
+        "question": "一つの音のまとまりに複数の意味を重ねる、古典的な言葉の技巧は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本語の表現",
+        "sub_category": "文章の構造",
+        "difficulty": "難しい",
+        "answer": "枕詞",
+        "question": "古い和歌などで特定の語の前に置かれ、一定の音数をもつ修辞表現は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本語の表現",
+        "sub_category": "文章の構造",
+        "difficulty": "難しい",
+        "answer": "序詞",
+        "question": "和歌で後に続く語を導くため、情景などを述べて置く比較的長い表現は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生物",
+        "sub_category": "水辺の生き物",
+        "difficulty": "難しい",
+        "answer": "ミジンコ",
+        "question": "池などの淡水に住む、透明な体と跳ねるような泳ぎ方が特徴の小型甲殻類は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生物",
+        "sub_category": "水辺の生き物",
+        "difficulty": "難しい",
+        "answer": "カワゲラ",
+        "question": "幼虫が清流の石の下などに住み、成虫では細長い翅を背に重ねる昆虫は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生物",
+        "sub_category": "水辺の生き物",
+        "difficulty": "難しい",
+        "answer": "トビケラ",
+        "question": "幼虫が砂粒や小枝で筒状の巣を作ることが多い、水辺の昆虫は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生物",
+        "sub_category": "水辺の生き物",
+        "difficulty": "難しい",
+        "answer": "ゲンゴロウ",
+        "question": "水中を後ろ脚で泳ぎ、成虫も空気を蓄えて潜る甲虫は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生物",
+        "sub_category": "水辺の生き物",
+        "difficulty": "難しい",
+        "answer": "タガメ",
+        "question": "前脚で獲物を捕らえる、水田や池に生息する大型の水生昆虫は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生物",
+        "sub_category": "水辺の生き物",
+        "difficulty": "難しい",
+        "answer": "ヤマトヌマエビ",
+        "question": "透明感のある体で藻をついばみ、淡水の水槽でも飼われる小型の甲殻類は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "身近な生物",
+        "sub_category": "水辺の生き物",
+        "difficulty": "難しい",
+        "answer": "ホトケドジョウ",
+        "question": "湧き水のある細流や湿地に生息し、口元にひげを持つ小型の淡水魚は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "暮らしの手仕事",
+        "sub_category": "染めと織り",
+        "difficulty": "難しい",
+        "answer": "草木染め",
+        "question": "植物から取り出した色素を使って布や糸を着色する技法は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "暮らしの手仕事",
+        "sub_category": "染めと織り",
+        "difficulty": "難しい",
+        "answer": "裂織",
+        "question": "古い布を細く切って横糸として使い、新たな布を作る技法は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "暮らしの手仕事",
+        "sub_category": "木と竹",
+        "difficulty": "難しい",
+        "answer": "木象嵌",
+        "question": "異なる色の材をくり抜いた部分にはめ込み、表面に絵柄を作る技法は何ですか。"
       }
     ]
   }
