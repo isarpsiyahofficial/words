@@ -51338,7 +51338,7 @@
           "sub_category": "تفاصيل المباني",
           "difficulty": "متوسط",
           "question": "ما الحيز الداخلي الواسع الذي يصل المدخل بالممرات والغرف في مبنى عام؟",
-          "answer": "ردهه"
+          "answer": "ردهة"
         },
         {
           "game_type": "kelime_ustasi",
@@ -52409,6 +52409,926 @@
           "difficulty": "متوسط",
           "question": "ما صف الأشجار أو الشجيرات الذي يزرع لتخفيف سرعة الهواء فوق الحقول؟",
           "answer": "مصد رياح"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الخرائط",
+          "sub_category": "الرموز والإحداثيات",
+          "difficulty": "متوسط",
+          "question": "ما الخط الذي يصل بين نقاط متساوية الارتفاع على خريطة التضاريس؟",
+          "answer": "خط تسوية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الخرائط",
+          "sub_category": "الرموز والإحداثيات",
+          "difficulty": "متوسط",
+          "question": "ما الإحداثي الذي يحدد موضع نقطة شمال خط الاستواء أو جنوبه؟",
+          "answer": "خط العرض"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الخرائط",
+          "sub_category": "الرموز والإحداثيات",
+          "difficulty": "متوسط",
+          "question": "ما الخط الواصل بين نقطتين لبيان مسار مباشر على الرسم الجغرافي؟",
+          "answer": "خط المسار"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الخرائط",
+          "sub_category": "الرموز والإحداثيات",
+          "difficulty": "متوسط",
+          "question": "ما الطريقة التي تحول سطح الكرة إلى رسم مسطح مع قدر من التشوه؟",
+          "answer": "إسقاط خرائطي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الخرائط",
+          "sub_category": "الرموز والإحداثيات",
+          "difficulty": "متوسط",
+          "question": "ما الرسم الجانبي الذي يبين تغير ارتفاع الأرض على امتداد مسار محدد؟",
+          "answer": "مقطع تضاريسي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الخرائط",
+          "sub_category": "الرموز والإحداثيات",
+          "difficulty": "متوسط",
+          "question": "ما التدرج اللوني المستخدم لتمييز مستويات الارتفاع في رسم جغرافي؟",
+          "answer": "تظليل طبقي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الخرائط",
+          "sub_category": "الرموز والإحداثيات",
+          "difficulty": "متوسط",
+          "question": "ما السهم الصغير الذي يبين اتجاه جريان النهر على مخطط مجرى مائي؟",
+          "answer": "سهم الجريان"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأحياء",
+          "sub_category": "النباتات والتربة",
+          "difficulty": "متوسط",
+          "question": "ما الطبقة الحية التي تنشئ أوعية جديدة داخل سيقان الأشجار؟",
+          "answer": "كامبيوم"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأحياء",
+          "sub_category": "النباتات والتربة",
+          "difficulty": "متوسط",
+          "question": "ما الطبقة الواقعة بين قشرة الجذر والأنسجة الوعائية وتتحكم بمرور الماء؟",
+          "answer": "أدمة باطنية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأحياء",
+          "sub_category": "النباتات والتربة",
+          "difficulty": "متوسط",
+          "question": "ما انتفاخ البذرة بعد امتصاصها الماء في بداية نموها؟",
+          "answer": "تشرب"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضيات",
+          "sub_category": "الأشكال والعلاقات",
+          "difficulty": "متوسط",
+          "question": "ما القطعة التي تصل مركز الدائرة بأي نقطة على محيطها؟",
+          "answer": "نصف قطر"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضيات",
+          "sub_category": "الأشكال والعلاقات",
+          "difficulty": "متوسط",
+          "question": "ما الشكل الثلاثي الأبعاد الذي له قاعدتان دائريتان متوازيتان وسطح جانبي منحن؟",
+          "answer": "أسطوانة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضيات",
+          "sub_category": "الأشكال والعلاقات",
+          "difficulty": "متوسط",
+          "question": "ما الجسم الذي له قاعدة دائرية ورأس واحد خارج مستواها؟",
+          "answer": "مخروط"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضيات",
+          "sub_category": "الأشكال والعلاقات",
+          "difficulty": "متوسط",
+          "question": "ما علاقة مستقيمين يلتقيان مكونين زاوية قائمة؟",
+          "answer": "تعامد"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضيات",
+          "sub_category": "الأشكال والعلاقات",
+          "difficulty": "متوسط",
+          "question": "ما التحويل الهندسي الذي ينقل الشكل دون تدويره أو تغيير حجمه؟",
+          "answer": "انسحاب"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفيزياء",
+          "sub_category": "الصوت والضوء",
+          "difficulty": "متوسط",
+          "question": "ما عدد الاهتزازات الكاملة التي تحدث في ثانية واحدة؟",
+          "answer": "تردد"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفيزياء",
+          "sub_category": "الصوت والضوء",
+          "difficulty": "متوسط",
+          "question": "ما الزمن اللازم لإتمام اهتزازة واحدة؟",
+          "answer": "زمن دوري"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفيزياء",
+          "sub_category": "الصوت والضوء",
+          "difficulty": "متوسط",
+          "question": "ما المزيج الذي ينتج عند اجتماع ألوان الضوء الأساسية الثلاثة بشدة متساوية؟",
+          "answer": "ضوء أبيض"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفيزياء",
+          "sub_category": "الصوت والضوء",
+          "difficulty": "متوسط",
+          "question": "ما المنطقة المظلمة تماما خلف جسم يحجب مصدر إضاءة واسع؟",
+          "answer": "ظل تام"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفيزياء",
+          "sub_category": "الصوت والضوء",
+          "difficulty": "متوسط",
+          "question": "ما المنطقة التي يصل إليها بعض الضوء فقط خلف جسم حاجب؟",
+          "answer": "شبه ظل"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفيزياء",
+          "sub_category": "الصوت والضوء",
+          "difficulty": "متوسط",
+          "question": "ما فصل الضوء الأبيض إلى ألوانه عند مروره في منشور زجاجي؟",
+          "answer": "تحليل طيفي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البيئة",
+          "sub_category": "دورة المياه",
+          "difficulty": "متوسط",
+          "question": "ما انتقال الماء من سطح الأوراق إلى الهواء على هيئة بخار؟",
+          "answer": "نتح"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البيئة",
+          "sub_category": "دورة المياه",
+          "difficulty": "متوسط",
+          "question": "ما دخول مياه المطر إلى مسام التربة بدلا من جريانها فوق السطح؟",
+          "answer": "تسرب"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البيئة",
+          "sub_category": "دورة المياه",
+          "difficulty": "متوسط",
+          "question": "ما حركة المياه على سطح الأرض باتجاه المجاري بعد هطول المطر؟",
+          "answer": "جريان سطحي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البيئة",
+          "sub_category": "دورة المياه",
+          "difficulty": "متوسط",
+          "question": "ما تغير الماء السائل إلى بخار عند سطحه دون بلوغ درجة الغليان؟",
+          "answer": "تبخر سطحي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البيئة",
+          "sub_category": "دورة المياه",
+          "difficulty": "متوسط",
+          "question": "ما انتقال بخار الماء إلى قطرات دقيقة عند تبريد الهواء؟",
+          "answer": "تكاثف"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البيئة",
+          "sub_category": "دورة المياه",
+          "difficulty": "متوسط",
+          "question": "ما كمية الماء التي تتبخر من سطح مفتوح خلال فترة زمنية محددة؟",
+          "answer": "معدل تبخر"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البيئة",
+          "sub_category": "دورة المياه",
+          "difficulty": "متوسط",
+          "question": "ما فقد الماء من شبكة الأنابيب قبل وصوله إلى المستهلكين؟",
+          "answer": "فاقد مائي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الملفات والاتصال",
+          "difficulty": "متوسط",
+          "question": "ما النسخة التي تحفظ الملفات في موقع منفصل تحسبا لتعطل الجهاز الأصلي؟",
+          "answer": "نسخة احتياطية خارجية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الملفات والاتصال",
+          "difficulty": "متوسط",
+          "question": "ما البرنامج الذي يعرض صفحات المواقع ويفسر عناصرها المرئية؟",
+          "answer": "متصفح"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الملفات والاتصال",
+          "difficulty": "متوسط",
+          "question": "ما العملية التي تتحقق من سلامة ملف بمقارنة قيمة محسوبة بقيمة منشورة؟",
+          "answer": "فحص تجزئة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الملفات والاتصال",
+          "difficulty": "متوسط",
+          "question": "ما نوع الملف الذي يجمع عدة ملفات داخل حاوية واحدة لتسهيل النقل؟",
+          "answer": "أرشيف مضغوط"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الملفات والاتصال",
+          "difficulty": "متوسط",
+          "question": "ما الآلية التي تعيد إرسال حزم البيانات عند عدم وصول تأكيد استلامها؟",
+          "answer": "إعادة الإرسال"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الملفات والاتصال",
+          "difficulty": "متوسط",
+          "question": "ما الرقم الذي يحدد خدمة بعينها داخل جهاز متصل بالشبكة؟",
+          "answer": "رقم منفذ"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الملفات والاتصال",
+          "difficulty": "متوسط",
+          "question": "ما التمثيل الذي يستبدل الحروف بأرقام موحدة لعرض لغات مختلفة؟",
+          "answer": "ترميز يونيكود"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "النجارة والقياس",
+          "difficulty": "متوسط",
+          "question": "ما القطعة الخشبية الصغيرة التي تدخل في شقين متقابلين لتقوية الوصلة؟",
+          "answer": "لسان خشبي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "النجارة والقياس",
+          "difficulty": "متوسط",
+          "question": "ما الوصلة التي تتشابك فيها نتوءات مائلة متكررة عند أطراف صندوق خشبي؟",
+          "answer": "وصلة ذيل الحمامة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "النجارة والقياس",
+          "difficulty": "متوسط",
+          "question": "ما الطبقة الرقيقة من خشب طبيعي تلصق على لوح آخر لتحسين مظهره؟",
+          "answer": "قشرة خشبية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "النجارة والقياس",
+          "difficulty": "متوسط",
+          "question": "ما المادة التي تملأ المسام قبل طلاء الخشب للحصول على سطح أملس؟",
+          "answer": "حشو مسام"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "النجارة والقياس",
+          "difficulty": "متوسط",
+          "question": "ما المشبك الذي يثبت قطعتين أثناء جفاف المادة اللاصقة؟",
+          "answer": "ملزمة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "النجارة والقياس",
+          "difficulty": "متوسط",
+          "question": "ما الجزء الذي يستند إليه لوح خشبي أثناء نشره يدويا؟",
+          "answer": "مسند نشر"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "النجارة والقياس",
+          "difficulty": "متوسط",
+          "question": "ما الشريط الذي يثبت على حافة لوح مركب لإخفاء طبقاته الداخلية؟",
+          "answer": "شريط حواف"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "النجارة والقياس",
+          "difficulty": "متوسط",
+          "question": "ما الرسم الذي يبين أبعاد قطعة خشبية قبل قصها؟",
+          "answer": "مخطط تفصيلي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "النسيج",
+          "sub_category": "الخيوط والتشطيب",
+          "difficulty": "متوسط",
+          "question": "ما الحافة المنسوجة التي تمنع تفكك أطراف القماش أثناء القص؟",
+          "answer": "حاشية النسيج"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "النسيج",
+          "sub_category": "الخيوط والتشطيب",
+          "difficulty": "متوسط",
+          "question": "ما العملية التي تزيل بقايا النشا من خيوط القماش قبل صبغه؟",
+          "answer": "إزالة البوش"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "النسيج",
+          "sub_category": "الخيوط والتشطيب",
+          "difficulty": "متوسط",
+          "question": "ما الخيط الملتوي المكون من عدة خيوط رفيعة لتحسين المتانة؟",
+          "answer": "خيط مبروم"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "النسيج",
+          "sub_category": "الخيوط والتشطيب",
+          "difficulty": "متوسط",
+          "question": "ما ترتيب الخيوط الذي يظهر خطوطا قطرية متكررة على سطح القماش؟",
+          "answer": "نسيج مبرد"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "النسيج",
+          "sub_category": "الخيوط والتشطيب",
+          "difficulty": "متوسط",
+          "question": "ما ترتيب الخيوط الذي ينتج سطحا لامعا بانقطاعات طويلة نسبيا؟",
+          "answer": "نسيج أطلس"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "النسيج",
+          "sub_category": "الخيوط والتشطيب",
+          "difficulty": "متوسط",
+          "question": "ما العلامة التي تنقل حدود القطعة الورقية إلى القماش قبل القص؟",
+          "answer": "خط طباشير"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "النسيج",
+          "sub_category": "الخيوط والتشطيب",
+          "difficulty": "متوسط",
+          "question": "ما الشريط الضيق الذي يثبت على خياطة داخلية لحمايتها من التمدد؟",
+          "answer": "شريط تثبيت"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "النسيج",
+          "sub_category": "الخيوط والتشطيب",
+          "difficulty": "متوسط",
+          "question": "ما الطبقة الإضافية المخفية بين القماش الخارجي والداخلي لتقوية الياقة؟",
+          "answer": "حشوة لاصقة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التصوير",
+          "sub_category": "الإضاءة والتكوين",
+          "difficulty": "متوسط",
+          "question": "ما مصدر الإضاءة الأساسي الذي يحدد شكل الظلال على وجه الجسم المصور؟",
+          "answer": "ضوء رئيسي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التصوير",
+          "sub_category": "الإضاءة والتكوين",
+          "difficulty": "متوسط",
+          "question": "ما الإضاءة الأقل شدة التي تخفف العتمة التي يصنعها المصدر الأساسي؟",
+          "answer": "ضوء تعبئة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التصوير",
+          "sub_category": "الإضاءة والتكوين",
+          "difficulty": "متوسط",
+          "question": "ما الإضاءة الموضوعة خلف الجسم لإظهار حدوده عن الخلفية؟",
+          "answer": "ضوء حافة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التصوير",
+          "sub_category": "الإضاءة والتكوين",
+          "difficulty": "متوسط",
+          "question": "ما القطعة البيضاء أو الفضية التي تعيد توجيه الضوء نحو الجزء المظلم؟",
+          "answer": "عاكس ضوئي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التصوير",
+          "sub_category": "الإضاءة والتكوين",
+          "difficulty": "متوسط",
+          "question": "ما السطح الشفاف الذي يخفف قسوة مصدر الإضاءة ويوزعها؟",
+          "answer": "ناشر ضوء"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التصوير",
+          "sub_category": "الإضاءة والتكوين",
+          "difficulty": "متوسط",
+          "question": "ما الملحق الذي يمنع الضوء الجانبي غير المرغوب من دخول العدسة؟",
+          "answer": "غطاء عدسة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "التحضير والحفظ",
+          "difficulty": "متوسط",
+          "question": "ما طريقة الطهو التي تعتمد على حرارة الماء دون أن يلامس الطعام السائل مباشرة؟",
+          "answer": "طهو بالبخار"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "التحضير والحفظ",
+          "difficulty": "متوسط",
+          "question": "ما العملية التي تسخن فيها المقلاة الجافة قبل إضافة المكونات؟",
+          "answer": "تسخين مسبق"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "التحضير والحفظ",
+          "difficulty": "متوسط",
+          "question": "ما الطريقة التي تبرد فيها المكونات المطهوة بسرعة داخل وعاء فوق الثلج؟",
+          "answer": "حمام ثلجي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "التحضير والحفظ",
+          "difficulty": "متوسط",
+          "question": "ما العملية التي تزيل الهواء من كيس الطعام قبل إغلاقه لإطالة حفظه؟",
+          "answer": "تفريغ هوائي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "التحضير والحفظ",
+          "difficulty": "متوسط",
+          "question": "ما الطبقة الرقيقة التي تتكون على سطح الخبز بفعل الحرارة وتمنحه لونا بنيا؟",
+          "answer": "قشرة خبز"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "التحضير والحفظ",
+          "difficulty": "متوسط",
+          "question": "ما الأداة المسطحة التي تستخدم لفرد طبقة كريمة بالتساوي على سطح كعكة؟",
+          "answer": "ملعقة تسوية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "التهوية والتشطيبات",
+          "difficulty": "متوسط",
+          "question": "ما الفتحة المرتفعة التي تسمح بمرور الهواء مع تقليل دخول المطر إلى الغرفة؟",
+          "answer": "كوة تهوية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "التهوية والتشطيبات",
+          "difficulty": "متوسط",
+          "question": "ما الطبقة التي توضع بين البلاط والسطح الخرساني لضبط المنسوب؟",
+          "answer": "مونة تسوية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "التهوية والتشطيبات",
+          "difficulty": "متوسط",
+          "question": "ما الغطاء الذي يركب على مدخل مجرى التصريف لمنع دخول الأوراق؟",
+          "answer": "شبكة مصرف"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "التهوية والتشطيبات",
+          "difficulty": "متوسط",
+          "question": "ما الطلاء الأولي الذي يحسن التصاق الدهان النهائي بالجدار؟",
+          "answer": "طبقة تأسيس"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "التهوية والتشطيبات",
+          "difficulty": "متوسط",
+          "question": "ما الحاجز القصير الذي يحمي حافة السطح ويخفي بعض المعدات؟",
+          "answer": "دروة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "التهوية والتشطيبات",
+          "difficulty": "متوسط",
+          "question": "ما القطعة المثبتة أسفل الباب لمنع مرور الهواء والغبار من الفراغ السفلي؟",
+          "answer": "فرشاة باب"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفلك",
+          "sub_category": "الرصد والظواهر",
+          "difficulty": "متوسط",
+          "question": "ما النقطة الظاهرية التي تدور حولها نجوم السماء عند مراقبتها طوال الليل؟",
+          "answer": "قطب سماوي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفلك",
+          "sub_category": "الرصد والظواهر",
+          "difficulty": "متوسط",
+          "question": "ما الخط الوهمي الممتد على قبة السماء من الشرق إلى الغرب مارا فوق الراصد؟",
+          "answer": "دائرة الزوال"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفلك",
+          "sub_category": "الرصد والظواهر",
+          "difficulty": "متوسط",
+          "question": "ما الوقت الذي يصل فيه جرم سماوي إلى أعلى ارتفاع له فوق الأفق؟",
+          "answer": "عبور علوي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفلك",
+          "sub_category": "الرصد والظواهر",
+          "difficulty": "متوسط",
+          "question": "ما الزاوية الأفقية المقاسة من اتجاه الشمال لتحديد موضع جرم في السماء؟",
+          "answer": "سمت"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفلك",
+          "sub_category": "الرصد والظواهر",
+          "difficulty": "متوسط",
+          "question": "ما التجمع الكروي الكثيف من نجوم قديمة يرتبط بمجرة؟",
+          "answer": "عنقود كروي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفلك",
+          "sub_category": "الرصد والظواهر",
+          "difficulty": "متوسط",
+          "question": "ما التجمع الفضفاض من نجوم نشأت غالبا من سحابة واحدة؟",
+          "answer": "عنقود مفتوح"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفلك",
+          "sub_category": "الرصد والظواهر",
+          "difficulty": "متوسط",
+          "question": "ما القرص المضيء الذي يظهر للقمر عندما يقع بين طور التربيع والاكتمال؟",
+          "answer": "أحدب متزايد"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفلك",
+          "sub_category": "الرصد والظواهر",
+          "difficulty": "متوسط",
+          "question": "ما الممر الظاهر للنجوم على صورة التقطت بتعريض طويل أثناء دوران الأرض؟",
+          "answer": "أثر نجمي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الأصوات والصيغ",
+          "difficulty": "متوسط",
+          "question": "ما الصوت الذي ينتج من مرور الهواء عبر الأنف عند نطق النون أو الميم؟",
+          "answer": "غنة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الأصوات والصيغ",
+          "difficulty": "متوسط",
+          "question": "ما الاسم الذي يدل على وقوع الحدث دون تحديد زمنه؟",
+          "answer": "مصدر"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الأصوات والصيغ",
+          "difficulty": "متوسط",
+          "question": "ما الاسم الذي يدل على من وقع منه الفعل ويشتق من صيغته؟",
+          "answer": "اسم فاعل"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الأصوات والصيغ",
+          "difficulty": "متوسط",
+          "question": "ما الاسم المشتق الذي يدل على وقت وقوع الفعل؟",
+          "answer": "اسم زمان"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الأصوات والصيغ",
+          "difficulty": "متوسط",
+          "question": "ما الحرف الساكن الذي يثبت في آخر الاسم نطقا عند الوصل ولا يكتب؟",
+          "answer": "تنوين"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الأصوات والصيغ",
+          "difficulty": "متوسط",
+          "question": "ما تغيير حركة آخر الكلمة بحسب موقعها في الجملة؟",
+          "answer": "إعراب"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الأصوات والصيغ",
+          "difficulty": "متوسط",
+          "question": "ما الصيغة التي تحول الفعل الثلاثي إلى دلالة طلب الفعل بإضافة حروف؟",
+          "answer": "استفعال"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المواد والقياس",
+          "difficulty": "متوسط",
+          "question": "ما الخاصية التي تعبر عن مقدار المادة في وحدة الحجم؟",
+          "answer": "كثافة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المواد والقياس",
+          "difficulty": "متوسط",
+          "question": "ما مقدار مقاومة السائل للانسياب مقارنة بسائل آخر؟",
+          "answer": "لزوجة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المواد والقياس",
+          "difficulty": "متوسط",
+          "question": "ما قدرة مادة على تمرير الحرارة عبرها؟",
+          "answer": "موصلية حرارية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المواد والقياس",
+          "difficulty": "متوسط",
+          "question": "ما التغير الذي تتحول فيه المادة من الحالة الصلبة مباشرة إلى غاز؟",
+          "answer": "تسام"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المواد والقياس",
+          "difficulty": "متوسط",
+          "question": "ما مقدار المادة المذابة في حجم محدد من المحلول؟",
+          "answer": "تركيز"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المواد والقياس",
+          "difficulty": "متوسط",
+          "question": "ما الأداة الزجاجية الطويلة التي تقيس أحجام السوائل بدقة في المختبر؟",
+          "answer": "سحاحة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المواد والقياس",
+          "difficulty": "متوسط",
+          "question": "ما الوعاء الزجاجي ذو العلامة الواحدة الذي يحضر به محلول بحجم محدد؟",
+          "answer": "دورق حجمي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المواد والقياس",
+          "difficulty": "متوسط",
+          "question": "ما الجهاز الذي يفصل المواد في خليط اعتمادا على اختلاف سرعة ترسبها عند الدوران؟",
+          "answer": "جهاز طرد مركزي"
         }
       ]
     }
