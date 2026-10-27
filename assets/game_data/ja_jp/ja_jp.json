@@ -46668,6 +46668,826 @@
         "difficulty": "難しい",
         "answer": "足糸",
         "question": "二枚貝が岩などに体を固定するため、体内から出す丈夫な繊維状のものは何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいの設備",
+        "sub_category": "配管と室内環境",
+        "difficulty": "普通",
+        "question": "流し台の下などに設けられ、内部に液体をためて配管から臭気が戻るのを防ぐ仕組みは何ですか。",
+        "answer": "排水トラップ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいの設備",
+        "sub_category": "配管と室内環境",
+        "difficulty": "普通",
+        "question": "配管の途中で流れを手動で遮断するために設けられた小さなバルブは何ですか。",
+        "answer": "止水栓"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいの設備",
+        "sub_category": "配管と室内環境",
+        "difficulty": "普通",
+        "question": "温かい液体と冷たい液体を一つの吐出口から出せる蛇口は何ですか。",
+        "answer": "混合水栓"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいの設備",
+        "sub_category": "配管と室内環境",
+        "difficulty": "簡単",
+        "question": "蛇口や浴室へ送る温かい液体を作るための設備は何ですか。",
+        "answer": "給湯器"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいの設備",
+        "sub_category": "配管と室内環境",
+        "difficulty": "普通",
+        "question": "住居内の複数の回路へ供給を振り向け、保護装置をまとめて収める箱は何ですか。",
+        "answer": "分電盤"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいの設備",
+        "sub_category": "配管と室内環境",
+        "difficulty": "普通",
+        "question": "配線から本来の経路以外へ流れが逃げた際、回路を自動で切る安全装置は何ですか。",
+        "answer": "漏電遮断器"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいの設備",
+        "sub_category": "配管と室内環境",
+        "difficulty": "普通",
+        "question": "設定した温度に合わせて加熱や冷却を自動で切り替える装置は何ですか。",
+        "answer": "サーモスタット"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいの設備",
+        "sub_category": "配管と室内環境",
+        "difficulty": "普通",
+        "question": "液体や気体が一方向にしか流れないようにする配管部品は何ですか。",
+        "answer": "逆止弁"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいの設備",
+        "sub_category": "配管と室内環境",
+        "difficulty": "簡単",
+        "question": "台所などの足元に設け、ふたを開けて物をしまうための空間は何ですか。",
+        "answer": "床下収納"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "建物のつくり",
+        "sub_category": "構造と施工",
+        "difficulty": "普通",
+        "question": "横からの揺れに抵抗するために設ける、建物の構造上重要な面は何ですか。",
+        "answer": "耐力壁"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "建物のつくり",
+        "sub_category": "構造と施工",
+        "difficulty": "難しい",
+        "question": "外装や内装の板を取り付ける下地として、柱などに横向きに渡す細長い部材は何ですか。",
+        "answer": "胴縁"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "建物のつくり",
+        "sub_category": "構造と施工",
+        "difficulty": "難しい",
+        "question": "天井の仕上げ板を取り付けるため、その裏側に格子状などに組む細長い下地材は何ですか。",
+        "answer": "野縁"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "建物のつくり",
+        "sub_category": "構造と施工",
+        "difficulty": "普通",
+        "question": "床下などから建物の内部へ水蒸気が入り込むのを抑える薄い膜状の資材は何ですか。",
+        "answer": "防湿シート"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "建物のつくり",
+        "sub_category": "構造と施工",
+        "difficulty": "普通",
+        "question": "温度変化などで建材が動いてもひび割れにくいよう、一定の間隔で設ける隙間は何ですか。",
+        "answer": "伸縮目地"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "建物のつくり",
+        "sub_category": "構造と施工",
+        "difficulty": "普通",
+        "question": "建物が揺れたときにその運動エネルギーを吸収して変形を抑える装置は何ですか。",
+        "answer": "制振ダンパー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "建物のつくり",
+        "sub_category": "構造と施工",
+        "difficulty": "難しい",
+        "question": "住宅の土台とコンクリートの間に挟み、床下の通気を確保するための部品は何ですか。",
+        "answer": "基礎パッキン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "建物のつくり",
+        "sub_category": "構造と施工",
+        "difficulty": "簡単",
+        "question": "一方向だけへ傾斜した面で構成される、シンプルな住宅上部の形は何ですか。",
+        "answer": "片流れ屋根"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "建物のつくり",
+        "sub_category": "構造と施工",
+        "difficulty": "普通",
+        "question": "勾配がほとんどなく、平らに見える建物上部の形を何と呼びますか。",
+        "answer": "陸屋根"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "建物のつくり",
+        "sub_category": "構造と施工",
+        "difficulty": "普通",
+        "question": "構造体の上に別の下地を設け、間に配管などを通せる空間を作る方式は何ですか。",
+        "answer": "二重床"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運ぶ仕組み",
+        "sub_category": "物流と倉庫",
+        "difficulty": "普通",
+        "question": "箱などをまとめて載せ、専用の車両で一度に移動できる平らな台は何ですか。",
+        "answer": "パレット"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運ぶ仕組み",
+        "sub_category": "物流と倉庫",
+        "difficulty": "簡単",
+        "question": "前方の二本の爪で荷物を持ち上げ、倉庫などで運ぶ車両は何ですか。",
+        "answer": "フォークリフト"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運ぶ仕組み",
+        "sub_category": "物流と倉庫",
+        "difficulty": "簡単",
+        "question": "船や列車、トラックなどに積み替えやすい規格化された大型の箱は何ですか。",
+        "answer": "コンテナ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運ぶ仕組み",
+        "sub_category": "物流と倉庫",
+        "difficulty": "普通",
+        "question": "保管している商品を実際に数え、帳簿上の数量と照合する作業は何ですか。",
+        "answer": "棚卸し"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運ぶ仕組み",
+        "sub_category": "物流と倉庫",
+        "difficulty": "普通",
+        "question": "商品が何個残っているかを把握し、過不足が出ないよう調整する業務は何ですか。",
+        "answer": "在庫管理"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運ぶ仕組み",
+        "sub_category": "物流と倉庫",
+        "difficulty": "難しい",
+        "question": "倉庫や港などで、貨物の積み下ろしや移動を行う作業の総称は何ですか。",
+        "answer": "荷役"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運ぶ仕組み",
+        "sub_category": "物流と倉庫",
+        "difficulty": "難しい",
+        "question": "物流拠点で長期保管をせず、到着した荷物をすぐに行き先別の便へ移す方式は何ですか。",
+        "answer": "クロスドッキング"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "食べ物の科学",
+        "sub_category": "加工と保存",
+        "difficulty": "簡単",
+        "question": "食品を凍らせてから水分を取り除き、お湯で戻しやすくする保存加工法は何ですか。",
+        "answer": "フリーズドライ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "食べ物の科学",
+        "sub_category": "加工と保存",
+        "difficulty": "難しい",
+        "question": "加熱して柔らかくなったでんぷんが冷えるにつれ、分子が再び並んで硬くなる現象は何ですか。",
+        "answer": "老化"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "食べ物の科学",
+        "sub_category": "加工と保存",
+        "difficulty": "普通",
+        "question": "小麦粉に水を加えてこねるとできる、弾力のあるたんぱく質の網目は何ですか。",
+        "answer": "グルテン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "食べ物の科学",
+        "sub_category": "加工と保存",
+        "difficulty": "普通",
+        "question": "糖を利用して二酸化炭素を発生させ、パン生地をふくらませる微生物は何ですか。",
+        "answer": "酵母"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "食べ物の科学",
+        "sub_category": "加工と保存",
+        "difficulty": "難しい",
+        "question": "野菜を冷凍する前などに短時間だけ加熱し、酵素の働きを抑える前処理は何ですか。",
+        "answer": "ブランチング"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "土と地下水",
+        "sub_category": "土壌の性質",
+        "difficulty": "普通",
+        "question": "地中で液体を多く含み、井戸などへ供給できる砂礫や岩盤のまとまりは何ですか。",
+        "answer": "帯水層"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "土と地下水",
+        "sub_category": "土壌の性質",
+        "difficulty": "普通",
+        "question": "地中で液体がほとんど通り抜けられない、粘土などの地質のまとまりは何ですか。",
+        "answer": "不透水層"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "土と地下水",
+        "sub_category": "土壌の性質",
+        "difficulty": "難しい",
+        "question": "地盤の中を液体がどれほど通り抜けやすいかを示す指標は何ですか。",
+        "answer": "透水係数"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "土と地下水",
+        "sub_category": "土壌の性質",
+        "difficulty": "難しい",
+        "question": "乾燥した畑などで水分が蒸発し、溶けていた成分が地表近くにたまる現象は何ですか。",
+        "answer": "塩類集積"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "土と地下水",
+        "sub_category": "土壌の性質",
+        "difficulty": "難しい",
+        "question": "雨が降ったとき、地表から土の中へ液体を取り込める速さの上限は何ですか。",
+        "answer": "浸透能"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本語の文章表現",
+        "sub_category": "文の組み立て",
+        "difficulty": "難しい",
+        "question": "対象そのものではなく、密接に関連する別のものの名前で表す修辞技法は何ですか。",
+        "answer": "換喩"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本語の文章表現",
+        "sub_category": "文の組み立て",
+        "difficulty": "難しい",
+        "question": "広い概念を狭い概念で、またはその逆で表す修辞技法は何ですか。",
+        "answer": "提喩"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本語の文章表現",
+        "sub_category": "文の組み立て",
+        "difficulty": "普通",
+        "question": "本文中の語句について、同じページの下部に補足説明を載せる形式は何ですか。",
+        "answer": "脚注"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "幾何学の考え方",
+        "sub_category": "図形と位置",
+        "difficulty": "普通",
+        "question": "図形をある中心の周りに一定の角度だけ動かすと、元と重なる性質は何ですか。",
+        "answer": "回転対称"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "幾何学の考え方",
+        "sub_category": "図形と位置",
+        "difficulty": "難しい",
+        "question": "立体の各位置から一定方向へ線を伸ばし、平面上に対応する像を作る操作は何ですか。",
+        "answer": "射影"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "幾何学の考え方",
+        "sub_category": "図形と位置",
+        "difficulty": "普通",
+        "question": "直角三角形で、ある鋭角の向かい側の辺と斜辺の長さの比は何ですか。",
+        "answer": "正弦"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "幾何学の考え方",
+        "sub_category": "図形と位置",
+        "difficulty": "普通",
+        "question": "直角三角形で、ある鋭角に隣り合う辺と斜辺の長さの比は何ですか。",
+        "answer": "余弦"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "幾何学の考え方",
+        "sub_category": "図形と位置",
+        "difficulty": "普通",
+        "question": "形が同じで大きさの異なる二つの図形について、対応する辺の長さの割合は何ですか。",
+        "answer": "相似比"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "化学と実験",
+        "sub_category": "物質を分ける方法",
+        "difficulty": "難しい",
+        "question": "通常の限界よりも多くの物質が溶けた、不安定な状態は何ですか。",
+        "answer": "過飽和"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "化学と実験",
+        "sub_category": "物質を分ける方法",
+        "difficulty": "難しい",
+        "question": "成分ごとに移動する速さが違う性質を利用し、混合物を分ける分析法は何ですか。",
+        "answer": "クロマトグラフィー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "化学と実験",
+        "sub_category": "物質を分ける方法",
+        "difficulty": "普通",
+        "question": "気体や液体の中の分子が、固体の表面に集まって付く現象は何ですか。",
+        "answer": "吸着"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "化学と実験",
+        "sub_category": "物質を分ける方法",
+        "difficulty": "難しい",
+        "question": "樹脂などが液体中の特定の荷電粒子を取り込み、代わりに別の粒子を放出する作用は何ですか。",
+        "answer": "イオン交換"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "普通",
+        "question": "映像や通信などで、一秒間に扱う情報の量をビット単位で表す値は何ですか。",
+        "answer": "ビットレート"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "普通",
+        "question": "通信路が利用できる周波数の範囲や、転送能力の広さを表す量は何ですか。",
+        "answer": "帯域幅"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "普通",
+        "question": "ネットワーク上で送った小さなデータのまとまりが、相手に届かず失われることは何ですか。",
+        "answer": "パケットロス"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "難しい",
+        "question": "通信でデータが届く間隔が一定にならず、時間的にばらつく現象は何ですか。",
+        "answer": "ジッター"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "普通",
+        "question": "データの誤りを検出するため、内容から計算して添える短い検査値は何ですか。",
+        "answer": "チェックサム"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "普通",
+        "question": "情報を決められた規則に従って別の形式へ変換する処理は何ですか。",
+        "answer": "エンコーディング"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "難しい",
+        "question": "連続的な大きさを、有限個の段階に丸めて表す処理は何ですか。",
+        "answer": "量子化"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "難しい",
+        "question": "連続的に変わる信号から、一定間隔で値を取り出す操作は何ですか。",
+        "answer": "標本化"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "普通",
+        "question": "線や曲線を座標と数式で表し、拡大しても輪郭が滑らかな形式は何ですか。",
+        "answer": "ベクター画像"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "普通",
+        "question": "小さな点を格子状に並べ、その色の集まりで表す形式は何ですか。",
+        "answer": "ラスター画像"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "難しい",
+        "question": "伝送中に一部の情報が壊れても復元できるよう、余分な規則性を加える方式は何ですか。",
+        "answer": "誤り訂正符号"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "デジタル通信",
+        "sub_category": "信号とデータ",
+        "difficulty": "普通",
+        "question": "通信を始める前に、双方が接続条件を確かめ合う手順は何ですか。",
+        "answer": "ハンドシェイク"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "地層と地質",
+        "sub_category": "岩石の変形",
+        "difficulty": "難しい",
+        "question": "曲がった地層のうち、中央が上へ盛り上がる形を何と呼びますか。",
+        "answer": "背斜"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "地層と地質",
+        "sub_category": "岩石の変形",
+        "difficulty": "難しい",
+        "question": "曲がった地層のうち、中央が下へくぼむ形を何と呼びますか。",
+        "answer": "向斜"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "地層と地質",
+        "sub_category": "岩石の変形",
+        "difficulty": "普通",
+        "question": "地層の堆積が一度中断し、侵食された面の上に新しい層が重なる境界は何ですか。",
+        "answer": "不整合"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "地層と地質",
+        "sub_category": "岩石の変形",
+        "difficulty": "難しい",
+        "question": "溶けた物質が地中の割れ目に入り込み、板状に固まった地質構造は何ですか。",
+        "answer": "岩脈"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "地層と地質",
+        "sub_category": "岩石の変形",
+        "difficulty": "難しい",
+        "question": "岩石に生じた割れ目のうち、両側のずれがほとんどないものは何ですか。",
+        "answer": "節理"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "地層と地質",
+        "sub_category": "岩石の変形",
+        "difficulty": "難しい",
+        "question": "火山岩で、大きな結晶の間を埋める細粒の部分は何ですか。",
+        "answer": "石基"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "自然環境のつながり",
+        "sub_category": "生態系と水質",
+        "difficulty": "普通",
+        "question": "自然の働きによって、人間が食料や水、気候の調整などの恩恵を受けることは何ですか。",
+        "answer": "生態系サービス"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "自然環境のつながり",
+        "sub_category": "生態系と水質",
+        "difficulty": "難しい",
+        "question": "ある場所の資源で長期的に維持できる、個体数の上限を表す概念は何ですか。",
+        "answer": "環境収容力"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "自然環境のつながり",
+        "sub_category": "生態系と水質",
+        "difficulty": "普通",
+        "question": "湖や海で窒素やリンなどが増えすぎ、藻類が過剰に増える状態は何ですか。",
+        "answer": "富栄養化"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "自然環境のつながり",
+        "sub_category": "生態系と水質",
+        "difficulty": "難しい",
+        "question": "湖などで生き物の生産に必要な窒素やリンが少ない状態は何ですか。",
+        "answer": "貧栄養"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "自然環境のつながり",
+        "sub_category": "生態系と水質",
+        "difficulty": "普通",
+        "question": "空気中に多い気体を微生物などが利用可能な化合物へ変える働きは何ですか。",
+        "answer": "窒素固定"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "自然環境のつながり",
+        "sub_category": "生態系と水質",
+        "difficulty": "難しい",
+        "question": "土中の微生物が硝酸塩などを還元し、気体として大気へ戻す働きは何ですか。",
+        "answer": "脱窒"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "自然環境のつながり",
+        "sub_category": "生態系と水質",
+        "difficulty": "普通",
+        "question": "時間の経過とともに、ある場所の植物群落の構成が変わっていくことは何ですか。",
+        "answer": "遷移"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "服づくりの技術",
+        "sub_category": "縫製と型",
+        "difficulty": "普通",
+        "question": "表側に糸がほとんど見えないよう、布の折り返しを留める手法は何ですか。",
+        "answer": "まつり縫い"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "服づくりの技術",
+        "sub_category": "縫製と型",
+        "difficulty": "普通",
+        "question": "同じ線を少し戻って重ねながら針を進め、丈夫に仕上げる手法は何ですか。",
+        "answer": "返し縫い"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "服づくりの技術",
+        "sub_category": "縫製と型",
+        "difficulty": "普通",
+        "question": "二枚の布を一度裏側からつなぎ、さらに折り込んで切り端を内側に隠す方法は何ですか。",
+        "answer": "袋縫い"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "服づくりの技術",
+        "sub_category": "縫製と型",
+        "difficulty": "普通",
+        "question": "布の端を切りそろえながら、ほつれないよう糸で包む専用の機械は何ですか。",
+        "answer": "ロックミシン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "服づくりの技術",
+        "sub_category": "縫製と型",
+        "difficulty": "簡単",
+        "question": "布を細かく寄せて、ふんわりしたひだを作る加工は何ですか。",
+        "answer": "ギャザー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "服づくりの技術",
+        "sub_category": "縫製と型",
+        "difficulty": "普通",
+        "question": "布の一部を折り畳んで縫い留め、立体感やゆとりを作る加工は何ですか。",
+        "answer": "タック"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "服づくりの技術",
+        "sub_category": "縫製と型",
+        "difficulty": "簡単",
+        "question": "布に規則的な折り目を付け、連続したひだを作る加工は何ですか。",
+        "answer": "プリーツ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "服づくりの技術",
+        "sub_category": "縫製と型",
+        "difficulty": "普通",
+        "question": "衣服を体の曲線に沿わせるため、布の一部をくさび形に縫い込む部分は何ですか。",
+        "answer": "ダーツ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "服づくりの技術",
+        "sub_category": "縫製と型",
+        "difficulty": "普通",
+        "question": "完成前に試着して形を確かめるため、一時的に布をつなぎ合わせる作業は何ですか。",
+        "answer": "仮縫い"
       }
     ]
   }
