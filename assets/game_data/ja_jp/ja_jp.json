@@ -49978,6 +49978,916 @@
         "difficulty": "普通",
         "question": "人が立ったまま上下の階を移動できる、動く階段状の設備は何ですか。",
         "answer": "エスカレーター"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "園芸と栽培",
+        "sub_category": "畑の管理",
+        "difficulty": "普通",
+        "question": "畑の表面に乾いた稲の茎を広げ、乾燥や泥はねを抑える方法は何ですか。",
+        "answer": "敷きわら"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "園芸と栽培",
+        "sub_category": "畑の管理",
+        "difficulty": "簡単",
+        "question": "野菜を小さな生き物から守るため、畝の上を細かな網で覆う資材は何ですか。",
+        "answer": "防虫ネット"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "園芸と栽培",
+        "sub_category": "栽培環境",
+        "difficulty": "普通",
+        "question": "温室を使わず屋外の畑で作物を育てる方法は何ですか。",
+        "answer": "露地栽培"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "台所と食の科学",
+        "sub_category": "調理の工程",
+        "difficulty": "普通",
+        "question": "鍋に油や水を加えず、材料を熱して香ばしさを引き出す方法は何ですか。",
+        "answer": "乾煎り"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "台所と食の科学",
+        "sub_category": "調理の工程",
+        "difficulty": "普通",
+        "question": "食材に含まれるえぐみなどを水にさらす工程で減らすことを何と呼びますか。",
+        "answer": "アク抜き"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本語の理解",
+        "sub_category": "文字と音",
+        "difficulty": "簡単",
+        "question": "「か」を「が」に変えるとき、文字の右上に付ける二つの短い印は何ですか。",
+        "answer": "濁点"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "地理と水の循環",
+        "sub_category": "水と森",
+        "difficulty": "難しい",
+        "question": "森や土が雨を蓄え、時間をかけて川へ流す働きは何と呼ばれますか。",
+        "answer": "水源涵養"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "数とデータ",
+        "sub_category": "数量の関係",
+        "difficulty": "普通",
+        "question": "一方が二倍になるともう一方が半分になるような数量の関係は何ですか。",
+        "answer": "反比例"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいと空間",
+        "sub_category": "夏の道具",
+        "difficulty": "普通",
+        "question": "細い葦を編んで作り、軒先などに立て掛けて日差しを遮る道具は何ですか。",
+        "answer": "よしず"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいと空間",
+        "sub_category": "建物の部材",
+        "difficulty": "難しい",
+        "question": "玄関の土間と室内の床の段差に取り付ける横木は何ですか。",
+        "answer": "上がり框"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "卓球",
+        "difficulty": "簡単",
+        "question": "卓球で、双方が球を打ち返し続けている状態を何と呼びますか。",
+        "answer": "ラリー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "卓球",
+        "difficulty": "簡単",
+        "question": "卓球で、一点の始まりに自分の手から球を投げ上げて打つ動作は何ですか。",
+        "answer": "サーブ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "卓球",
+        "difficulty": "簡単",
+        "question": "卓球で、相手が最初に打った球を受けて返す動作は何ですか。",
+        "answer": "レシーブ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "卓球",
+        "difficulty": "普通",
+        "question": "卓球で、高く浮いた球を強い速度で打ち込む攻撃は何ですか。",
+        "answer": "スマッシュ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "卓球",
+        "difficulty": "難しい",
+        "question": "卓球で、台の上の短い球を下回転をかけて押し返す技術は何ですか。",
+        "answer": "ツッツキ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "卓球",
+        "difficulty": "難しい",
+        "question": "卓球で、台の上の短い球を手首の動きで素早くはじく技術は何ですか。",
+        "answer": "フリック"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "卓球",
+        "difficulty": "難しい",
+        "question": "卓球で、台の上の短い球を横方向の回転を加えて払う返球技術は何ですか。",
+        "answer": "チキータ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "卓球",
+        "difficulty": "普通",
+        "question": "卓球で、利き手側に来た球を体の前から振って打つ側の打法は何ですか。",
+        "answer": "フォアハンド"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "卓球",
+        "difficulty": "普通",
+        "question": "卓球で、利き手とは反対側に来た球を体の前で返す打法は何ですか。",
+        "answer": "バックハンド"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "卓球",
+        "difficulty": "難しい",
+        "question": "卓球のラケットを筆記具のように指で握る持ち方は何ですか。",
+        "answer": "ペンホルダー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "卓球",
+        "difficulty": "普通",
+        "question": "卓球のラケットを握手するように握る持ち方は何ですか。",
+        "answer": "シェークハンド"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "水中の運動",
+        "difficulty": "簡単",
+        "question": "プールで顔を水につけ、左右の腕を交互に回して前へ進む泳法は何ですか。",
+        "answer": "クロール"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "水中の運動",
+        "difficulty": "普通",
+        "question": "水中で両腕を同時に前へ運び、両脚をそろえて波打たせる泳法は何ですか。",
+        "answer": "バタフライ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "水中の運動",
+        "difficulty": "普通",
+        "question": "プールの壁を足で押し、両腕を伸ばした姿勢のまま水面を滑る基本練習は何ですか。",
+        "answer": "けのび"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "水中の運動",
+        "difficulty": "簡単",
+        "question": "プールで両脚を交互に上下させ、水を後ろへ押して進む動きは何ですか。",
+        "answer": "バタ足"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "水中の運動",
+        "difficulty": "普通",
+        "question": "水中で両脚をそろえ、体を波のように動かして進む脚の動作は何ですか。",
+        "answer": "ドルフィンキック"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "水中の運動",
+        "difficulty": "難しい",
+        "question": "プールの端で前方に回転し、壁を蹴って向きを変える折り返し技術は何ですか。",
+        "answer": "クイックターン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "水中の運動",
+        "difficulty": "普通",
+        "question": "水中で両腕を頭の先に伸ばし、抵抗を減らす一直線の姿勢は何ですか。",
+        "answer": "ストリームライン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "水中の運動",
+        "difficulty": "簡単",
+        "question": "プールで上半身を支え、脚だけの動きを練習するときに使う浮く道具は何ですか。",
+        "answer": "ビート板"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "水中の運動",
+        "difficulty": "簡単",
+        "question": "プールで目を水から守り、前方を見やすくするために装着する道具は何ですか。",
+        "answer": "ゴーグル"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "競技場",
+        "difficulty": "簡単",
+        "question": "プールや陸上の競技場で、各選手に割り当てられた細長い進路は何ですか。",
+        "answer": "レーン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "水中の運動",
+        "difficulty": "普通",
+        "question": "プールの端に設けられ、競技の開始時に選手が飛び込むために立つ設備は何ですか。",
+        "answer": "スタート台"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "陸上競技",
+        "difficulty": "簡単",
+        "question": "陸上競技で、複数の選手が順番に区間を担当し、一本の棒を受け渡して進む種目は何ですか。",
+        "answer": "リレー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "陸上競技",
+        "difficulty": "簡単",
+        "question": "陸上のチーム競走で、次の走者へ手渡す細長い筒状の道具は何ですか。",
+        "answer": "バトン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "陸上競技",
+        "difficulty": "普通",
+        "question": "陸上の走路に一定間隔で並べられ、選手が跳び越える障害物は何ですか。",
+        "answer": "ハードル"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "陸上競技",
+        "difficulty": "普通",
+        "question": "短い距離を走る種目で、両手を地面につき低い姿勢から出発する方法は何ですか。",
+        "answer": "クラウチングスタート"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "陸上競技",
+        "difficulty": "簡単",
+        "question": "競技の出発合図よりも早く動き始めてしまう反則は何ですか。",
+        "answer": "フライング"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "陸上競技",
+        "difficulty": "普通",
+        "question": "陸上のチーム競走で、最後の区間を受け持つ選手は何と呼ばれますか。",
+        "answer": "アンカー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "陸上競技",
+        "difficulty": "普通",
+        "question": "競走で一周または決められた区間ごとに計測した所要時間は何ですか。",
+        "answer": "ラップタイム"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "陸上競技",
+        "difficulty": "難しい",
+        "question": "陸上競技で、一定時間に足を運ぶ回数を表す指標は何ですか。",
+        "answer": "ピッチ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "陸上競技",
+        "difficulty": "普通",
+        "question": "陸上競技で、助走の後にホップ、ステップ、ジャンプの順で砂場へ進む種目は何ですか。",
+        "answer": "三段跳び"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バドミントン",
+        "difficulty": "簡単",
+        "question": "バドミントンで、羽根の付いた軽い球状の用具は何ですか。",
+        "answer": "シャトル"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バドミントン",
+        "difficulty": "普通",
+        "question": "バドミントンで、相手のコートの奥へ向けて高く遠くに打つ技術は何ですか。",
+        "answer": "クリア"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バドミントン",
+        "difficulty": "普通",
+        "question": "バドミントンで、奥から打つように見せて網のすぐ向こうへ柔らかく落とす技術は何ですか。",
+        "answer": "ドロップ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バドミントン",
+        "difficulty": "難しい",
+        "question": "バドミントンで、網の近くから相手側の網際へ小さく返す技術は何ですか。",
+        "answer": "ヘアピン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バドミントン",
+        "difficulty": "普通",
+        "question": "バドミントンで、網の近くから相手側の奥へ高く打ち返す技術は何ですか。",
+        "answer": "ロブ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バドミントン",
+        "difficulty": "普通",
+        "question": "バドミントンで、網際に浮いた球を前方へ鋭く押し込む技術は何ですか。",
+        "answer": "プッシュ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バドミントン",
+        "difficulty": "普通",
+        "question": "競技中に適切な位置へ移動するための足運びの技術は何ですか。",
+        "answer": "フットワーク"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バドミントン",
+        "difficulty": "簡単",
+        "question": "バドミントンで、一人対一人で対戦する形式は何ですか。",
+        "answer": "シングルス"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バドミントン",
+        "difficulty": "簡単",
+        "question": "バドミントンで、二人組どうしが対戦する形式は何ですか。",
+        "answer": "ダブルス"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バレーボール",
+        "difficulty": "普通",
+        "question": "バレーボールで、守備を専門とし、ほかの選手と異なる色の服を着る選手は何ですか。",
+        "answer": "リベロ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バレーボール",
+        "difficulty": "普通",
+        "question": "バレーボールで、攻撃役が打ちやすい位置へ球を上げることを主に担当する選手は何ですか。",
+        "answer": "セッター"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バレーボール",
+        "difficulty": "簡単",
+        "question": "バレーボールで、跳び上がって相手側の床へ向け強く球を打つ攻撃は何ですか。",
+        "answer": "スパイク"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バレーボール",
+        "difficulty": "簡単",
+        "question": "バレーボールで、網の近くで両手を上げ、相手の攻撃を防ぐ動作は何ですか。",
+        "answer": "ブロック"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バレーボール",
+        "difficulty": "普通",
+        "question": "バレーボールで、決められた条件で選手が時計回りに位置を移すことは何ですか。",
+        "answer": "ローテーション"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バレーボール",
+        "difficulty": "普通",
+        "question": "バレーボールで、両腕をそろえて下から球を受ける基本技術は何ですか。",
+        "answer": "アンダーハンドパス"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "バレーボール",
+        "difficulty": "普通",
+        "question": "バレーボールで、額の上あたりで両手の指を使って球を送る基本技術は何ですか。",
+        "answer": "オーバーハンドパス"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "難しい",
+        "question": "サッカーで、味方が球を出す瞬間の攻撃側の位置などによって成立する反則は何ですか。",
+        "answer": "オフサイド"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "普通",
+        "question": "サッカーで、球が横の境界線を越えた後、両手で頭の後ろから投げ入れて再開する方法は何ですか。",
+        "answer": "スローイン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "普通",
+        "question": "サッカーで、守る側が最後に触れて球が自陣のゴール横の線を越えたとき、隅から再開する方法は何ですか。",
+        "answer": "コーナーキック"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "普通",
+        "question": "サッカーで、反則のあった地点などから相手の妨害なしに球を蹴って再開する方法は何ですか。",
+        "answer": "フリーキック"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "普通",
+        "question": "サッカーで、特定の区域内で守る側が反則した場合などに、決められた点から一対一で蹴る方法は何ですか。",
+        "answer": "ペナルティキック"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "簡単",
+        "question": "サッカーで、足元に球を保ちながら自分で前方へ運ぶ技術は何ですか。",
+        "answer": "ドリブル"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "普通",
+        "question": "サッカーで、飛んできた球を足や胸などで受け止め、扱いやすい位置に収める技術は何ですか。",
+        "answer": "トラップ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "簡単",
+        "question": "サッカーで、飛んできた球を額などで扱う技術は何ですか。",
+        "answer": "ヘディング"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "簡単",
+        "question": "サッカーで、自陣の決められた区域内では手も使い、得点されないよう守る専門の選手は何ですか。",
+        "answer": "ゴールキーパー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "普通",
+        "question": "サッカーで、主に自陣の後方に位置して相手の攻撃を防ぐ役割の選手は何ですか。",
+        "answer": "ディフェンダー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "普通",
+        "question": "サッカーで、主に中盤で守備と攻撃をつなぐ役割の選手は何ですか。",
+        "answer": "ミッドフィルダー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "普通",
+        "question": "サッカーで、主に前方に位置して得点の機会を作る役割の選手は何ですか。",
+        "answer": "フォワード"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "サッカー",
+        "difficulty": "普通",
+        "question": "サッカーで、側方からゴール前へ向けて球を送るプレーは何ですか。",
+        "answer": "センタリング"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "野球",
+        "difficulty": "簡単",
+        "question": "野球で、打った球によって打者が一度にすべての塁を回って得点できる打撃は何ですか。",
+        "answer": "ホームラン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "野球",
+        "difficulty": "簡単",
+        "question": "野球で、打った球が規定の線の外側へ飛んだ場合の判定は何ですか。",
+        "answer": "ファウル"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "野球",
+        "difficulty": "簡単",
+        "question": "野球で、打者が見逃した適正な投球や空振りなどに与えられる判定は何ですか。",
+        "answer": "ストライク"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "野球",
+        "difficulty": "普通",
+        "question": "野球で、球を強く振り抜かず、構えた道具に軽く当てて転がす打ち方は何ですか。",
+        "answer": "バント"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "野球",
+        "difficulty": "難しい",
+        "question": "野球で、投手が九回を投げた場合に換算した自責点の平均を示す指標は何ですか。",
+        "answer": "防御率"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "野球",
+        "difficulty": "普通",
+        "question": "野球で、打者が球を待つために立つ、ホームベース横の決められた区域は何ですか。",
+        "answer": "バッターボックス"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "体操と柔軟",
+        "difficulty": "簡単",
+        "question": "体操で、両手で体を支え、頭を下にして足を上へ伸ばす姿勢は何ですか。",
+        "answer": "倒立"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "体操と柔軟",
+        "difficulty": "普通",
+        "question": "体操で、両手と両足を床につき、腹側を上へ大きく反らせる姿勢は何ですか。",
+        "answer": "ブリッジ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "体操と柔軟",
+        "difficulty": "簡単",
+        "question": "筋肉や関節の周囲をゆっくり伸ばし、動かしやすくする運動は何ですか。",
+        "answer": "ストレッチ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "体操と柔軟",
+        "difficulty": "簡単",
+        "question": "本格的な運動の前に、体を徐々に動かして準備することは何ですか。",
+        "answer": "ウォームアップ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "体操と柔軟",
+        "difficulty": "普通",
+        "question": "運動を終えた後、急に止まらず軽く動いて体を落ち着かせることは何ですか。",
+        "answer": "クールダウン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "体の使い方",
+        "difficulty": "普通",
+        "question": "運動の練習で、負荷の高い時間と休息または軽い動作の時間を交互に置く方法は何ですか。",
+        "answer": "インターバル"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "冬の運動",
+        "difficulty": "簡単",
+        "question": "雪の上を滑る競技や遊びのため、山の斜面に整えられた場所は何ですか。",
+        "answer": "ゲレンデ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "冬の運動",
+        "difficulty": "普通",
+        "question": "スキーで、板の先端を近づけ、後端を開いて速度を調節する基本姿勢は何ですか。",
+        "answer": "ボーゲン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "冬の運動",
+        "difficulty": "普通",
+        "question": "スキーで、二本の板をほぼ平行に保ちながら方向を変える技術は何ですか。",
+        "answer": "パラレルターン"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "冬の運動",
+        "difficulty": "普通",
+        "question": "深い雪の上でも足が沈みにくいよう、靴の下に取り付ける幅広の道具は何ですか。",
+        "answer": "スノーシュー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "冬の運動",
+        "difficulty": "普通",
+        "question": "雪のある平地や起伏のある道を、細長い板で進み続ける競技は何ですか。",
+        "answer": "クロスカントリー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "冬の運動",
+        "difficulty": "普通",
+        "question": "氷上で丸い石を滑らせ、標的の中心に近づけて得点を競う競技は何ですか。",
+        "answer": "カーリング"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "冬の運動",
+        "difficulty": "難しい",
+        "question": "氷上で滑る石の進み方を調節するため、その前方を専用のブラシでこする動作は何ですか。",
+        "answer": "スイープ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "冬の運動",
+        "difficulty": "普通",
+        "question": "氷の周回路で、刃の付いた靴を履いて一定距離の速さを競う種目は何ですか。",
+        "answer": "スピードスケート"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "運動と競技",
+        "sub_category": "冬の運動",
+        "difficulty": "普通",
+        "question": "氷の上で回転や跳躍、滑走の表現を組み合わせて演技する競技は何ですか。",
+        "answer": "フィギュアスケート"
       }
     ]
   }
