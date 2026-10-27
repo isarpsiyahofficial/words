@@ -45958,6 +45958,716 @@
         "difficulty": "簡単",
         "question": "大量の記録を整理して保存し、条件に応じて取り出せるようにした仕組みは何ですか。",
         "answer": "データベース"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "撮影の基礎",
+        "difficulty": "普通",
+        "answer": "露出補正",
+        "question": "カメラが決めた明るさを、撮影者の意図に合わせて増減する操作は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "撮影の基礎",
+        "difficulty": "普通",
+        "answer": "絞り",
+        "question": "レンズ内の開口部の大きさを変え、取り込む光量を調節する仕組みは何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "撮影の基礎",
+        "difficulty": "普通",
+        "answer": "シャッタースピード",
+        "question": "動く被写体のぶれ方を左右する、光を受け取る時間の設定を何と呼びますか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "色の調整",
+        "difficulty": "普通",
+        "answer": "ホワイトバランス",
+        "question": "照明による色かぶりを抑え、白いものを自然な白に見せるための調整は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "色の調整",
+        "difficulty": "普通",
+        "answer": "彩度",
+        "question": "同じ明るさでも、鮮やかさの強弱を表す性質は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "色の調整",
+        "difficulty": "普通",
+        "answer": "コントラスト",
+        "question": "画面の明るい部分と暗い部分の差の大きさを何と呼びますか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "普通",
+        "answer": "ピクセル",
+        "question": "デジタル画像を構成する、色の情報を持った最小の点は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "難しい",
+        "answer": "アンチエイリアス",
+        "question": "斜めの線のぎざぎざを目立たなくし、輪郭を滑らかに見せる処理は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "普通",
+        "answer": "グレースケール",
+        "question": "色相を使わず、黒から白までの明るさだけで表現する画像方式は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "難しい",
+        "answer": "ガンマ補正",
+        "question": "画像の中間の明るさを非線形に調整し、表示の見え方を整える処理は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "撮影の基礎",
+        "difficulty": "難しい",
+        "answer": "パンフォーカス",
+        "question": "近くから遠くまで、画面内の広い範囲がくっきり見える撮影状態は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "動画のしくみ",
+        "difficulty": "普通",
+        "answer": "フレームレート",
+        "question": "動画で一秒間に何枚の静止画像を表示するかを表す数値は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "動画のしくみ",
+        "difficulty": "難しい",
+        "answer": "インターレース",
+        "question": "一枚の画面を奇数行と偶数行に分け、交互に表示する方式は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "紙と製本",
+        "sub_category": "本のつくり",
+        "difficulty": "難しい",
+        "answer": "寒冷紗",
+        "question": "本の背を補強するために貼る、目の粗い薄い布は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "紙と製本",
+        "sub_category": "印刷の技法",
+        "difficulty": "難しい",
+        "answer": "ドットゲイン",
+        "question": "紙にインクが広がり、印刷された小さな点が設計より大きくなる現象は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "料理の下ごしらえ",
+        "sub_category": "調理の工夫",
+        "difficulty": "普通",
+        "answer": "煮詰める",
+        "question": "鍋の液体を加熱して水分を飛ばし、味や濃さを強める操作は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "住まいと建築",
+        "sub_category": "木造の工夫",
+        "difficulty": "難しい",
+        "answer": "貫",
+        "question": "柱を横に通してつなぎ、木組みを安定させる細長い材は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "布と縫製",
+        "sub_category": "縫いの基本",
+        "difficulty": "普通",
+        "answer": "しつけ",
+        "question": "本番の作業前に布同士がずれないよう、粗く仮に留めることは何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "布と縫製",
+        "sub_category": "縫いの基本",
+        "difficulty": "普通",
+        "answer": "玉結び",
+        "question": "手縫いを始める前に糸の端へ小さなこぶを作ることは何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "布と縫製",
+        "sub_category": "縫いの基本",
+        "difficulty": "普通",
+        "answer": "玉止め",
+        "question": "手縫いの終わりに糸が抜けないよう、小さなこぶを作る処理は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "布と縫製",
+        "sub_category": "縫いの基本",
+        "difficulty": "難しい",
+        "answer": "バイアステープ",
+        "question": "布目に対して斜めに裁った細長い布を使い、曲線の端を包む資材は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "布と縫製",
+        "sub_category": "縫いの基本",
+        "difficulty": "普通",
+        "answer": "接着芯",
+        "question": "襟や袋の口などに張りを持たせるため、裏側から熱で貼る補強材は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本語のしくみ",
+        "sub_category": "文字と表記",
+        "difficulty": "普通",
+        "answer": "ルビ",
+        "question": "難しい文字の読み方を示すため、そばに小さく付ける文字は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "庭と植物",
+        "sub_category": "庭づくり",
+        "difficulty": "普通",
+        "answer": "雪吊り",
+        "question": "冬に枝が重みで折れないよう、上から縄で支える庭木の保護方法は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "空と宇宙",
+        "sub_category": "観測の言葉",
+        "difficulty": "難しい",
+        "answer": "会合周期",
+        "question": "地球から見た二つの天体の位置関係が、同じ配置に戻るまでの時間は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "数学と情報",
+        "sub_category": "数の考え方",
+        "difficulty": "普通",
+        "answer": "絶対値",
+        "question": "数直線上で、符号に関係なく原点からの距離を表す数は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学の観察",
+        "sub_category": "電気と測定",
+        "difficulty": "普通",
+        "answer": "抵抗器",
+        "question": "回路に流れる電流を制限したり電圧を分けたりするための電子部品は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学の観察",
+        "sub_category": "電気と測定",
+        "difficulty": "普通",
+        "answer": "コンデンサ",
+        "question": "二枚の導体などを用い、電荷を一時的に蓄える電子部品は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "科学の観察",
+        "sub_category": "電気と測定",
+        "difficulty": "普通",
+        "answer": "ダイオード",
+        "question": "電流を主に一方向へ流す性質を利用した半導体部品は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "道具と計測",
+        "sub_category": "作業の工夫",
+        "difficulty": "普通",
+        "answer": "墨壺",
+        "question": "木材にまっすぐな目印を付けるため、色を含ませた糸を張って弾く道具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "道具と計測",
+        "sub_category": "作業の工夫",
+        "difficulty": "普通",
+        "answer": "糸鋸",
+        "question": "細い刃を枠に張り、板に曲線や細かな切り込みを入れる道具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "撮影の技法",
+        "difficulty": "普通",
+        "answer": "インターバル撮影",
+        "question": "一定の間隔を空けて何枚も写真を記録し、長い変化を追う方法は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "撮影の技法",
+        "difficulty": "普通",
+        "answer": "ブラケット撮影",
+        "question": "明るさなどの設定を少しずつ変えて、同じ場面を複数枚記録する方法は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "撮影の技法",
+        "difficulty": "普通",
+        "answer": "スポット測光",
+        "question": "画面内のごく狭い範囲の明るさを基準に、カメラが設定を決める方式は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "撮影の技法",
+        "difficulty": "普通",
+        "answer": "マクロ撮影",
+        "question": "小さな花や昆虫などに近づき、細部を大きく写す方法は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "撮影の技法",
+        "difficulty": "普通",
+        "answer": "手ぶれ補正",
+        "question": "カメラを持つ人の細かな揺れによって生じる画像の不鮮明さを抑える機能は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "撮影の技法",
+        "difficulty": "普通",
+        "answer": "光学ズーム",
+        "question": "レンズの構成を動かして、画質を保ちながら写る範囲を変える仕組みは何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "撮影の技法",
+        "difficulty": "普通",
+        "answer": "デジタルズーム",
+        "question": "撮像した画像の一部を切り出して拡大し、遠くのものを大きく見せる機能は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "普通",
+        "answer": "黒つぶれ",
+        "question": "暗すぎる部分の模様や質感が見えず、一様に暗くなる現象は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "難しい",
+        "answer": "モアレ",
+        "question": "規則的な細い模様を撮ると、実物にない波状の縞が現れる現象は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "難しい",
+        "answer": "ケラレ",
+        "question": "レンズや付属品の影響で、画面の四隅が不自然に暗く欠ける現象は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "難しい",
+        "answer": "周辺減光",
+        "question": "レンズの特性によって、画面の中央より端が暗く写る現象は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "難しい",
+        "answer": "ダイナミックレンジ",
+        "question": "一度の撮影で、暗い部分から明るい部分まで記録できる幅は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "普通",
+        "answer": "アスペクト比",
+        "question": "画面の横の長さと縦の長さの割合を表す言葉は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "普通",
+        "answer": "トリミング",
+        "question": "写真の周囲を切り落とし、構図を整える編集作業は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "普通",
+        "answer": "レイヤー",
+        "question": "画像編集で、絵や文字を別々に重ねて管理する透明な層のような仕組みは何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "普通",
+        "answer": "マスク",
+        "question": "画像の一部分だけに編集効果を適用したり、隠したりするための指定は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "難しい",
+        "answer": "アルファチャンネル",
+        "question": "画像の各点がどれほど透けて見えるかを記録する追加の情報は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "難しい",
+        "answer": "カラープロファイル",
+        "question": "画像や機器がどのように色を表現するかを定義した情報のまとまりは何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "難しい",
+        "answer": "カラーマネジメント",
+        "question": "撮影機器や画面、印刷機で見える色の差をできるだけ小さくする管理は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "難しい",
+        "answer": "ディザリング",
+        "question": "使える色数が少ないとき、細かな点を散らして中間の色を表す手法は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "普通",
+        "answer": "可逆圧縮",
+        "question": "データの大きさを減らしても、元の情報を完全に復元できる方式は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "普通",
+        "answer": "非可逆圧縮",
+        "question": "容量を小さくする代わりに、一部の情報を捨てて元どおりには戻せない方式は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "普通",
+        "answer": "サムネイル",
+        "question": "大量の画像を一覧で見やすくするために用意する、小さな見本画像は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "写真と映像",
+        "sub_category": "画像のしくみ",
+        "difficulty": "普通",
+        "answer": "メタデータ",
+        "question": "写真の撮影日時や機器の設定など、内容そのものとは別に添えられる情報は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "音と記録",
+        "sub_category": "録音のしくみ",
+        "difficulty": "難しい",
+        "answer": "スペクトログラム",
+        "question": "音の高さごとの強さが時間とともにどう変わるかを、色の濃淡で表す図は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "音と記録",
+        "sub_category": "録音のしくみ",
+        "difficulty": "普通",
+        "answer": "イコライザー",
+        "question": "低い音や高い音など、帯域ごとの強さを調整する装置や機能は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "音と記録",
+        "sub_category": "録音のしくみ",
+        "difficulty": "難しい",
+        "answer": "ノイズゲート",
+        "question": "小さな不要音が入るとき、設定したレベルより弱い信号を自動で抑える処理は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "音と記録",
+        "sub_category": "録音のしくみ",
+        "difficulty": "難しい",
+        "answer": "コンプレッサー",
+        "question": "大きすぎる信号を抑え、音量のばらつきを小さくする処理装置は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "音と記録",
+        "sub_category": "録音のしくみ",
+        "difficulty": "難しい",
+        "answer": "リミッター",
+        "question": "信号が決めた上限を超えないよう、急な大きな音を抑える装置は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "天気と観測",
+        "sub_category": "観測の道具",
+        "difficulty": "普通",
+        "answer": "日射計",
+        "question": "地表に届く太陽のエネルギーの強さを測る器具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "道具と計測",
+        "sub_category": "作業の工夫",
+        "difficulty": "普通",
+        "answer": "スコヤ",
+        "question": "二つの辺が直角になっており、材料の角を確かめるための定規は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "道具と計測",
+        "sub_category": "作業の工夫",
+        "difficulty": "普通",
+        "answer": "クランプ",
+        "question": "作業台に材料を挟んで固定し、ずれを防ぐ締め具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "道具と計測",
+        "sub_category": "作業の工夫",
+        "difficulty": "普通",
+        "answer": "センターポンチ",
+        "question": "金属に穴を開ける前、先端を当てて小さなくぼみを付ける工具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "道具と計測",
+        "sub_category": "作業の工夫",
+        "difficulty": "普通",
+        "answer": "サンドペーパー",
+        "question": "細かな研磨粒を紙に付け、木や金属の表面を滑らかにする資材は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "道具と計測",
+        "sub_category": "作業の工夫",
+        "difficulty": "難しい",
+        "answer": "ケガキ針",
+        "question": "加工前の金属表面に細い線を引き、切る位置などを示す先の尖った工具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "道具と計測",
+        "sub_category": "作業の工夫",
+        "difficulty": "難しい",
+        "answer": "リーマ",
+        "question": "あらかじめ開けた穴の内面を少し削り、直径と仕上がりを整える工具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "道具と計測",
+        "sub_category": "作業の工夫",
+        "difficulty": "難しい",
+        "answer": "タップ",
+        "question": "金属などに開けた穴の内側へ、ねじの溝を作る工具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "道具と計測",
+        "sub_category": "作業の工夫",
+        "difficulty": "難しい",
+        "answer": "ダイス",
+        "question": "丸い棒の外側へ、ねじの溝を切る工具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "道具と計測",
+        "sub_category": "作業の工夫",
+        "difficulty": "普通",
+        "answer": "ヘラ",
+        "question": "柔らかい材料を薄く広げたり、容器の内側からかき集めたりする平たい道具は何ですか。"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "植物と生き物",
+        "sub_category": "生物のからだ",
+        "difficulty": "難しい",
+        "answer": "足糸",
+        "question": "二枚貝が岩などに体を固定するため、体内から出す丈夫な繊維状のものは何ですか。"
       }
     ]
   }
