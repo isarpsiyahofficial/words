@@ -18984,8 +18984,8 @@
       "main_category": "Diseño y artes gráficas",
       "sub_category": "Impresión y encuadernación",
       "difficulty": "medio",
-      "answer": "sangrado de impresión",
-      "question": "¿Qué extensión de la imagen más allá del borde final evita líneas blancas tras el corte?"
+      "answer": "margen de pinza",
+      "question": "¿Qué franja sin diseño se reserva en una hoja para que el mecanismo de agarre de la prensa pueda sujetarla?"
     },
     {
       "game_type": "kelime_ustasi",
@@ -19014,8 +19014,8 @@
       "main_category": "Ciencia y laboratorio",
       "sub_category": "Instrumentos y análisis",
       "difficulty": "medio",
-      "answer": "placa de Petri",
-      "question": "¿Qué recipiente circular y poco profundo se utiliza para cultivar microorganismos en un medio adecuado?"
+      "answer": "placa de cultivo",
+      "question": "¿Qué recipiente circular y poco profundo se emplea para hacer crecer microorganismos sobre un medio nutritivo sólido?"
     },
     {
       "game_type": "kelime_ustasi",
@@ -19956,6 +19956,56 @@
       "difficulty": "medio",
       "answer": "margen de seguridad",
       "question": "¿Qué distancia interior se reserva para que textos importantes no queden demasiado cerca del recorte?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Textiles y confección",
+      "sub_category": "Técnicas y acabados",
+      "difficulty": "medio",
+      "answer": "apresto",
+      "question": "¿Qué tratamiento de acabado proporciona mayor cuerpo o rigidez a una tela sin alterar su estructura tejida?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Carpintería",
+      "sub_category": "Propiedades de la madera",
+      "difficulty": "medio",
+      "answer": "alabeo",
+      "question": "¿Cómo se denomina la deformación por la que una tabla se retuerce y deja de presentar una superficie plana?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Botánica",
+      "sub_category": "Morfología vegetal",
+      "difficulty": "difícil",
+      "answer": "raquis",
+      "question": "¿Qué eje principal sostiene los folíolos de una hoja compuesta?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Estadística cotidiana",
+      "sub_category": "Datos y representaciones",
+      "difficulty": "medio",
+      "answer": "muestreo estratificado",
+      "question": "¿Qué método divide una población en grupos homogéneos y selecciona al azar observaciones de cada uno?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Fotografía",
+      "sub_category": "Captura y composición",
+      "difficulty": "difícil",
+      "answer": "orificio estenopeico",
+      "question": "¿Qué diminuta abertura deja entrar la luz en una cámara sin objetivo para formar la imagen?"
     }
   ],
   "tabu": [
