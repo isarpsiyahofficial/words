@@ -47488,6 +47488,496 @@
         "difficulty": "普通",
         "question": "完成前に試着して形を確かめるため、一時的に布をつなぎ合わせる作業は何ですか。",
         "answer": "仮縫い"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "木工と接合",
+        "sub_category": "材の加工",
+        "difficulty": "簡単",
+        "question": "丸太を横方向に切ったとき、年輪が見える断面を何と呼びますか。",
+        "answer": "木口"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "木工と接合",
+        "sub_category": "材の加工",
+        "difficulty": "簡単",
+        "question": "切り出した材の表面に、年輪の筋がほぼ平行に走る模様を何と呼びますか。",
+        "answer": "柾目"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "木工と接合",
+        "sub_category": "材の加工",
+        "difficulty": "簡単",
+        "question": "切り出した材の表面に、年輪が山形や波形に現れる模様を何と呼びますか。",
+        "answer": "板目"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "木工と接合",
+        "sub_category": "材の加工",
+        "difficulty": "簡単",
+        "question": "台形の突起とくぼみをかみ合わせ、引っ張っても外れにくくする接合方法は何ですか。",
+        "answer": "蟻継ぎ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "木工と接合",
+        "sub_category": "材の加工",
+        "difficulty": "簡単",
+        "question": "一方の材に溝を作り、別の材の端を差し込んで固定する接合法は何ですか。",
+        "answer": "大入れ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "木工と接合",
+        "sub_category": "材の加工",
+        "difficulty": "簡単",
+        "question": "二本の材をそれぞれ厚さの半分ほど切り取り、重ねてつなぐ接合法は何ですか。",
+        "answer": "相欠き"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "木工と接合",
+        "sub_category": "材の加工",
+        "difficulty": "簡単",
+        "question": "二本の材の端を斜めに切り、額縁の角などでつなぐ方法は何ですか。",
+        "answer": "留め継ぎ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "木工と接合",
+        "sub_category": "材の加工",
+        "difficulty": "簡単",
+        "question": "室内の壁面に細長い材を並べて張る仕上げ用の建材は何ですか。",
+        "answer": "羽目板"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "本と和紙の文化",
+        "sub_category": "製紙と製本",
+        "difficulty": "簡単",
+        "question": "手すきの工程で、細い竹などを編んで繊維を受け止める道具は何ですか。",
+        "answer": "簀"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "本と和紙の文化",
+        "sub_category": "製紙と製本",
+        "difficulty": "簡単",
+        "question": "手すきの和紙の原料になる、クワ科の落葉低木は何ですか。",
+        "answer": "楮"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "本と和紙の文化",
+        "sub_category": "製紙と製本",
+        "difficulty": "簡単",
+        "question": "枝が先端で繰り返し分岐し、丈夫な和紙の原料になる低木は何ですか。",
+        "answer": "三椏"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "本と和紙の文化",
+        "sub_category": "製紙と製本",
+        "difficulty": "簡単",
+        "question": "手すきの紙の縁に繊維の自然な不揃いを残した仕上がりは何と呼ばれますか。",
+        "answer": "耳付き"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "本と和紙の文化",
+        "sub_category": "製紙と製本",
+        "difficulty": "簡単",
+        "question": "一枚を二つにたたんだ紙を重ね、開いている側を糸でとじる製本法は何ですか。",
+        "answer": "袋綴じ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "本と和紙の文化",
+        "sub_category": "製紙と製本",
+        "difficulty": "簡単",
+        "question": "本の背の上下に付ける、糸で編んだ細い飾りは何ですか。",
+        "answer": "花布"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "本と和紙の文化",
+        "sub_category": "製紙と製本",
+        "difficulty": "簡単",
+        "question": "本のページ上部の余白に記す、章名や書名などの短い表示は何ですか。",
+        "answer": "柱"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "地図と地形",
+        "sub_category": "測地と河川地形",
+        "difficulty": "簡単",
+        "question": "地球上の場所を南北と東西の二つの値で示す座標の組は何ですか。",
+        "answer": "経緯度"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "空と天候のしくみ",
+        "sub_category": "気象現象",
+        "difficulty": "簡単",
+        "question": "性質の異なる二つの気団が接する境界を何と呼びますか。",
+        "answer": "前線"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "空と天候のしくみ",
+        "sub_category": "気象現象",
+        "difficulty": "簡単",
+        "question": "沿岸部で昼夜の温度差により、空気の流れる向きが交互に変わる現象は何ですか。",
+        "answer": "海陸風"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "空と天候のしくみ",
+        "sub_category": "気象現象",
+        "difficulty": "簡単",
+        "question": "積もった白い結晶が強い気流で舞い上がり、遠くが見えにくくなる現象は何ですか。",
+        "answer": "地吹雪"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "海の動きと地形",
+        "sub_category": "海洋と沿岸",
+        "difficulty": "簡単",
+        "question": "強い低気圧や風の影響で沿岸の水面が普段より大きく上昇する現象は何ですか。",
+        "answer": "高潮"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "海の動きと地形",
+        "sub_category": "海洋と沿岸",
+        "difficulty": "簡単",
+        "question": "深い場所の冷たく栄養豊富な水が表面へ上がってくる現象は何ですか。",
+        "answer": "湧昇"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "海の動きと地形",
+        "sub_category": "海洋と沿岸",
+        "difficulty": "簡単",
+        "question": "深さによって水温が急に変わる、境目の帯は何ですか。",
+        "answer": "躍層"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "海の動きと地形",
+        "sub_category": "海洋と沿岸",
+        "difficulty": "簡単",
+        "question": "深さによって海水のしょっぱさが急に変わる帯は何ですか。",
+        "answer": "塩分躍層"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "海の動きと地形",
+        "sub_category": "海洋と沿岸",
+        "difficulty": "簡単",
+        "question": "沿岸から沖へ緩やかに続く、比較的浅い海底の地形は何ですか。",
+        "answer": "大陸棚"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "海の動きと地形",
+        "sub_category": "海洋と沿岸",
+        "difficulty": "簡単",
+        "question": "浅いところへ来たうねりの先端が崩れて白く泡立つ現象は何ですか。",
+        "answer": "砕波"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "数学と統計",
+        "sub_category": "数理の用語",
+        "difficulty": "簡単",
+        "question": "二つの整数に共通する正の約数が1だけである関係を何と呼びますか。",
+        "answer": "互いに素"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "数学と統計",
+        "sub_category": "数理の用語",
+        "difficulty": "普通",
+        "question": "並べたデータの中央50％が収まる区間の幅は何ですか。",
+        "answer": "四分位範囲"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "数学と統計",
+        "sub_category": "数理の用語",
+        "difficulty": "簡単",
+        "question": "推定値の不確かさを、幅のある数値で示した範囲は何ですか。",
+        "answer": "信頼区間"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "植物と生態",
+        "sub_category": "細胞と生育",
+        "difficulty": "簡単",
+        "question": "植物の茎で光合成によって作られた糖を運ぶ組織は何ですか。",
+        "answer": "師部"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "植物と生態",
+        "sub_category": "細胞と生育",
+        "difficulty": "簡単",
+        "question": "針葉樹などで、水を運ぶ働きと支える働きを兼ねる細長い細胞は何ですか。",
+        "answer": "仮道管"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "植物と生態",
+        "sub_category": "細胞と生育",
+        "difficulty": "簡単",
+        "question": "主に日没後に活動し、昼間は休む生活の特徴は何ですか。",
+        "answer": "夜行性"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "染織と布の工芸",
+        "sub_category": "染色と織物",
+        "difficulty": "簡単",
+        "question": "タデ科の植物から得た青い色素を使う伝統的な着色法は何ですか。",
+        "answer": "藍染め"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "染織と布の工芸",
+        "sub_category": "染色と織物",
+        "difficulty": "簡単",
+        "question": "下絵に沿って糊で色の境界を作り、多彩な絵柄を描く着物の装飾技法は何ですか。",
+        "answer": "友禅"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "染織と布の工芸",
+        "sub_category": "染色と織物",
+        "difficulty": "簡単",
+        "question": "熱で溶ける材料を防染剤として塗り、模様を残す伝統技法は何ですか。",
+        "answer": "蝋纈"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "染織と布の工芸",
+        "sub_category": "染色と織物",
+        "difficulty": "簡単",
+        "question": "布を織り上げてから全体を着色する方法は何ですか。",
+        "answer": "後染め"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "染織と布の工芸",
+        "sub_category": "染色と織物",
+        "difficulty": "簡単",
+        "question": "縦と横の糸を一回ずつ交互に上下させる基本的な組み方は何ですか。",
+        "answer": "平織り"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "染織と布の工芸",
+        "sub_category": "染色と織物",
+        "difficulty": "簡単",
+        "question": "縦横の糸の交差位置をずらし、斜めの筋が現れる組み方は何ですか。",
+        "answer": "綾織り"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "染織と布の工芸",
+        "sub_category": "染色と織物",
+        "difficulty": "簡単",
+        "question": "糸の交差点を離して表面に長く浮く部分を作り、光沢を出す組み方は何ですか。",
+        "answer": "朱子織り"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本庭園と造園",
+        "sub_category": "庭の設え",
+        "difficulty": "簡単",
+        "question": "庭で足を運ぶ場所を示すため、間隔をあけて配置する平たい素材は何ですか。",
+        "answer": "飛石"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本庭園と造園",
+        "sub_category": "庭の設え",
+        "difficulty": "簡単",
+        "question": "茶庭で身をかがめて手を清めるための低い水鉢は何ですか。",
+        "answer": "蹲踞"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本庭園と造園",
+        "sub_category": "庭の設え",
+        "difficulty": "簡単",
+        "question": "庭の池辺などに置く、笠が広く脚の低い石製の照明飾りは何ですか。",
+        "answer": "雪見灯籠"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本庭園と造園",
+        "sub_category": "庭の設え",
+        "difficulty": "簡単",
+        "question": "庭の小道に大小の平たい石を敷き詰めて作る舗装は何ですか。",
+        "answer": "延段"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本庭園と造園",
+        "sub_category": "庭の設え",
+        "difficulty": "簡単",
+        "question": "庭の境界を区切るため、竹や植物で作る仕切りは何ですか。",
+        "answer": "垣根"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和室と木造建築",
+        "sub_category": "部材と構造",
+        "difficulty": "簡単",
+        "question": "座敷の飾り空間の脇に立て、材の表情を見せる縦の部材は何ですか。",
+        "answer": "床柱"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和室と木造建築",
+        "sub_category": "部材と構造",
+        "difficulty": "簡単",
+        "question": "座敷の飾り空間で、左右の高さをずらして設ける二枚の飾り板は何ですか。",
+        "answer": "違い棚"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和室と木造建築",
+        "sub_category": "部材と構造",
+        "difficulty": "簡単",
+        "question": "座敷の縁側近くに張り出す、明かりを採るための机状の空間は何ですか。",
+        "answer": "書院"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和室と木造建築",
+        "sub_category": "部材と構造",
+        "difficulty": "簡単",
+        "question": "建物の水平な骨組みの隅に斜めに入れ、ゆがみを防ぐ部材は何ですか。",
+        "answer": "火打梁"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和室と木造建築",
+        "sub_category": "部材と構造",
+        "difficulty": "簡単",
+        "question": "建物の上部で、棟と軒のあいだを平行に走り垂木を支える材は何ですか。",
+        "answer": "母屋"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "和室と木造建築",
+        "sub_category": "部材と構造",
+        "difficulty": "簡単",
+        "question": "屋根が外壁より張り出した部分の裏側の仕上げ面は何ですか。",
+        "answer": "軒天"
       }
     ]
   }
