@@ -34008,7 +34008,680 @@
           "target_text": "طي ورقة لتكوين جوانب فانوس"
         }
       ],
-      "riddle": [],
+      "riddle": [
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أحمل وقتاً يتناقص في حجرة ويزداد في أخرى، ولا أحتاج إلى عقارب أو بطارية. من أنا؟",
+          "answer": "الساعة الرملية"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "تتحرك إبرتي الحرة ثم تستقر لتدل المسافر على جهة ثابتة، حتى إن غابت العلامات عن الطريق. من أنا؟",
+          "answer": "البوصلة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أبدو كنصف قرص شفاف، وعلى حافتي تدريجات تساعد التلميذ على معرفة اتساع الزوايا. من أنا؟",
+          "answer": "المنقلة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "لي ساقان متصلتان، أثبت إحداهما في نقطة وأدير الأخرى لأرسم شكلاً مستديراً متقناً. من أنا؟",
+          "answer": "الفرجار"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "حافتي مستقيمة وعليها علامات متساوية، أساعد القلم على السير دون انحراف. من أنا؟",
+          "answer": "المسطرة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "يدخل فيّ قلم خشبي بطرف غليظ، ويخرج أدق بعد أن تتساقط منه قشور رفيعة. من أنا؟",
+          "answer": "المبراة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أجمع أوراقاً متفرقة بضغطة واحدة وقطعة معدنية صغيرة تنثني خلفها. من أنا؟",
+          "answer": "الدباسة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أصنع فتحتين متوازيتين قرب حافة الصفحات حتى تدخل بسهولة في ملف ذي حلقات. من أنا؟",
+          "answer": "ثاقبة الورق"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أنا سلك صغير مثنيّ، أمسك عدة صفحات معاً من غير غراء أو ثقوب. من أنا؟",
+          "answer": "مشبك الورق"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أنظر من خلال زجاجتي المحدبة فيبدو الخط الصغير أكبر مما تراه العين وحدها. من أنا؟",
+          "answer": "العدسة المكبرة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أضع شريحة رقيقة تحت ضوئي، فتظهر للعين تفاصيل لا تُرى بالنظر المعتاد. من أنا؟",
+          "answer": "المجهر"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "لي عينان زجاجيتان متجاورتان، أقرّب مشهداً بعيداً حين ينظر شخص من فتحتيّ معاً. من أنا؟",
+          "answer": "المنظار الثنائي"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أجمع ضوء الأجرام البعيدة بعدسات أو مرايا، فيرى الراصد تفاصيل في السماء لا تميزها العين المجردة. من أنا؟",
+          "answer": "التلسكوب"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "لي طبقان معلّقان؛ إذا تساوى ما عليهما استقر ذراعي في المنتصف. من أنا؟",
+          "answer": "الميزان ذو الكفتين"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أخبرك بدرجة سخونة الجسم أو برودته، وأعرض النتيجة برقم أو تدريج. من أنا؟",
+          "answer": "ميزان الحرارة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أقف في مكان مكشوف، وأجمع قطرات السماء في وعاء مدرّج ليُعرف مقدار ما هطل. من أنا؟",
+          "answer": "مقياس المطر"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أثبت فوق سطح مرتفع، وأدير سهماً مع حركة الهواء لأشير إلى الجهة التي يأتي منها. من أنا؟",
+          "answer": "دوارة الرياح"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "صعب",
+          "question": "تتغير قراءتي مع وزن عمود الهواء فوق المكان، ويستعين بي الراصد في متابعة أحوال الطقس. من أنا؟",
+          "answer": "مقياس الضغط الجوي"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "لا أعمل في الليل، وأقرأ ساعات النهار من موضع خط داكن تصنعه الشمس على سطح مرقّم. من أنا؟",
+          "answer": "المزولة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "صعب",
+          "question": "سطحي ينتفخ إلى الخارج، وأجعل الأشياء تبدو أصغر لكي تكشف عين الناظر مساحة أوسع. من أنا؟",
+          "answer": "المرآة المحدبة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "صعب",
+          "question": "سطحي غائر إلى الداخل، وقد أجعل الوجه القريب يبدو أكبر عند النظر إليّ. من أنا؟",
+          "answer": "المرآة المقعرة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أظهر كقوس متعدد الألوان حين يلتقي ضوء الشمس بقطرات معلقة بعد هطول الماء. من أنا؟",
+          "answer": "قوس قزح"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أغطي أوراق النبات بقطرات صغيرة عند الصباح الباكر من دون أن أكون مطراً. من أنا؟",
+          "answer": "الندى"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "تسمع صوتك ثانية بعد أن يرتد عن جدار بعيد أو جبل، لكنني لا أملك فماً. من أنا؟",
+          "answer": "الصدى"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أقترب من الأرض كغيمة منخفضة، فأجعل المباني البعيدة أقل وضوحاً. من أنا؟",
+          "answer": "الضباب"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أجعل الطريق الحار يبدو كأنه مغطى بماء لامع، لكن العابر لا يجد بركة حين يقترب. من أنا؟",
+          "answer": "السراب"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أمتد وأقصر مع تغير موضع الشمس، وأرسم هيئة من يحجب الضوء دون أن أكون جسماً. من أنا؟",
+          "answer": "الظل"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أتقدم بماء البحر نحو الشاطئ ثم أتراجع عنه في دورة تتأثر بجاذبية القمر. من أنا؟",
+          "answer": "المد والجزر"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أبدو كقوس رفيع مضيء في السماء عند بداية الشهر القمري أو نهايته. من أنا؟",
+          "answer": "الهلال"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أهبط بمياه نهر من حافة مرتفعة إلى مستوى أدنى في ستار متحرك. من أنا؟",
+          "answer": "الشلال"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تجمعني حبات دقيقة تنقلها الرياح، وقد يتغير موضعي وشكلي مع مرور الأيام. من أنا؟",
+          "answer": "الكثيب الرملي"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أكسو العشب صباحاً ببلورات بيضاء دقيقة حين يشتد برد الليل. من أنا؟",
+          "answer": "الصقيع"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أبقى صغيراً ومغلقاً على غصن، ثم أنفتح لتظهر ورقة جديدة أو زهرة. من أنا؟",
+          "answer": "البرعم"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "صعب",
+          "question": "أنمو خارج التربة من ساق بعض النباتات، وقد أمتص الرطوبة مباشرة من الجو. ما أنا؟",
+          "answer": "الجذور الهوائية"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أنا دقائق تنتقل من أجزاء الزهرة إلى أجزاء أخرى بمساعدة الهواء أو الحشرات لتبدأ عملية الإخصاب. ما أنا؟",
+          "answer": "حبوب اللقاح"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أنسج غلافاً يحيط بجسمي خلال مرحلة من التحول، ثم أغادره في صورة مختلفة. من أنا؟",
+          "answer": "الشرنقة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أضم حجرات شمعية سداسية متلاصقة، تخزن فيها الحشرات المجتهدة غذاءها وتربي صغارها. من أنا؟",
+          "answer": "خلية النحل"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أُنسج من خيوط رفيعة متقاطعة، وقد أمتد بين غصنين لالتقاط الحشرات الصغيرة. من أنا؟",
+          "answer": "بيت العنكبوت"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أنا بيت صلب ملتف حلزونياً، يحمله صاحبي على ظهره أينما زحف. من أنا؟",
+          "answer": "قوقعة الحلزون"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أكون غطاءً صلباً لكائن رخوي، وقد يجدني الزائر فارغة بين حبات الرمل على الساحل. من أنا؟",
+          "answer": "الصدفة البحرية"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "صعب",
+          "question": "أعيش ثابتاً تحت الماء، ويمر السائل عبر مسامي الكثيرة لألتقط منه غذائي. من أنا؟",
+          "answer": "الإسفنج البحري"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تعيش وحداتي الصغيرة في مستعمرات بحرية، وتبني هياكل صلبة قد تتراكم لتكوّن شعاباً. من أنا؟",
+          "answer": "المرجان"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أعيش على قاع الماء المالح، وغالباً ما تمتد من جسمي خمسة أذرع. من أنا؟",
+          "answer": "نجمة البحر"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أنا سمكة تسبح في وضع شبه عمودي، ولدي ذيل يلتف حول النباتات المائية. من أنا؟",
+          "answer": "فرس البحر"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أحرّك عينيّ بصورة شبه مستقلة، وألتقط الحشرات بلسان طويل سريع. من أنا؟",
+          "answer": "الحرباء"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أنا حيوان ثديي أطير بجناحين غشائيين، وأتعرف إلى العوائق من أصوات مرتدة. من أنا؟",
+          "answer": "الخفاش"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أطير قرب البرك بأربعة أجنحة شفافة وعينين كبيرتين، وقد أقف على غصن رفيع. من أنا؟",
+          "answer": "اليعسوب"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أنا خنفساء صغيرة مستديرة، يشتهر ظهري الأحمر بنقاط داكنة، وأتغذى على حشرات النبات. من أنا؟",
+          "answer": "الدعسوقة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أحمل أشواكاً قصيرة على ظهري، وقد ألتف على نفسي عندما أشعر بالخوف. من أنا؟",
+          "answer": "القنفذ"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أرفع ريشاً على رأسي كالتاج، وأبحث بمنقاري الطويل عن طعام بين التربة. من أنا؟",
+          "answer": "الهدهد"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أستطيع البقاء في الهواء أمام الزهرة بينما يتحرك جناحاي بسرعة كبيرة لأرتشف الرحيق. من أنا؟",
+          "answer": "طائر الطنان"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "يرتفع جذعي الطويل وتنتشر سعفاتي في الأعلى، وتتدلى مني عناقيد ثمر حلو معروف في الجزيرة العربية. من أنا؟",
+          "answer": "النخلة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "لي قشرة سميكة وتاج صغير في أعلاي، وداخلي حبات كثيرة لامعة مملوءة بالعصير. من أنا؟",
+          "answer": "الرمان"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "ثمري لين من الخارج، وداخله بذور دقيقة كثيرة، ويمكن أكله طازجاً أو مجففاً. من أنا؟",
+          "answer": "التين"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أنا قرن بني طويل ينمو على شجرة، وطعمي حلو ويمكن طحن لبّي أو نقعه. من أنا؟",
+          "answer": "الخروب"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أُجمع في خيوط حمراء رقيقة من قلب زهرة، وتكفي كمية صغيرة مني لتلوين الطعام وتعطيره. من أنا؟",
+          "answer": "الزعفران"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أحمل بذوراً عطرية داخل قرون صغيرة، ويشيع وضعي مع القهوة العربية. من أنا؟",
+          "answer": "الهيل"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أُؤخذ من لحاء شجرة وألتف في عيدان بنية، وتفوح رائحتي الدافئة في الحلويات. من أنا؟",
+          "answer": "القرفة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أنا براعم زهرية مجففة تشبه المسامير الصغيرة، وأمنح الشراب والطعام رائحة نفاذة. من أنا؟",
+          "answer": "القرنفل"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أنا بذور صغيرة غنية بالزيت، تُرش فوق المخبوزات ويُصنع من طحنها معجون معروف. من أنا؟",
+          "answer": "السمسم"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أبدو كمعجون فاتح ودسم يُصنع من بذور محمصة ومطحونة، وأدخل في صلصات كثيرة. من أنا؟",
+          "answer": "الطحينة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أنا أسطوانة طويلة تُدحرج فوق قطعة عجين لتحويلها إلى طبقة رقيقة متساوية. من أنا؟",
+          "answer": "النشابة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "فمي واسع وطرفي ضيق، أساعد السائل على الوصول إلى زجاجة صغيرة الفتحة دون انسكاب. من أنا؟",
+          "answer": "القمع"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "على سطحي ثقوب ذات حواف حادة، وأحوّل الخضار أو الجبن إلى شرائط صغيرة عند تمريرهما عليّ. من أنا؟",
+          "answer": "المبشرة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أغلق غطائي بإحكام وأحبس البخار ليرتفع الضغط في داخلي وينضج الطعام أسرع. من أنا؟",
+          "answer": "القدر الضاغط"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "لي جداران بينهما عزل، فأحافظ على حرارة الشراب أو برودته ساعات طويلة. من أنا؟",
+          "answer": "الترمس الحراري"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "كنت أحفظ الماء أثناء السفر في وعاء مرن مصنوع تقليدياً من الجلد وله فوهة للإغلاق. من أنا؟",
+          "answer": "القربة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "يوضع في جوفي جمر لطيف أو مصدر حرارة، فتصعد مني رائحة العود واللبان في المجلس. من أنا؟",
+          "answer": "المبخرة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أنا نسيج بدوي من خيوط الصوف، تظهر فيّ أشكال هندسية وألوان متناوبة. من أنا؟",
+          "answer": "السدو"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أنسج من سيقان نباتية متجاورة، وأُفرش على الأرض للجلوس أو لحماية السطح. من أنا؟",
+          "answer": "الحصير"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أشد خيوطاً طولية وأمرر بينها خيطاً عرضياً مراراً حتى يتكون قماش. من أنا؟",
+          "answer": "المنسج"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أدور بين الأصابع لأحوّل الألياف المتفرقة إلى خيط ملتف يمكن نسجه. من أنا؟",
+          "answer": "المغزل"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أرتدي على طرف الإصبع أثناء الخياطة، فأحميه عند دفع الإبرة عبر القماش. من أنا؟",
+          "answer": "الكشتبان"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أغلق جانبي حقيبة أو سترة بصفين من الأسنان تتشابك عند سحب قطعة صغيرة. من أنا؟",
+          "answer": "السحّاب"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أنا عجلة ذات مجرى يمر فيه حبل، أساعد على تغيير اتجاه السحب عند رفع الأشياء. من أنا؟",
+          "answer": "البكرة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تتداخل أسناني مع أسنان عجلة أخرى لننقل الحركة الدورانية بيننا. من أنا؟",
+          "answer": "الترس"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أجذب بعض المعادن من دون خيط أو غراء، ولي طرفان تختلف عندهما طبيعة القوة. من أنا؟",
+          "answer": "المغناطيس"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أحتفظ بطاقة كيميائية وأمنح جهازاً صغيراً تياراً كهربائياً عندما يتصل طرفاي بدائرته. من أنا؟",
+          "answer": "البطارية"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أحمل في اليد وأرسل حزمة ضوء إلى المكان المظلم، وأعمل غالباً بخلايا طاقة صغيرة. من أنا؟",
+          "answer": "المصباح اليدوي"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أخرج من علبة صغيرة ممتداً بعلامات طولية، ثم أعود ملتفاً إلى داخلها. من أنا؟",
+          "answer": "شريط القياس"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "تضبطني لعدد من الدقائق، ثم أصدر إشارة عندما ينتهي الزمن المحدد للطهي. من أنا؟",
+          "answer": "مؤقت المطبخ"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أحمل ماءً في تجاويف صغيرة داخل المجمّد، ثم أُخرج قطعاً متشابهة بعد تجمده. من أنا؟",
+          "answer": "قالب الثلج"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "لي فوهة ذات ثقوب دقيقة، أوزع الماء على الشتلات برفق بدلاً من صبه دفعة واحدة. من أنا؟",
+          "answer": "المرشة الزراعية"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "لي شفرتان ومقبضان، وأستخدم في الحديقة لإزالة الأغصان الصغيرة الزائدة بدقة. من أنا؟",
+          "answer": "مقص التقليم"
+        }
+      ],
       "word_master": [
         {
           "game_type": "kelime_ustasi",
