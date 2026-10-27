@@ -9506,6 +9506,696 @@
       "difficulty": "difícil",
       "question": "¿Qué técnica combina varias fotografías con distintas exposiciones para conservar detalle en luces y sombras?",
       "answer": "alto rango dinámico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Biología celular",
+      "sub_category": "Estructuras y funciones",
+      "difficulty": "fácil",
+      "question": "¿Qué estructura de las células eucariotas alberga la mayor parte del material genético?",
+      "answer": "núcleo celular"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Biología celular",
+      "sub_category": "Estructuras y funciones",
+      "difficulty": "medio",
+      "question": "¿Qué envoltura flexible controla el paso de sustancias entre el interior de una célula y su entorno?",
+      "answer": "membrana plasmática"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Biología celular",
+      "sub_category": "Estructuras y funciones",
+      "difficulty": "difícil",
+      "question": "¿Cómo se llama el medio gelatinoso que rodea los orgánulos dentro de una célula?",
+      "answer": "citoplasma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Biología celular",
+      "sub_category": "Estructuras y funciones",
+      "difficulty": "fácil",
+      "question": "¿Qué orgánulo obtiene gran parte del ATP de una célula mediante la respiración aerobia?",
+      "answer": "mitocondria"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Biología celular",
+      "sub_category": "Estructuras y funciones",
+      "difficulty": "medio",
+      "question": "¿Qué complejo diminuto ensambla proteínas siguiendo instrucciones del ARN mensajero?",
+      "answer": "ribosoma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Biología celular",
+      "sub_category": "Estructuras y funciones",
+      "difficulty": "difícil",
+      "question": "¿Qué compartimento de una célula vegetal almacena agua y contribuye a mantener su turgencia?",
+      "answer": "vacuola"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Biología celular",
+      "sub_category": "Estructuras y funciones",
+      "difficulty": "fácil",
+      "question": "¿Qué orgánulo de las plantas transforma la energía solar en energía química durante la fotosíntesis?",
+      "answer": "cloroplasto"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Biología celular",
+      "sub_category": "Estructuras y funciones",
+      "difficulty": "medio",
+      "question": "¿Qué estructura formada por ADN y proteínas se condensa durante la división de una célula?",
+      "answer": "cromosoma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Biología celular",
+      "sub_category": "Estructuras y funciones",
+      "difficulty": "difícil",
+      "question": "¿Qué proceso reparte los cromosomas duplicados en dos núcleos equivalentes?",
+      "answer": "mitosis"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Biología celular",
+      "sub_category": "Estructuras y funciones",
+      "difficulty": "fácil",
+      "question": "¿Qué clase de tejido forma revestimientos continuos sobre superficies y cavidades del cuerpo?",
+      "answer": "tejido epitelial"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Formas del relieve",
+      "sub_category": "Modelado terrestre",
+      "difficulty": "fácil",
+      "question": "¿Cómo se llama la depresión cerrada, generalmente redondeada, que aparece al disolverse rocas calizas?",
+      "answer": "dolina"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Formas del relieve",
+      "sub_category": "Modelado terrestre",
+      "difficulty": "medio",
+      "question": "¿Qué superficie rocosa presenta surcos y acanaladuras producidos por el agua sobre la caliza?",
+      "answer": "lapiaz"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Formas del relieve",
+      "sub_category": "Modelado terrestre",
+      "difficulty": "difícil",
+      "question": "¿Qué cavidad natural se desarrolla principalmente en dirección vertical y se abre en el terreno?",
+      "answer": "sima"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Formas del relieve",
+      "sub_category": "Modelado terrestre",
+      "difficulty": "fácil",
+      "question": "¿Qué extensa depresión de fondo plano y bordes montañosos caracteriza algunos paisajes calizos?",
+      "answer": "poljé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Formas del relieve",
+      "sub_category": "Modelado terrestre",
+      "difficulty": "medio",
+      "question": "¿Qué acumulación de fragmentos rocosos deja un glaciar al transportarlos y depositarlos?",
+      "answer": "morrena"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Formas del relieve",
+      "sub_category": "Modelado terrestre",
+      "difficulty": "difícil",
+      "question": "¿Qué depresión semicircular de alta montaña excava el hielo en la cabecera de un valle?",
+      "answer": "circo glaciar"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Formas del relieve",
+      "sub_category": "Modelado terrestre",
+      "difficulty": "fácil",
+      "question": "¿Qué superficie escalonada junto a un río marca el nivel de un antiguo fondo de valle?",
+      "answer": "terraza fluvial"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Formas del relieve",
+      "sub_category": "Modelado terrestre",
+      "difficulty": "medio",
+      "question": "¿Qué depósito con forma de abanico se forma cuando un torrente pierde velocidad al salir a una llanura?",
+      "answer": "cono de deyección"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Formas del relieve",
+      "sub_category": "Modelado terrestre",
+      "difficulty": "fácil",
+      "question": "¿Cómo se llama la franja de terreno que enlaza la base de una cordillera con las tierras bajas próximas?",
+      "answer": "piedemonte"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Construcción y materiales",
+      "sub_category": "Elementos de obra",
+      "difficulty": "fácil",
+      "question": "¿Qué material endurecido se obtiene mezclando cemento, agua y áridos para formar elementos de obra?",
+      "answer": "hormigón"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Construcción y materiales",
+      "sub_category": "Elementos de obra",
+      "difficulty": "medio",
+      "question": "¿Qué molde provisional mantiene una mezcla de cemento en su posición hasta que adquiere resistencia?",
+      "answer": "encofrado"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Construcción y materiales",
+      "sub_category": "Elementos de obra",
+      "difficulty": "difícil",
+      "question": "¿Qué material blanco de fraguado rápido se emplea para revestir paredes interiores?",
+      "answer": "yeso"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Construcción y materiales",
+      "sub_category": "Elementos de obra",
+      "difficulty": "fácil",
+      "question": "¿Qué mezcla tradicional de arena, agua y un aglomerante obtenido de piedra caliza se utiliza en restauración?",
+      "answer": "mortero de cal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Construcción y materiales",
+      "sub_category": "Elementos de obra",
+      "difficulty": "medio",
+      "question": "¿Qué capa constructiva reduce la transmisión de calor entre el interior y el exterior de un edificio?",
+      "answer": "aislamiento térmico"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Construcción y materiales",
+      "sub_category": "Elementos de obra",
+      "difficulty": "difícil",
+      "question": "¿Qué lámina limita el paso de humedad en forma gaseosa hacia el interior de un cerramiento?",
+      "answer": "barrera de vapor"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Construcción y materiales",
+      "sub_category": "Elementos de obra",
+      "difficulty": "fácil",
+      "question": "¿Qué separación prevista entre partes de una estructura permite pequeños movimientos por cambios de temperatura?",
+      "answer": "junta de dilatación"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Construcción y materiales",
+      "sub_category": "Elementos de obra",
+      "difficulty": "medio",
+      "question": "¿Qué pieza cerámica con perforaciones interiores se utiliza habitualmente para levantar tabiques ligeros?",
+      "answer": "ladrillo hueco"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Construcción y materiales",
+      "sub_category": "Elementos de obra",
+      "difficulty": "difícil",
+      "question": "¿Cómo se llama el material granular, como arena o grava, que se incorpora a mezclas de construcción?",
+      "answer": "árido"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Construcción y materiales",
+      "sub_category": "Elementos de obra",
+      "difficulty": "fácil",
+      "question": "¿Qué tratamiento evita que el agua atraviese una cubierta o un muro?",
+      "answer": "impermeabilización"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Libros y encuadernación",
+      "sub_category": "Partes y acabados",
+      "difficulty": "medio",
+      "question": "¿Qué pequeña etiqueta situada sobre el dorso de un volumen indica su título o clasificación?",
+      "answer": "tejuelo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Libros y encuadernación",
+      "sub_category": "Partes y acabados",
+      "difficulty": "difícil",
+      "question": "¿Qué hoja une el bloque de páginas con la tapa interior de un libro encuadernado?",
+      "answer": "guarda"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Libros y encuadernación",
+      "sub_category": "Partes y acabados",
+      "difficulty": "medio",
+      "question": "¿Qué parte exterior protege las páginas de una publicación y presenta su título en la cara delantera?",
+      "answer": "cubierta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Libros y encuadernación",
+      "sub_category": "Partes y acabados",
+      "difficulty": "difícil",
+      "question": "¿Qué hoja grande impresa se dobla para obtener varias páginas ordenadas de una publicación?",
+      "answer": "pliego"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Libros y encuadernación",
+      "sub_category": "Partes y acabados",
+      "difficulty": "fácil",
+      "question": "¿Qué nota final de una obra impresa puede indicar datos sobre su fabricación y fecha de impresión?",
+      "answer": "colofón"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Libros y encuadernación",
+      "sub_category": "Partes y acabados",
+      "difficulty": "difícil",
+      "question": "¿Qué clase de papel deja ver líneas finas y paralelas procedentes de la malla usada en su fabricación?",
+      "answer": "papel verjurado"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Libros y encuadernación",
+      "sub_category": "Partes y acabados",
+      "difficulty": "fácil",
+      "question": "¿Qué técnica artesanal une cuadernillos con puntadas visibles y permite abrir un libro casi por completo?",
+      "answer": "cosido copto"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Electricidad cotidiana",
+      "sub_category": "Componentes y seguridad",
+      "difficulty": "fácil",
+      "question": "¿Qué pequeño componente interrumpe un circuito cuando una corriente excesiva funde su elemento conductor?",
+      "answer": "fusible"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Electricidad cotidiana",
+      "sub_category": "Componentes y seguridad",
+      "difficulty": "medio",
+      "question": "¿Qué dispositivo del cuadro eléctrico desconecta el suministro al detectar una fuga de corriente?",
+      "answer": "interruptor diferencial"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Electricidad cotidiana",
+      "sub_category": "Componentes y seguridad",
+      "difficulty": "difícil",
+      "question": "¿Qué componente permite accionar un circuito mediante una señal eléctrica procedente de otro?",
+      "answer": "relé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Electricidad cotidiana",
+      "sub_category": "Componentes y seguridad",
+      "difficulty": "fácil",
+      "question": "¿Qué dispositivo modifica la tensión de una corriente alterna mediante inducción electromagnética?",
+      "answer": "transformador"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Electricidad cotidiana",
+      "sub_category": "Componentes y seguridad",
+      "difficulty": "medio",
+      "question": "¿Qué detector puede encender una luz al percibir que alguien se desplaza por una zona?",
+      "answer": "sensor de movimiento"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Electricidad cotidiana",
+      "sub_category": "Componentes y seguridad",
+      "difficulty": "difícil",
+      "question": "¿Qué mando permite variar gradualmente el brillo de una lámpara compatible?",
+      "answer": "regulador de intensidad"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Electricidad cotidiana",
+      "sub_category": "Componentes y seguridad",
+      "difficulty": "fácil",
+      "question": "¿Qué tipo de flujo eléctrico invierte periódicamente su sentido y se utiliza en la red doméstica?",
+      "answer": "corriente alterna"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Electricidad cotidiana",
+      "sub_category": "Componentes y seguridad",
+      "difficulty": "medio",
+      "question": "¿Qué tipo de flujo eléctrico mantiene siempre el mismo sentido, como el que suministra una pila?",
+      "answer": "corriente continua"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Electricidad cotidiana",
+      "sub_category": "Componentes y seguridad",
+      "difficulty": "difícil",
+      "question": "¿Qué conexión de seguridad conduce posibles fugas eléctricas hacia el terreno?",
+      "answer": "puesta a tierra"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Gestión del agua",
+      "sub_category": "Tratamiento y suministro",
+      "difficulty": "fácil",
+      "question": "¿Qué captación puede hacer subir el agua por presión natural desde una capa subterránea confinada?",
+      "answer": "pozo artesiano"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Gestión del agua",
+      "sub_category": "Tratamiento y suministro",
+      "difficulty": "medio",
+      "question": "¿Qué instalación trata las aguas residuales antes de devolverlas al medio natural?",
+      "answer": "estación depuradora"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Gestión del agua",
+      "sub_category": "Tratamiento y suministro",
+      "difficulty": "difícil",
+      "question": "¿Qué dispositivo retiene partículas al hacer pasar el agua por un lecho de granos minerales?",
+      "answer": "filtro de arena"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Gestión del agua",
+      "sub_category": "Tratamiento y suministro",
+      "difficulty": "medio",
+      "question": "¿Qué proceso agrupa partículas diminutas del agua en conjuntos mayores que pueden retirarse con facilidad?",
+      "answer": "floculación"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Gestión del agua",
+      "sub_category": "Tratamiento y suministro",
+      "difficulty": "difícil",
+      "question": "¿Qué conjunto de tratamientos convierte el agua captada en apta para el consumo humano?",
+      "answer": "potabilización"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Gestión del agua",
+      "sub_category": "Tratamiento y suministro",
+      "difficulty": "fácil",
+      "question": "¿Qué sistema de conducciones recoge y transporta las aguas residuales de una población?",
+      "answer": "red de saneamiento"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Gestión del agua",
+      "sub_category": "Tratamiento y suministro",
+      "difficulty": "medio",
+      "question": "¿Qué estructura permite evacuar el exceso de caudal de un depósito o conducción?",
+      "answer": "aliviadero"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Gestión del agua",
+      "sub_category": "Tratamiento y suministro",
+      "difficulty": "difícil",
+      "question": "¿Qué operación recoge un recurso hídrico de un río, manantial o acuífero para su aprovechamiento?",
+      "answer": "captación de agua"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Gestión del agua",
+      "sub_category": "Tratamiento y suministro",
+      "difficulty": "fácil",
+      "question": "¿Qué aparato registra el volumen consumido en una vivienda a través de su acometida?",
+      "answer": "contador de agua"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Agricultura tradicional",
+      "sub_category": "Campo mediterráneo",
+      "difficulty": "difícil",
+      "question": "¿Qué práctica consiste en dejar temporalmente sin cultivar una parcela para favorecer la recuperación del terreno?",
+      "answer": "barbecho"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Agricultura tradicional",
+      "sub_category": "Campo mediterráneo",
+      "difficulty": "fácil",
+      "question": "¿Qué modalidad agrícola depende de las precipitaciones naturales y no del riego habitual?",
+      "answer": "secano"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Agricultura tradicional",
+      "sub_category": "Campo mediterráneo",
+      "difficulty": "medio",
+      "question": "¿Qué modalidad agrícola aporta agua adicional a los cultivos mediante instalaciones específicas?",
+      "answer": "regadío"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Agricultura tradicional",
+      "sub_category": "Campo mediterráneo",
+      "difficulty": "difícil",
+      "question": "¿Qué labor tradicional separa los granos de cereal de las espigas tras la siega?",
+      "answer": "trilla"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Agricultura tradicional",
+      "sub_category": "Campo mediterráneo",
+      "difficulty": "fácil",
+      "question": "¿Qué espacio llano y firme junto a un pueblo se utilizaba para separar el grano de la paja?",
+      "answer": "era de trillar"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Agricultura tradicional",
+      "sub_category": "Campo mediterráneo",
+      "difficulty": "difícil",
+      "question": "¿Qué terreno cultivado está ocupado por árboles cuyos frutos contienen almendras?",
+      "answer": "almendral"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Agricultura tradicional",
+      "sub_category": "Campo mediterráneo",
+      "difficulty": "fácil",
+      "question": "¿Qué estructura de almacenamiento conserva grandes cantidades de cereal u otros productos a granel?",
+      "answer": "silo agrícola"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Mecánica cotidiana",
+      "sub_category": "Piezas y movimientos",
+      "difficulty": "fácil",
+      "question": "¿Qué conjunto de pequeñas bolas o rodillos facilita que un eje gire con menos rozamiento?",
+      "answer": "rodamiento"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Mecánica cotidiana",
+      "sub_category": "Piezas y movimientos",
+      "difficulty": "medio",
+      "question": "¿Qué mecanismo transmite giro mediante ruedas dentadas que encajan entre sí?",
+      "answer": "engranaje"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Mecánica cotidiana",
+      "sub_category": "Piezas y movimientos",
+      "difficulty": "difícil",
+      "question": "¿Qué pieza con empuñadura transforma el movimiento de la mano en una rotación alrededor de un eje?",
+      "answer": "manivela"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Mecánica cotidiana",
+      "sub_category": "Piezas y movimientos",
+      "difficulty": "fácil",
+      "question": "¿Qué pieza alargada comunica el giro desde un mecanismo hasta otro?",
+      "answer": "eje de transmisión"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Mecánica cotidiana",
+      "sub_category": "Piezas y movimientos",
+      "difficulty": "medio",
+      "question": "¿Qué elemento elástico almacena energía al comprimirse o estirarse y recupera después su forma?",
+      "answer": "resorte"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Mecánica cotidiana",
+      "sub_category": "Piezas y movimientos",
+      "difficulty": "difícil",
+      "question": "¿Qué dispositivo reduce las oscilaciones de una suspensión al disipar energía?",
+      "answer": "amortiguador"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Mecánica cotidiana",
+      "sub_category": "Piezas y movimientos",
+      "difficulty": "fácil",
+      "question": "¿Qué masa equilibra una carga para facilitar el movimiento de un mecanismo?",
+      "answer": "contrapeso"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Español",
+      "locale": "es-ES",
+      "main_category": "Mecánica cotidiana",
+      "sub_category": "Piezas y movimientos",
+      "difficulty": "difícil",
+      "question": "¿Qué sustancia se aplica entre superficies móviles para reducir desgaste y rozamiento?",
+      "answer": "lubricante"
     }
   ],
   "tabu": [
