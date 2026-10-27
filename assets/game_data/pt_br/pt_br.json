@@ -50817,6 +50817,826 @@
         "difficulty": "difícil",
         "question": "Qual relação ocorre quando uma expressão retoma uma informação mencionada anteriormente no texto?",
         "answer": "Anáfora textual"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cartografia",
+        "sub_category": "Representação do terreno",
+        "difficulty": "médio",
+        "question": "Qual é a diferença vertical fixa entre duas linhas consecutivas que representam alturas num mapa de relevo?",
+        "answer": "Equidistância"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cartografia",
+        "sub_category": "Representação do terreno",
+        "difficulty": "difícil",
+        "question": "Qual diferença angular separa a direção apontada pela bússola daquela do norte geográfico?",
+        "answer": "Declinação magnética"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cartografia",
+        "sub_category": "Representação do terreno",
+        "difficulty": "médio",
+        "question": "Que tipo de mapa detalha elevações, caminhos, cursos de água e outros elementos do terreno?",
+        "answer": "Carta topográfica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cartografia",
+        "sub_category": "Representação do terreno",
+        "difficulty": "difícil",
+        "question": "Como é chamado o valor numérico de altitude indicado junto a um ponto específico de um mapa?",
+        "answer": "Ponto cotado"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Hidrologia",
+        "sub_category": "Manejo da água",
+        "difficulty": "difícil",
+        "question": "Qual reservatório urbano segura temporariamente a água de temporais e a libera aos poucos?",
+        "answer": "Bacia de detenção"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cerâmica artesanal",
+        "sub_category": "Materiais e técnicas",
+        "difficulty": "médio",
+        "question": "Qual etapa aplica uma camada que se torna vítrea durante a queima da peça de barro?",
+        "answer": "Esmaltação"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cerâmica artesanal",
+        "sub_category": "Materiais e técnicas",
+        "difficulty": "difícil",
+        "question": "Qual tipo de queima usa uma atmosfera com pouco oxigênio para alterar a aparência dos minerais da peça?",
+        "answer": "Queima de redução"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cerâmica artesanal",
+        "sub_category": "Materiais e técnicas",
+        "difficulty": "médio",
+        "question": "Como se chama a folha plana de barro aberta com rolo para construir objetos por montagem?",
+        "answer": "Placa de argila"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fotografia",
+        "sub_category": "Luz e enquadramento",
+        "difficulty": "médio",
+        "question": "Qual ajuste controla o tamanho da passagem de luz dentro da lente da câmera?",
+        "answer": "Abertura do diafragma"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fotografia",
+        "sub_category": "Luz e enquadramento",
+        "difficulty": "difícil",
+        "question": "Qual gráfico mostra a distribuição de tons claros e escuros presentes numa fotografia?",
+        "answer": "Histograma de luminância"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura brasileira",
+        "sub_category": "Conforto e elementos construtivos",
+        "difficulty": "difícil",
+        "question": "Qual cobertura industrial apresenta planos inclinados e aberturas altas que favorecem luz natural?",
+        "answer": "Telhado shed"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura brasileira",
+        "sub_category": "Conforto e elementos construtivos",
+        "difficulty": "médio",
+        "question": "Qual revestimento de chão permite que parte da chuva passe entre seus espaços e chegue ao solo?",
+        "answer": "Piso drenante"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Relações entre seres vivos",
+        "difficulty": "difícil",
+        "question": "Qual reserva de estruturas reprodutivas viáveis permanece no solo até surgirem condições para germinação?",
+        "answer": "Banco de sementes"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Funcionamento e segurança",
+        "difficulty": "médio",
+        "question": "Que medida expressa a capacidade máxima de transmissão de dados de uma conexão por unidade de tempo?",
+        "answer": "Largura de banda"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Funcionamento e segurança",
+        "difficulty": "médio",
+        "question": "Qual recurso mantém arquivos atualizados em vários dispositivos por meio de um serviço remoto?",
+        "answer": "Sincronização em nuvem"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Funcionamento e segurança",
+        "difficulty": "difícil",
+        "question": "Qual resultado de tamanho fixo é calculado a partir de dados e muda quando seu conteúdo é alterado?",
+        "answer": "Hash criptográfico"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Funcionamento e segurança",
+        "difficulty": "fácil",
+        "question": "Qual tipo de imagem digital é descrito por linhas e curvas matemáticas que podem ser ampliadas sem perder nitidez?",
+        "answer": "Gráfico vetorial"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas das plantas",
+        "difficulty": "difícil",
+        "question": "Qual tecido de crescimento fica na ponta dos ramos e permite que a planta aumente de comprimento?",
+        "answer": "Meristema apical"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária e utensílios",
+        "sub_category": "Saberes do Brasil",
+        "difficulty": "difícil",
+        "question": "Qual trançado tubular de fibras é apertado para extrair o líquido da massa de mandioca?",
+        "answer": "Tipiti"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária e utensílios",
+        "sub_category": "Saberes do Brasil",
+        "difficulty": "médio",
+        "question": "Qual utensílio trançado com tiras de bambu separa grãos ou farinha por tamanho?",
+        "answer": "Peneira de taquara"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária e utensílios",
+        "sub_category": "Saberes do Brasil",
+        "difficulty": "médio",
+        "question": "Qual equipamento comprime a massa láctea dentro de uma forma para retirar parte do soro?",
+        "answer": "Prensa de queijo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária e utensílios",
+        "sub_category": "Saberes do Brasil",
+        "difficulty": "fácil",
+        "question": "Qual utensílio com dentes metálicos serve para raspar a polpa branca da fruta de casca dura usada em doces?",
+        "answer": "Ralador de coco"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Estatística",
+        "sub_category": "Leitura de dados",
+        "difficulty": "médio",
+        "question": "Qual método de seleção dá a cada elemento da população a mesma chance de ser escolhido?",
+        "answer": "Amostragem aleatória simples"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Estatística",
+        "sub_category": "Leitura de dados",
+        "difficulty": "difícil",
+        "question": "Qual característica aparece quando a distribuição dos valores tem uma cauda mais longa de um lado que do outro?",
+        "answer": "Assimetria estatística"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Navegação e mobilidade",
+        "sub_category": "Deslocamentos",
+        "difficulty": "médio",
+        "question": "Qual marca fixa instalada em rios ou canais ajuda embarcações a reconhecer o trajeto navegável?",
+        "answer": "Baliza náutica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Navegação e mobilidade",
+        "sub_category": "Deslocamentos",
+        "difficulty": "médio",
+        "question": "Qual estrutura de embarque acompanha a variação do nível da água por flutuar sobre ela?",
+        "answer": "Píer flutuante"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Navegação e mobilidade",
+        "sub_category": "Deslocamentos",
+        "difficulty": "médio",
+        "question": "Qual medida indica a profundidade da parte de uma embarcação que fica submersa?",
+        "answer": "Calado"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Navegação e mobilidade",
+        "sub_category": "Deslocamentos",
+        "difficulty": "médio",
+        "question": "Qual faixa exclusiva para bicicletas é separada fisicamente da circulação de automóveis?",
+        "answer": "Ciclovia segregada"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Geologia",
+        "sub_category": "Rochas e relevo",
+        "difficulty": "médio",
+        "question": "Qual rocha sedimentar contém seixos arredondados unidos por um material cimentante?",
+        "answer": "Conglomerado"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Geologia",
+        "sub_category": "Rochas e relevo",
+        "difficulty": "médio",
+        "question": "Qual rocha sedimentar de granulação muito fina é formada sobretudo por partículas de argila?",
+        "answer": "Argilito"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tipografia",
+        "sub_category": "Composição editorial",
+        "difficulty": "médio",
+        "question": "Qual termo designa o espaço vertical entre as linhas de texto numa composição impressa?",
+        "answer": "Entrelinha"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tipografia",
+        "sub_category": "Composição editorial",
+        "difficulty": "difícil",
+        "question": "Qual ajuste tipográfico altera o espaço entre pares específicos de letras para melhorar o equilíbrio visual?",
+        "answer": "Kerning"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tipografia",
+        "sub_category": "Composição editorial",
+        "difficulty": "difícil",
+        "question": "Qual ajuste modifica de modo uniforme o espaço entre os caracteres de um trecho de texto?",
+        "answer": "Tracking"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tipografia",
+        "sub_category": "Composição editorial",
+        "difficulty": "difícil",
+        "question": "Qual recurso usa letras com desenho de maiúsculas, porém de altura próxima à das minúsculas?",
+        "answer": "Versalete"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tipografia",
+        "sub_category": "Composição editorial",
+        "difficulty": "médio",
+        "question": "Qual nome se dá à área efetivamente ocupada por texto e imagens numa página, sem contar as margens?",
+        "answer": "Mancha gráfica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tipografia",
+        "sub_category": "Composição editorial",
+        "difficulty": "difícil",
+        "question": "Qual problema de diagramação deixa a última linha de um parágrafo sozinha no topo da página seguinte?",
+        "answer": "Viúva tipográfica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tipografia",
+        "sub_category": "Composição editorial",
+        "difficulty": "difícil",
+        "question": "Qual problema de diagramação deixa a primeira linha de um parágrafo isolada no fim de uma página?",
+        "answer": "Órfã tipográfica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência do solo",
+        "sub_category": "Fertilidade e estrutura",
+        "difficulty": "difícil",
+        "question": "Qual teor de umidade permanece num solo depois que a água livre drenou por ação da gravidade?",
+        "answer": "Capacidade de campo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência do solo",
+        "sub_category": "Fertilidade e estrutura",
+        "difficulty": "difícil",
+        "question": "Qual limite de umidade do solo impede a planta de recuperar a firmeza das folhas mesmo após repouso em ambiente úmido?",
+        "answer": "Ponto de murcha permanente"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência do solo",
+        "sub_category": "Fertilidade e estrutura",
+        "difficulty": "médio",
+        "question": "Qual processo reduz os espaços vazios do terreno quando ele recebe pressão excessiva de máquinas ou pisoteio?",
+        "answer": "Compactação do solo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência do solo",
+        "sub_category": "Fertilidade e estrutura",
+        "difficulty": "médio",
+        "question": "Qual camada superficial do perfil de um terreno contém principalmente resíduos vegetais em diferentes estágios de decomposição?",
+        "answer": "Horizonte orgânico"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência do solo",
+        "sub_category": "Fertilidade e estrutura",
+        "difficulty": "médio",
+        "question": "Qual característica do terreno é definida pela proporção relativa de areia, silte e argila?",
+        "answer": "Textura do solo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência do solo",
+        "sub_category": "Fertilidade e estrutura",
+        "difficulty": "difícil",
+        "question": "Qual propriedade indica a facilidade com que a água atravessa os poros de um material?",
+        "answer": "Condutividade hidráulica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Oceanografia",
+        "sub_category": "Camadas e movimentos do mar",
+        "difficulty": "difícil",
+        "question": "Qual camada da coluna oceânica apresenta rápida mudança de temperatura à medida que aumenta a profundidade?",
+        "answer": "Termoclina"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Oceanografia",
+        "sub_category": "Camadas e movimentos do mar",
+        "difficulty": "difícil",
+        "question": "Qual camada da coluna oceânica apresenta rápida mudança na concentração de sais conforme aumenta a profundidade?",
+        "answer": "Haloclina"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Oceanografia",
+        "sub_category": "Camadas e movimentos do mar",
+        "difficulty": "difícil",
+        "question": "Qual camada oceânica apresenta uma variação acentuada de densidade com a profundidade?",
+        "answer": "Picnoclina"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Oceanografia",
+        "sub_category": "Camadas e movimentos do mar",
+        "difficulty": "médio",
+        "question": "Qual faixa superior do oceano recebe luz suficiente para que organismos aquáticos façam fotossíntese?",
+        "answer": "Zona fótica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Oceanografia",
+        "sub_category": "Camadas e movimentos do mar",
+        "difficulty": "difícil",
+        "question": "Qual variação do nível do mar é provocada principalmente pela ação do vento e da pressão atmosférica, além das marés astronômicas?",
+        "answer": "Maré meteorológica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fungos e ecossistemas",
+        "sub_category": "Estruturas e relações",
+        "difficulty": "difícil",
+        "question": "Qual é o nome de cada filamento microscópico que compõe a estrutura de muitos fungos?",
+        "answer": "Hifa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fungos e ecossistemas",
+        "sub_category": "Estruturas e relações",
+        "difficulty": "médio",
+        "question": "Qual associação estável reúne um fungo e um parceiro que realiza fotossíntese, podendo crescer sobre rochas e troncos?",
+        "answer": "Líquen"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fungos e ecossistemas",
+        "sub_category": "Estruturas e relações",
+        "difficulty": "difícil",
+        "question": "Qual estrutura visível de muitos fungos abriga regiões produtoras de esporos?",
+        "answer": "Corpo de frutificação"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fungos e ecossistemas",
+        "sub_category": "Estruturas e relações",
+        "difficulty": "difícil",
+        "question": "Qual processo biológico corresponde à produção de esporos por um organismo?",
+        "answer": "Esporulação"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fungos e ecossistemas",
+        "sub_category": "Estruturas e relações",
+        "difficulty": "difícil",
+        "question": "Qual tipo de fungo obtém nutrientes ao degradar folhas caídas e madeira em decomposição?",
+        "answer": "Fungo sapróbio"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Estatística aplicada",
+        "sub_category": "Análise e interpretação",
+        "difficulty": "médio",
+        "question": "Qual diferença entre uma estimativa obtida por amostra e o valor populacional pode ocorrer por variação na seleção dos dados?",
+        "answer": "Erro amostral"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Estatística aplicada",
+        "sub_category": "Análise e interpretação",
+        "difficulty": "difícil",
+        "question": "Qual quadro organiza contagens conjuntas de duas variáveis classificadas em categorias?",
+        "answer": "Tabela de contingência"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Estatística aplicada",
+        "sub_category": "Análise e interpretação",
+        "difficulty": "difícil",
+        "question": "Qual índice indica a proporção da variação da resposta explicada por um modelo estatístico?",
+        "answer": "Coeficiente de determinação"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Hidráulica urbana",
+        "sub_category": "Drenagem e canais",
+        "difficulty": "médio",
+        "question": "Qual estrutura permite que o excesso de água passe de um reservatório para uma saída controlada quando o nível sobe?",
+        "answer": "Vertedouro"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Hidráulica urbana",
+        "sub_category": "Drenagem e canais",
+        "difficulty": "médio",
+        "question": "Qual painel móvel regula a passagem da água por um canal ou reservatório?",
+        "answer": "Comporta"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Hidráulica urbana",
+        "sub_category": "Drenagem e canais",
+        "difficulty": "médio",
+        "question": "Qual estrutura subterrânea permite a entrada de técnicos para examinar e limpar tubulações de drenagem?",
+        "answer": "Poço de visita"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Hidráulica urbana",
+        "sub_category": "Drenagem e canais",
+        "difficulty": "difícil",
+        "question": "Qual sistema de drenagem usa uma vala com pedras e, frequentemente, um tubo perfurado para recolher água do solo?",
+        "answer": "Dreno francês"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Hidráulica urbana",
+        "sub_category": "Drenagem e canais",
+        "difficulty": "médio",
+        "question": "Qual pequeno compartimento com tampa permite examinar e desobstruir conexões de tubulações enterradas?",
+        "answer": "Caixa de inspeção"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Hidráulica urbana",
+        "sub_category": "Drenagem e canais",
+        "difficulty": "difícil",
+        "question": "Qual dispositivo na saída de um canal reduz a velocidade do fluxo para evitar desgaste do terreno?",
+        "answer": "Dissipador de energia"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Hidráulica urbana",
+        "sub_category": "Drenagem e canais",
+        "difficulty": "fácil",
+        "question": "Qual termo indica a direção de um rio para onde a água segue naturalmente?",
+        "answer": "Jusante"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Hidráulica urbana",
+        "sub_category": "Drenagem e canais",
+        "difficulty": "fácil",
+        "question": "Qual termo indica a direção de um rio contrária ao sentido em que a água corre?",
+        "answer": "Montante"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Ingredientes e transformações",
+        "difficulty": "difícil",
+        "question": "Qual fenômeno faz um gel alimentício contrair-se e liberar parte da água que continha?",
+        "answer": "Sinérese"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Ingredientes e transformações",
+        "difficulty": "difícil",
+        "question": "Qual reorganização das moléculas do amido após o resfriamento contribui para o endurecimento do pão guardado?",
+        "answer": "Retrogradação do amido"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Ingredientes e transformações",
+        "difficulty": "difícil",
+        "question": "Qual alteração na forma tridimensional das proteínas pode ser provocada pelo calor, sem mudar a sequência de aminoácidos?",
+        "answer": "Desnaturação proteica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Ingredientes e transformações",
+        "difficulty": "médio",
+        "question": "Qual fibra solúvel presente em frutas ajuda geleias a adquirirem consistência firme?",
+        "answer": "Pectina"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Ingredientes e transformações",
+        "difficulty": "fácil",
+        "question": "Qual ingrediente de bolos libera gás por reação química e faz a massa crescer durante o preparo?",
+        "answer": "Fermento químico"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Ingredientes e transformações",
+        "difficulty": "médio",
+        "question": "Qual rede de proteínas se forma ao hidratar e trabalhar a farinha de trigo, dando elasticidade à massa?",
+        "answer": "Glúten"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Ingredientes e transformações",
+        "difficulty": "difícil",
+        "question": "Qual etapa da panificação consiste em deixar a massa modelada descansar até ganhar volume antes de assar?",
+        "answer": "Fermentação final"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Eletrônica básica",
+        "sub_category": "Componentes e montagem",
+        "difficulty": "médio",
+        "question": "Qual placa com furos conectados internamente permite testar circuitos sem soldar componentes?",
+        "answer": "Protoboard"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Eletrônica básica",
+        "sub_category": "Componentes e montagem",
+        "difficulty": "médio",
+        "question": "Qual componente com três terminais permite ajustar manualmente a divisão de tensão num circuito?",
+        "answer": "Potenciômetro"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Eletrônica básica",
+        "sub_category": "Componentes e montagem",
+        "difficulty": "médio",
+        "question": "Qual componente armazena energia temporariamente num campo elétrico entre duas superfícies condutoras?",
+        "answer": "Capacitor"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Eletrônica básica",
+        "sub_category": "Componentes e montagem",
+        "difficulty": "médio",
+        "question": "Qual componente semicondutor conduz corrente preferencialmente em um único sentido?",
+        "answer": "Diodo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Eletrônica básica",
+        "sub_category": "Componentes e montagem",
+        "difficulty": "fácil",
+        "question": "Qual componente semicondutor emite luz quando uma corrente elétrica passa por ele no sentido adequado?",
+        "answer": "LED"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Eletrônica básica",
+        "sub_category": "Componentes e montagem",
+        "difficulty": "médio",
+        "question": "Qual componente eletrônico tem sua resistência elétrica alterada pela temperatura?",
+        "answer": "Termistor"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Eletrônica básica",
+        "sub_category": "Componentes e montagem",
+        "difficulty": "difícil",
+        "question": "Qual componente usa luz para controlar a passagem de corrente entre circuitos eletricamente separados?",
+        "answer": "Optoacoplador"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Eletrônica básica",
+        "sub_category": "Componentes e montagem",
+        "difficulty": "difícil",
+        "question": "Qual componente converte variações de luz incidente em mudanças de resistência elétrica?",
+        "answer": "Fotoresistor"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Encadernação e papel",
+        "sub_category": "Materiais e acabamentos",
+        "difficulty": "difícil",
+        "question": "Qual ferramenta lisa e rígida é usada para dobrar folhas e marcar dobras sem deixar riscos profundos?",
+        "answer": "Dobradeira de osso"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Encadernação e papel",
+        "sub_category": "Materiais e acabamentos",
+        "difficulty": "fácil",
+        "question": "Qual folha translúcida é usada para copiar desenhos colocando-a sobre o original?",
+        "answer": "Papel vegetal"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Encadernação e papel",
+        "sub_category": "Materiais e acabamentos",
+        "difficulty": "difícil",
+        "question": "Qual pequena faixa decorativa fica nas extremidades superior e inferior da parte onde as páginas se unem?",
+        "answer": "Fita de cabeceado"
       }
     ]
   }
