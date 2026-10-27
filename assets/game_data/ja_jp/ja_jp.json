@@ -51938,6 +51938,226 @@
         "difficulty": "普通",
         "question": "冬に冷えた窓の近くで空気が下向きに流れ、足元が寒く感じる現象は何ですか。",
         "answer": "コールドドラフト"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "計測とセンサー",
+        "sub_category": "変形計測",
+        "difficulty": "難しい",
+        "question": "薄い抵抗体を材料に貼り、伸び縮みによる抵抗値の変化から変形量を調べる部品は何ですか。",
+        "answer": "ひずみゲージ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "計測とセンサー",
+        "sub_category": "磁気計測",
+        "difficulty": "難しい",
+        "question": "磁場を受けた半導体に横方向の電圧が現れる効果を利用する検出部品は何ですか。",
+        "answer": "ホール素子"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "計測とセンサー",
+        "sub_category": "光の検出",
+        "difficulty": "難しい",
+        "question": "入ってきた光の強さに応じて電流が変わる半導体部品は何ですか。",
+        "answer": "フォトダイオード"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "計測とセンサー",
+        "sub_category": "温度計測",
+        "difficulty": "普通",
+        "question": "周囲の温度に応じて電気抵抗が大きく変わる小型部品は何ですか。",
+        "answer": "サーミスタ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "計測とセンサー",
+        "sub_category": "動きの検出",
+        "difficulty": "普通",
+        "question": "回転する速さを検出し、機器の向きの変化を調べる装置は何ですか。",
+        "answer": "ジャイロセンサー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "計測とセンサー",
+        "sub_category": "荷重計測",
+        "difficulty": "難しい",
+        "question": "台に加わる力を電気信号へ変え、電子はかりの内部で使われる部品は何ですか。",
+        "answer": "ロードセル"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "計測とセンサー",
+        "sub_category": "回転計測",
+        "difficulty": "難しい",
+        "question": "軸をねじる力の大きさを調べる測定装置は何ですか。",
+        "answer": "トルクセンサー"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "計測とセンサー",
+        "sub_category": "位置検出",
+        "difficulty": "難しい",
+        "question": "回転角や移動距離をパルス信号へ変え、機械の位置を知らせる装置は何ですか。",
+        "answer": "エンコーダ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "計測とセンサー",
+        "sub_category": "位置検出",
+        "difficulty": "普通",
+        "question": "機械の動く部分が端まで来たことを接触で検知する開閉器は何ですか。",
+        "answer": "リミットスイッチ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "工作と精密測定",
+        "sub_category": "隙間測定",
+        "difficulty": "難しい",
+        "question": "厚さの異なる薄い金属板を差し込み、部品同士の隙間を確かめる工具は何ですか。",
+        "answer": "シックネスゲージ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "工作と精密測定",
+        "sub_category": "深さ測定",
+        "difficulty": "難しい",
+        "question": "穴や溝の底までの距離を細かく読み取る専用の測定器は何ですか。",
+        "answer": "デプスゲージ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "工作と精密測定",
+        "sub_category": "隙間測定",
+        "difficulty": "難しい",
+        "question": "くさび状の薄い板を隙間に差し込み、その入り具合から幅を調べる器具は何ですか。",
+        "answer": "テーパーゲージ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "工作と精密測定",
+        "sub_category": "ねじの測定",
+        "difficulty": "難しい",
+        "question": "ねじ山に当てる薄い歯型を何枚も備え、山と山の間隔を調べる工具は何ですか。",
+        "answer": "ピッチゲージ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "工作と精密測定",
+        "sub_category": "基準器",
+        "difficulty": "難しい",
+        "question": "長さを厳密に決めた金属の直方体を組み合わせ、測定器を校正する道具は何ですか。",
+        "answer": "ブロックゲージ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "日本語の仕組み",
+        "sub_category": "古典の技法",
+        "difficulty": "難しい",
+        "question": "ある言葉に意味の上で関係する別の言葉を添え、詩の連想を豊かにする技法は何ですか。",
+        "answer": "縁語"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "暮らしの環境設計",
+        "sub_category": "路面の工夫",
+        "difficulty": "普通",
+        "question": "降った雨が表面にたまらず、地面の下へ抜けるように作られた路面材料は何ですか。",
+        "answer": "透水性舗装"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "暮らしの環境設計",
+        "sub_category": "生き物のすみか",
+        "difficulty": "普通",
+        "question": "身近な生物が暮らせるよう、人の手で整えた小さな自然環境は何ですか。",
+        "answer": "ビオトープ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "暮らしの環境設計",
+        "sub_category": "省エネルギー",
+        "difficulty": "難しい",
+        "question": "温かい空気と冷たい空気を混ぜずに、互いのエネルギーだけを移す装置は何ですか。",
+        "answer": "熱交換器"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "暮らしの環境設計",
+        "sub_category": "街の水循環",
+        "difficulty": "難しい",
+        "question": "植物や土の働きを生かし、雨の流出や暑さを抑える都市の仕組みは何ですか。",
+        "answer": "グリーンインフラ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "暮らしの環境設計",
+        "sub_category": "熱の利用",
+        "difficulty": "普通",
+        "question": "昼に得た温かさを材料にためておき、夜などに取り出す仕組みは何ですか。",
+        "answer": "蓄熱"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "陶芸の工程",
+        "sub_category": "器の手入れ",
+        "difficulty": "普通",
+        "question": "使い始めの器を米のとぎ汁などで煮て、細かな隙間をふさぐ手入れは何ですか。",
+        "answer": "目止め"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "main_category": "陶芸の工程",
+        "sub_category": "仕上げ",
+        "difficulty": "難しい",
+        "question": "表面にガラス質の層を施さず、土の質感を生かして高温で仕上げる方法は何ですか。",
+        "answer": "焼締め"
       }
     ]
   }
