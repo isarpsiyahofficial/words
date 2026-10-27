@@ -53117,7 +53117,7 @@
           "main_category": "الفلك",
           "sub_category": "الرصد والظواهر",
           "difficulty": "متوسط",
-          "question": "ما الخط الوهمي الممتد على قبة السماء من الشرق إلى الغرب مارا فوق الراصد؟",
+          "question": "ما الدائرة العظمى الوهمية التي تمر بقطبي السماء وبنقطتي الشمال والجنوب على أفق الراصد؟",
           "answer": "دائرة الزوال"
         },
         {
@@ -53287,8 +53287,8 @@
           "main_category": "العلوم",
           "sub_category": "المواد والقياس",
           "difficulty": "متوسط",
-          "question": "ما التغير الذي تتحول فيه المادة من الحالة الصلبة مباشرة إلى غاز؟",
-          "answer": "تسام"
+          "question": "ما آلية انتقال الحرارة عبر حركة أجزاء السائل أو الغاز من موضع إلى آخر؟",
+          "answer": "انتقال بالحمل"
         },
         {
           "game_type": "kelime_ustasi",
@@ -53329,6 +53329,686 @@
           "difficulty": "متوسط",
           "question": "ما الجهاز الذي يفصل المواد في خليط اعتمادا على اختلاف سرعة ترسبها عند الدوران؟",
           "answer": "جهاز طرد مركزي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الجغرافيا",
+          "sub_category": "الأنهار",
+          "difficulty": "متوسط",
+          "question": "ما اسم المجرى الجانبي الذي ينتهي أعلى من قاع المجرى الرئيسي عند التقائهما؟",
+          "answer": "وادي معلق"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الجغرافيا",
+          "sub_category": "التضاريس",
+          "difficulty": "متوسط",
+          "question": "ما اسم المنخفض الذي تتجمع فيه المياه ولا يجد تصريفاً طبيعياً إلى المحيط؟",
+          "answer": "حوض مغلق"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "علوم الأرض",
+          "sub_category": "الصخور",
+          "difficulty": "متوسط",
+          "question": "ما اسم المادة الصلبة المتكونة من حبيبات صخور سابقة تراكمت ثم تماسكت؟",
+          "answer": "صخر فتاتي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "علوم الأرض",
+          "sub_category": "البلورات",
+          "difficulty": "متوسط",
+          "question": "ما اسم الجسم الصلب المنتظم الذي يتشكل عند تبخر الماء المالح وبقاء المادة المذابة؟",
+          "answer": "بلورة ملحية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "علوم الأرض",
+          "sub_category": "التجوية",
+          "difficulty": "متوسط",
+          "question": "ما اسم تفكك الصخور إلى قطع أصغر دون تغيير تركيبها الكيميائي؟",
+          "answer": "تجوية ميكانيكية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "علوم الأرض",
+          "sub_category": "التربة",
+          "difficulty": "متوسط",
+          "question": "ما اسم المستوى المميز بخصائصه داخل المقطع الرأسي للأرض الزراعية؟",
+          "answer": "أفق التربة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطقس",
+          "sub_category": "الغيوم",
+          "difficulty": "متوسط",
+          "question": "ما نوع الغيوم التي تظهر كقطع قطنية متفرقة في طبقات الجو الوسطى؟",
+          "answer": "سحب ركامية متوسطة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطقس",
+          "sub_category": "الرياح",
+          "difficulty": "متوسط",
+          "question": "ما اسم حركة الهواء البارد التي تنحدر من المرتفعات إلى الأراضي المنخفضة ليلاً؟",
+          "answer": "نسيم الجبل"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطقس",
+          "sub_category": "الرؤية",
+          "difficulty": "متوسط",
+          "question": "ما الظاهرة البصرية التي يبدو فيها الجسم البعيد مرتفعاً عن موقعه الفعلي بسبب اختلاف حرارة طبقات الهواء؟",
+          "answer": "سراب علوي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المختبر",
+          "difficulty": "متوسط",
+          "question": "ما الأنبوب الرفيع الذي يحمل علامات متعددة لسحب أحجام مختلفة من السوائل؟",
+          "answer": "ماصة مدرجة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المختبر",
+          "difficulty": "متوسط",
+          "question": "ما الأداة الزجاجية الرفيعة التي تمزج محتويات الأوعية يدوياً؟",
+          "answer": "قضيب تحريك"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المختبر",
+          "difficulty": "متوسط",
+          "question": "ما الوعاء المحكم الذي تحفظ فيه عينات بعيداً عن رطوبة الهواء؟",
+          "answer": "مجفف زجاجي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المختبر",
+          "difficulty": "متوسط",
+          "question": "ما الأداة المعدنية ذات الفكين التي تمسك وعاءً صغيراً ساخناً في المختبر؟",
+          "answer": "ملقط بوتقة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "الكيمياء",
+          "difficulty": "متوسط",
+          "question": "ما اسم السائل الذي يجتاز الحاجز المسامي أثناء فصل الجسيمات العالقة؟",
+          "answer": "راشح"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "الكيمياء",
+          "difficulty": "متوسط",
+          "question": "ما اسم السائل المحتوي على مركبات كربونية ويستعمل لإذابة مواد لا تذوب في الماء؟",
+          "answer": "مذيب عضوي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "الفيزياء",
+          "difficulty": "متوسط",
+          "question": "ما الحالة التي تتساوى فيها حرارة جسمين متلامسين فلا تنتقل بينهما طاقة صافية؟",
+          "answer": "اتزان حراري"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "الفيزياء",
+          "difficulty": "متوسط",
+          "question": "ما الظاهرة التي ينقسم فيها شعاع الضوء إلى مسارين داخل بعض البلورات؟",
+          "answer": "انكسار مزدوج"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الأحياء",
+          "sub_category": "النبات",
+          "difficulty": "متوسط",
+          "question": "ما مجموعة الخلايا المتخصصة في نقل الماء والغذاء بين أجزاء النبات؟",
+          "answer": "نسيج وعائي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضيات",
+          "sub_category": "الهندسة",
+          "difficulty": "متوسط",
+          "question": "ما المنطقة المحصورة بين وتر وقوس من الدائرة؟",
+          "answer": "قطعة دائرية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الرياضيات",
+          "sub_category": "الهندسة",
+          "difficulty": "متوسط",
+          "question": "ما اسم الشكل متعدد الأضلاع الذي توجد فيه زاوية داخلية أكبر من زاوية مستقيمة؟",
+          "answer": "مضلع مقعر"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "النحو",
+          "difficulty": "متوسط",
+          "question": "ما التابع الجامد الذي يوضح الاسم السابق له دون حرف وصل؟",
+          "answer": "عطف بيان"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "النحو",
+          "difficulty": "متوسط",
+          "question": "ما التابع الذي يثبت معنى كلمة سابقة بإعادتها نفسها؟",
+          "answer": "توكيد لفظي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "البلاغة",
+          "difficulty": "متوسط",
+          "question": "ما التشابه الصوتي بين كلمتين تختلفان في بعض الحروف مع اختلاف المعنى؟",
+          "answer": "جناس ناقص"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "المباني",
+          "difficulty": "متوسط",
+          "question": "ما الجزء العلوي المزخرف من الدعامة الرأسية الذي يستقبل ما فوقه؟",
+          "answer": "تاج عمود"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "المباني",
+          "difficulty": "متوسط",
+          "question": "ما الجزء السفلي العريض الذي تستقر عليه الدعامة الرأسية في المبنى؟",
+          "answer": "قاعدة عمود"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "المباني",
+          "difficulty": "متوسط",
+          "question": "ما السقف المقوس الناتج عن تلاقي غطائين أسطوانيين متعامدين؟",
+          "answer": "قبو متقاطع"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "المباني",
+          "difficulty": "متوسط",
+          "question": "ما اللوح المتحرك المفرد الذي يفتح ويغلق فتحة باب أو نافذة؟",
+          "answer": "مصراع"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "المباني",
+          "difficulty": "متوسط",
+          "question": "ما القطعة المنزلقة التي تثبت الباب من الداخل دون استعمال مفتاح؟",
+          "answer": "مزلاج"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنسوجات",
+          "sub_category": "الخياطة",
+          "difficulty": "متوسط",
+          "question": "ما نوع التطريز الذي ينتج خطاً متصلاً متعرجاً يشبه ساق النبات؟",
+          "answer": "غرزة الفرع"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنسوجات",
+          "sub_category": "الخياطة",
+          "difficulty": "متوسط",
+          "question": "ما نوع التطريز الذي تتقاطع فيه غرزتان مائلتان على هيئة علامة متقاطعة؟",
+          "answer": "غرزة الصليب"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المنسوجات",
+          "sub_category": "الخياطة",
+          "difficulty": "متوسط",
+          "question": "ما معالجة حافة القماش بطيها إلى الداخل مرتين قبل تثبيتها؟",
+          "answer": "ثنية مزدوجة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الطباعة والنشر",
+          "sub_category": "الإخراج",
+          "difficulty": "متوسط",
+          "question": "ما ضبط المسافات الأفقية بين الرموز المكتوبة في كلمة أو سطر؟",
+          "answer": "تباعد أحرف"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الملفات",
+          "difficulty": "متوسط",
+          "question": "ما العملية التي تنشئ قائمة منظمة بمواقع المحتويات لتسريع البحث عنها؟",
+          "answer": "فهرسة ملفات"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الواجهات",
+          "difficulty": "متوسط",
+          "question": "ما المجموعة من الأوامر التي تظهر عند الضغط على عنصر محدد بزر الفأرة الثانوي؟",
+          "answer": "قائمة سياقية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الواجهات",
+          "difficulty": "متوسط",
+          "question": "ما عنصر التحكم الذي ينتقل بين حالتي التشغيل والإيقاف بنقرة؟",
+          "answer": "زر تبديل"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الواجهات",
+          "difficulty": "متوسط",
+          "question": "ما المساحة المخصصة لكتابة نص أو قيمة داخل واجهة رقمية؟",
+          "answer": "حقل إدخال"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفلك",
+          "sub_category": "الرصد",
+          "difficulty": "متوسط",
+          "question": "ما مقدار ابتعاد جرم في السماء إلى أعلى عن المستوى الأفقي للراصد؟",
+          "answer": "ارتفاع زاوي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفلك",
+          "sub_category": "الرصد",
+          "difficulty": "متوسط",
+          "question": "ما الحد الظاهري الذي يفصل السماء المرئية عن سطح الأرض حول الراصد؟",
+          "answer": "دائرة الأفق"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البيئة",
+          "sub_category": "الحدائق",
+          "difficulty": "متوسط",
+          "question": "ما عملية التخلص من الماء الزائد حول جذور المحاصيل لحمايتها من التشبع؟",
+          "answer": "صرف زراعي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "البيئة",
+          "sub_category": "الحدائق",
+          "difficulty": "متوسط",
+          "question": "ما المنشأة الزراعية المغطاة بنسيج يسمح بالهواء ويخفف تعرض المزروعات للحشرات؟",
+          "answer": "بيت شبكي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "الأدوات",
+          "difficulty": "متوسط",
+          "question": "ما الأداة التي تفحص سخونة الجزء الداخلي من الطبق أثناء طهيه؟",
+          "answer": "مقياس حرارة الطعام"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "البناء",
+          "difficulty": "متوسط",
+          "question": "ما الخليط التقليدي المصنوع من مادة كلسية ورمل وماء لربط الأحجار أو الطوب؟",
+          "answer": "مونة جيرية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "البناء",
+          "difficulty": "متوسط",
+          "question": "ما العنصر الأفقي المثبت من طرف واحد والبارز من جدار دون دعامة عند نهايته؟",
+          "answer": "كابولي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العمارة",
+          "sub_category": "البناء",
+          "difficulty": "متوسط",
+          "question": "ما الكتلة الموضوعة عند التقاء واجهتين لتقوية ركن المبنى وإبرازه؟",
+          "answer": "حجر زاوية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الصرف",
+          "difficulty": "متوسط",
+          "question": "ما نوع الثلاثي المعتل الذي يقع حرف العلة في وسط أصله؟",
+          "answer": "فعل أجوف"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الصرف",
+          "difficulty": "متوسط",
+          "question": "ما نوع الثلاثي المعتل الذي يبدأ أصله بحرف علة؟",
+          "answer": "فعل مثال"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الصرف",
+          "difficulty": "متوسط",
+          "question": "ما نوع الثلاثي المعتل الذي ينتهي أصله بحرف علة؟",
+          "answer": "فعل ناقص"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الصرف",
+          "difficulty": "متوسط",
+          "question": "ما الصيغة التي تدل في أصل وضعها على عدد محدود من الأفراد؟",
+          "answer": "جمع قلة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "الصرف",
+          "difficulty": "متوسط",
+          "question": "ما الصيغة التي تدل في أصل وضعها على عدد كبير من الأفراد؟",
+          "answer": "جمع كثرة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "البلاغة",
+          "difficulty": "متوسط",
+          "question": "ما استعمال اللفظ في غير معناه الأصلي لعلاقة غير المشابهة مع وجود قرينة؟",
+          "answer": "مجاز مرسل"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "اللغة العربية",
+          "sub_category": "البلاغة",
+          "difficulty": "متوسط",
+          "question": "ما التعبير الذي يحذف فيه المشبه به وتبقى صفة من صفاته دليلاً عليه؟",
+          "answer": "استعارة مكنية"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "الأدوات",
+          "difficulty": "متوسط",
+          "question": "ما أداة تنعيم الأسطح التي يكون أحد وجهيها مسطحاً والآخر مقوساً؟",
+          "answer": "مبرد نصف دائري"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "الأدوات",
+          "difficulty": "متوسط",
+          "question": "ما الأداة الصغيرة ذات العجلة الحادة التي تخدش لوحاً شفافاً تمهيداً لفصله؟",
+          "answer": "قاطع زجاج"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "الأدوات",
+          "difficulty": "متوسط",
+          "question": "ما الأداة ذات الفكين النحيلين التي تمسك الأسلاك والأجزاء الدقيقة؟",
+          "answer": "زردية أنف طويل"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "الأدوات",
+          "difficulty": "متوسط",
+          "question": "ما المادة الكاشطة المرنة التي تستخدم مع الماء لتنعيم الأسطح دون تطاير الغبار؟",
+          "answer": "ورق صنفرة مائي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الحرف",
+          "sub_category": "الأدوات",
+          "difficulty": "متوسط",
+          "question": "ما الجهاز الذي يضغط قطعتين معاً حتى يثبت اللاصق بينهما؟",
+          "answer": "مكبس يدوي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفيزياء",
+          "sub_category": "الحرارة",
+          "difficulty": "متوسط",
+          "question": "ما خفض درجة حرارة الهواء نتيجة امتصاص الماء طاقة أثناء تحوله إلى بخار؟",
+          "answer": "تبريد تبخري"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفيزياء",
+          "sub_category": "الموائع",
+          "difficulty": "متوسط",
+          "question": "ما القوة المؤثرة على وحدة المساحة داخل سائل ساكن بسبب عمقه؟",
+          "answer": "ضغط هيدروستاتيكي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الفيزياء",
+          "sub_category": "الموجات",
+          "difficulty": "متوسط",
+          "question": "ما عدد الاهتزازات الذي يفضله جسم عندما يتحرك بحرية بعد إزاحته؟",
+          "answer": "تردد طبيعي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التصوير",
+          "sub_category": "الكاميرا",
+          "difficulty": "متوسط",
+          "question": "ما مقدار النور الذي يصل إلى مستشعر الكاميرا خلال التقاط الصورة؟",
+          "answer": "تعريض ضوئي"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الملفات",
+          "difficulty": "متوسط",
+          "question": "ما القيمة المحسوبة من محتوى ملف للتحقق من عدم تغيره أثناء النقل؟",
+          "answer": "مجموع اختباري"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الملفات",
+          "difficulty": "متوسط",
+          "question": "ما تقسيم المعلومات الكبيرة إلى أجزاء صغيرة ليسهل نقلها أو معالجتها؟",
+          "answer": "تجزئة بيانات"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الواجهات",
+          "difficulty": "متوسط",
+          "question": "ما النص القصير الذي يظهر قرب رمز في الشاشة ليشرح وظيفته عند الإشارة إليه؟",
+          "answer": "تلميح أداة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "التقنية",
+          "sub_category": "الواجهات",
+          "difficulty": "متوسط",
+          "question": "ما الجزء السفلي من نافذة برنامج الذي يعرض معلومات موجزة عن النشاط الحالي؟",
+          "answer": "شريط حالة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "الزراعة",
+          "sub_category": "الرعاية",
+          "difficulty": "متوسط",
+          "question": "ما تحسين مرور الهواء بين حبيبات الأرض الزراعية لتسهيل تنفس الجذور؟",
+          "answer": "تهوية التربة"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "المطبخ",
+          "sub_category": "المكونات",
+          "difficulty": "متوسط",
+          "question": "ما الدهن الناتج عن تسخين الزبدة وإزالة الماء والمواد الصلبة منها؟",
+          "answer": "سمن مصفى"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "الفيزياء",
+          "difficulty": "متوسط",
+          "question": "ما الظاهرة التي تغير فيها الجسيمات الدقيقة اتجاه الأشعة الساقطة عليها فتنتشر في جهات متعددة؟",
+          "answer": "تشتت الضوء"
+        },
+        {
+          "game_type": "kelime_ustasi",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "main_category": "العلوم",
+          "sub_category": "المختبر",
+          "difficulty": "متوسط",
+          "question": "ما المادة المسامية التي تحتجز الجسيمات الصلبة عند مرور السائل خلالها؟",
+          "answer": "ورق ترشيح"
         }
       ]
     }
