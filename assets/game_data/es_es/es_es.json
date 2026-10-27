@@ -3531,7 +3531,7 @@
       "language": "Español",
       "locale": "es-ES",
       "difficulty": "fácil",
-      "question": "Me despliego sobre un balcón para dar sombra y puedo recogerse cuando cambia el tiempo. ¿Qué soy?",
+      "question": "Me despliego sobre un balcón para dar sombra y puedo recogerme cuando cambia el tiempo. ¿Qué soy?",
       "answer": "toldo"
     },
     {
@@ -4565,6 +4565,654 @@
       "difficulty": "medio",
       "question": "Soy una zona de cultivo construida por encima del nivel del suelo para trabajarla con comodidad. ¿Qué estructura soy?",
       "answer": "bancal elevado"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "fácil",
+      "question": "Soy el lugar donde un río termina su recorrido y entrega sus aguas a otro cuerpo mayor. ¿Qué soy?",
+      "answer": "desembocadura"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Al terminar su viaje, el río reparte sedimentos y abre varios brazos sobre una llanura nueva. ¿Qué formación soy?",
+      "answer": "delta fluvial"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "No soy niebla de agua: partículas suspendidas vuelven lechoso el horizonte. ¿Qué fenómeno soy?",
+      "answer": "calima"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Parezco una coliflor blanca flotando en el cielo y crezco hacia arriba. ¿Qué tipo de nube soy?",
+      "answer": "cúmulo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Soy una nube muy alta y delgada, dibujada como hebras de algodón. ¿Qué soy?",
+      "answer": "cirro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "De día suelo viajar desde el agua hacia la tierra cuando esta se calienta más deprisa. ¿Qué corriente de aire soy?",
+      "answer": "brisa marina"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "La Tierra se coloca entre el Sol y su satélite y proyecta su sombra sobre él. ¿Qué fenómeno soy?",
+      "answer": "eclipse lunar"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "En una vuelta alrededor de la Tierra, soy el punto en que el satélite está más cerca. ¿Qué soy?",
+      "answer": "perigeo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "En una vuelta alrededor de la Tierra, soy el punto más alejado del satélite. ¿Qué soy?",
+      "answer": "apogeo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Formo un dibujo reconocible de estrellas, aunque no tenga categoría oficial de constelación. ¿Qué soy?",
+      "answer": "asterismo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "No soy oscuridad total: todavía recibo una parte de la iluminación. ¿Qué zona soy?",
+      "answer": "penumbra"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Bajo las setas extiendo una red de filamentos que absorbe nutrientes. ¿Qué estructura soy?",
+      "answer": "micelio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "En mi interior se forman diminutas unidades de reproducción en ciertos hongos y plantas. ¿Qué estructura soy?",
+      "answer": "esporangio"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Avanzo horizontalmente desde una planta y puedo dar origen a otra más lejos. ¿Qué tallo soy?",
+      "answer": "estolón"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Crezco normalmente bajo tierra, en horizontal, y guardo reservas para nuevos brotes. ¿Qué soy?",
+      "answer": "rizoma"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Ofrezco una sustancia dulce que atrae a los visitantes de muchas flores. ¿Qué parte soy?",
+      "answer": "nectario"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "fácil",
+      "question": "Cubriendo el suelo del bosque reúno restos caídos de las copas. ¿Qué soy?",
+      "answer": "hojarasca"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Soy una capa cerosa que ayuda a las hojas a perder menos agua. ¿Qué protección soy?",
+      "answer": "cutícula vegetal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Soy un pequeño poro visible en ciertas cortezas y permito el intercambio de gases. ¿Qué estructura soy?",
+      "answer": "lenticela"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Un hongo y una raíz colaboran: uno aporta minerales y la otra le entrega azúcares. ¿Qué asociación soy?",
+      "answer": "micorriza"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "En mi recipiente resistente, una pequeña mano machaca especias hasta volverlas polvo. ¿Qué soy?",
+      "answer": "almirez"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "fácil",
+      "question": "Voy y vengo sobre una masa hasta dejarla plana y uniforme. ¿Qué herramienta soy?",
+      "answer": "rodillo de cocina"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Con una manivela y un disco perforado transformo verduras cocidas en una textura suave. ¿Qué utensilio soy?",
+      "answer": "pasapurés"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "fácil",
+      "question": "Soporto el horno y ayudo a que las galletas se despeguen de la bandeja. ¿Qué material soy?",
+      "answer": "papel vegetal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Sostengo un bizcocho recién horneado y dejo circular el aire por debajo. ¿Qué objeto soy?",
+      "answer": "rejilla de enfriamiento"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Mi filo curvado extrae pequeñas virutas al tallar madera. ¿Qué herramienta soy?",
+      "answer": "gubia"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Mis dientes gruesos desgastan madera sin necesitar un motor. ¿Qué herramienta soy?",
+      "answer": "escofina"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Aprieto dos piezas contra una mesa para que no se muevan mientras se unen. ¿Qué herramienta soy?",
+      "answer": "sargento de carpintero"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Mi punta de metal deja surcos precisos en una superficie preparada para grabar. ¿Qué herramienta soy?",
+      "answer": "buril"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Giro entre los dedos y convierto fibras sueltas en un hilo continuo. ¿Qué objeto soy?",
+      "answer": "huso"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Permanezco tensa y longitudinal mientras otros hilos cruzan sobre mí en el telar. ¿Qué conjunto soy?",
+      "answer": "urdimbre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Cruzo de lado a lado entre los hilos tensos y voy formando la tela. ¿Qué conjunto soy?",
+      "answer": "trama textil"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "fácil",
+      "question": "Mis dos aros sujetan una tela bien tirante mientras aparecen dibujos de hilo. ¿Qué objeto soy?",
+      "answer": "bastidor de bordado"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Mi punta abre pequeñas marcas en cuero o cartón antes de coser o ensamblar. ¿Qué herramienta soy?",
+      "answer": "punzón"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Guardo el hilo inferior dentro de una máquina que une telas. ¿Qué pieza soy?",
+      "answer": "canilla de coser"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Abro un hueco acristalado en la cubierta para iluminar desde arriba. ¿Qué elemento soy?",
+      "answer": "lucernario"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "fácil",
+      "question": "Protejo la zona baja de una pared frente a roces y humedad. ¿Qué revestimiento soy?",
+      "answer": "zócalo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Soy un apoyo exterior arqueado que lleva el empuje de una cubierta hasta un soporte separado. ¿Qué elemento soy?",
+      "answer": "arbotante"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Llevo una marca única en el cuello para preparar un volumen exacto de disolución. ¿Qué recipiente soy?",
+      "answer": "matraz aforado"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Separo los componentes de una mezcla porque avanzan a distintas velocidades sobre un soporte. ¿Qué técnica soy?",
+      "answer": "cromatografía"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Estimo el índice óptico de una muestra observando cómo se desvía un rayo al atravesarla. ¿Qué instrumento soy?",
+      "answer": "refractómetro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Giro muestras muy deprisa para separar sus componentes según su comportamiento en la rotación. ¿Qué máquina soy?",
+      "answer": "centrifugadora"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "fácil",
+      "question": "En los mapas muestro los rumbos cardinales como puntas que nacen de un mismo centro. ¿Qué símbolo soy?",
+      "answer": "rosa de los vientos"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Recorro un mapa uniendo puntos que tienen la misma altura sobre el mar. ¿Qué línea soy?",
+      "answer": "curva de nivel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Soy una barra dividida en tramos que permite convertir distancias del papel en distancias reales. ¿Qué elemento soy?",
+      "answer": "escala gráfica"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Rodeo la Tierra de este a oeste sin cruzarme con mis semejantes. ¿Qué línea imaginaria soy?",
+      "answer": "paralelo geográfico"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Represento la profundidad del fondo de mares y lagos mediante medidas y mapas. ¿Qué disciplina soy?",
+      "answer": "batimetría"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "No cuento kilómetros recorridos: indico a qué altura se encuentra quien me lleva. ¿Qué instrumento soy?",
+      "answer": "altímetro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "fácil",
+      "question": "En un rincón del mapa explico qué significan sus colores, signos y dibujos. ¿Qué elemento soy?",
+      "answer": "leyenda cartográfica"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Una pequeña marca o etiqueta en un libro revela a qué biblioteca particular pertenece. ¿Qué soy?",
+      "answer": "exlibris"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Uno la cubierta con las primeras y últimas páginas del volumen. ¿Qué hojas soy?",
+      "answer": "guardas de libro"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Soy la pequeña etiqueta del lomo que permite localizar un volumen en la estantería. ¿Qué soy?",
+      "answer": "tejuelo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Después de imprimir, enumero las equivocaciones descubiertas y su corrección. ¿Qué apartado soy?",
+      "answer": "fe de erratas"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Me doblo hacia el interior de una cubierta y suelo ofrecer una breve presentación del contenido. ¿Qué soy?",
+      "answer": "solapa editorial"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Reúno temas y nombres ordenados por letras para señalar las páginas donde aparecen. ¿Qué apartado soy?",
+      "answer": "índice alfabético"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Soy una combinación de letras y cifras que indica el lugar exacto de un libro en la biblioteca. ¿Qué soy?",
+      "answer": "signatura topográfica"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Casi invisible en una hoja seca, aparezco cuando la miras a contraluz. ¿Qué marca soy?",
+      "answer": "filigrana de papel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Aliso pliegues de papel con mi borde romo sin rasgar las fibras. ¿Qué herramienta soy?",
+      "answer": "plegadera"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "fácil",
+      "question": "Mis ángulos de treinta, sesenta y noventa grados ayudan a dibujar líneas precisas. ¿Qué instrumento soy?",
+      "answer": "cartabón"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "fácil",
+      "question": "Mi borde graduado permite leer la abertura entre dos líneas. ¿Qué instrumento soy?",
+      "answer": "transportador de ángulos"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Mi contorno ofrece arcos suaves de distintas formas para trazarlos a lápiz. ¿Qué objeto soy?",
+      "answer": "plantilla de curvas"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Mis segmentos articulados se despliegan para medir y se doblan para caber en un bolsillo. ¿Qué soy?",
+      "answer": "regla plegable"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Comparo masas manteniendo dos recipientes suspendidos a ambos lados de un apoyo. ¿Qué instrumento soy?",
+      "answer": "balanza de platillos"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "fácil",
+      "question": "Una presión suave en mi parte flexible libera el líquido de uno en uno. ¿Qué utensilio soy?",
+      "answer": "cuentagotas"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "En la costa del norte puedo llegar de golpe, con aire muy fuerte y un brusco cambio del tiempo. ¿Qué fenómeno soy?",
+      "answer": "galerna"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "La niebla helada se pega a las ramas y las cubre de cristales blancos. ¿Qué depósito soy?",
+      "answer": "cencellada"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Vigilo cómo sube y baja el nivel del mar y lo registro a lo largo del tiempo. ¿Qué instrumento soy?",
+      "answer": "mareógrafo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Si el aire llega de frente a una ladera, ¿cómo se llama el lado que primero lo recibe?",
+      "answer": "barlovento"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "La montaña me protege del aire que sopla al otro lado. ¿Qué vertiente soy?",
+      "answer": "sotavento"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Por fuera parezco una piedra cualquiera; al abrirme, muestro una cavidad revestida de cristales. ¿Qué soy?",
+      "answer": "geoda"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Nazco de minerales disueltos en aguas ricas en carbonato y a menudo guardo pequeños poros. ¿Qué roca soy?",
+      "answer": "travertino"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Millones de granos antiguos quedaron unidos hasta formar mi cuerpo sólido. ¿Qué roca soy?",
+      "answer": "arenisca"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Cuando el barro pierde agua, dibujo polígonos separados por pequeñas aberturas. ¿Qué huella soy?",
+      "answer": "grieta de desecación"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Guardo agua de lluvia bajo tierra o dentro de un depósito construido para épocas secas. ¿Qué soy?",
+      "answer": "aljibe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Rodeo la boca de un pozo para proteger su abertura. ¿Qué pieza soy?",
+      "answer": "brocal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Mi superficie inclinada aleja la lluvia del muro que hay bajo una ventana. ¿Qué pieza soy?",
+      "answer": "vierteaguas"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Dejo un pequeño espacio entre partes de una estructura para que el calor no las agriete al expandirse. ¿Qué solución soy?",
+      "answer": "junta de dilatación"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "difícil",
+      "question": "Sostengo temporalmente las piezas de un arco mientras se construye y aún no puede mantenerse solo. ¿Qué soporte soy?",
+      "answer": "cimbra"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Con una señal visible ayudo a reconocer un límite, una ruta o un punto de referencia. ¿Qué soy?",
+      "answer": "baliza"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Permito cruzar por encima de una zona sin pisar lo que circula por debajo. ¿Qué estructura soy?",
+      "answer": "pasarela elevada"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Español",
+      "locale": "es-ES",
+      "difficulty": "medio",
+      "question": "Reúno distintas líneas y medios de viaje para facilitar el cambio de uno a otro. ¿Qué lugar soy?",
+      "answer": "intercambiador de transporte"
     }
   ],
   "kelime_ustasi": [
