@@ -47847,6 +47847,758 @@
         "difficulty": "普通",
         "answer": "トルクレンチ",
         "question": "ボルトを締めるとき、決められた回す力に達したかを確認できる工具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "巻きす",
+        "question": "細い竹を糸でつないで作り、具を入れた酢飯を円筒形に整える道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "竹串",
+        "question": "団子を数個まとめて刺し、手で持ちやすくする細長い棒は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "密閉容器",
+        "question": "ふたのすき間から空気が出入りしにくく、食品をしまえる入れ物は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "ボウル",
+        "question": "材料を混ぜたり泡立てたりするときに使う、深くて丸い台所の器は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "木象嵌",
+        "question": "色や質感の異なる薄い材を土台にはめ込み、模様を表す装飾技法は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "かまち",
+        "question": "戸や建具の周囲を囲み、内側の板を支える細長い枠材は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "気圧配置",
+        "question": "高い所と低い所がどのように並ぶかを示し、空模様の予測に使う分布は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "海陸風",
+        "question": "沿岸で昼と夜に向きが入れ替わる、地面と水面の温まり方の違いで生じる流れは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "圧縮率",
+        "question": "元のデータ量に対して小さくした後の量がどれくらいかを示す割合は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "可逆圧縮",
+        "question": "データを小さく保存しても、展開すれば元の内容を完全に再現できる方式は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "非可逆圧縮",
+        "question": "保存量を減らすため一部の情報を捨て、展開しても元どおりにはならない方式は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "キャッシュ",
+        "question": "よく使う情報を一時的に手元へ置き、次回の読み込みを速くする仕組みは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "クッキー",
+        "question": "ウェブサイトが訪問者の端末に保存し、設定などを次回に引き継ぐ小さな情報は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "暗号化",
+        "question": "内容を第三者が読みにくい形へ変換し、鍵を持つ側だけが元に戻せる処理は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "復号",
+        "question": "鍵を使って読めない形のデータを元の文章や情報へ戻す操作は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "バックアップ",
+        "question": "故障や誤操作に備えて、別の場所に保存しておくデータの予備は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "スナップショット",
+        "question": "ある時点のシステムや保存領域の状態を、そのまま記録したものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "ファイアウォール",
+        "question": "ネットワークの出入りを規則に照らして選別し、不審な通信を遮る仕組みは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "ハブ",
+        "question": "複数の機器を有線で接続し、同じネットワークにまとめる装置は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "パケット",
+        "question": "通信する大きな情報を小さく区切り、宛先などを付けて送る単位は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "帯域幅",
+        "question": "通信路が一定時間に扱える情報量の大きさを示す指標は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "遅延",
+        "question": "通信の指示を送ってから相手に届くまでに生じる時間のずれは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "応答時間",
+        "question": "要求を出してから結果が返ってくるまでの長さは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "文字コード",
+        "question": "ひらがなや記号などをコンピューター内の数値に対応させる決まりは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "フォント",
+        "question": "画面や印刷物で使う、統一された字の形のデザインは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "ベクター画像",
+        "question": "点の座標や線の形を数式で記録し、拡大しても輪郭が滑らかな図は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "ラスター画像",
+        "question": "小さな色の点を格子状に並べて表す、写真などに使われる図の形式は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "水圧",
+        "question": "液体の中で、深い場所ほど大きくなる周囲から押される力は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "塩分",
+        "question": "海の水に溶け込んだミネラルなどの割合を表す値は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "珊瑚礁",
+        "question": "小さな海の生き物が作る硬い骨格が長年積み重なった浅い海の地形は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "湖沼",
+        "question": "陸に囲まれて水がたまる、大小の自然な水域をまとめた呼び方は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "尊敬語",
+        "question": "相手や話題の人物の動作を高めて表す、「いらっしゃる」などの表現は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "謙譲語",
+        "question": "自分側の動作を低く表し、相手への敬意を示す「伺う」などの表現は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "丁寧語",
+        "question": "文末に「です」「ます」を添え、聞き手に配慮した話し方は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "活用",
+        "question": "動詞などの語尾が、時制や文のつながりによって形を変えることは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "体言",
+        "question": "文の主語になれ、名詞や代名詞を含む語のまとまりは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "用言",
+        "question": "文末で述語になり、形を変える動詞・形容詞などの総称は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "受精",
+        "question": "卵の細胞と雄側の細胞が一つになり、新しい個体の始まりを作る過程は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "油切り",
+        "question": "揚げた食品を網に置き、表面の余分な脂を落とす作業は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "余熱",
+        "question": "火を止めた後も鍋や食材に残り、調理を進める温かさは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "予熱",
+        "question": "食材を入れる前に、オーブンなどを指定の温度まで温めておくことは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "火加減",
+        "question": "鍋を温める炎の強さを、料理の状態に合わせて調節することは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "強火",
+        "question": "鍋底全体に勢いよく炎が当たる程度の、調理中の加熱の仕方は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "中火",
+        "question": "鍋底に炎の先が触れる程度で、弱すぎず強すぎない加熱の仕方は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "ゼラチン",
+        "question": "動物由来のたんぱく質から作られ、冷やした液体をぷるぷるに固める材料は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "生地",
+        "question": "焼く前のパンや菓子で、材料を混ぜてまとめた柔らかい状態のものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "出汁",
+        "question": "昆布や乾物などを水や湯に浸し、うま味を移して作る料理の基本の液体は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "漬け汁",
+        "question": "食材をしばらく浸し、味や香りを移すための液体は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "油こし",
+        "question": "使い終えた揚げ物用の脂から、細かな食べかすを取り除く作業は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "蒸し布",
+        "question": "せいろの底に敷き、食材がくっつくのを防ぐ薄い織物は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "網杓子",
+        "question": "穴の多い金属製のすくい道具で、湯から具だけを取り出すものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "紙漉き",
+        "question": "繊維をほぐした液をすくい上げ、薄く広げて乾かす伝統的な製法は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "木彫り",
+        "question": "板や丸太を刃物で少しずつ削り、立体的な模様や形を作る技法は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "刺繍",
+        "question": "針と色糸で布の表面に模様や文字を描く手仕事は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "かがり縫い",
+        "question": "布の端を糸で包むように留め、ほつれを防ぐ針仕事は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "芽接ぎ",
+        "question": "植物の小さな新しい枝のもとを切り取り、別の株の樹皮に差し込んで育てる方法は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "風向",
+        "question": "空気の流れがどちらから来るかを示す、北や南などの方角は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "ダウンバースト",
+        "question": "積乱雲の下で強い下降気流が地面にぶつかり、周囲へ急激に広がる現象は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "ヒートアイランド",
+        "question": "建物や舗装が多い市街地が、周囲の郊外より高温になりやすい現象は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "画素",
+        "question": "デジタル写真を大きく拡大したときに見える、一つずつ色を持つ最小の点は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "解像度",
+        "question": "画面や写真の細かさを、縦横に並ぶ点の数などで示す指標は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "アスペクト比",
+        "question": "画面や写真の横の長さと縦の長さの割合は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "透過率",
+        "question": "光が物体を通り抜ける割合を示す値は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "拡張子",
+        "question": "ファイル名の末尾で、ピリオドの後に続き種類を示す文字列は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "エンコード",
+        "question": "文章や映像などを決められた規則に従って別のデータ表現へ変える処理は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "デコード",
+        "question": "規則に従って変換されたデータを、読み取れる元の表現へ戻す処理は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "検索エンジン",
+        "question": "インターネット上の情報を集め、入力した語に合うページを探す仕組みは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "インデックス",
+        "question": "大量の記録から目的の情報を速く探せるように作る、索引の仕組みは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "データベース",
+        "question": "多くの情報を整理して保存し、条件を指定して取り出せる仕組みは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "主キー",
+        "question": "表の各行を重複なく識別するために指定する列や列の組み合わせは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "外部キー",
+        "question": "別の表にある行と結び付けるため、参照先の識別値を持たせる列は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "セル",
+        "question": "格子状の表で、行と列が交わる一つの入力欄は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "オートフィル",
+        "question": "表の隣り合う欄へ、連続した日付や規則的な数値を自動で埋める機能は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "バージョン管理",
+        "question": "文書やプログラムの変更履歴を記録し、以前の状態へ戻せる仕組みは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "マージ",
+        "question": "別々に編集された変更内容を、一つのまとまった状態に統合する操作は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "競合",
+        "question": "同じ箇所に異なる変更が入り、自動ではどちらを残すか決められない状態は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "キャッシュメモリ",
+        "question": "処理装置の近くに置かれ、頻繁に使うデータを高速で読み出せる小容量の記憶領域は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "画面共有",
+        "question": "離れた相手に、自分の端末に表示されている内容をそのまま見せる機能は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "セッション",
+        "question": "ウェブサービスで接続してから離れるまで、利用者の状態をひと続きに扱う単位は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "ログイン",
+        "question": "利用者名などを入力し、サービスの自分専用の領域へ入る操作は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "ログアウト",
+        "question": "利用を終えたとき、自分の接続状態を解除する操作は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "礫岩",
+        "question": "丸みを帯びた小石が多数集まり、自然の接着成分で固まった地質の材料は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "堆積岩",
+        "question": "砂や泥などが水底にたまり、長い時間をかけて固まった種類の石は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "火成岩",
+        "question": "地下で溶けた物質が冷えて固まってできる種類の石は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "凝集力",
+        "question": "同じ種類の分子同士が引き合い、まとまろうとする働きは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "肺胞",
+        "question": "息を吸ったとき、体内で酸素と二酸化炭素を交換する小さな袋状の部分は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "小腸",
+        "question": "腹部に長く折りたたまれ、栄養分の多くを吸収する管状の器官は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "大腸",
+        "question": "食べ物の残りから水分を吸収し、排出するものを形づくる管状の器官は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "腸絨毛",
+        "question": "栄養を吸収する内壁に並び、表面積を大きくする細かな突起は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "神経",
+        "question": "体の各部と脳の間で、電気的な信号を伝える細長い組織は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "三半規管",
+        "question": "頭を回したときの動きを感じ取り、体のバランスを保つのに役立つ器官は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "赤道",
+        "question": "地球を北半分と南半分に分ける、緯度ゼロ度の想像上の線は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "歳差運動",
+        "question": "回転するこまの軸が、ゆっくり円を描くように向きを変える現象は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "恒星風",
+        "question": "太陽のように自ら光る天体から、粒子が宇宙空間へ流れ出す現象は？"
       }
     ],
     "word_master": [
