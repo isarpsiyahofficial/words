@@ -37206,6 +37206,806 @@
         "difficulty": "difícil",
         "question": "Sou uma tira cortada na diagonal do tecido, flexível para contornar curvas e revestir bordas.",
         "answer": "Viés"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Horta e manejo do solo",
+        "sub_category": "Cultivo e planejamento",
+        "difficulty": "fácil",
+        "question": "Tenho uma lâmina larga presa a um cabo; com movimentos de vaivém, abro a terra e retiro o mato.",
+        "answer": "Enxada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Horta e manejo do solo",
+        "sub_category": "Cultivo e planejamento",
+        "difficulty": "médio",
+        "question": "Antes da semeadura, sou puxado pelo campo para virar a camada superficial da terra em longas faixas.",
+        "answer": "Arado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Horta e manejo do solo",
+        "sub_category": "Cultivo e planejamento",
+        "difficulty": "médio",
+        "question": "Sou um caminho estreito aberto no chão, onde sementes podem ficar alinhadas antes de receber terra.",
+        "answer": "Sulco"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Horta e manejo do solo",
+        "sub_category": "Cultivo e planejamento",
+        "difficulty": "médio",
+        "question": "Sou o lugar preparado para as primeiras semanas das mudinhas, antes de seguirem para o local definitivo.",
+        "answer": "Sementeira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Horta e manejo do solo",
+        "sub_category": "Cultivo e planejamento",
+        "difficulty": "médio",
+        "question": "Espalho palha e folhas secas sobre a terra, protegendo-a do sol forte e diminuindo a perda de umidade.",
+        "answer": "Cobertura morta"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Horta e manejo do solo",
+        "sub_category": "Cultivo e planejamento",
+        "difficulty": "médio",
+        "question": "Fico acima do nível do terreno, com bordas definidas, facilitando o escoamento da água na horta.",
+        "answer": "Canteiro elevado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Horta e manejo do solo",
+        "sub_category": "Cultivo e planejamento",
+        "difficulty": "difícil",
+        "question": "Em vez de colher, planto certas espécies para depois incorporá-las à terra e devolver nutrientes.",
+        "answer": "Adubação verde"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Horta e manejo do solo",
+        "sub_category": "Cultivo e planejamento",
+        "difficulty": "médio",
+        "question": "Sou uma fileira de árvores ou arbustos que protege a plantação das rajadas mais fortes.",
+        "answer": "Quebra-vento"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Horta e manejo do solo",
+        "sub_category": "Cultivo e planejamento",
+        "difficulty": "médio",
+        "question": "A cada safra, troco o tipo de planta cultivada no mesmo terreno para ajudar a conservar o solo.",
+        "answer": "Rotação de culturas"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Horta e manejo do solo",
+        "sub_category": "Cultivo e planejamento",
+        "difficulty": "difícil",
+        "question": "Sou a prática de proteger a superfície da terra com uma camada de material orgânico ou outro revestimento.",
+        "answer": "Mulching"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas e ciclos naturais",
+        "sub_category": "Movimento da água",
+        "difficulty": "fácil",
+        "question": "Caio em gotinhas tão finas que quase pareço névoa, mas ainda molho o cabelo de quem sai sem proteção.",
+        "answer": "Garoa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas e ciclos naturais",
+        "sub_category": "Movimento da água",
+        "difficulty": "fácil",
+        "question": "Depois de uma chuva intensa, corro com força pelas ruas inclinadas, levando folhas e terra comigo.",
+        "answer": "Enxurrada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas e ciclos naturais",
+        "sub_category": "Movimento da água",
+        "difficulty": "médio",
+        "question": "Em vez de correr pela superfície, atravesso os poros da terra e sigo para camadas mais profundas.",
+        "answer": "Infiltração"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas e ciclos naturais",
+        "sub_category": "Movimento da água",
+        "difficulty": "médio",
+        "question": "Sem precisar ferver, a água de uma poça pode subir invisível ao ar graças ao calor.",
+        "answer": "Evaporação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas e ciclos naturais",
+        "sub_category": "Movimento da água",
+        "difficulty": "médio",
+        "question": "Quando o vapor encontra uma superfície fria, faço surgir pequenas gotas no vidro.",
+        "answer": "Condensação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas e ciclos naturais",
+        "sub_category": "Movimento da água",
+        "difficulty": "difícil",
+        "question": "Reúno terrenos cujas águas escorrem para um mesmo rio principal e seus afluentes.",
+        "answer": "Bacia hidrográfica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas e ciclos naturais",
+        "sub_category": "Movimento da água",
+        "difficulty": "difícil",
+        "question": "Sou a parte mais alta do relevo que separa os caminhos da chuva rumo a rios diferentes.",
+        "answer": "Divisor de águas"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas e ciclos naturais",
+        "sub_category": "Movimento da água",
+        "difficulty": "médio",
+        "question": "Fico debaixo da superfície, ocupando poros do solo; poços rasos podem alcançar minha água.",
+        "answer": "Lençol freático"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas e ciclos naturais",
+        "sub_category": "Movimento da água",
+        "difficulty": "difícil",
+        "question": "Sedimentos se acumulam no fundo de rios e lagos, deixando-os progressivamente mais rasos.",
+        "answer": "Assoreamento"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas e ciclos naturais",
+        "sub_category": "Movimento da água",
+        "difficulty": "médio",
+        "question": "Sou a fase em que o nível de um rio diminui depois do período de cheia.",
+        "answer": "Vazante"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura do cotidiano",
+        "sub_category": "Partes de construções",
+        "difficulty": "médio",
+        "question": "Avanço além da parede na borda do telhado e ajudo a afastar a chuva das janelas.",
+        "answer": "Beiral"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura do cotidiano",
+        "sub_category": "Partes de construções",
+        "difficulty": "médio",
+        "question": "Sou a linha mais alta onde se encontram as duas águas de um telhado inclinado.",
+        "answer": "Cumeeira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura do cotidiano",
+        "sub_category": "Partes de construções",
+        "difficulty": "fácil",
+        "question": "Percorro a borda do telhado como um canal estreito e conduzo a chuva até um tubo de descida.",
+        "answer": "Calha"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura do cotidiano",
+        "sub_category": "Partes de construções",
+        "difficulty": "difícil",
+        "question": "Sou uma peça metálica de vedação na junção entre telhado e parede, impedindo que a chuva entre.",
+        "answer": "Rufo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura do cotidiano",
+        "sub_category": "Partes de construções",
+        "difficulty": "difícil",
+        "question": "Tenho um pequeno ressalto ou sulco na borda de uma peça para fazer a gota cair longe da parede.",
+        "answer": "Pingadeira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura do cotidiano",
+        "sub_category": "Partes de construções",
+        "difficulty": "médio",
+        "question": "Sou um bloco vazado usado em paredes para deixar passar ar e claridade sem abrir tudo à vista.",
+        "answer": "Cobogó"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura do cotidiano",
+        "sub_category": "Partes de construções",
+        "difficulty": "médio",
+        "question": "No jardim, minhas vigas abertas formam uma estrutura por onde trepadeiras podem crescer e dar sombra.",
+        "answer": "Pérgola"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura do cotidiano",
+        "sub_category": "Partes de construções",
+        "difficulty": "médio",
+        "question": "Sou um espaço descoberto cercado pelos ambientes de uma construção, trazendo luz ao seu centro.",
+        "answer": "Pátio interno"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura do cotidiano",
+        "sub_category": "Partes de construções",
+        "difficulty": "médio",
+        "question": "Minhas lâminas inclinadas deixam o ar circular mesmo quando parte da janela está fechada.",
+        "answer": "Veneziana"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura do cotidiano",
+        "sub_category": "Partes de construções",
+        "difficulty": "médio",
+        "question": "Sou uma abertura envidraçada no teto que permite à luz do dia iluminar o ambiente de cima.",
+        "answer": "Claraboia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Segredos da cozinha",
+        "sub_category": "Técnicas de preparo",
+        "difficulty": "médio",
+        "question": "Aqueço delicadamente um recipiente usando a água quente de outro, sem encostar diretamente na chama.",
+        "answer": "Banho-maria"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Segredos da cozinha",
+        "sub_category": "Técnicas de preparo",
+        "difficulty": "médio",
+        "question": "Microrganismos transformam ingredientes ao longo do tempo, produzindo gás ou novos sabores.",
+        "answer": "Fermentação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Segredos da cozinha",
+        "sub_category": "Técnicas de preparo",
+        "difficulty": "difícil",
+        "question": "Uno dois líquidos que normalmente se separam, formando uma mistura estável como a maionese.",
+        "answer": "Emulsão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Segredos da cozinha",
+        "sub_category": "Técnicas de preparo",
+        "difficulty": "médio",
+        "question": "Passo rapidamente vegetais pela água fervente e depois pelo frio para preservar cor e textura.",
+        "answer": "Branqueamento"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Segredos da cozinha",
+        "sub_category": "Técnicas de preparo",
+        "difficulty": "médio",
+        "question": "Deixo parte da água sair com o calor para concentrar o sabor e engrossar o líquido da panela.",
+        "answer": "Redução de molho"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Segredos da cozinha",
+        "sub_category": "Técnicas de preparo",
+        "difficulty": "difícil",
+        "question": "Quando levanto a colher, a calda açucarada cai em um filamento contínuo: esse é meu estágio.",
+        "answer": "Ponto de fio"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Segredos da cozinha",
+        "sub_category": "Técnicas de preparo",
+        "difficulty": "fácil",
+        "question": "Trabalho uma massa com as mãos, dobrando e pressionando até que fique mais elástica.",
+        "answer": "Sovar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Segredos da cozinha",
+        "sub_category": "Técnicas de preparo",
+        "difficulty": "médio",
+        "question": "Deixo ingredientes descansarem numa mistura temperada antes do preparo para absorver aromas.",
+        "answer": "Marinar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Segredos da cozinha",
+        "sub_category": "Técnicas de preparo",
+        "difficulty": "fácil",
+        "question": "Deixo folhas ou ervas em contato com água quente para extrair aroma, sem precisar fervê-las junto.",
+        "answer": "Infusão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Segredos da cozinha",
+        "sub_category": "Técnicas de preparo",
+        "difficulty": "médio",
+        "question": "Sob o calor, o açúcar muda de cor e desenvolve um sabor tostado e adocicado.",
+        "answer": "Caramelização"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Física que se vê",
+        "sub_category": "Fenômenos e propriedades",
+        "difficulty": "difícil",
+        "question": "Faço a água subir por um tubo muito fino ou avançar pelas fibras de um papel absorvente.",
+        "answer": "Capilaridade"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Física que se vê",
+        "sub_category": "Fenômenos e propriedades",
+        "difficulty": "difícil",
+        "question": "Na superfície da água, minhas forças de coesão permitem que alguns insetos leves se apoiem sem afundar.",
+        "answer": "Tensão superficial"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Física que se vê",
+        "sub_category": "Fenômenos e propriedades",
+        "difficulty": "médio",
+        "question": "Quando o empuxo equilibra o peso, um objeto pode permanecer na água sem ir ao fundo.",
+        "answer": "Flutuação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Física que se vê",
+        "sub_category": "Fenômenos e propriedades",
+        "difficulty": "médio",
+        "question": "Comparo quanta massa cabe em determinado volume; por isso, materiais do mesmo tamanho podem pesar diferente.",
+        "answer": "Densidade"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Física que se vê",
+        "sub_category": "Fenômenos e propriedades",
+        "difficulty": "médio",
+        "question": "Quando aqueço um trilho metálico, ele tende a aumentar ligeiramente de comprimento.",
+        "answer": "Dilatação térmica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Física que se vê",
+        "sub_category": "Fenômenos e propriedades",
+        "difficulty": "médio",
+        "question": "Dificulto a passagem de calor entre ambientes, como faz uma camada de lã numa caixa.",
+        "answer": "Isolamento térmico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Física que se vê",
+        "sub_category": "Fenômenos e propriedades",
+        "difficulty": "fácil",
+        "question": "Surjo quando duas superfícies se tocam e resisto ao movimento de uma sobre a outra.",
+        "answer": "Atrito"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Física que se vê",
+        "sub_category": "Fenômenos e propriedades",
+        "difficulty": "médio",
+        "question": "Quando um ônibus freia, o corpo tende a continuar seu movimento anterior por minha causa.",
+        "answer": "Inércia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Física que se vê",
+        "sub_category": "Fenômenos e propriedades",
+        "difficulty": "difícil",
+        "question": "Sou exercida pelo peso do ar e ajudo a explicar por que um barômetro muda de leitura.",
+        "answer": "Pressão atmosférica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Física que se vê",
+        "sub_category": "Fenômenos e propriedades",
+        "difficulty": "médio",
+        "question": "Depois de esfregar um balão no cabelo, posso fazê-lo atrair pedacinhos de papel sem encostar.",
+        "answer": "Eletrostática"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e técnicas têxteis",
+        "sub_category": "Pontos e acabamentos",
+        "difficulty": "médio",
+        "question": "Sem agulha nem tear, transformo cordões em desenhos por meio de nós repetidos.",
+        "answer": "Macramê"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e técnicas têxteis",
+        "sub_category": "Pontos e acabamentos",
+        "difficulty": "difícil",
+        "question": "Uso uma agulha comprida para manter várias laçadas de uma carreira antes de fechá-las na volta.",
+        "answer": "Crochê tunisiano"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e técnicas têxteis",
+        "sub_category": "Pontos e acabamentos",
+        "difficulty": "médio",
+        "question": "No bordado, cubro uma pequena área com passadas paralelas e bem próximas até esconder o tecido.",
+        "answer": "Ponto cheio"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e técnicas têxteis",
+        "sub_category": "Pontos e acabamentos",
+        "difficulty": "médio",
+        "question": "Contorno a borda do tecido com laçadas regulares que ajudam a evitar o desfiamento.",
+        "answer": "Ponto caseado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e técnicas têxteis",
+        "sub_category": "Pontos e acabamentos",
+        "difficulty": "médio",
+        "question": "Com passadas inclinadas pela borda cortada, impeço que os fios do tecido se soltem.",
+        "answer": "Chuleado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e técnicas têxteis",
+        "sub_category": "Pontos e acabamentos",
+        "difficulty": "fácil",
+        "question": "Sou uma costura provisória de passadas largas, retirada depois que a peça fica pronta.",
+        "answer": "Alinhavo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e técnicas têxteis",
+        "sub_category": "Pontos e acabamentos",
+        "difficulty": "médio",
+        "question": "Uma máquina corta o excesso da borda e a envolve com linhas ao mesmo tempo, evitando que desfie.",
+        "answer": "Overloque"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e técnicas têxteis",
+        "sub_category": "Pontos e acabamentos",
+        "difficulty": "médio",
+        "question": "Na calça social, termino a perna com uma dobra aparente virada para fora, de aspecto clássico.",
+        "answer": "Barra italiana"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e técnicas têxteis",
+        "sub_category": "Pontos e acabamentos",
+        "difficulty": "fácil",
+        "question": "Sou uma dobra marcada e presa no tecido, criando volume ou dando forma a uma peça.",
+        "answer": "Prega"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e técnicas têxteis",
+        "sub_category": "Pontos e acabamentos",
+        "difficulty": "médio",
+        "question": "Puxo uma linha de costura e junto o tecido em pequenas ondulações para criar volume.",
+        "answer": "Franzido"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Bichos do Brasil",
+        "sub_category": "Fauna e habitats",
+        "difficulty": "fácil",
+        "question": "Quando me sinto ameaçado, fecho meu corpo coberto de placas e viro uma esfera quase perfeita.",
+        "answer": "Tatu-bola"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Bichos do Brasil",
+        "sub_category": "Fauna e habitats",
+        "difficulty": "médio",
+        "question": "Tenho focinho comprido, língua pegajosa e uma cauda grande; procuro insetos em cupinzeiros.",
+        "answer": "Tamanduá-bandeira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Bichos do Brasil",
+        "sub_category": "Fauna e habitats",
+        "difficulty": "fácil",
+        "question": "Sou uma ave grande de plumagem azul intensa, bico curvo e voz forte nas paisagens do Pantanal.",
+        "answer": "Arara-azul"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Bichos do Brasil",
+        "sub_category": "Fauna e habitats",
+        "difficulty": "fácil",
+        "question": "Sou o maior roedor vivo; passo muito tempo perto da água e costumo viver em grupos.",
+        "answer": "Capivara"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Bichos do Brasil",
+        "sub_category": "Fauna e habitats",
+        "difficulty": "médio",
+        "question": "Sou um mamífero de água doce amazônico, com focinho alongado e tonalidade rosada.",
+        "answer": "Boto-cor-de-rosa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Bichos do Brasil",
+        "sub_category": "Fauna e habitats",
+        "difficulty": "fácil",
+        "question": "Construo com argila uma casinha arredondada que lembra um pequeno forno sobre galhos ou postes.",
+        "answer": "João-de-barro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Bichos do Brasil",
+        "sub_category": "Fauna e habitats",
+        "difficulty": "médio",
+        "question": "Ando em grupos, tenho cauda longa com anéis e uso o focinho para procurar alimento no chão.",
+        "answer": "Quati"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Bichos do Brasil",
+        "sub_category": "Fauna e habitats",
+        "difficulty": "médio",
+        "question": "Sou um pequeno primata da Mata Atlântica, com pelagem alaranjada e juba em torno do rosto.",
+        "answer": "Mico-leão-dourado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Bichos do Brasil",
+        "sub_category": "Fauna e habitats",
+        "difficulty": "médio",
+        "question": "Sou um peixe amazônico enorme, que precisa subir à superfície para respirar ar.",
+        "answer": "Pirarucu"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Bichos do Brasil",
+        "sub_category": "Fauna e habitats",
+        "difficulty": "médio",
+        "question": "Sou um mamífero aquático herbívoro, de corpo arredondado, que se move devagar em rios ou no mar.",
+        "answer": "Peixe-boi"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Viagem e serviços",
+        "sub_category": "Terminais e deslocamentos",
+        "difficulty": "fácil",
+        "question": "Viajo presa à mala com dados que ajudam a identificar seu dono e destino.",
+        "answer": "Etiqueta de bagagem"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Viagem e serviços",
+        "sub_category": "Terminais e deslocamentos",
+        "difficulty": "fácil",
+        "question": "Sou uma pequena janela de atendimento onde se compram passagens ou se resolvem solicitações.",
+        "answer": "Guichê"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Viagem e serviços",
+        "sub_category": "Terminais e deslocamentos",
+        "difficulty": "fácil",
+        "question": "Sou um número retirado ao chegar; apareço no painel quando chega a vez da pessoa.",
+        "answer": "Senha de atendimento"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Viagem e serviços",
+        "sub_category": "Terminais e deslocamentos",
+        "difficulty": "fácil",
+        "question": "No aeroporto, giro sem parar enquanto as malas chegam para que seus donos as recolham.",
+        "answer": "Esteira de bagagens"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Viagem e serviços",
+        "sub_category": "Terminais e deslocamentos",
+        "difficulty": "fácil",
+        "question": "Num terminal movimentado, sou o lugar onde viajantes perguntam sobre horários, portões e caminhos.",
+        "answer": "Balcão de informações"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Viagem e serviços",
+        "sub_category": "Terminais e deslocamentos",
+        "difficulty": "médio",
+        "question": "Ofereço compartimentos para deixar malas por algum tempo enquanto a pessoa circula sem peso.",
+        "answer": "Guarda-volumes"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Viagem e serviços",
+        "sub_category": "Terminais e deslocamentos",
+        "difficulty": "médio",
+        "question": "Protejo uma mala sem chave; só abro quando os algarismos são colocados na sequência correta.",
+        "answer": "Cadeado de combinação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Viagem e serviços",
+        "sub_category": "Terminais e deslocamentos",
+        "difficulty": "médio",
+        "question": "Mostro trajetos e conexões de ônibus ou metrô por cores e traçados, ajudando a escolher o caminho.",
+        "answer": "Mapa de linhas"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Viagem e serviços",
+        "sub_category": "Terminais e deslocamentos",
+        "difficulty": "médio",
+        "question": "Não preciso ser impresso: um código no celular pode ser lido na entrada para autorizar a viagem.",
+        "answer": "Bilhete eletrônico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Viagem e serviços",
+        "sub_category": "Terminais e deslocamentos",
+        "difficulty": "fácil",
+        "question": "Reúno plataformas, partidas e chegadas de ônibus que fazem viagens entre cidades.",
+        "answer": "Terminal rodoviário"
       }
     ],
     "word_master": [
