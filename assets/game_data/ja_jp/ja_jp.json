@@ -34007,7 +34007,776 @@
         "target_text": "そろばんの玉を指ではじいて計算する"
       }
     ],
-    "riddle": [],
+    "riddle": [
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "傘",
+        "question": "空から細かな粒が降ると、頭上に小さな丸屋根が開く。晴れたら細く畳まれて玄関で休むものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "虹",
+        "question": "雨が去り、日差しが戻った空に、七色の大きな橋が現れる。渡れないこの橋は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "雪だるま",
+        "question": "冷たい白い粒を二つの丸い塊にして積み、顔を付ける冬の庭の住人は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "霜",
+        "question": "冷え込んだ朝、草の先に細かな白い結晶を残し、日差しで消えるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "露",
+        "question": "夜明けの葉先に丸い透明な粒となり、日が高くなると姿を消すものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "つらら",
+        "question": "寒い朝、軒先から透明な細い柱が下へ伸び、暖かくなると短くなるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "雷",
+        "question": "雲の奥で突然まぶしく光り、少し遅れて空を大きく鳴らす現象は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "霧",
+        "question": "朝の道を白く包み、遠くの景色だけをそっと隠す、地面近くの細かな粒の集まりは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "夕焼け",
+        "question": "一日の終わり、低い日差しが西の雲を赤や橙に染める景色は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "月",
+        "question": "夜空に浮かび、丸くなったり細くなったりして見える、地球のそばの天体は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "星",
+        "question": "遠い夜空で小さくまたたき、街の明かりが少ないほどたくさん見えるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "流れ星",
+        "question": "夜空に一瞬だけ光の筋を引き、すぐ消える小さな天体の現象は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "影",
+        "question": "明るい場所で人が立つと足元に現れ、光の向きによって長さが変わる黒い形は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "鏡",
+        "question": "前に立つと自分の姿が左右逆のように映り、触れても向こうへは入れない板は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "風鈴",
+        "question": "軒下に吊るす小さな飾り。空気が動くたび、澄んだ音で夏を知らせるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "うちわ",
+        "question": "柄を持ってぱたぱた動かすと涼しくなり、畳まずにそのまま置く平たい道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "扇子",
+        "question": "閉じると細い棒、開くと半円。手元でそよぎを作る折り畳み道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "提灯",
+        "question": "紙の胴が上下に伸び縮みし、中の明かりで祭りの道を柔らかく照らすものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "行灯",
+        "question": "木の枠に薄い紙を張り、昔の室内で小さな明かりを包んでいた照明具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "襖",
+        "question": "部屋と部屋を仕切り、表面に絵や模様を描くこともある、横に滑らせる厚い建具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "畳",
+        "question": "和室の床に敷き詰められ、縁が付いた長方形の敷物。素足にさらりと触れるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "縁側",
+        "question": "和室と庭の間に伸び、腰掛けて外を眺められる細長い板張りの場所は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "暖簾",
+        "question": "店の入口に下がる布。真ん中に切れ目があり、くぐって中へ入るものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "こたつ",
+        "question": "冬に布団を掛けた低い台の下へ足を入れると、じんわり温かくなる家具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "湯たんぽ",
+        "question": "温かい液体を容器に入れ、寝具の中へ忍ばせて足元を温める道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "すだれ",
+        "question": "細い竹などを糸でつなぎ、窓辺に垂らして強い日差しを和らげるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "竹箒",
+        "question": "細い枝を束ねた長い掃除道具。庭の落ち葉を一か所へ集めるのが得意なのは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "ちりとり",
+        "question": "掃き寄せたごみを受け止め、取っ手を持って捨てに行く小さな受け皿は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "雑巾",
+        "question": "濡らして絞り、床や机を拭くたび汚れを引き受ける布は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "たわし",
+        "question": "細く硬い繊維をぎゅっと束ね、鍋のこびり付きをこすり落とす道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "洗濯ばさみ",
+        "question": "干した布が飛ばないよう、二つの口でぎゅっと挟んで留める小道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "物干し竿",
+        "question": "洗った衣類を並べて乾かすため、屋外に水平に渡す長い棒は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "アイロン",
+        "question": "熱くなった平らな底を布の上で滑らせ、しわを伸ばす家電は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "裁縫針",
+        "question": "細い金属の先で布を通り抜け、反対側の小さな穴に通した糸を連れていく道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "ものさし",
+        "question": "真っ直ぐな辺に細かな目盛りが並び、長さを測ったり線を引いたりする道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "分度器",
+        "question": "半円形の縁に数字が並び、二本の線が開く大きさを読み取る文房具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "消しゴム",
+        "question": "書き間違えた黒い跡をこすると薄くなり、自分の体は少しずつ小さくなるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "鉛筆",
+        "question": "木の細い体の真ん中に黒い芯が通り、削ると再び先がとがる文房具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "万年筆",
+        "question": "先端の金属部分から液体の色が流れ、軸の中に補充して長く書ける道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "筆箱",
+        "question": "学校へ行くとき、書く道具や小さな消し道具をまとめて運ぶ細長い入れ物は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "しおり",
+        "question": "読みかけの本に薄い一枚を挟むと、次に開く場所を迷わず見つけられるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "辞書",
+        "question": "知らない言葉に出会ったとき、見出しを順に探すと意味や読み方を教えてくれる本は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "地球儀",
+        "question": "机の上で回せる小さな丸い模型。大陸や海の位置を一目で確かめられるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "黒板",
+        "question": "教室の前に広がる濃い色の大きな面。白い棒で書いて布で消せるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "チョーク",
+        "question": "粉を残しながら濃い色の板に文字を書き、使うほど短くなる白い棒は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "虫眼鏡",
+        "question": "柄の先の丸い透明な板をのぞくと、小さな文字や模様が大きく見える道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "双眼鏡",
+        "question": "二つの筒を両目に当て、遠くの鳥や山の姿を近くに引き寄せる道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "顕微鏡",
+        "question": "薄い標本を台に載せ、いくつものレンズを通して極小の構造を観察する装置は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "温度計",
+        "question": "細い目盛りや数字の表示で、部屋や外気の暑さ寒さを知らせる測定器は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "はかり",
+        "question": "上に物を載せると、目盛りや数字で重さを教えてくれる道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "メジャー",
+        "question": "柔らかい帯に目盛りが並び、曲がったところにも沿わせて長さを測れる道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "かんな",
+        "question": "木の表面を押して滑らせると、薄く丸まった削りくずが次々出る大工道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "やすり",
+        "question": "ざらざらした面を材料に何度も当て、角や表面を少しずつ滑らかにする工具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "ドライバー",
+        "question": "柄を回すと先端がねじの溝を捉え、部品を締めたり緩めたりできる工具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "ペンチ",
+        "question": "二本の柄を握ると先端の口が閉じ、細い金属をつかんだり曲げたりする工具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "じょうろ",
+        "question": "取っ手と長い注ぎ口があり、先端の小穴から柔らかな雨を草花に降らせる容器は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "霧吹き",
+        "question": "引き金を指で動かすと、液体を細かな粒にして葉や布へ広く散らす道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "植木鉢",
+        "question": "底に小さな穴が開き、土を入れて草花を育てる丸い器は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "苗床",
+        "question": "小さな芽が十分に育つまで、温度や湿り気を整えて守る専用の育成場所は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "支柱",
+        "question": "伸びた茎が倒れないよう、そばに立てて紐で結び付ける細長い棒は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "風車",
+        "question": "そよぎを受けると羽根がくるくる回り、その動きを力に変える装置は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "水車",
+        "question": "流れる川の力を受けて大きな輪が回り、昔は粉をひく動力にもなった仕組みは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "竹とんぼ",
+        "question": "細い軸を両手でこすり合わせると、二枚の羽根が回って空へ飛び上がる玩具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "凧",
+        "question": "糸を握って走ると、広い紙や布の面が空気を受けて高く舞い上がる遊び道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "独楽",
+        "question": "軸を中心に勢いよく回り、傾きながらも倒れずに踊る昔ながらの玩具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "お手玉",
+        "question": "小さな布袋をいくつか宙へ投げ、落とさないよう交互に受け取る遊びの道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "折り鶴",
+        "question": "一枚の正方形を何度も畳み、首と羽を作って鳥の形に仕上げた飾りは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "紙風船",
+        "question": "薄い素材の丸い袋。息で膨らませ、手のひらで軽く打ち上げて遊ぶものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "しゃぼん玉",
+        "question": "輪に薄い液を付けて息を吹くと、七色に光る透明な球が空中を漂うものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "万華鏡",
+        "question": "筒をのぞいて回すたび、内側の小さな色片が左右対称の模様に変わる玩具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "オルゴール",
+        "question": "ふたを開けたりぜんまいを回したりすると、金属の歯が弾かれて小さな旋律が流れる箱は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "メトロノーム",
+        "question": "振り子や電子音で一定の間隔を刻み、演奏の速さをそろえる道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "鈴",
+        "question": "小さな金属の器の中で粒が揺れ、振るとちりんと音を鳴らすものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "太鼓",
+        "question": "張った面を手やばちで打つと、お腹に響くような低い音が生まれる楽器は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "すり鉢",
+        "question": "内側に細い溝が並び、棒で材料を押し回して細かくする器は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "すりこぎ",
+        "question": "溝のある器の中で材料を押しつぶすため、手で握って回す木の棒は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "おろし金",
+        "question": "表面の細かな突起に野菜を当てて動かすと、細かい粒状になる台所道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "ざる",
+        "question": "小さな穴がたくさん開いた器。ゆでた麺を入れると液体だけが下へ抜けるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "せいろ",
+        "question": "重ねた木や竹の容器に食材を並べ、下から上がる熱い蒸気で火を通す調理器具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "しゃもじ",
+        "question": "平たく幅のある先で炊き上がった米をほぐし、茶碗へよそう道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "菜箸",
+        "question": "料理中に使う長い二本の棒。熱い鍋の中の具をつまんで動かせるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "おたま",
+        "question": "長い柄の先に丸いくぼみがあり、汁物をすくって器へ移す道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "急須",
+        "question": "茶葉と湯を入れて少し待ち、横に伸びた持ち手を握って注ぐ器は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "茶こし",
+        "question": "細かな網を通して飲み物を注ぎ、葉のかけらだけを受け止める道具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "土鍋",
+        "question": "厚い焼き物の器にふたを載せ、卓上で具材をぐつぐつ煮込む調理器具は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "鉄瓶",
+        "question": "鋳物でできた重い湯沸かし道具。上に弓形の持ち手があり、注ぎ口から湯を出すものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "弁当箱",
+        "question": "ご飯とおかずを仕切って詰め、ふたを閉めて外へ持ち運ぶ容器は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "風呂敷",
+        "question": "四角い一枚布で荷物を包み、対角の端を結んで持ち手にできるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "手ぬぐい",
+        "question": "細長い綿の布で、端を縫わずに仕上げることも多く、汗を拭いたり物を包んだりするものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "箸置き",
+        "question": "食事の途中、二本の細い食具の先が卓上に触れないよう支える小さな台は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "醤油差し",
+        "question": "食卓で使う濃い色の調味液を少しずつ注げる、細い口の付いた小容器は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "難しい",
+        "answer": "漬物石",
+        "question": "野菜に塩をなじませる容器の上に載せ、重みで水分を押し出すための塊は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "梅干し",
+        "question": "赤紫蘇とともに漬けることもある、強い酸味が特徴の丸い保存食は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "鰹節",
+        "question": "魚を加熱して乾燥・熟成させ、薄く削って香りとうまみを加える保存食は？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "普通",
+        "answer": "ところてん",
+        "question": "海藻を煮て固めた透明な塊を、専用の押し器から細長く突き出して食べるものは？"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "日本語",
+        "locale": "ja-JP",
+        "difficulty": "簡単",
+        "answer": "かき氷",
+        "question": "冷たい大きな塊を細かく削り、山のように盛って甘い蜜をかける夏のおやつは？"
+      }
+    ],
     "word_master": [
       {
         "game_type": "kelime_ustasi",
