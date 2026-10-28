@@ -37152,6 +37152,822 @@
           "difficulty": "سهل",
           "question": "أقف عند تقاطع الممرات وعليّ أسهم وأسماء تساعد الزائر على اختيار طريقه. ما أنا؟",
           "answer": "لوحة الاتجاهات"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أضغط أزراراً تحمل رموز الجمع والطرح، فتظهر النتيجة على شاشة صغيرة. من أكون؟",
+          "answer": "آلة حاسبة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "بضغطة من أعلى يبرز سن من الغرافيت، ولا يحتاج جسمي إلى بري الخشب. ما الأداة؟",
+          "answer": "قلم رصاص آلي"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أوضع بين صفحتين، فتظهر على السفلى نسخة من الكتابة التي تضغط على العليا. ما أنا؟",
+          "answer": "ورق الكربون"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أمرر رأسي فوق كتابة خاطئة، فأترك طبقة بيضاء يمكن الكتابة عليها فوراً. ما أنا؟",
+          "answer": "شريط التصحيح"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أقف على المكتب كوعاء مفتوح، وتستقر في داخلي أدوات الكتابة منتصبة. ما أنا؟",
+          "answer": "حامل الأقلام"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تمر الورقة بين غلافين شفافين ثم عبر أسطوانات ساخنة لتحميها طبقة محكمة. ما الجهاز؟",
+          "answer": "آلة التغليف الحراري"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "لا أكتب شيئاً، لكن وزني يمنع الصفحات الخفيفة من التطاير فوق المكتب. ما أنا؟",
+          "answer": "ثقالة الورق"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أترك لوناً على الصفحة من مادة صلبة ناعمة، بلا حبر أو ماء. ما أنا؟",
+          "answer": "قلم التلوين الشمعي"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أترك أثراً أبيض على سطح داكن في الفصل، وتمحوني قطعة قماش رطبة. ما أنا؟",
+          "answer": "الطباشير"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "ألين بين الأصابع مثل العجين وأرفع آثار الغرافيت من الرسوم الدقيقة دون فتات كثير. ما أنا؟",
+          "answer": "ممحاة العجن"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "لي ضلعان يلتقيان بزاوية قائمة، وأساعد الرسام على إنشاء خطوط متعامدة. ما أنا؟",
+          "answer": "مسطرة مثلثية"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تظهر أشكال الأبجدية في فتحاتي، ويمر القلم داخلها لتخرج الكتابة متناسقة. ما أنا؟",
+          "answer": "قالب الحروف"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "ألتصق بسلعة على الرف وأحمل رقماً يخبر المشتري بقيمتها. ما أنا؟",
+          "answer": "ملصق السعر"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تحمل كل واحدة مني عنواناً وبيانات مختصرة، وترتبني الأدراج ليسهل العثور على المعلومات. ما أنا؟",
+          "answer": "بطاقة الفهرسة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تفتح دوائري المعدنية وتغلق لتثبيت أوراق مثقوبة يمكن تبديل ترتيبها. ما أنا؟",
+          "answer": "مجلد الحلقات"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "يمنح رأسي المشطوف الحروف سماكة تتغير بتغير اتجاه اليد. ما أنا؟",
+          "answer": "قلم الخط"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أرسم بخامات جافة ناعمة تترك مسحوقاً ملوناً يمكن دمجه بالأصابع. ما أنا؟",
+          "answer": "ألوان الباستيل"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أحمل بقع الصبغات منفصلة، ويجمعها الرسام على سطحي للحصول على درجة جديدة. ما أنا؟",
+          "answer": "لوحة مزج الألوان"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أشد النسيج بين دائرتين متداخلتين كي يبقى مشدوداً أثناء صنع الزخارف بالخيط. ما أنا؟",
+          "answer": "طوق التطريز"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "ينحني رأسي كخطاف صغير يلتقط الخيط ويصنع منه حلقات متتابعة. ما أنا؟",
+          "answer": "سنارة الكروشيه"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أحمل حلقات الصوف على ساق طويلة، وأعمل غالباً مع أخت تشبهني لتكوين قطعة دافئة. ما أنا؟",
+          "answer": "إبرة الحياكة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أصل قطع القماش بغرز متتابعة بينما يتحرك رأسي صعوداً وهبوطاً. ما أنا؟",
+          "answer": "ماكينة الخياطة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أجمع طبقتين من القماش مؤقتاً قبل أن تصل بينهما غرز دائمة. ما أنا؟",
+          "answer": "دبابيس التثبيت"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أتنقل بين الخيوط المشدودة لأحمل خيطاً عرضياً من جانب إلى آخر. ما أنا؟",
+          "answer": "مكوك النسيج"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تتشابك أليافي المضغوطة بلا خيوط منسوجة واضحة، وتقص مني أشكال الزينة بسهولة. ما أنا؟",
+          "answer": "قماش اللباد"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أجمع طرفي قطعة قماش، ويستقر رأسي المدبب في غطاء صغير عند إغلاقها. ما أنا؟",
+          "answer": "إبرة الأمان"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "يلتصق وجهي الخشن بوجه ناعم عند الضغط، وينفصلان بصوت خفيف عند السحب. ما أنا؟",
+          "answer": "شريط الخطاف والحلقة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أترك علامات مؤقتة على النسيج لتحديد مواضع العمل ثم تزول بالماء. ما أنا؟",
+          "answer": "قلم تعليم القماش"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أضغط فصاً صغيراً داخل ثقوب دقيقة فيخرج على هيئة قطع ناعمة جاهزة للطعام. ما أنا؟",
+          "answer": "مكبس الثوم"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أدير عجلة معدنية حادة فوق قرص مخبوز لأقسمه إلى مثلثات متساوية. ما أنا؟",
+          "answer": "قطاعة البيتزا"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أغرف حلوى مجمدة وأخرج منها كرة مستديرة بضغطة من المقبض. ما أنا؟",
+          "answer": "ملعقة الآيس كريم"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أدير رأساً صغيراً بسرعة داخل كوب ساخن حتى تتكون رغوة ناعمة على السطح. ما أنا؟",
+          "answer": "مضرب الحليب"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أحمل عدة تجاويف دائرية صغيرة يدخلها الخليط قبل أن ينتفخ في الفرن. ما أنا؟",
+          "answer": "قالب المافن"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أحفظ العجين أثناء انتفاخه وأترك على سطحه خطوطاً دائرية من نسجي. ما أنا؟",
+          "answer": "سلة تخمير الخبز"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "تجتمع في داخلي مكونات الخبز، وتتسع جوانبي لحركة اليدين أثناء جمعها. ما أنا؟",
+          "answer": "وعاء العجن"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أسمح للطعام بالانزلاق فوق سطحي المطلي دون أن يتعلق به بسهولة. ما أنا؟",
+          "answer": "مقلاة غير لاصقة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أجلس فوق ماء ساخن، وتمر الأبخرة من ثقوبي لتطهو الخضار دون غمرها. ما أنا؟",
+          "answer": "سلة الطهي بالبخار"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أضغطها من أعلى ثمرة مستديرة، فتفصل اللب إلى شرائح وتترك القلب في الوسط. ما أنا؟",
+          "answer": "قطاعة التفاح"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أدفع قضيباً رفيعاً عبر ثمرة صغيرة ليخرج الجزء الصلب من مركزها. ما أنا؟",
+          "answer": "أداة نزع النوى"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "على جانبي خطوط وأرقام، وأستخدم لصب مقدار مضبوط من السوائل في الوصفات. ما أنا؟",
+          "answer": "إبريق مدرج"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أمتلئ بكريمة ناعمة، ويخرج محتواي من رأس مزخرف لرسم أشكال فوق الحلوى. ما أنا؟",
+          "answer": "كيس تزيين الكعك"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أحافظ على دفء ثابت لأوعية الحليب ساعات حتى يتحول قوامه بفعل البكتيريا النافعة. ما أنا؟",
+          "answer": "صانعة الزبادي"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أرفع حرارة حبوب الذرة حتى تنتفخ وتخرج قطعاً بيضاء خفيفة من فوهتي. ما أنا؟",
+          "answer": "آلة صنع الفشار"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أطبق سطحين ساخنين على شريحتين محشوتين، فتظهر خطوط محمصة على الخبز. ما أنا؟",
+          "answer": "مكبس الساندويتش"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أحول حبوباً عطرية جافة إلى مسحوق ناعم بدوران شفرات داخل وعاء صغير. ما أنا؟",
+          "answer": "مطحنة التوابل"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أخزن حرارة الفرن في جسمي السميك ثم أنقلها إلى قاعدة العجين ليصبح مقرمشاً. ما أنا؟",
+          "answer": "حجر الخبز"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أرتب الصحون عمودياً بعد تنظيفها حتى يجف الماء عنها في المطبخ. ما أنا؟",
+          "answer": "حامل الأطباق"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "تمنع حواجز صغيرة اختلاط أنواع الطعام الموضوعة على سطحي. ما أنا؟",
+          "answer": "صحن تقديم مقسم"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أمنع قطرات الزيت المتطايرة، لكن ثقوبي الدقيقة تسمح للبخار بالعبور. ما أنا؟",
+          "answer": "غطاء شبكي للمقلاة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تلتف حول رأسي أخاديد دائرية تحمل سائلاً لزجاً وتجعله ينساب ببطء. ما أنا؟",
+          "answer": "ملعقة العسل الخشبية"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أضغط قطعاً مسلوقة عبر ثقوب صغيرة فتخرج خيوطاً لينة تصلح للهرس. ما أنا؟",
+          "answer": "مكبس البطاطس"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تمر عجينة رقيقة بين بكراتي، ثم تخرج على هيئة شرائط طويلة منتظمة. ما أنا؟",
+          "answer": "صانعة المعكرونة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تتحرك أسلاك رفيعة معاً فوق حبة مسلوقة لتخرج منها دوائر متساوية السمك. ما أنا؟",
+          "answer": "قطاعة شرائح البيض"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أدخل شريحتين من الأعلى ثم تقفزان بعد أن يصبح سطحهما ذهبياً. ما أنا؟",
+          "answer": "آلة تحميص الخبز"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أبطن صينية الفرن فلا يلتصق بي العجين بسهولة، ويمكن التخلص مني بعد الاستخدام. ما أنا؟",
+          "answer": "ورق الزبدة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أسحب ما في الغرفة عبر مرشحات تحجز الغبار الدقيق ثم أعيده أنظف. ما أنا؟",
+          "answer": "منقي الهواء"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أجمع الماء في خزان رغم أنني لا أتصل بصنبور؛ أستخرجه من جو الغرفة. ما أنا؟",
+          "answer": "جهاز إزالة الرطوبة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "إذا بللت قطرات أرضية قرب أنبوب أرسل إنذاراً قبل أن يتسع البلل. ما أنا؟",
+          "answer": "كاشف تسرب الماء"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أراقب الجو قرب الموقد وأطلق تنبيهاً عند وجود تركيز غير معتاد من مادة متطايرة. ما أنا؟",
+          "answer": "حساس تسرب الغاز"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أضغط رأسي فتخرج جرعة صغيرة من سائل تنظيف اليدين دون فتح العبوة. ما أنا؟",
+          "answer": "موزع الصابون"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أثبت على جدار الحمام لتعلق عليّ قطع القماش وتجف بعد الاستعمال. ما أنا؟",
+          "answer": "حامل المناشف"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أجمع الملابس المستعملة في غرفة النوم إلى أن يحين موعد تنظيفها. ما أنا؟",
+          "answer": "سلة الغسيل"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أسد الفتحات الكهربائية غير المستخدمة بقطعة صغيرة يصعب على الصغار نزعها. ما أنا؟",
+          "answer": "غطاء المقابس"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أجعل المصباح يعمل وينطفئ في ساعات محددة دون أن يلمس أحد المفتاح. ما أنا؟",
+          "answer": "مؤقت الإضاءة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أختبئ تحت بساط الغرفة، وأزيد الاحتكاك بينه وبين الأرضية حتى لا يتحرك. ما أنا؟",
+          "answer": "مانع انزلاق السجاد"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أمتد على الحافة السفلية لأمنع دخول الغبار والتيارات الباردة من الفراغ الضيق. ما أنا؟",
+          "answer": "حاجز أسفل الباب"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أسمح بمرور النسيم من فتحات صغيرة وأمنع الحشرات من الدخول إلى الغرفة. ما أنا؟",
+          "answer": "شبك النوافذ"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أثبت خلف المدخل كي لا يصطدم المقبض بالجدار عند فتحه بقوة. ما أنا؟",
+          "answer": "مانع اصطدام الباب"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أقسم مساحة التخزين الداخلية إلى خانات صغيرة تحفظ الأشياء مرتبة. ما أنا؟",
+          "answer": "فاصل الأدراج"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أجمع الوصلات المتشابكة خلف المكتب في مسارات واضحة بعيداً عن الفوضى. ما أنا؟",
+          "answer": "منظم الأسلاك"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أرفع الجهاز بزاوية مناسبة لمشاهدة الشاشة دون الإمساك به باليد. ما أنا؟",
+          "answer": "حامل الهاتف"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أغير شدة سطوع المصباح تدريجياً بدلاً من الاكتفاء بتشغيله أو إطفائه. ما أنا؟",
+          "answer": "مفتاح تعتيم الإضاءة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أحفظ أدوات تنظيف الفم واقفة ومتباعدة بجوار المغسلة. ما أنا؟",
+          "answer": "حامل فرش الأسنان"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أستقبل الأحذية عند العتبة وتعلق بأليافي الأتربة قبل دخول المنزل. ما أنا؟",
+          "answer": "سجادة الباب"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أقف فوق أرضية مستوية ويظهر رقمي عندما يقف شخص على سطحي. ما أنا؟",
+          "answer": "ميزان الحمام"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تتلامس أنابيبي المعلقة عندما يهب النسيم، فتخرج رنيناً خفيفاً في الشرفة. ما أنا؟",
+          "answer": "جرس الرياح"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أعلق في الحديقة وأحمل بذوراً تلتقطها الزائرات ذات المناقير الصغيرة. ما أنا؟",
+          "answer": "مغذي الطيور"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أحتفظ بماء ضحل في الفناء لتشرب منه الكائنات المجنحة وتغتسل. ما أنا؟",
+          "answer": "حوض سقي الطيور"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أغرس مسباري في الأرض الزراعية لأعرف هل الوسط حمضي أم قلوي. ما أنا؟",
+          "answer": "مقياس حموضة التربة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "تتحول داخلي بقايا النباتات وقشور الخضار مع الوقت إلى مادة غنية للتربة. ما أنا؟",
+          "answer": "صندوق السماد العضوي"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أضم خلايا صغيرة مملوءة بوسط رطب حتى تنبت فيها النباتات قبل نقلها إلى الحديقة. ما أنا؟",
+          "answer": "حاضنة البذور"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أدفن عمودياً قرب الأشجار لأوجه نمو الأجزاء الممتدة تحت الأرض بعيداً عن الممرات. ما أنا؟",
+          "answer": "حاجز الجذور"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أفتح ثلاث قوائم ثابتة لأمنع اهتزاز جهاز التصوير في اللقطات الطويلة. ما أنا؟",
+          "answer": "حامل ثلاثي للكاميرا"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أركب أمام عدسة التصوير لأخفف اللمعان المنعكس عن الماء والزجاج. ما أنا؟",
+          "answer": "مرشح الاستقطاب"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أرتفع مع النسيم ويبقى خيطي بيد طفل يقف على الأرض. ما أنا؟",
+          "answer": "طائرة ورقية"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أدور تحت القدمين وفوق الرأس في تمرين متكرر يحتاج إلى توقيت دقيق. ما أنا؟",
+          "answer": "حبل القفز"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أفرد على الأرض لتصبح التمارين الهادئة أكثر راحة وثباتاً. ما أنا؟",
+          "answer": "حصيرة اليوغا"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أكبر من كرة اللعب المعتادة، ويجلس الناس فوقي أو يستندون إليّ في التمارين. ما أنا؟",
+          "answer": "كرة التوازن"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أبدأ عد الثواني بضغطة وأتوقف بأخرى لقياس زمن سباق قصير. ما أنا؟",
+          "answer": "ساعة الإيقاف"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أزيد رقمي كلما أكمل المتدرب دورة حول المضمار دون أن يضطر إلى التذكر. ما أنا؟",
+          "answer": "عداد اللفات"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أمتد منخفضة في منتصف سطح اللعب لتفصل منطقتي المتنافسين. ما أنا؟",
+          "answer": "شبكة تنس الطاولة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "لي وجه مطاطي ومقبض قصير، وأعيد الكرة الخفيفة فوق حاجز منخفض. ما أنا؟",
+          "answer": "مضرب تنس الطاولة"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أقوم فوق أعمدة وأوتاد، وأصنع مأوى مؤقتاً من القماش في الرحلات البرية. ما أنا؟",
+          "answer": "خيمة التخييم"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "ألتف حول الجسم في الرحلات وأغلق بسحاب لأحفظ الدفء أثناء الراحة. ما أنا؟",
+          "answer": "كيس النوم"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أثبت بشريط على الجبهة لأضيء الطريق وأترك اليدين حرتين. ما أنا؟",
+          "answer": "مصباح الرأس"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أحافظ على برودة الأطعمة في النزهة بفضل جدران عازلة وعبوات مثلجة. ما أنا؟",
+          "answer": "صندوق التبريد"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أصبح مريحة بعد نفخي ثم أفرغ لأدخل حقيبة صغيرة عند العودة. ما أنا؟",
+          "answer": "وسادة التخييم الهوائية"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أقف فوق قاعدة غير ثابتة، وعلى من يستخدمه أن يضبط وضع جسمه كي لا يميل. ما أنا؟",
+          "answer": "لوح التوازن"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أعرض قيمة بوحدة الديسيبل لمعرفة مقدار الضجيج في المكان. ما أنا؟",
+          "answer": "مقياس شدة الصوت"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أعرض قراءات الجسيمات الدقيقة والغازات في الغرفة على شاشة رقمية. ما أنا؟",
+          "answer": "جهاز قياس جودة الهواء"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "سهل",
+          "question": "أحمل ضمادات وشاشاً وقفازات لتقديم مساعدة بسيطة عند الإصابات الطفيفة. ما أنا؟",
+          "answer": "حقيبة الإسعافات الأولية"
+        },
+        {
+          "game_type": "bilmece",
+          "language": "العربية",
+          "locale": "ar-SA",
+          "difficulty": "متوسط",
+          "question": "أضع أمام جهاز صغير عدسة كبيرة تجعل الصورة المرئية تبدو أوسع دون كهرباء. ما أنا؟",
+          "answer": "مكبر شاشة الهاتف"
         }
       ],
       "word_master": [
