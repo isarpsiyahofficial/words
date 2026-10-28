@@ -46796,6 +46796,806 @@
         "difficulty": "médio",
         "question": "Sou periquito brasileiro de face alaranjada e asas verdes, conhecido por formar bandos barulhentos.",
         "answer": "Jandaia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Relevo",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Uma superfície extensa e elevada tem topo quase plano e bordas que descem em encostas íngremes. Que relevo é esse?",
+        "answer": "Chapadão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Relevo",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Que nome recebe uma encosta muito íngreme que separa terrenos de altitudes diferentes?",
+        "answer": "Escarpa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Relevo",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Um terreno fica abaixo de suas áreas vizinhas, mas não necessariamente abaixo do oceano. Que forma é essa?",
+        "answer": "Depressão relativa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Relevo",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Que superfície de relevo extensa e pouco inclinada pode resultar do recuo prolongado de encostas em regiões secas?",
+        "answer": "Pediplano"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Relevo",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "A água da chuva abre uma erosão profunda e larga no solo, maior que um sulco comum. Que feição se forma?",
+        "answer": "Boçoroca"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Relevo",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Um riacho sai de uma encosta íngreme e deposita sedimentos em formato de leque. Que depósito forma?",
+        "answer": "Cone de dejeção"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Relevo",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Uma elevação apresenta uma encosta suave acompanhando camadas inclinadas e outra bem mais abrupta. Que relevo é esse?",
+        "answer": "Cuesta"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Relevo",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Sou uma antiga colina de areia formada pelo vento e hoje estabilizada na paisagem. Que registro sou?",
+        "answer": "Paleoduna"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Meteorologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "O ar úmido sobe uma serra, esfria e precipita no lado voltado ao vento. Que tipo de chuva ocorre?",
+        "answer": "Chuva orográfica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Meteorologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Sou a diferença entre a maior e a menor temperatura registrada em um mesmo dia. Que medida sou?",
+        "answer": "Amplitude térmica diária"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Meteorologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Registro os extremos de temperatura de um período, mesmo quando ninguém está observando. Que aparelho sou?",
+        "answer": "Termômetro de máxima e mínima"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Perto da margem de um rio, a água fica mais tranquila que no fluxo principal. Que trecho é esse?",
+        "answer": "Remanso"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "A água subterrânea aparece naturalmente na superfície em um ponto do terreno. Que lugar é esse?",
+        "answer": "Olho-d'água"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Correntes acumulam sedimentos em uma faixa rasa que pode dificultar a navegação perto da foz. O que é?",
+        "answer": "Barra arenosa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Por causa de condições atmosféricas, ondas muito acima do habitual alcançam a praia. Que fenômeno é esse?",
+        "answer": "Ressaca do mar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Depois da plataforma rasa, o fundo do oceano desce acentuadamente para grandes profundidades. Que zona é essa?",
+        "answer": "Talude continental"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Sou uma passagem por onde a água entra e sai de uma região costeira com a subida e a descida do nível do mar. O que sou?",
+        "answer": "Canal de maré"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Águas",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Uma faixa de sedimentos liga uma ilha à costa ou a outra ilha. Que formação é essa?",
+        "answer": "Tômbolo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Em certas plantas de clima seco, um caule verde e achatado realiza fotossíntese no lugar das folhas. Que estrutura é essa?",
+        "answer": "Cladódio"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Uma raiz cresce para cima do solo encharcado para facilitar a entrada de oxigênio. Que estrutura é essa?",
+        "answer": "Pneumatóforo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Sou a estrutura na ponta de um caule de onde parte grande parte do crescimento em comprimento. O que sou?",
+        "answer": "Gema apical"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Uma etapa controlada de frio e umidade ajuda certas estruturas de propagação a sair da dormência. Que técnica é essa?",
+        "answer": "Estratificação de sementes"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Em que zona de transição se encontram comunidades de dois ambientes naturais diferentes?",
+        "answer": "Ecótono"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Sou uma planta que costuma colonizar cedo uma área recém-exposta, preparando o ambiente para outras. Como sou classificada?",
+        "answer": "Espécie pioneira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Uma espécie obtém vantagem de outra sem beneficiá-la nem prejudicá-la. Qual relação ecológica é essa?",
+        "answer": "Comensalismo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Uma planta usa outra apenas como apoio para crescer, sem retirar dela alimento. Que relação é essa?",
+        "answer": "Epifitismo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Minha presença ou ausência ajuda a avaliar a qualidade de um ambiente. Como sou chamado?",
+        "answer": "Bioindicador"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Sou uma ligação de vegetação entre áreas naturais separadas que facilita o deslocamento de animais. O que sou?",
+        "answer": "Corredor ecológico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Comunidades de seres vivos se substituem gradualmente em uma área ao longo do tempo. Que processo é esse?",
+        "answer": "Sucessão ecológica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Descrevo o papel de uma espécie, seus recursos e suas interações no ambiente. Que conceito sou?",
+        "answer": "Nicho ecológico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Um ambiente perturbado consegue recuperar parte de sua estrutura e funcionamento. Que capacidade é essa?",
+        "answer": "Resiliência ecológica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Duas espécies vivem em associação íntima e prolongada. Qual é o termo geral para essa convivência?",
+        "answer": "Simbiose"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Minha conservação exige proteger uma área grande e acaba beneficiando muitas outras espécies. Como sou chamada?",
+        "answer": "Espécie guarda-chuva"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Passo alimentos rapidamente por água fervente e depois por água fria para interromper o cozimento. Que técnica sou?",
+        "answer": "Branqueamento de vegetais"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Minha ponta flexível raspa tigelas e alcança os cantos sem riscar superfícies. Que utensílio sou?",
+        "answer": "Espátula de silicone"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Sou um coador cônico de malha fina usado para deixar caldos e molhos lisos. O que sou?",
+        "answer": "Peneira chinesa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Dois braços ajustáveis permitem copiar um ângulo e transferi-lo para outra peça de madeira. Que ferramenta é essa?",
+        "answer": "Suta"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Recebo uma batida para deixar uma marca pequena no metal antes da perfuração. Que ferramenta sou?",
+        "answer": "Punção de centro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Tenho uma face plana e outra arredondada, ambas abrasivas, para ajustar bordas de peças. Que ferramenta sou?",
+        "answer": "Lima meia-cana"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Sou uma placa plana com cabo usada para espalhar e alisar argamassa em paredes. O que sou?",
+        "answer": "Desempenadeira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Sou uma barra longa e reta usada para verificar e regularizar o revestimento de uma parede. O que sou?",
+        "answer": "Régua de pedreiro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Meu formato cônico tem vários diâmetros sucessivos para abrir furos de tamanhos diferentes em chapas. O que sou?",
+        "answer": "Broca escalonada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Minhas mandíbulas dentadas ajustáveis seguram e giram tubos metálicos. Que ferramenta sou?",
+        "answer": "Chave de grifo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Sou uma peça estreita e reta fixada provisoriamente para orientar o nivelamento de uma superfície. O que sou?",
+        "answer": "Sarrafo de guia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ofícios",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Giro numa máquina e removo material pelas arestas laterais e pela extremidade. Que ferramenta de usinagem sou?",
+        "answer": "Fresa de topo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Que sinal gráfico marca a supressão de uma letra em uma expressão como d'água?",
+        "answer": "Apóstrofo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "A ordem habitual dos termos de uma frase é invertida para produzir efeito expressivo. Que figura é essa?",
+        "answer": "Hipérbato"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Um termo é omitido da frase, mas pode ser recuperado pelo contexto. Que recurso é esse?",
+        "answer": "Elipse gramatical"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "A repetição de sons vocálicos próximos produz um efeito de ritmo na linguagem. Que recurso é esse?",
+        "answer": "Assonância"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Uma palavra substitui outra com a qual mantém relação de proximidade, como ler um autor em vez de sua obra. Que figura é essa?",
+        "answer": "Metonímia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Matemática",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Uma figura fechada tem ao menos um ângulo interno maior que 180 graus. Como é classificada?",
+        "answer": "Polígono côncavo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Matemática",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Depois de ordenar os dados, sou o valor central ou a média dos dois centrais. Que medida sou?",
+        "answer": "Mediana estatística"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Matemática",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Em uma reta representada por uma função do primeiro grau, indico quanto a altura varia a cada unidade horizontal. O que sou?",
+        "answer": "Coeficiente angular"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Matemática",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Cada termo de uma sequência é obtido multiplicando o anterior por uma razão constante. Que sequência é essa?",
+        "answer": "Progressão geométrica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Matemática",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Sou o número não negativo que, multiplicado por si mesmo, resulta em um quadrado perfeito. Que operação identifica esse valor?",
+        "answer": "Raiz quadrada exata"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Uso calor para marcar um papel especial, como ocorre em muitos comprovantes de compra. Que aparelho sou?",
+        "answer": "Impressora térmica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Meço a luz do ambiente e ajudo um celular a ajustar automaticamente o brilho da tela. Que componente sou?",
+        "answer": "Sensor de luminosidade"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Sou um conector pequeno e reversível usado para energia e transferência de dados em aparelhos modernos. Que porta sou?",
+        "answer": "Porta USB-C"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Permito a troca de pequenas informações quando dois aparelhos compatíveis ficam muito próximos. Que recurso sou?",
+        "answer": "Leitor NFC"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Formo letras com partículas controladas eletricamente e mantenho a imagem gastando pouca energia. Que tecnologia sou?",
+        "answer": "Tela e-ink"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Transformo sinais elétricos contínuos em valores numéricos que um circuito pode processar. Que componente sou?",
+        "answer": "Conversor analógico-digital"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Transformo letras presentes numa imagem em texto digital editável. Que técnica sou?",
+        "answer": "Reconhecimento óptico de caracteres"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cidade",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Sou uma peça de proteção instalada em encontros do telhado com paredes para desviar água da chuva. O que sou?",
+        "answer": "Rufos"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artes",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Uma imagem é impressa uma única vez a partir de tinta sobre uma superfície lisa. Que técnica é essa?",
+        "answer": "Monotipia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artes",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Uma imagem é entalhada em placa de material macio, entintada e transferida ao papel. Que técnica é essa?",
+        "answer": "Linoleogravura"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artes",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Misturo pigmentos a uma emulsão feita com gema para criar uma tinta de secagem rápida. Que técnica sou?",
+        "answer": "Têmpera a ovo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artes",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Transições suaves de tons eliminam contornos rígidos e dão volume a um desenho. Que efeito é esse?",
+        "answer": "Esfumado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artes",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Aplico pigmento muito diluído em água para obter manchas translúcidas e gradações suaves. Que técnica sou?",
+        "answer": "Aguada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artes",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Peças de argila achatadas são cortadas e unidas para formar recipientes. Que técnica cerâmica é essa?",
+        "answer": "Modelagem por placas"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Astronomia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Entre Marte e Júpiter há uma região com muitos pequenos corpos rochosos orbitando o Sol. Qual é ela?",
+        "answer": "Cinturão de asteroides"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Astronomia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Ao atravessar uma nuvem de detritos espaciais, a Terra proporciona vários riscos luminosos no céu. Que evento é esse?",
+        "answer": "Chuva de meteoros"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Astronomia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Perto do horizonte, antes do amanhecer ou após o crepúsculo, surge um brilho difuso causado por poeira interplanetária. O que é?",
+        "answer": "Luz zodiacal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Astronomia",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Um astro passa à frente de outro e o esconde temporariamente da nossa visão. Que evento é esse?",
+        "answer": "Ocultação astronômica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Têxteis",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Um pequeno carretel fica sob a agulha e fornece a linha inferior durante a costura. O que sou?",
+        "answer": "Bobina de máquina"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Têxteis",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Tenho nervuras elásticas verticais e apareço com frequência em punhos e golas. Que tecido sou?",
+        "answer": "Malha canelada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Têxteis",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Uma sequência de laçadas se prende umas às outras formando uma linha de costura flexível. Que ponto é esse?",
+        "answer": "Ponto corrente"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Têxteis",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Minhas fibras foram desembaraçadas e alinhadas parcialmente antes de serem torcidas para tecer. Que fio sou?",
+        "answer": "Fio cardado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Têxteis",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Meu entrelaçamento cria pequenas linhas diagonais visíveis na superfície. Que tipo de tecido sou?",
+        "answer": "Tecido sarjado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Têxteis",
+        "sub_category": "Conceitos e características",
+        "difficulty": "difícil",
+        "question": "Removo substâncias aplicadas aos fios durante a tecelagem antes de tingir ou dar acabamento. Que processo sou?",
+        "answer": "Desengomagem têxtil"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Materiais",
+        "sub_category": "Conceitos e características",
+        "difficulty": "médio",
+        "question": "Um material pode ser puxado e transformado em fios sem se romper. Que propriedade é essa?",
+        "answer": "Ductilidade"
       }
     ],
     "word_master": [
