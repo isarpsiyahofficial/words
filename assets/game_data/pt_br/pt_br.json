@@ -49056,6 +49056,766 @@
         "difficulty": "médio",
         "question": "Sou um creme espesso de fubá cozido em água, servido quente como acompanhamento tradicional de Minas Gerais. Quem sou?",
         "answer": "Angu mineiro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Instalações hidráulicas",
+        "difficulty": "médio",
+        "question": "Debaixo da pia, meu tubo flexível dobra em pregas para ligar a saída da cuba ao esgoto e reter odores com uma curva. Que peça sou?",
+        "answer": "Sifão sanfonado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Segurança elétrica",
+        "difficulty": "difícil",
+        "question": "No quadro elétrico, desligo o circuito quando detecto diferença entre a corrente que vai e a que volta, ajudando a evitar choques. Qual dispositivo sou?",
+        "answer": "Disjuntor diferencial residual"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Drenagem",
+        "difficulty": "fácil",
+        "question": "Fico sobre a abertura do piso molhado; deixo a água descer e impeço que objetos maiores entrem na tubulação. Que peça sou?",
+        "answer": "Grelha de ralo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Portas",
+        "difficulty": "médio",
+        "question": "Sou a parte fixa do vão na qual a folha encosta ao fechar, definindo o limite do movimento. Que componente sou?",
+        "answer": "Batente de porta"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Acabamento elétrico",
+        "difficulty": "médio",
+        "question": "Sou a plaquinha visível que cobre a caixa elétrica na parede e deixa apenas os encaixes acessíveis. O que sou?",
+        "answer": "Espelho de tomada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Marcenaria",
+        "difficulty": "médio",
+        "question": "Faço o acabamento em torno do marco, cobrindo a junção entre a parede e a madeira. Como sou chamado?",
+        "answer": "Guarnição de porta"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Ferragens",
+        "difficulty": "médio",
+        "question": "Duas pequenas peças mantêm uma porta de armário encostada por atração, sem chave. Que acessório é esse?",
+        "answer": "Fecho magnético"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Instalações hidráulicas",
+        "difficulty": "médio",
+        "question": "Com uma só alavanca ajusto a vazão e misturo água fria e quente na pia. Que tipo de peça sou?",
+        "answer": "Torneira monocomando"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Fixação",
+        "difficulty": "fácil",
+        "question": "Entro primeiro no furo da alvenaria e me expando quando um parafuso é apertado, prendendo objetos. Quem sou?",
+        "answer": "Bucha de parede"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Vedação",
+        "difficulty": "médio",
+        "question": "Saio de uma lata, aumento de volume e endureço para preencher frestas ao redor de esquadrias. Que material sou?",
+        "answer": "Espuma expansiva"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Doces regionais",
+        "difficulty": "médio",
+        "question": "Na sobremesa pernambucana, reúno banana frita, queijo, açúcar e canela. Que doce tradicional sou?",
+        "answer": "Cartola"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Sabores amazônicos",
+        "difficulty": "médio",
+        "question": "Servido quente em cuia, misturo caldo amarelo de mandioca, goma, camarão e uma erva que causa leve formigamento na boca. Que prato amazônico sou?",
+        "answer": "Tacacá"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Tradições do Sul",
+        "difficulty": "médio",
+        "question": "Nas viagens antigas pelo Sul, era preparado numa panela com grãos e carne conservada em sal. Que prato de tradição gaúcha sou?",
+        "answer": "Arroz carreteiro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Cozinha paraense",
+        "difficulty": "difícil",
+        "question": "Na culinária paraense, minhas folhas de mandioca passam vários dias cozinhando antes de receber temperos e carnes. Qual prato sou?",
+        "answer": "Maniçoba"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Pratos de forno",
+        "difficulty": "fácil",
+        "question": "Uma camada cremosa de mandioca cobre um recheio salgado antes de tudo ir ao forno para gratinar. Que prato sou?",
+        "answer": "Escondidinho"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Cozinha sertaneja",
+        "difficulty": "difícil",
+        "question": "No sertão, sou preparada socando carne seca com farinha de mandioca em recipiente de madeira. Que preparo tradicional sou?",
+        "answer": "Paçoca de pilão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Culinária brasileira",
+        "sub_category": "Cozinha baiana",
+        "difficulty": "médio",
+        "question": "Na Bahia, sou um cozido espesso de quiabo com temperos, camarão seco e azeite de dendê. Que prato sou?",
+        "answer": "Caruru"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e modelagem",
+        "sub_category": "Dobras",
+        "difficulty": "médio",
+        "question": "No tecido, sou formada quando uma parte é dobrada e presa em linhas paralelas, criando volume ordenado. Que detalhe de modelagem sou?",
+        "answer": "Pregas"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e modelagem",
+        "sub_category": "Fechamentos",
+        "difficulty": "médio",
+        "question": "Fecho roupas com dentes escondidos na união do tecido, deixando quase só o puxador à vista. Que aviamento sou?",
+        "answer": "Zíper invisível"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e modelagem",
+        "sub_category": "Técnicas manuais",
+        "difficulty": "médio",
+        "question": "Na costura à mão, avanço e retorno com a agulha para formar uma linha firme, parecida com a feita por máquina. Que técnica sou?",
+        "answer": "Ponto atrás"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e modelagem",
+        "sub_category": "Técnicas manuais",
+        "difficulty": "fácil",
+        "question": "Com a agulha, alterno pequenas passagens por cima e por baixo do pano, deixando traços espaçados. Qual técnica simples sou?",
+        "answer": "Ponto corrido"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e modelagem",
+        "sub_category": "Acabamentos",
+        "difficulty": "difícil",
+        "question": "Para esconder bordas que poderiam desfiar, uno o tecido duas vezes, virando a primeira união para dentro. Que acabamento sou?",
+        "answer": "Costura francesa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e modelagem",
+        "sub_category": "Marcação",
+        "difficulty": "difícil",
+        "question": "Sou um pequeno corte de referência na margem do molde ou da peça, útil para alinhar partes durante a montagem. Que marca sou?",
+        "answer": "Pique de costura"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e modelagem",
+        "sub_category": "Materiais",
+        "difficulty": "médio",
+        "question": "Sou um fio usado em união provisória, retirado depois que a máquina faz a fixação definitiva. Que material sou?",
+        "answer": "Linha de alinhavar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura e modelagem",
+        "sub_category": "Acabamentos",
+        "difficulty": "fácil",
+        "question": "Minha sequência de agulhadas vai de um lado a outro, prendendo bordas de tecido que poderiam desfiar. Que tipo de pesponto sou?",
+        "answer": "Ponto zigue-zague"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e laboratório",
+        "sub_category": "Separação de misturas",
+        "difficulty": "médio",
+        "question": "Giro amostras rapidamente para separar componentes conforme a densidade, fazendo os mais pesados se concentrarem no fundo. Que processo sou?",
+        "answer": "Centrifugação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e laboratório",
+        "sub_category": "Separação de misturas",
+        "difficulty": "fácil",
+        "question": "Uma mistura atravessa um meio poroso: o líquido passa e as partículas maiores ficam retidas. Que operação é essa?",
+        "answer": "Filtração"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e laboratório",
+        "sub_category": "Separação de misturas",
+        "difficulty": "médio",
+        "question": "Aqueço uma mistura, recolho o vapor e o resfrio para separar substâncias conforme sua volatilidade. Qual técnica sou?",
+        "answer": "Destilação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e laboratório",
+        "sub_category": "Vidrarias",
+        "difficulty": "médio",
+        "question": "Sou um frasco de laboratório com base larga, corpo cônico e gargalo estreito, útil para agitar líquidos com menos respingos. Qual recipiente sou?",
+        "answer": "Erlenmeyer"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e laboratório",
+        "sub_category": "Medição de volumes",
+        "difficulty": "difícil",
+        "question": "Tenho um bulbo no corpo e uma marca de aferição; transfiro com precisão um único volume definido. Que instrumento sou?",
+        "answer": "Pipeta volumétrica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e laboratório",
+        "sub_category": "Vidrarias",
+        "difficulty": "fácil",
+        "question": "Sou um cilindro estreito de vidro, aberto em cima e arredondado embaixo, usado para pequenas amostras. Que recipiente sou?",
+        "answer": "Tubo de ensaio"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e laboratório",
+        "sub_category": "Análise de misturas",
+        "difficulty": "difícil",
+        "question": "Separo componentes de uma mistura porque eles percorrem um suporte em velocidades diferentes quando um fluido passa. Que método sou?",
+        "answer": "Cromatografia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e laboratório",
+        "sub_category": "Aquecimento controlado",
+        "difficulty": "médio",
+        "question": "Aqueço amostras indiretamente em recipiente com água de temperatura controlada, evitando contato direto com a fonte de calor. Que equipamento sou?",
+        "answer": "Banho-maria de laboratório"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Astronomia",
+        "sub_category": "Fases da Lua",
+        "difficulty": "fácil",
+        "question": "Depois de quase desaparecer no céu noturno, a porção iluminada do disco lunar aumenta a cada noite. Que etapa sou?",
+        "answer": "Fase crescente"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Astronomia",
+        "sub_category": "Fases da Lua",
+        "difficulty": "fácil",
+        "question": "Quando fico alinhada aproximadamente entre a Terra e o Sol, minha face voltada para nós recebe pouca luz e quase não sou vista. Que fase sou?",
+        "answer": "Lua nova"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Astronomia",
+        "sub_category": "Corpos celestes",
+        "difficulty": "médio",
+        "question": "Giro em torno do Sol e tenho forma quase esférica, mas não limpei a vizinhança de minha trajetória. Como sou classificado?",
+        "answer": "Planeta anão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Astronomia",
+        "sub_category": "Galáxias",
+        "difficulty": "fácil",
+        "question": "Sou a galáxia espiral onde se encontram o Sol e o Sistema Solar, vista no céu escuro como faixa esbranquiçada. Qual sou?",
+        "answer": "Via Láctea"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Astronomia",
+        "sub_category": "Movimentos celestes",
+        "difficulty": "médio",
+        "question": "Sou o caminho oval descrito por um corpo celeste ao redor de outro, com o astro central situado em um dos focos. Que trajetória sou?",
+        "answer": "Órbita elíptica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fotografia",
+        "sub_category": "Composição",
+        "difficulty": "fácil",
+        "question": "Ao compor uma foto, imagino duas linhas verticais e duas horizontais para posicionar o assunto perto dos cruzamentos. Qual princípio sou?",
+        "answer": "Regra dos terços"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fotografia",
+        "sub_category": "Efeitos de exposição",
+        "difficulty": "médio",
+        "question": "Quando o assunto se desloca durante uma exposição relativamente longa, ele aparece arrastado na imagem. Que efeito é esse?",
+        "answer": "Desfoque de movimento"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fotografia",
+        "sub_category": "Objetivas",
+        "difficulty": "médio",
+        "question": "Capto um campo de visão amplo mesmo em espaço apertado, fazendo objetos próximos parecerem mais destacados. Que tipo de objetiva sou?",
+        "answer": "Lente grande-angular"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fotografia",
+        "sub_category": "Medição de luz",
+        "difficulty": "difícil",
+        "question": "Para calcular a exposição, avalio a luminosidade numa pequena região da cena, em vez de usar o quadro inteiro. Qual modo de medição sou?",
+        "answer": "Fotometria pontual"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Fotografia",
+        "sub_category": "Iluminação",
+        "difficulty": "fácil",
+        "question": "Chego ao assunto espalhada por nuvens ou por uma superfície translúcida, criando sombras suaves. Que iluminação sou?",
+        "answer": "Luz difusa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia cotidiana",
+        "sub_category": "Conectividade",
+        "difficulty": "fácil",
+        "question": "Transformo o celular em ponto de acesso para outros aparelhos usarem sua conexão de internet. Como é chamado esse recurso?",
+        "answer": "Hotspot"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia cotidiana",
+        "sub_category": "Entrada de texto",
+        "difficulty": "fácil",
+        "question": "Apareço na tela quando é preciso digitar sem teclas físicas, reagindo ao toque ou ao clique. Que recurso sou?",
+        "answer": "Teclado virtual"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia cotidiana",
+        "sub_category": "Conexões",
+        "difficulty": "médio",
+        "question": "Sou a peça na ponta de muitos cabos que transmite dados e energia entre aparelhos compatíveis com um padrão universal. Que componente sou?",
+        "answer": "Conector USB"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia cotidiana",
+        "sub_category": "Privacidade digital",
+        "difficulty": "médio",
+        "question": "Abro uma sessão do navegador que não guarda no dispositivo o histórico local após fechar as janelas, embora não esconda a atividade da rede. Que modo sou?",
+        "answer": "Navegação privada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia cotidiana",
+        "sub_category": "Segurança de contas",
+        "difficulty": "médio",
+        "question": "Para entrar numa conta, peço uma prova adicional além da senha, como um código temporário gerado em outro dispositivo. Que proteção sou?",
+        "answer": "Autenticação de dois fatores"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Sistemas radiculares",
+        "difficulty": "médio",
+        "question": "Tenho um eixo subterrâneo principal mais grosso, do qual partem ramificações menores, comum em muitas dicotiledôneas. Que sistema sou?",
+        "answer": "Raiz pivotante"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Sistemas radiculares",
+        "difficulty": "médio",
+        "question": "Em vez de um eixo principal dominante, formo um conjunto de filamentos subterrâneos de espessura semelhante. Que sistema sou?",
+        "answer": "Raiz fasciculada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Morfologia foliar",
+        "difficulty": "médio",
+        "question": "Minha lâmina é dividida em vários folíolos presos ao mesmo eixo, embora pertença a uma única estrutura vegetal. Que tipo sou?",
+        "answer": "Folha composta"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Morfologia foliar",
+        "difficulty": "médio",
+        "question": "Percorro a lâmina vegetal do pecíolo à ponta e de mim saem ramificações menores que distribuem água e nutrientes. Que estrutura sou?",
+        "answer": "Nervura central"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Frutos e sementes",
+        "difficulty": "difícil",
+        "question": "Mesmo maduro, não me abro espontaneamente para liberar as sementes; elas permanecem protegidas no meu interior. Que classificação sou?",
+        "answer": "Fruto indeiscente"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Matemática",
+        "sub_category": "Geometria espacial",
+        "difficulty": "médio",
+        "question": "Num prisma, somo somente as superfícies dos lados, sem incluir as duas bases. Que medida geométrica obtenho?",
+        "answer": "Área lateral"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Matemática",
+        "sub_category": "Números racionais",
+        "difficulty": "médio",
+        "question": "Meu numerador e denominador não têm divisor comum maior que um; por isso já estou na forma mais simples. Que expressão sou?",
+        "answer": "Fração irredutível"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Geografia física",
+        "sub_category": "Ambientes costeiros",
+        "difficulty": "médio",
+        "question": "Sou um corpo de água costeiro separado parcialmente do mar por uma faixa arenosa, mas ainda com comunicação possível com ele. Que ambiente sou?",
+        "answer": "Laguna"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Geografia física",
+        "sub_category": "Relevo brasileiro",
+        "difficulty": "difícil",
+        "question": "Sou uma superfície relativamente plana e elevada próxima ao litoral brasileiro, muitas vezes terminando em encostas íngremes. Que forma de relevo sou?",
+        "answer": "Tabuleiro costeiro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Instrumentos de medição",
+        "sub_category": "Medição dimensional",
+        "difficulty": "médio",
+        "question": "Meço diâmetros externos, internos e profundidades com mandíbulas deslizantes e mostro o resultado numa pequena tela. Qual instrumento sou?",
+        "answer": "Paquímetro digital"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Instrumentos de medição",
+        "sub_category": "Veículos",
+        "difficulty": "fácil",
+        "question": "No painel do veículo, acumulo a distância total percorrida desde o início de uso, em quilômetros. Que marcador sou?",
+        "answer": "Hodômetro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Instrumentos de medição",
+        "sub_category": "Pressão atmosférica",
+        "difficulty": "difícil",
+        "question": "Indico a pressão do ar sem usar líquido, por meio da deformação de uma cápsula metálica fechada. Que aparelho sou?",
+        "answer": "Barômetro aneroide"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Instrumentos de medição",
+        "sub_category": "Chuva",
+        "difficulty": "médio",
+        "question": "Registro a quantidade de chuva sem precisar de leitura manual diária, enviando medições de um coletor a um sistema. Que instrumento sou?",
+        "answer": "Pluviômetro automático"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Instrumentos de medição",
+        "sub_category": "Vento",
+        "difficulty": "difícil",
+        "question": "Três ou quatro pequenas peças côncavas giram quando o vento sopra, permitindo medir sua velocidade. Que aparelho sou?",
+        "answer": "Anemômetro de conchas"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artes gráficas",
+        "sub_category": "Preparação de arquivos",
+        "difficulty": "médio",
+        "question": "Para evitar filetes brancos depois do corte, estendo a arte um pouco além do tamanho final da página. Que margem extra sou?",
+        "answer": "Sangria de impressão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artes gráficas",
+        "sub_category": "Acabamento",
+        "difficulty": "médio",
+        "question": "Sou um pequeno traço fora da área final da página que orienta a guilhotina na gráfica. Que indicação sou?",
+        "answer": "Marca de corte"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artes gráficas",
+        "sub_category": "Material escolar",
+        "difficulty": "fácil",
+        "question": "Minhas páginas têm linhas horizontais regulares que ajudam a manter a escrita alinhada. Que material escolar sou?",
+        "answer": "Caderno pautado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Navegação e portos",
+        "sub_category": "Sinalização aquática",
+        "difficulty": "médio",
+        "question": "Flutuo presa a uma posição na água para indicar passagem segura, limite ou obstáculo a quem navega. Que objeto sou?",
+        "answer": "Boia de sinalização"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Navegação e portos",
+        "sub_category": "Rotas aquáticas",
+        "difficulty": "médio",
+        "question": "Sou uma faixa de água demarcada ou dragada para permitir a passagem segura de embarcações entre áreas. Que via sou?",
+        "answer": "Canal de navegação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Navegação e portos",
+        "sub_category": "Infraestrutura fluvial",
+        "difficulty": "médio",
+        "question": "Em um curso de água com desnível, encho ou esvazio uma câmara fechada por comportas para elevar ou baixar embarcações. Que estrutura sou?",
+        "answer": "Eclusa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Navegação e portos",
+        "sub_category": "Acessos",
+        "difficulty": "médio",
+        "question": "Acompanho a variação do nível da água apoiada em módulos que boiam, permitindo acesso a embarcações. Que estrutura sou?",
+        "answer": "Passarela flutuante"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Navegação e portos",
+        "sub_category": "Infraestrutura portuária",
+        "difficulty": "médio",
+        "question": "Sou um local junto à margem onde embarcações podem parar e ser amarradas para embarque ou desembarque. Que instalação sou?",
+        "answer": "Atracadouro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Meteorologia",
+        "sub_category": "Fenômenos de superfície",
+        "difficulty": "difícil",
+        "question": "Surjo em noites calmas quando o solo perde calor e o ar próximo a ele esfria até o vapor condensar em gotículas suspensas. Que fenômeno sou?",
+        "answer": "Nevoeiro de radiação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Meteorologia",
+        "sub_category": "Observação do tempo",
+        "difficulty": "fácil",
+        "question": "Reúno sensores de temperatura, vento, umidade e chuva num mesmo ponto para observar o tempo. Que instalação sou?",
+        "answer": "Estação meteorológica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Meteorologia",
+        "sub_category": "Óptica atmosférica",
+        "difficulty": "difícil",
+        "question": "Desvio a direção aparente da luz de astros ao atravessar camadas de ar com densidades diferentes. Que fenômeno sou?",
+        "answer": "Refração atmosférica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cartografia",
+        "sub_category": "Leitura de mapas",
+        "difficulty": "médio",
+        "question": "Sou uma barra dividida em segmentos com distâncias indicadas, permitindo medir trechos de um mapa mesmo após redimensioná-lo. Que recurso sou?",
+        "answer": "Escala gráfica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cartografia",
+        "sub_category": "Simbologia",
+        "difficulty": "fácil",
+        "question": "Explico o significado das cores, símbolos e traços usados na representação de um território. Que parte do mapa sou?",
+        "answer": "Legenda cartográfica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cartografia",
+        "sub_category": "Localização",
+        "difficulty": "médio",
+        "question": "Localizo um ponto na superfície terrestre por meio de latitude e longitude. Que informação sou?",
+        "answer": "Coordenada geográfica"
       }
     ],
     "word_master": [
