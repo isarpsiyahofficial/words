@@ -52804,7 +52804,7 @@
         "main_category": "Música e acústica",
         "sub_category": "Acústica",
         "difficulty": "difícil",
-        "question": "Deixo passar as frequências graves e atenuo progressivamente as mais agudas. Que circuito sou?",
+        "question": "Sou um circuito que preserva sons graves e reduz progressivamente os agudos. Que componente eletrônico sou?",
         "answer": "Filtro passa-baixas"
       },
       {
@@ -53094,7 +53094,7 @@
         "main_category": "Cozinha e alimentos",
         "sub_category": "Panificação",
         "difficulty": "médio",
-        "question": "Sou o pano que cobre a massa em repouso, evitando que sua superfície resseque. O que sou?",
+        "question": "Na panificação, sou um tecido usado para cobrir ou separar porções de massa durante o descanso em que elas aumentam de volume. O que sou?",
         "answer": "Pano de fermentação"
       },
       {
@@ -53104,7 +53104,7 @@
         "main_category": "Cozinha e alimentos",
         "sub_category": "Panificação",
         "difficulty": "difícil",
-        "question": "Sustento massas macias em pequenos compartimentos de tecido durante a última espera antes do forno. O que sou?",
+        "question": "Sou um recipiente de fibra trançada, geralmente redondo ou oval, que apoia a massa de pão durante o último crescimento antes do forno. O que sou?",
         "answer": "Cesto de fermentação"
       },
       {
@@ -53134,7 +53134,7 @@
         "main_category": "Cozinha e alimentos",
         "sub_category": "Culinária regional",
         "difficulty": "médio",
-        "question": "Sou a camada crocante que se forma no fundo da panela quando o arroz cozinha e doura levemente. Como sou chamada?",
+        "question": "Quando os grãos brancos cozinham encostados no fundo quente da panela, formo uma camada dourada e crocante. O que sou?",
         "answer": "Crosta de arroz"
       },
       {
@@ -53194,7 +53194,7 @@
         "main_category": "Jardim e plantas",
         "sub_category": "Sementes",
         "difficulty": "médio",
-        "question": "Sou o recipiente com divisórias onde pequenas mudas crescem antes de ir para o canteiro. O que sou?",
+        "question": "Tenho pequenas células alinhadas, cada uma com substrato para uma semente brotar antes do transplante ao canteiro. Que recipiente sou?",
         "answer": "Bandeja de mudas"
       },
       {
@@ -53274,7 +53274,7 @@
         "main_category": "Som e música",
         "sub_category": "Teoria musical",
         "difficulty": "médio",
-        "question": "Sou a pausa escrita que manda o músico ficar em silêncio por uma duração determinada. O que sou?",
+        "question": "Em uma partitura, meu símbolo indica uma duração exata em que ninguém deve tocar ou cantar. O que sou?",
         "answer": "Figura de pausa"
       },
       {
@@ -53334,7 +53334,7 @@
         "main_category": "Céu e natureza",
         "sub_category": "Atmosfera",
         "difficulty": "médio",
-        "question": "Apareço como um halo colorido ao redor da Lua quando sua luz atravessa cristais de gelo em nuvens altas. O que sou?",
+        "question": "À noite, apareço como um anel amplo ao redor da Lua quando cristais de gelo em nuvens altas desviam sua luz. Que fenômeno sou?",
         "answer": "Halo lunar"
       },
       {
@@ -53354,7 +53354,7 @@
         "main_category": "Céu e natureza",
         "sub_category": "Geologia",
         "difficulty": "médio",
-        "question": "Sou a rocha formada quando material derretido esfria e se solidifica. Que tipo de rocha sou?",
+        "question": "Nasço quando lava ou magma esfria e se solidifica. Que material geológico sou?",
         "answer": "Rocha ígnea"
       },
       {
@@ -53364,7 +53364,7 @@
         "main_category": "Céu e natureza",
         "sub_category": "Geologia",
         "difficulty": "médio",
-        "question": "Sou a rocha formada pela compactação de partículas acumuladas ao longo do tempo. Que tipo de rocha sou?",
+        "question": "Sou formada pela deposição, compactação e cimentação de camadas de sedimentos ao longo do tempo. Que material geológico sou?",
         "answer": "Rocha sedimentar"
       },
       {
@@ -53424,7 +53424,7 @@
         "main_category": "Tecnologia e informação",
         "sub_category": "Computação",
         "difficulty": "médio",
-        "question": "Sou a cópia adicional de arquivos importantes guardada para recuperá-los após uma falha. O que sou?",
+        "question": "Guardo uma versão extra de arquivos importantes para recuperá-los depois de uma falha ou perda. O que sou?",
         "answer": "Cópia de segurança"
       },
       {
@@ -53586,6 +53586,426 @@
         "difficulty": "difícil",
         "question": "Sou a camada transparente de cor aplicada sobre uma pintura já seca para modificar seu tom. O que sou?",
         "answer": "Veladura"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Fisiologia vegetal",
+        "difficulty": "médio",
+        "question": "Em uma planta, deixo as folhas amareladas por redução de clorofila, às vezes mantendo as nervuras verdes. Que alteração sou?",
+        "answer": "Clorose foliar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Formação de palavras",
+        "difficulty": "difícil",
+        "question": "Transformo um verbo em substantivo pela redução de sua forma, como quando 'pescar' dá origem a 'pesca'. Que processo de formação de palavras sou?",
+        "answer": "Derivação regressiva"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Recursos expressivos",
+        "difficulty": "médio",
+        "question": "Aproximo palavras de sons parecidos, mas sentidos diferentes, para criar um jogo expressivo na frase. Que recurso sou?",
+        "answer": "Paronomásia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecologia",
+        "sub_category": "Ambientes de organismos",
+        "difficulty": "médio",
+        "question": "Sou um pequeno espaço com temperatura, umidade e abrigo próprios, ocupado por organismos dentro de um ambiente maior. Que lugar ecológico sou?",
+        "answer": "Micro-habitat"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Matemática",
+        "sub_category": "Estatística visual",
+        "difficulty": "médio",
+        "question": "Mostro pares de valores como pontos espalhados em um plano, ajudando a perceber a relação entre duas variáveis. Que gráfico sou?",
+        "answer": "Diagrama de dispersão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Natureza brasileira",
+        "sub_category": "Estrutura da mata",
+        "difficulty": "médio",
+        "question": "Sou a cobertura contínua formada pelas copas das árvores mais altas, filtrando a luz que chega ao chão da mata. O que sou?",
+        "answer": "Dossel florestal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Jardinagem",
+        "sub_category": "Acessórios de irrigação",
+        "difficulty": "fácil",
+        "question": "Recolho em voltas organizadas o tubo flexível usado para regar o jardim, evitando nós depois do uso. Que acessório sou?",
+        "answer": "Enrolador de mangueira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Construção civil",
+        "sub_category": "Assentamento de pisos",
+        "difficulty": "médio",
+        "question": "Na colocação de pisos, sou a pequena peça inserida numa presilha para manter duas placas na mesma altura até a argamassa firmar. O que sou?",
+        "answer": "Cunha de nivelamento"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artes gráficas",
+        "sub_category": "Desenho técnico",
+        "difficulty": "médio",
+        "question": "Revelo o interior de um objeto imaginando uma divisão perpendicular ao seu eixo mais longo. Que representação técnica sou?",
+        "answer": "Corte transversal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artes gráficas",
+        "sub_category": "Desenho técnico",
+        "difficulty": "difícil",
+        "question": "Desenho um objeto em vistas frontal, lateral e superior, sem perspectiva e com raios perpendiculares ao plano. Que método sou?",
+        "answer": "Projeção ortogonal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura",
+        "sub_category": "Bordado computadorizado",
+        "difficulty": "médio",
+        "question": "Sou um arquivo que orienta a máquina sobre a ordem dos pontos, cores e deslocamentos para reproduzir um desenho no tecido. O que sou?",
+        "answer": "Matriz de bordado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha e confeitaria",
+        "sub_category": "Decoração de bolos",
+        "difficulty": "médio",
+        "question": "Tenho uma lâmina deslocada em relação ao cabo, permitindo espalhar cobertura sobre bolos sem encostar os dedos nela. Que utensílio sou?",
+        "answer": "Espátula angular"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha e alimentos",
+        "sub_category": "Utensílios",
+        "difficulty": "fácil",
+        "question": "Tenho lâmina comprida e serrilhada para atravessar uma casca crocante sem esmagar o miolo macio. Que utensílio sou?",
+        "answer": "Faca de pão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Pintura",
+        "difficulty": "fácil",
+        "question": "Depois de aplicada à parede e seca, permito limpar manchas leves com pano úmido sem estragar facilmente o acabamento. Que produto sou?",
+        "answer": "Tinta lavável"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e manutenção",
+        "sub_category": "Pintura",
+        "difficulty": "fácil",
+        "question": "Sou adesiva, feita de papel e removível com facilidade; protejo bordas para criar linhas nítidas durante a pintura. O que sou?",
+        "answer": "Fita crepe"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Materiais",
+        "sub_category": "Produtos naturais",
+        "difficulty": "médio",
+        "question": "Sou produzida em colmeias, posso virar vela e também proteger superfícies de madeira após polimento. Que material natural sou?",
+        "answer": "Cera de abelha"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Cozinha e alimentos",
+        "sub_category": "Panificação",
+        "difficulty": "médio",
+        "question": "Tenho muitos pequenos furos na base para favorecer a circulação de ar quente e deixar massas assadas mais crocantes. Que utensílio sou?",
+        "answer": "Assadeira perfurada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Casa e energia",
+        "sub_category": "Iluminação",
+        "difficulty": "médio",
+        "question": "Em vez de brilhar sempre na mesma intensidade, permito regular a luminosidade por um controle compatível. Que fonte de iluminação sou?",
+        "answer": "Lâmpada dimerizável"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Tecnologia cotidiana",
+        "sub_category": "Organização de fios",
+        "difficulty": "fácil",
+        "question": "Sou uma tira plástica com dentes e trava de sentido único, usada para prender cabos em feixes. O que sou?",
+        "answer": "Abraçadeira de nylon"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Arquitetura do cotidiano",
+        "sub_category": "Proteção solar",
+        "difficulty": "fácil",
+        "question": "Fico acima de uma janela ou varanda e posso ser estendido para dar sombra e recolhido quando não preciso. Que cobertura sou?",
+        "answer": "Toldo retrátil"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Marcenaria",
+        "sub_category": "Ferragens",
+        "difficulty": "médio",
+        "question": "Fico instalada sob uma gaveta, permitindo que ela deslize sem trilhos aparentes nas laterais. Que ferragem sou?",
+        "answer": "Corrediça oculta"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Costura",
+        "sub_category": "Marcação de tecidos",
+        "difficulty": "fácil",
+        "question": "Marco linhas temporárias sobre tecido antes do corte e da costura; meus traços saem com facilidade. Que ferramenta sou?",
+        "answer": "Giz de alfaiate"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Artesanato brasileiro",
+        "sub_category": "Impressão artesanal",
+        "difficulty": "médio",
+        "question": "Nasço quando uma superfície entalhada e coberta de tinta é pressionada repetidamente sobre tecido ou papel. Que técnica decorativa sou?",
+        "answer": "Estampa em bloco"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ecossistemas brasileiros",
+        "sub_category": "Vegetação amazônica",
+        "difficulty": "difícil",
+        "question": "Na Amazônia, cresço em solos muito arenosos e pobres em nutrientes, com vegetação que varia de arbustos baixos a árvores. Que formação vegetal sou?",
+        "answer": "Campinarana"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Paisagens brasileiras",
+        "sub_category": "Vegetação de altitude",
+        "difficulty": "médio",
+        "question": "Apareço em serras de altitude, sobre solos rasos e afloramentos de pedra, reunindo muitas plantas adaptadas à escassez de nutrientes. Que paisagem vegetal sou?",
+        "answer": "Campos rupestres"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Geografia e paisagens",
+        "sub_category": "Formas do relevo",
+        "difficulty": "difícil",
+        "question": "Tenho forma de ferradura, com braços que apontam contra o vento dominante, frequentemente fixados por vegetação. Que formação de areia sou?",
+        "answer": "Duna parabólica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Química",
+        "sub_category": "Umidade e materiais",
+        "difficulty": "difícil",
+        "question": "Quando o ar está úmido, absorvo tanta água que um sólido acaba se dissolvendo no líquido que captou. Que fenômeno físico-químico sou?",
+        "answer": "Deliquescência"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Construção civil",
+        "sub_category": "Sais e umidade",
+        "difficulty": "médio",
+        "question": "Surjo como depósito esbranquiçado de sais na superfície de paredes quando a água migra e evapora. Que fenômeno sou?",
+        "answer": "Eflorescência"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Ciência e laboratório",
+        "sub_category": "Propriedades dos fluidos",
+        "difficulty": "difícil",
+        "question": "Quando um gel ou pasta é agitado, fico menos viscoso; ao repousar, recupero gradualmente a consistência. Que propriedade sou?",
+        "answer": "Tixotropia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Luz e visão",
+        "sub_category": "Óptica",
+        "difficulty": "difícil",
+        "question": "Ao atravessar certos cristais, um feixe luminoso se divide em dois caminhos por causa da direção de propagação. Que fenômeno óptico sou?",
+        "answer": "Birrefringência"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Matemática",
+        "sub_category": "Estatística",
+        "difficulty": "médio",
+        "question": "Divido uma população em grupos com características comuns e seleciono participantes de cada grupo para representá-la. Que método estatístico sou?",
+        "answer": "Amostragem estratificada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Mudanças sonoras",
+        "difficulty": "difícil",
+        "question": "Na evolução ou fala de uma palavra, troco a posição de sons ou sílabas dentro dela. Que processo linguístico sou?",
+        "answer": "Metátese"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Mudanças sonoras",
+        "difficulty": "difícil",
+        "question": "Quando duas sílabas semelhantes aparecem próximas numa palavra, uma delas desaparece na pronúncia ou na formação. Que fenômeno linguístico sou?",
+        "answer": "Haplologia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Uso da língua",
+        "difficulty": "médio",
+        "question": "Ao tentar falar de modo mais formal, aplico uma regra onde ela não cabe e acabo criando uma forma inadequada. Que fenômeno sou?",
+        "answer": "Hipercorreção"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Figuras de linguagem",
+        "difficulty": "médio",
+        "question": "Repito conjunções entre termos ou orações, como uma sequência de 'e ... e ... e ...', para criar ritmo e ênfase. Que figura de linguagem sou?",
+        "answer": "Polissíndeto"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Figuras de linguagem",
+        "difficulty": "médio",
+        "question": "Coloco palavras ou orações em sequência sem as conjunções que normalmente as ligariam. Que recurso expressivo sou?",
+        "answer": "Assíndeto"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Interações entre organismos",
+        "difficulty": "difícil",
+        "question": "Sou uma deformação localizada numa folha ou caule, provocada pela ação de certos insetos ou outros organismos. Que estrutura vegetal sou?",
+        "answer": "Cecídio"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Tecidos vegetais",
+        "difficulty": "difícil",
+        "question": "Em plantas de locais alagados, possuo grandes espaços internos cheios de ar que facilitam a circulação de gases. Que tecido sou?",
+        "answer": "Aerênquima"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Botânica",
+        "sub_category": "Tecidos vegetais",
+        "difficulty": "difícil",
+        "question": "Em caules e raízes que engrossam, substituo a epiderme e formo uma proteção externa composta por tecidos secundários. Que estrutura sou?",
+        "answer": "Periderme"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Jardinagem",
+        "sub_category": "Propagação vegetal",
+        "difficulty": "médio",
+        "question": "Para multiplicar uma planta, dobro um ramo ainda ligado à planta-mãe e cubro parte dele com terra até criar raízes. Que técnica sou?",
+        "answer": "Mergulhia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Agricultura",
+        "sub_category": "Manejo de frutíferas",
+        "difficulty": "médio",
+        "question": "Retiro parte das estruturas jovens que surgem após as flores para que as restantes recebam mais nutrientes e cresçam maiores. Que prática agrícola sou?",
+        "answer": "Raleio de frutos"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-BR",
+        "main_category": "Construção civil",
+        "sub_category": "Preparação de paredes",
+        "difficulty": "médio",
+        "question": "Antes de revestir uma parede lisa, espalho uma mistura áspera de cimento e areia para melhorar a aderência da camada seguinte. Que etapa da obra sou?",
+        "answer": "Chapisco"
       }
     ],
     "word_master": [
