@@ -7,7 +7,1308 @@
   "analysis": {},
   "bilmece": [],
   "kelime_ustasi": [],
-  "tabu": [],
+  "tabu": [
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한식과 식탁",
+      "sub_category": "한국의 음식",
+      "word": "김치",
+      "forbidden_words": [
+        "배추",
+        "발효",
+        "양념"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한식과 식탁",
+      "sub_category": "한국의 음식",
+      "word": "비빔밥",
+      "forbidden_words": [
+        "고추장",
+        "나물",
+        "섞다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한식과 식탁",
+      "sub_category": "한국의 음식",
+      "word": "된장찌개",
+      "forbidden_words": [
+        "콩",
+        "뚝배기",
+        "구수하다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한식과 식탁",
+      "sub_category": "한국의 음식",
+      "word": "떡볶이",
+      "forbidden_words": [
+        "매콤하다",
+        "분식",
+        "어묵"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한식과 식탁",
+      "sub_category": "한국의 음식",
+      "word": "잡채",
+      "forbidden_words": [
+        "당면",
+        "채소",
+        "볶다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한식과 식탁",
+      "sub_category": "한국의 음식",
+      "word": "냉면",
+      "forbidden_words": [
+        "육수",
+        "메밀",
+        "시원하다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한식과 식탁",
+      "sub_category": "한국의 음식",
+      "word": "삼계탕",
+      "forbidden_words": [
+        "닭",
+        "인삼",
+        "여름"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한식과 식탁",
+      "sub_category": "한국의 음식",
+      "word": "호떡",
+      "forbidden_words": [
+        "설탕",
+        "길거리",
+        "견과류"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한식과 식탁",
+      "sub_category": "한국의 음식",
+      "word": "붕어빵",
+      "forbidden_words": [
+        "겨울",
+        "팥",
+        "틀"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한식과 식탁",
+      "sub_category": "한국의 음식",
+      "word": "김밥",
+      "forbidden_words": [
+        "단무지",
+        "소풍",
+        "말다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 장보기",
+      "sub_category": "상점과 거래",
+      "word": "재래시장",
+      "forbidden_words": [
+        "골목",
+        "상인",
+        "흥정"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 장보기",
+      "sub_category": "상점과 거래",
+      "word": "장바구니",
+      "forbidden_words": [
+        "손잡이",
+        "구매",
+        "천가방"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 장보기",
+      "sub_category": "상점과 거래",
+      "word": "계산대",
+      "forbidden_words": [
+        "영수증",
+        "결제",
+        "줄"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 장보기",
+      "sub_category": "상점과 거래",
+      "word": "저울",
+      "forbidden_words": [
+        "무게",
+        "눈금",
+        "측정"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 장보기",
+      "sub_category": "상점과 거래",
+      "word": "가격표",
+      "forbidden_words": [
+        "금액",
+        "진열",
+        "붙이다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 장보기",
+      "sub_category": "상점과 거래",
+      "word": "시식",
+      "forbidden_words": [
+        "맛보다",
+        "무료",
+        "한입"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 장보기",
+      "sub_category": "상점과 거래",
+      "word": "원산지",
+      "forbidden_words": [
+        "재배",
+        "지역",
+        "표시"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 장보기",
+      "sub_category": "상점과 거래",
+      "word": "할인",
+      "forbidden_words": [
+        "세일",
+        "저렴하다",
+        "정가"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 장보기",
+      "sub_category": "상점과 거래",
+      "word": "포장",
+      "forbidden_words": [
+        "상자",
+        "싸다",
+        "봉투"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 장보기",
+      "sub_category": "상점과 거래",
+      "word": "거스름돈",
+      "forbidden_words": [
+        "잔돈",
+        "현금",
+        "돌려주다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "집과 생활",
+      "sub_category": "살림 도구",
+      "word": "빨래건조대",
+      "forbidden_words": [
+        "젖다",
+        "펼치다",
+        "옷"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "집과 생활",
+      "sub_category": "살림 도구",
+      "word": "청소기",
+      "forbidden_words": [
+        "먼지",
+        "흡입",
+        "바닥"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "집과 생활",
+      "sub_category": "살림 도구",
+      "word": "다리미",
+      "forbidden_words": [
+        "주름",
+        "열",
+        "옷감"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "집과 생활",
+      "sub_category": "살림 도구",
+      "word": "커튼",
+      "forbidden_words": [
+        "창문",
+        "햇빛",
+        "가리다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "집과 생활",
+      "sub_category": "살림 도구",
+      "word": "방충망",
+      "forbidden_words": [
+        "모기",
+        "창틀",
+        "그물"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "집과 생활",
+      "sub_category": "살림 도구",
+      "word": "전기밥솥",
+      "forbidden_words": [
+        "취사",
+        "보온",
+        "쌀"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "집과 생활",
+      "sub_category": "살림 도구",
+      "word": "도마",
+      "forbidden_words": [
+        "칼",
+        "썰다",
+        "나무"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "집과 생활",
+      "sub_category": "살림 도구",
+      "word": "행주",
+      "forbidden_words": [
+        "닦다",
+        "주방",
+        "물기"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "집과 생활",
+      "sub_category": "살림 도구",
+      "word": "세탁기",
+      "forbidden_words": [
+        "드럼",
+        "탈수",
+        "세제"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "집과 생활",
+      "sub_category": "살림 도구",
+      "word": "베개",
+      "forbidden_words": [
+        "머리",
+        "잠",
+        "푹신하다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "학교와 배움",
+      "sub_category": "학습 공간과 물건",
+      "word": "칠판",
+      "forbidden_words": [
+        "분필",
+        "교실",
+        "글씨"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "학교와 배움",
+      "sub_category": "학습 공간과 물건",
+      "word": "필통",
+      "forbidden_words": [
+        "연필",
+        "지퍼",
+        "문구"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "학교와 배움",
+      "sub_category": "학습 공간과 물건",
+      "word": "시간표",
+      "forbidden_words": [
+        "수업",
+        "요일",
+        "순서"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "학교와 배움",
+      "sub_category": "학습 공간과 물건",
+      "word": "도서관",
+      "forbidden_words": [
+        "대출",
+        "서가",
+        "열람"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "학교와 배움",
+      "sub_category": "학습 공간과 물건",
+      "word": "돋보기",
+      "forbidden_words": [
+        "확대",
+        "렌즈",
+        "작은글씨"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "학교와 배움",
+      "sub_category": "학습 공간과 물건",
+      "word": "실험실",
+      "forbidden_words": [
+        "비커",
+        "관찰",
+        "과학"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "학교와 배움",
+      "sub_category": "학습 공간과 물건",
+      "word": "현미경",
+      "forbidden_words": [
+        "세포",
+        "배율",
+        "관찰"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "학교와 배움",
+      "sub_category": "학습 공간과 물건",
+      "word": "지도책",
+      "forbidden_words": [
+        "나라",
+        "페이지",
+        "지리"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "학교와 배움",
+      "sub_category": "학습 공간과 물건",
+      "word": "졸업식",
+      "forbidden_words": [
+        "학위",
+        "꽃다발",
+        "마지막"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "학교와 배움",
+      "sub_category": "학습 공간과 물건",
+      "word": "책갈피",
+      "forbidden_words": [
+        "페이지",
+        "표시",
+        "읽다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연과 계절",
+      "sub_category": "풍경과 자연 현상",
+      "word": "벚꽃",
+      "forbidden_words": [
+        "봄",
+        "분홍",
+        "꽃잎"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연과 계절",
+      "sub_category": "풍경과 자연 현상",
+      "word": "단풍",
+      "forbidden_words": [
+        "가을",
+        "붉다",
+        "나뭇잎"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연과 계절",
+      "sub_category": "풍경과 자연 현상",
+      "word": "무지개",
+      "forbidden_words": [
+        "비",
+        "일곱색",
+        "하늘"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연과 계절",
+      "sub_category": "풍경과 자연 현상",
+      "word": "서리",
+      "forbidden_words": [
+        "새벽",
+        "얼음",
+        "풀잎"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연과 계절",
+      "sub_category": "풍경과 자연 현상",
+      "word": "안개",
+      "forbidden_words": [
+        "뿌옇다",
+        "시야",
+        "아침"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연과 계절",
+      "sub_category": "풍경과 자연 현상",
+      "word": "갯벌",
+      "forbidden_words": [
+        "진흙",
+        "조개",
+        "밀물"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연과 계절",
+      "sub_category": "풍경과 자연 현상",
+      "word": "폭포",
+      "forbidden_words": [
+        "절벽",
+        "물줄기",
+        "떨어지다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연과 계절",
+      "sub_category": "풍경과 자연 현상",
+      "word": "동굴",
+      "forbidden_words": [
+        "석회암",
+        "지하",
+        "종유석"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연과 계절",
+      "sub_category": "풍경과 자연 현상",
+      "word": "산호",
+      "forbidden_words": [
+        "바다",
+        "군락",
+        "열대"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연과 계절",
+      "sub_category": "풍경과 자연 현상",
+      "word": "이슬",
+      "forbidden_words": [
+        "아침",
+        "물방울",
+        "풀"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "이동과 여행",
+      "sub_category": "길과 교통",
+      "word": "교통카드",
+      "forbidden_words": [
+        "단말기",
+        "충전",
+        "대중이동"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "이동과 여행",
+      "sub_category": "길과 교통",
+      "word": "환승",
+      "forbidden_words": [
+        "갈아타다",
+        "노선",
+        "정류장"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "이동과 여행",
+      "sub_category": "길과 교통",
+      "word": "기차역",
+      "forbidden_words": [
+        "승강장",
+        "표",
+        "레일"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "이동과 여행",
+      "sub_category": "길과 교통",
+      "word": "고속버스",
+      "forbidden_words": [
+        "터미널",
+        "좌석",
+        "장거리"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "이동과 여행",
+      "sub_category": "길과 교통",
+      "word": "여권",
+      "forbidden_words": [
+        "출입국",
+        "사진",
+        "신분"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "이동과 여행",
+      "sub_category": "길과 교통",
+      "word": "여행가방",
+      "forbidden_words": [
+        "바퀴",
+        "손잡이",
+        "짐"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "이동과 여행",
+      "sub_category": "길과 교통",
+      "word": "등산로",
+      "forbidden_words": [
+        "표지판",
+        "산길",
+        "걷다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "이동과 여행",
+      "sub_category": "길과 교통",
+      "word": "휴게소",
+      "forbidden_words": [
+        "고속도로",
+        "간식",
+        "화장실"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "이동과 여행",
+      "sub_category": "길과 교통",
+      "word": "자전거",
+      "forbidden_words": [
+        "페달",
+        "두바퀴",
+        "안장"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "이동과 여행",
+      "sub_category": "길과 교통",
+      "word": "길찾기",
+      "forbidden_words": [
+        "목적지",
+        "경로",
+        "위치"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통문화와 공예",
+      "sub_category": "한국의 생활 문화",
+      "word": "한복",
+      "forbidden_words": [
+        "명절",
+        "옷고름",
+        "전통"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통문화와 공예",
+      "sub_category": "한국의 생활 문화",
+      "word": "한옥",
+      "forbidden_words": [
+        "기와",
+        "마루",
+        "처마"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통문화와 공예",
+      "sub_category": "한국의 생활 문화",
+      "word": "한지",
+      "forbidden_words": [
+        "닥나무",
+        "종이",
+        "공예"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통문화와 공예",
+      "sub_category": "한국의 생활 문화",
+      "word": "매듭",
+      "forbidden_words": [
+        "끈",
+        "장식",
+        "묶다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통문화와 공예",
+      "sub_category": "한국의 생활 문화",
+      "word": "부채",
+      "forbidden_words": [
+        "바람",
+        "접다",
+        "손"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통문화와 공예",
+      "sub_category": "한국의 생활 문화",
+      "word": "도자기",
+      "forbidden_words": [
+        "가마",
+        "흙",
+        "유약"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통문화와 공예",
+      "sub_category": "한국의 생활 문화",
+      "word": "자개",
+      "forbidden_words": [
+        "조개껍데기",
+        "빛깔",
+        "장식"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통문화와 공예",
+      "sub_category": "한국의 생활 문화",
+      "word": "옹기",
+      "forbidden_words": [
+        "항아리",
+        "발효",
+        "흙"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통문화와 공예",
+      "sub_category": "한국의 생활 문화",
+      "word": "병풍",
+      "forbidden_words": [
+        "접이식",
+        "그림",
+        "가리다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통문화와 공예",
+      "sub_category": "한국의 생활 문화",
+      "word": "다도",
+      "forbidden_words": [
+        "찻잔",
+        "예절",
+        "우려내다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "취미와 여가",
+      "sub_category": "즐거운 활동",
+      "word": "뜨개질",
+      "forbidden_words": [
+        "실",
+        "바늘",
+        "목도리"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "취미와 여가",
+      "sub_category": "즐거운 활동",
+      "word": "퍼즐",
+      "forbidden_words": [
+        "조각",
+        "맞추다",
+        "그림"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "취미와 여가",
+      "sub_category": "즐거운 활동",
+      "word": "캠핑",
+      "forbidden_words": [
+        "텐트",
+        "야외",
+        "침낭"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "취미와 여가",
+      "sub_category": "즐거운 활동",
+      "word": "원예",
+      "forbidden_words": [
+        "화분",
+        "가꾸다",
+        "식물"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "취미와 여가",
+      "sub_category": "즐거운 활동",
+      "word": "수채화",
+      "forbidden_words": [
+        "물감",
+        "붓",
+        "종이"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "취미와 여가",
+      "sub_category": "즐거운 활동",
+      "word": "배드민턴",
+      "forbidden_words": [
+        "셔틀콕",
+        "라켓",
+        "네트"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "취미와 여가",
+      "sub_category": "즐거운 활동",
+      "word": "탁구",
+      "forbidden_words": [
+        "작은공",
+        "탁자",
+        "채"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "취미와 여가",
+      "sub_category": "즐거운 활동",
+      "word": "요가",
+      "forbidden_words": [
+        "자세",
+        "호흡",
+        "매트"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "취미와 여가",
+      "sub_category": "즐거운 활동",
+      "word": "사진촬영",
+      "forbidden_words": [
+        "카메라",
+        "셔터",
+        "구도"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "취미와 여가",
+      "sub_category": "즐거운 활동",
+      "word": "종이접기",
+      "forbidden_words": [
+        "색종이",
+        "접다",
+        "학"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 기술",
+      "sub_category": "발명과 관측",
+      "word": "태양광패널",
+      "forbidden_words": [
+        "햇빛",
+        "발전",
+        "지붕"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 기술",
+      "sub_category": "발명과 관측",
+      "word": "인공위성",
+      "forbidden_words": [
+        "궤도",
+        "지구",
+        "통신"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 기술",
+      "sub_category": "발명과 관측",
+      "word": "망원경",
+      "forbidden_words": [
+        "별",
+        "렌즈",
+        "관측"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 기술",
+      "sub_category": "발명과 관측",
+      "word": "기상관측소",
+      "forbidden_words": [
+        "온도",
+        "바람",
+        "예보"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 기술",
+      "sub_category": "발명과 관측",
+      "word": "나침반",
+      "forbidden_words": [
+        "북쪽",
+        "방향",
+        "바늘"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 기술",
+      "sub_category": "발명과 관측",
+      "word": "온도계",
+      "forbidden_words": [
+        "눈금",
+        "열",
+        "측정"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 기술",
+      "sub_category": "발명과 관측",
+      "word": "자석",
+      "forbidden_words": [
+        "철",
+        "끌어당기다",
+        "극"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 기술",
+      "sub_category": "발명과 관측",
+      "word": "로봇청소기",
+      "forbidden_words": [
+        "자동",
+        "바닥",
+        "센서"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 기술",
+      "sub_category": "발명과 관측",
+      "word": "무선이어폰",
+      "forbidden_words": [
+        "블루투스",
+        "귀",
+        "충전"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 기술",
+      "sub_category": "발명과 관측",
+      "word": "암호화",
+      "forbidden_words": [
+        "보안",
+        "데이터",
+        "변환"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동네와 서비스",
+      "sub_category": "생활 속 가게",
+      "word": "우체국",
+      "forbidden_words": [
+        "편지",
+        "소포",
+        "발송"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동네와 서비스",
+      "sub_category": "생활 속 가게",
+      "word": "미용실",
+      "forbidden_words": [
+        "머리",
+        "가위",
+        "손님"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동네와 서비스",
+      "sub_category": "생활 속 가게",
+      "word": "빵집",
+      "forbidden_words": [
+        "오븐",
+        "반죽",
+        "고소하다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동네와 서비스",
+      "sub_category": "생활 속 가게",
+      "word": "꽃집",
+      "forbidden_words": [
+        "향기",
+        "리본",
+        "선물"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동네와 서비스",
+      "sub_category": "생활 속 가게",
+      "word": "세탁소",
+      "forbidden_words": [
+        "옷",
+        "얼룩",
+        "다림질"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동네와 서비스",
+      "sub_category": "생활 속 가게",
+      "word": "안내데스크",
+      "forbidden_words": [
+        "접수",
+        "문의",
+        "입구"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동네와 서비스",
+      "sub_category": "생활 속 가게",
+      "word": "수선집",
+      "forbidden_words": [
+        "바느질",
+        "고치다",
+        "옷"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동네와 서비스",
+      "sub_category": "생활 속 가게",
+      "word": "안경점",
+      "forbidden_words": [
+        "시력",
+        "테",
+        "렌즈"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동네와 서비스",
+      "sub_category": "생활 속 가게",
+      "word": "택배기사",
+      "forbidden_words": [
+        "배송",
+        "문앞",
+        "상자"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동네와 서비스",
+      "sub_category": "생활 속 가게",
+      "word": "목공방",
+      "forbidden_words": [
+        "나무",
+        "톱",
+        "가구"
+      ]
+    }
+  ],
   "sessiz_sinema": [
     {
       "game_type": "sessiz_sinema",
