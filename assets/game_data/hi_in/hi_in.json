@@ -7981,9 +7981,9 @@
         "sub_category": "वाद्ययंत्र",
         "word": "इकतारा",
         "forbidden_words": [
-          "एक",
-          "तार",
-          "लोक"
+          "लोक",
+          "गायक",
+          "झंकार"
         ]
       },
       {
@@ -8473,7 +8473,7 @@
         "locale": "hi-IN",
         "main_category": "घर की मरम्मत",
         "sub_category": "औज़ार और पुर्ज़े",
-        "word": "ड्रिलमशीन",
+        "word": "ड्रिल मशीन",
         "forbidden_words": [
           "छेद",
           "बिजली",
@@ -8486,11 +8486,1207 @@
         "locale": "hi-IN",
         "main_category": "घर की मरम्मत",
         "sub_category": "औज़ार और पुर्ज़े",
-        "word": "पेंचकससेट",
+        "word": "पेचकस का सेट",
         "forbidden_words": [
           "औज़ार",
           "डिब्बा",
           "मरम्मत"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "आकाश और खगोल",
+        "sub_category": "खगोलीय पिंड और घटनाएँ",
+        "word": "धूमकेतु",
+        "forbidden_words": [
+          "पूँछ",
+          "आकाश",
+          "बर्फ"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "आकाश और खगोल",
+        "sub_category": "खगोलीय पिंड और घटनाएँ",
+        "word": "उल्कापिंड",
+        "forbidden_words": [
+          "पत्थर",
+          "अंतरिक्ष",
+          "गिरना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "आकाश और खगोल",
+        "sub_category": "खगोलीय पिंड और घटनाएँ",
+        "word": "निहारिका",
+        "forbidden_words": [
+          "गैस",
+          "तारे",
+          "बादल"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "आकाश और खगोल",
+        "sub_category": "खगोलीय पिंड और घटनाएँ",
+        "word": "आकाशगंगा",
+        "forbidden_words": [
+          "तारे",
+          "समूह",
+          "ब्रह्मांड"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "आकाश और खगोल",
+        "sub_category": "खगोलीय पिंड और घटनाएँ",
+        "word": "ग्रहण",
+        "forbidden_words": [
+          "छाया",
+          "सूर्य",
+          "चंद्रमा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "आकाश और खगोल",
+        "sub_category": "खगोलीय पिंड और घटनाएँ",
+        "word": "वेधशाला",
+        "forbidden_words": [
+          "खगोल",
+          "निरीक्षण",
+          "दूरबीन"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "आकाश और खगोल",
+        "sub_category": "खगोलीय पिंड और घटनाएँ",
+        "word": "उपग्रह",
+        "forbidden_words": [
+          "पृथ्वी",
+          "परिक्रमा",
+          "संचार"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भूगोल और धरातल",
+        "sub_category": "भूआकृतियाँ और जल",
+        "word": "जलप्रपात",
+        "forbidden_words": [
+          "ऊँचाई",
+          "धारा",
+          "गिरना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भूगोल और धरातल",
+        "sub_category": "भूआकृतियाँ और जल",
+        "word": "भूस्खलन",
+        "forbidden_words": [
+          "ढलान",
+          "मिट्टी",
+          "सरकना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित और मापन",
+        "sub_category": "ज्यामिति और गणना",
+        "word": "त्रिज्या",
+        "forbidden_words": [
+          "वृत्त",
+          "केंद्र",
+          "दूरी"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित और मापन",
+        "sub_category": "ज्यामिति और गणना",
+        "word": "व्यास",
+        "forbidden_words": [
+          "वृत्त",
+          "बीच",
+          "रेखा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित और मापन",
+        "sub_category": "ज्यामिति और गणना",
+        "word": "परिधि",
+        "forbidden_words": [
+          "घेरा",
+          "लंबाई",
+          "आकृति"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित और मापन",
+        "sub_category": "ज्यामिति और गणना",
+        "word": "समकोण",
+        "forbidden_words": [
+          "नब्बे",
+          "डिग्री",
+          "रेखाएँ"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित और मापन",
+        "sub_category": "ज्यामिति और गणना",
+        "word": "समांतर",
+        "forbidden_words": [
+          "रेखाएँ",
+          "दूरी",
+          "बराबर"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित और मापन",
+        "sub_category": "ज्यामिति और गणना",
+        "word": "भिन्न",
+        "forbidden_words": [
+          "अंश",
+          "हर",
+          "गणित"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित और मापन",
+        "sub_category": "ज्यामिति और गणना",
+        "word": "प्रतिशत",
+        "forbidden_words": [
+          "सौ",
+          "हिस्सा",
+          "गणना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित और मापन",
+        "sub_category": "ज्यामिति और गणना",
+        "word": "घनफल",
+        "forbidden_words": [
+          "आयतन",
+          "डिब्बा",
+          "माप"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "सड़क और नगर",
+        "sub_category": "रास्ते और संकेत",
+        "word": "पुलिया",
+        "forbidden_words": [
+          "नाला",
+          "रास्ता",
+          "छोटा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "सड़क और नगर",
+        "sub_category": "रास्ते और संकेत",
+        "word": "मीलपत्थर",
+        "forbidden_words": [
+          "दूरी",
+          "रास्ता",
+          "संकेत"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "सड़क और नगर",
+        "sub_category": "रास्ते और संकेत",
+        "word": "रेलिंग",
+        "forbidden_words": [
+          "सहारा",
+          "लोहे",
+          "किनारा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "सड़क और नगर",
+        "sub_category": "रास्ते और संकेत",
+        "word": "ढलान",
+        "forbidden_words": [
+          "नीचे",
+          "चढ़ाई",
+          "रास्ता"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "सड़क और नगर",
+        "sub_category": "रास्ते और संकेत",
+        "word": "मोड़",
+        "forbidden_words": [
+          "घुमाव",
+          "रास्ता",
+          "दिशा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "घर की बनावट",
+        "sub_category": "दरवाज़े और छत",
+        "word": "परनाला",
+        "forbidden_words": [
+          "बारिश",
+          "पानी",
+          "निकास"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "घर की बनावट",
+        "sub_category": "दरवाज़े और छत",
+        "word": "दहलीज़",
+        "forbidden_words": [
+          "दरवाज़ा",
+          "प्रवेश",
+          "सीमा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "घर की बनावट",
+        "sub_category": "दरवाज़े और छत",
+        "word": "झरोखा",
+        "forbidden_words": [
+          "जाली",
+          "खिड़की",
+          "पुराना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "घर की बनावट",
+        "sub_category": "दरवाज़े और छत",
+        "word": "चिटकनी",
+        "forbidden_words": [
+          "दरवाज़ा",
+          "बंद",
+          "धातु"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेती और बागवानी",
+        "sub_category": "खेत और पौधों की देखभाल",
+        "word": "खलिहान",
+        "forbidden_words": [
+          "फसल",
+          "अनाज",
+          "आँगन"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेती और बागवानी",
+        "sub_category": "खेत और पौधों की देखभाल",
+        "word": "नांद",
+        "forbidden_words": [
+          "पशु",
+          "चारा",
+          "बर्तन"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेती और बागवानी",
+        "sub_category": "खेत और पौधों की देखभाल",
+        "word": "रहट",
+        "forbidden_words": [
+          "कुआँ",
+          "पानी",
+          "पहिया"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेती और बागवानी",
+        "sub_category": "खेत और पौधों की देखभाल",
+        "word": "निराई",
+        "forbidden_words": [
+          "खरपतवार",
+          "खेत",
+          "निकालना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेती और बागवानी",
+        "sub_category": "खेत और पौधों की देखभाल",
+        "word": "गुड़ाई",
+        "forbidden_words": [
+          "मिट्टी",
+          "औज़ार",
+          "ढीली"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेती और बागवानी",
+        "sub_category": "खेत और पौधों की देखभाल",
+        "word": "पौधशाला",
+        "forbidden_words": [
+          "नर्सरी",
+          "रोपाई",
+          "बगीचा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेती और बागवानी",
+        "sub_category": "खेत और पौधों की देखभाल",
+        "word": "बिजूका",
+        "forbidden_words": [
+          "खेत",
+          "पक्षी",
+          "पुतला"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "हस्तशिल्प और वस्त्र",
+        "sub_category": "बुनाई और सजावट",
+        "word": "ताना",
+        "forbidden_words": [
+          "लंबवत",
+          "धागे",
+          "करघा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "हस्तशिल्प और वस्त्र",
+        "sub_category": "बुनाई और सजावट",
+        "word": "बाना",
+        "forbidden_words": [
+          "आड़ा",
+          "धागा",
+          "करघा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "हस्तशिल्प और वस्त्र",
+        "sub_category": "बुनाई और सजावट",
+        "word": "रफ़ू",
+        "forbidden_words": [
+          "छेद",
+          "कपड़ा",
+          "सुधार"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "हस्तशिल्प और वस्त्र",
+        "sub_category": "बुनाई और सजावट",
+        "word": "कशीदाकारी",
+        "forbidden_words": [
+          "सुई",
+          "धागा",
+          "सजावट"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "हस्तशिल्प और वस्त्र",
+        "sub_category": "बुनाई और सजावट",
+        "word": "ज़री",
+        "forbidden_words": [
+          "चमक",
+          "धागा",
+          "किनारी"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "हस्तशिल्प और वस्त्र",
+        "sub_category": "बुनाई और सजावट",
+        "word": "गोटा",
+        "forbidden_words": [
+          "किनारी",
+          "चमक",
+          "पोशाक"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "हस्तशिल्प और वस्त्र",
+        "sub_category": "बुनाई और सजावट",
+        "word": "फुंदना",
+        "forbidden_words": [
+          "लटकन",
+          "ऊन",
+          "सजावट"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "हस्तशिल्प और वस्त्र",
+        "sub_category": "बुनाई और सजावट",
+        "word": "झालर",
+        "forbidden_words": [
+          "किनारा",
+          "लटकन",
+          "सजावट"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "विद्यालय और प्रयोग",
+        "sub_category": "पढ़ाई और विज्ञान",
+        "word": "बीकर",
+        "forbidden_words": [
+          "काँच",
+          "तरल",
+          "माप"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "विद्यालय और प्रयोग",
+        "sub_category": "पढ़ाई और विज्ञान",
+        "word": "खड़िया",
+        "forbidden_words": [
+          "सफेद",
+          "पट्टी",
+          "लिखना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "विद्यालय और प्रयोग",
+        "sub_category": "पढ़ाई और विज्ञान",
+        "word": "दवात",
+        "forbidden_words": [
+          "स्याही",
+          "कलम",
+          "बर्तन"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "विद्यालय और प्रयोग",
+        "sub_category": "पढ़ाई और विज्ञान",
+        "word": "सूचनापट्ट",
+        "forbidden_words": [
+          "घोषणा",
+          "दीवार",
+          "विद्यालय"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "विद्यालय और प्रयोग",
+        "sub_category": "पढ़ाई और विज्ञान",
+        "word": "शब्दपहेली",
+        "forbidden_words": [
+          "अक्षर",
+          "खाना",
+          "हल"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक वस्तुएँ",
+        "sub_category": "घर और निजी उपयोग",
+        "word": "ज़िप",
+        "forbidden_words": [
+          "कपड़ा",
+          "बंद",
+          "दाँत"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक वस्तुएँ",
+        "sub_category": "घर और निजी उपयोग",
+        "word": "हुक",
+        "forbidden_words": [
+          "लटकाना",
+          "धातु",
+          "दीवार"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक वस्तुएँ",
+        "sub_category": "घर और निजी उपयोग",
+        "word": "कंघी",
+        "forbidden_words": [
+          "बाल",
+          "दाँत",
+          "सँवारना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक वस्तुएँ",
+        "sub_category": "घर और निजी उपयोग",
+        "word": "दर्पण",
+        "forbidden_words": [
+          "प्रतिबिंब",
+          "चेहरा",
+          "काँच"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक वस्तुएँ",
+        "sub_category": "घर और निजी उपयोग",
+        "word": "थर्मस",
+        "forbidden_words": [
+          "पेय",
+          "गरम",
+          "बोतल"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक वस्तुएँ",
+        "sub_category": "घर और निजी उपयोग",
+        "word": "कुशन",
+        "forbidden_words": [
+          "सोफ़ा",
+          "मुलायम",
+          "तकिया"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पर्यावरण और ऊर्जा",
+        "sub_category": "संसाधन और विद्युत",
+        "word": "कम्पोस्ट",
+        "forbidden_words": [
+          "जैविक",
+          "खाद",
+          "अपशिष्ट"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पर्यावरण और ऊर्जा",
+        "sub_category": "संसाधन और विद्युत",
+        "word": "पुनर्चक्रण",
+        "forbidden_words": [
+          "कचरा",
+          "दोबारा",
+          "संसाधन"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पर्यावरण और ऊर्जा",
+        "sub_category": "संसाधन और विद्युत",
+        "word": "सौर पैनल",
+        "forbidden_words": [
+          "धूप",
+          "बिजली",
+          "छत"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पर्यावरण और ऊर्जा",
+        "sub_category": "संसाधन और विद्युत",
+        "word": "पवनचक्की",
+        "forbidden_words": [
+          "हवा",
+          "पंखे",
+          "ऊर्जा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पर्यावरण और ऊर्जा",
+        "sub_category": "संसाधन और विद्युत",
+        "word": "वर्षामापी",
+        "forbidden_words": [
+          "बारिश",
+          "मात्रा",
+          "यंत्र"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पर्यावरण और ऊर्जा",
+        "sub_category": "संसाधन और विद्युत",
+        "word": "जलसंचयन",
+        "forbidden_words": [
+          "बारिश",
+          "टंकी",
+          "बचत"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पर्यावरण और ऊर्जा",
+        "sub_category": "संसाधन और विद्युत",
+        "word": "परिपथ",
+        "forbidden_words": [
+          "बिजली",
+          "तार",
+          "जुड़ाव"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पर्यावरण और ऊर्जा",
+        "sub_category": "संसाधन और विद्युत",
+        "word": "फ्यूज",
+        "forbidden_words": [
+          "सुरक्षा",
+          "बिजली",
+          "पिघलना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पर्यावरण और ऊर्जा",
+        "sub_category": "संसाधन और विद्युत",
+        "word": "ऊष्मारोधक",
+        "forbidden_words": [
+          "गर्मी",
+          "बचाव",
+          "सामग्री"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खानपान और परोसना",
+        "sub_category": "क्षेत्रीय व्यंजन",
+        "word": "पायसम",
+        "forbidden_words": [
+          "मीठा",
+          "दूध",
+          "दक्षिण"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खानपान और परोसना",
+        "sub_category": "क्षेत्रीय व्यंजन",
+        "word": "मिसल",
+        "forbidden_words": [
+          "महाराष्ट्र",
+          "अंकुरित",
+          "तीखा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खानपान और परोसना",
+        "sub_category": "क्षेत्रीय व्यंजन",
+        "word": "पूरनपोली",
+        "forbidden_words": [
+          "मीठा",
+          "दाल",
+          "रोटी"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खानपान और परोसना",
+        "sub_category": "क्षेत्रीय व्यंजन",
+        "word": "खिचू",
+        "forbidden_words": [
+          "चावल",
+          "गुजरात",
+          "भाप"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खानपान और परोसना",
+        "sub_category": "क्षेत्रीय व्यंजन",
+        "word": "घेवर",
+        "forbidden_words": [
+          "राजस्थान",
+          "मिठाई",
+          "छेद"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "प्रकृति और जीवजगत",
+        "sub_category": "पक्षी और छोटे जीव",
+        "word": "बया",
+        "forbidden_words": [
+          "घोंसला",
+          "बुनाई",
+          "पक्षी"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "प्रकृति और जीवजगत",
+        "sub_category": "पक्षी और छोटे जीव",
+        "word": "दीमक",
+        "forbidden_words": [
+          "लकड़ी",
+          "झुंड",
+          "कीड़ा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "प्रकृति और जीवजगत",
+        "sub_category": "पक्षी और छोटे जीव",
+        "word": "गिरगिट",
+        "forbidden_words": [
+          "रंग",
+          "बदलना",
+          "सरीसृप"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "प्रकृति और जीवजगत",
+        "sub_category": "पक्षी और छोटे जीव",
+        "word": "साही",
+        "forbidden_words": [
+          "काँटे",
+          "जानवर",
+          "रात"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "प्रकृति और जीवजगत",
+        "sub_category": "पक्षी और छोटे जीव",
+        "word": "ऊदबिलाव",
+        "forbidden_words": [
+          "पानी",
+          "तैरना",
+          "रोएँ"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "प्रकृति और जीवजगत",
+        "sub_category": "पक्षी और छोटे जीव",
+        "word": "छछूँदर",
+        "forbidden_words": [
+          "मिट्टी",
+          "सुरंग",
+          "छोटा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "प्रकृति और जीवजगत",
+        "sub_category": "पक्षी और छोटे जीव",
+        "word": "घोंघा",
+        "forbidden_words": [
+          "खोल",
+          "धीमा",
+          "रेंगना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "बाज़ार और लेनदेन",
+        "sub_category": "खरीदारी और दस्तावेज़",
+        "word": "थोक",
+        "forbidden_words": [
+          "अधिक",
+          "माल",
+          "व्यापार"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "बाज़ार और लेनदेन",
+        "sub_category": "खरीदारी और दस्तावेज़",
+        "word": "खुदरा",
+        "forbidden_words": [
+          "थोड़ा",
+          "बिक्री",
+          "दुकान"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "बाज़ार और लेनदेन",
+        "sub_category": "खरीदारी और दस्तावेज़",
+        "word": "पावती",
+        "forbidden_words": [
+          "प्राप्ति",
+          "हस्ताक्षर",
+          "कागज़"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "बाज़ार और लेनदेन",
+        "sub_category": "खरीदारी और दस्तावेज़",
+        "word": "चालान",
+        "forbidden_words": [
+          "भुगतान",
+          "रसीद",
+          "प्रपत्र"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "बाज़ार और लेनदेन",
+        "sub_category": "खरीदारी और दस्तावेज़",
+        "word": "नमूना",
+        "forbidden_words": [
+          "चीज़",
+          "दिखाना",
+          "उदाहरण"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "बाज़ार और लेनदेन",
+        "sub_category": "खरीदारी और दस्तावेज़",
+        "word": "तौल",
+        "forbidden_words": [
+          "वज़न",
+          "माप",
+          "तराजू"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डाक और संचार",
+        "sub_category": "पत्र और संदेश",
+        "word": "संदेशवाहक",
+        "forbidden_words": [
+          "सूचना",
+          "पहुँचाना",
+          "व्यक्ति"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डाक और संचार",
+        "sub_category": "पत्र और संदेश",
+        "word": "दूरभाष",
+        "forbidden_words": [
+          "आवाज़",
+          "संपर्क",
+          "यंत्र"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डाक और संचार",
+        "sub_category": "पत्र और संदेश",
+        "word": "सूचना",
+        "forbidden_words": [
+          "खबर",
+          "जानकारी",
+          "देना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डाक और संचार",
+        "sub_category": "पत्र और संदेश",
+        "word": "प्रेषक",
+        "forbidden_words": [
+          "भेजना",
+          "पता",
+          "पत्र"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डाक और संचार",
+        "sub_category": "पत्र और संदेश",
+        "word": "प्राप्तकर्ता",
+        "forbidden_words": [
+          "पाना",
+          "पार्सल",
+          "व्यक्ति"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "ध्वनि और संगीत",
+        "sub_category": "स्वर और वाद्य",
+        "word": "झंकार",
+        "forbidden_words": [
+          "घुँघरू",
+          "ध्वनि",
+          "बजना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "ध्वनि और संगीत",
+        "sub_category": "स्वर और वाद्य",
+        "word": "मंद्र",
+        "forbidden_words": [
+          "गहरा",
+          "स्वर",
+          "नीचा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "ध्वनि और संगीत",
+        "sub_category": "स्वर और वाद्य",
+        "word": "लयकारी",
+        "forbidden_words": [
+          "ताल",
+          "गति",
+          "बदलाव"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेल और मैदान",
+        "sub_category": "पारंपरिक और मैदानी खेल",
+        "word": "शतरंज",
+        "forbidden_words": [
+          "बिसात",
+          "मोहरा",
+          "चाल"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेल और मैदान",
+        "sub_category": "पारंपरिक और मैदानी खेल",
+        "word": "गिल्ली",
+        "forbidden_words": [
+          "डंडा",
+          "लकड़ी",
+          "खेल"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेल और मैदान",
+        "sub_category": "पारंपरिक और मैदानी खेल",
+        "word": "कंचा",
+        "forbidden_words": [
+          "काँच",
+          "गोल",
+          "खेल"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेल और मैदान",
+        "sub_category": "पारंपरिक और मैदानी खेल",
+        "word": "रस्साकशी",
+        "forbidden_words": [
+          "खींचना",
+          "दल",
+          "मैदान"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेल और मैदान",
+        "sub_category": "पारंपरिक और मैदानी खेल",
+        "word": "टेबल टेनिस",
+        "forbidden_words": [
+          "छोटी",
+          "गेंद",
+          "रैकेट"
         ]
       }
     ],
