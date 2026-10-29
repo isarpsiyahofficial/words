@@ -25782,6 +25782,227 @@
           "मैदान",
           "अभ्यास"
         ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय रसोई",
+        "sub_category": "बर्तन और उपकरण",
+        "word": "मिट्टी का कुल्हड़",
+        "forbidden_words": [
+          "चाय",
+          "कुम्हार",
+          "पेय"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "शहर और परिवहन",
+        "sub_category": "यात्रा की सुविधाएँ",
+        "word": "साइकिल का मडगार्ड",
+        "forbidden_words": [
+          "पहिया",
+          "कीचड़",
+          "ढाल"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "ग्रामीण जीवन",
+        "sub_category": "आँगन और परंपरा",
+        "word": "पशुओं की हौदी",
+        "forbidden_words": [
+          "पानी",
+          "चारा",
+          "पीना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "ग्रामीण जीवन",
+        "sub_category": "आँगन और परंपरा",
+        "word": "पक्षियों का जलपात्र",
+        "forbidden_words": [
+          "पानी",
+          "चिड़िया",
+          "कटोरा"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "वस्त्र और सिलाई",
+        "sub_category": "बुनाई की बारीकियाँ",
+        "word": "सिलाई का अंगुश्ताना",
+        "forbidden_words": [
+          "उँगली",
+          "सुई",
+          "धातु"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय खानपान",
+        "sub_category": "सामग्री और व्यंजन",
+        "word": "दाल की पिट्ठी",
+        "forbidden_words": [
+          "भरावन",
+          "पीसना",
+          "कचौड़ी"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय खानपान",
+        "sub_category": "सामग्री और व्यंजन",
+        "word": "चावल की खील",
+        "forbidden_words": [
+          "दाना",
+          "फुलाना",
+          "भूनना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पर्यावरण और संसाधन",
+        "sub_category": "संरक्षण और पुनः उपयोग",
+        "word": "गन्ने की खोई",
+        "forbidden_words": [
+          "रस",
+          "रेशा",
+          "कोल्हू"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "ग्रामीण जीवन",
+        "sub_category": "आँगन और परंपरा",
+        "word": "तेल की ढिबरी",
+        "forbidden_words": [
+          "बाती",
+          "लौ",
+          "उजाला"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "मिट्टी और निर्माण",
+        "sub_category": "कुम्हारी और शिल्प",
+        "word": "तसला",
+        "forbidden_words": [
+          "सीमेंट",
+          "गारा",
+          "ढोना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय खानपान",
+        "sub_category": "सामग्री और व्यंजन",
+        "word": "दही का जामन",
+        "forbidden_words": [
+          "दूध",
+          "खट्टा",
+          "बैक्टीरिया"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "घर और दैनिक जीवन",
+        "sub_category": "रखरखाव और सुविधाएँ",
+        "word": "कपास का फाहा",
+        "forbidden_words": [
+          "रूई",
+          "मुलायम",
+          "पट्टी"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "ग्रामीण जीवन",
+        "sub_category": "आँगन और परंपरा",
+        "word": "चारे का गट्ठर",
+        "forbidden_words": [
+          "घास",
+          "रस्सी",
+          "बाँधना"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "खेती और बागवानी",
+        "sub_category": "खेत की तैयारी",
+        "word": "धान की भूसी",
+        "forbidden_words": [
+          "अनाज",
+          "छिलका",
+          "पशु"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "ग्रामीण जीवन",
+        "sub_category": "आँगन और परंपरा",
+        "word": "फूलों का गजरा",
+        "forbidden_words": [
+          "बाल",
+          "सुगंध",
+          "माला"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय रसोई",
+        "sub_category": "बर्तन और उपकरण",
+        "word": "तवे का हत्था",
+        "forbidden_words": [
+          "पकड़ना",
+          "गर्म",
+          "रसोई"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "ग्रामीण जीवन",
+        "sub_category": "आँगन और परंपरा",
+        "word": "चूल्हे की फूँकनी",
+        "forbidden_words": [
+          "हवा",
+          "अंगारा",
+          "नली"
+        ]
       }
     ],
     "charades": [
