@@ -7,7 +7,1568 @@
   "analysis": {},
   "bilmece": [],
   "kelime_ustasi": [],
-  "tabu": [],
+  "tabu": [
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Boulangerie",
+      "sub_category": "Pains et viennoiseries",
+      "word": "baguette",
+      "forbidden_words": [
+        "pain",
+        "croûte",
+        "boulangerie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Boulangerie",
+      "sub_category": "Pains et viennoiseries",
+      "word": "croissant",
+      "forbidden_words": [
+        "viennoiserie",
+        "beurre",
+        "feuilleté"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Boulangerie",
+      "sub_category": "Pains et viennoiseries",
+      "word": "pain au chocolat",
+      "forbidden_words": [
+        "viennoiserie",
+        "cacao",
+        "petit déjeuner"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Boulangerie",
+      "sub_category": "Pains et viennoiseries",
+      "word": "brioche",
+      "forbidden_words": [
+        "mie",
+        "moelleuse",
+        "dorée"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Boulangerie",
+      "sub_category": "Pains et viennoiseries",
+      "word": "pain de campagne",
+      "forbidden_words": [
+        "miche",
+        "rustique",
+        "farine"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Boulangerie",
+      "sub_category": "Pains et viennoiseries",
+      "word": "fougasse",
+      "forbidden_words": [
+        "Provence",
+        "olives",
+        "plate"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Boulangerie",
+      "sub_category": "Pains et viennoiseries",
+      "word": "chausson aux pommes",
+      "forbidden_words": [
+        "feuilletage",
+        "fruit",
+        "compote"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Boulangerie",
+      "sub_category": "Pains et viennoiseries",
+      "word": "pain complet",
+      "forbidden_words": [
+        "céréales",
+        "fibres",
+        "tranches"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Boulangerie",
+      "sub_category": "Pains et viennoiseries",
+      "word": "épi de blé",
+      "forbidden_words": [
+        "moisson",
+        "champ",
+        "grains"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Boulangerie",
+      "sub_category": "Pains et viennoiseries",
+      "word": "pétrin",
+      "forbidden_words": [
+        "pâte",
+        "machine",
+        "boulanger"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Desserts traditionnels",
+      "word": "éclair",
+      "forbidden_words": [
+        "crème",
+        "glaçage",
+        "allongé"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Desserts traditionnels",
+      "word": "mille-feuille",
+      "forbidden_words": [
+        "couches",
+        "crème",
+        "dessert"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Desserts traditionnels",
+      "word": "tarte aux fraises",
+      "forbidden_words": [
+        "pâte",
+        "fruit rouge",
+        "crème pâtissière"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Desserts traditionnels",
+      "word": "macaron",
+      "forbidden_words": [
+        "coques",
+        "amande",
+        "ganache"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Desserts traditionnels",
+      "word": "madeleine",
+      "forbidden_words": [
+        "coquille",
+        "moelleuse",
+        "goûter"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Desserts traditionnels",
+      "word": "cannelé",
+      "forbidden_words": [
+        "Bordeaux",
+        "caramélisé",
+        "petit gâteau"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Desserts traditionnels",
+      "word": "chou à la crème",
+      "forbidden_words": [
+        "poche",
+        "garniture",
+        "pâtisserie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Desserts traditionnels",
+      "word": "clafoutis",
+      "forbidden_words": [
+        "cerises",
+        "four",
+        "dessert"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Desserts traditionnels",
+      "word": "financier",
+      "forbidden_words": [
+        "amande",
+        "petit gâteau",
+        "doré"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Desserts traditionnels",
+      "word": "crème brûlée",
+      "forbidden_words": [
+        "caramel",
+        "cuillère",
+        "dessert"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles et préparation",
+      "word": "passoire",
+      "forbidden_words": [
+        "égoutter",
+        "pâtes",
+        "trous"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles et préparation",
+      "word": "écumoire",
+      "forbidden_words": [
+        "bouillon",
+        "retirer",
+        "trous"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles et préparation",
+      "word": "spatule",
+      "forbidden_words": [
+        "retourner",
+        "poêle",
+        "plat"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles et préparation",
+      "word": "louche",
+      "forbidden_words": [
+        "soupe",
+        "servir",
+        "manche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles et préparation",
+      "word": "râpe",
+      "forbidden_words": [
+        "fromage",
+        "copeaux",
+        "dents"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles et préparation",
+      "word": "planche à découper",
+      "forbidden_words": [
+        "bois",
+        "légumes",
+        "préparer"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles et préparation",
+      "word": "rouleau à pâtisserie",
+      "forbidden_words": [
+        "étaler",
+        "pâte",
+        "cylindre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles et préparation",
+      "word": "balance de cuisine",
+      "forbidden_words": [
+        "peser",
+        "grammes",
+        "recette"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles et préparation",
+      "word": "saladier",
+      "forbidden_words": [
+        "mélanger",
+        "grand bol",
+        "préparation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles et préparation",
+      "word": "torchon",
+      "forbidden_words": [
+        "essuyer",
+        "vaisselle",
+        "tissu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Au marché",
+      "sub_category": "Commerces et achats",
+      "word": "étal",
+      "forbidden_words": [
+        "marchand",
+        "présentation",
+        "produits"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Au marché",
+      "sub_category": "Commerces et achats",
+      "word": "panier en osier",
+      "forbidden_words": [
+        "tressé",
+        "courses",
+        "anse"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Au marché",
+      "sub_category": "Commerces et achats",
+      "word": "primeur",
+      "forbidden_words": [
+        "fruits",
+        "légumes",
+        "commerçant"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Au marché",
+      "sub_category": "Commerces et achats",
+      "word": "fromagerie",
+      "forbidden_words": [
+        "lait",
+        "affinage",
+        "boutique"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Au marché",
+      "sub_category": "Commerces et achats",
+      "word": "poissonnerie",
+      "forbidden_words": [
+        "mer",
+        "filet",
+        "commerce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Au marché",
+      "sub_category": "Commerces et achats",
+      "word": "marché couvert",
+      "forbidden_words": [
+        "halles",
+        "stands",
+        "toit"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Au marché",
+      "sub_category": "Commerces et achats",
+      "word": "étiquette de prix",
+      "forbidden_words": [
+        "tarif",
+        "affichage",
+        "montant"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Au marché",
+      "sub_category": "Commerces et achats",
+      "word": "caisse enregistreuse",
+      "forbidden_words": [
+        "ticket",
+        "paiement",
+        "comptoir"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Au marché",
+      "sub_category": "Commerces et achats",
+      "word": "monnaie",
+      "forbidden_words": [
+        "pièces",
+        "rendre",
+        "achat"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Au marché",
+      "sub_category": "Commerces et achats",
+      "word": "sac réutilisable",
+      "forbidden_words": [
+        "courses",
+        "tissu",
+        "écologie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Plantes et entretien",
+      "word": "arrosoir",
+      "forbidden_words": [
+        "eau",
+        "bec",
+        "plantes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Plantes et entretien",
+      "word": "sécateur",
+      "forbidden_words": [
+        "tailler",
+        "branches",
+        "jardin"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Plantes et entretien",
+      "word": "râteau",
+      "forbidden_words": [
+        "feuilles",
+        "dents",
+        "sol"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Plantes et entretien",
+      "word": "bêche",
+      "forbidden_words": [
+        "creuser",
+        "terre",
+        "manche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Plantes et entretien",
+      "word": "compost",
+      "forbidden_words": [
+        "épluchures",
+        "décomposition",
+        "engrais"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Plantes et entretien",
+      "word": "semis",
+      "forbidden_words": [
+        "graines",
+        "germination",
+        "terre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Plantes et entretien",
+      "word": "potager",
+      "forbidden_words": [
+        "légumes",
+        "cultiver",
+        "jardin"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Plantes et entretien",
+      "word": "tuteur",
+      "forbidden_words": [
+        "soutenir",
+        "tige",
+        "plante"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Plantes et entretien",
+      "word": "serre",
+      "forbidden_words": [
+        "vitres",
+        "chaleur",
+        "cultures"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Plantes et entretien",
+      "word": "paillage",
+      "forbidden_words": [
+        "sol",
+        "écorces",
+        "humidité"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Maison",
+      "sub_category": "Objets du quotidien",
+      "word": "oreiller",
+      "forbidden_words": [
+        "tête",
+        "lit",
+        "dormir"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Maison",
+      "sub_category": "Objets du quotidien",
+      "word": "couette",
+      "forbidden_words": [
+        "chaleur",
+        "hiver",
+        "lit"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Maison",
+      "sub_category": "Objets du quotidien",
+      "word": "étagère",
+      "forbidden_words": [
+        "ranger",
+        "livres",
+        "mur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Maison",
+      "sub_category": "Objets du quotidien",
+      "word": "rideau",
+      "forbidden_words": [
+        "fenêtre",
+        "tissu",
+        "occultant"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Maison",
+      "sub_category": "Objets du quotidien",
+      "word": "paillasson",
+      "forbidden_words": [
+        "entrée",
+        "chaussures",
+        "essuyer"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Maison",
+      "sub_category": "Objets du quotidien",
+      "word": "abat-jour",
+      "forbidden_words": [
+        "lampe",
+        "lumière",
+        "tissu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Maison",
+      "sub_category": "Objets du quotidien",
+      "word": "cintre",
+      "forbidden_words": [
+        "vêtements",
+        "armoire",
+        "suspendre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Maison",
+      "sub_category": "Objets du quotidien",
+      "word": "miroir",
+      "forbidden_words": [
+        "reflet",
+        "verre",
+        "regarder"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Maison",
+      "sub_category": "Objets du quotidien",
+      "word": "tiroir",
+      "forbidden_words": [
+        "commode",
+        "coulisser",
+        "rangement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Maison",
+      "sub_category": "Objets du quotidien",
+      "word": "interrupteur",
+      "forbidden_words": [
+        "allumer",
+        "électricité",
+        "mur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École",
+      "sub_category": "Fournitures scolaires",
+      "word": "trousse",
+      "forbidden_words": [
+        "stylos",
+        "fermeture",
+        "cartable"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École",
+      "sub_category": "Fournitures scolaires",
+      "word": "cahier",
+      "forbidden_words": [
+        "pages",
+        "écrire",
+        "lignes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École",
+      "sub_category": "Fournitures scolaires",
+      "word": "gomme",
+      "forbidden_words": [
+        "effacer",
+        "crayon",
+        "papier"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École",
+      "sub_category": "Fournitures scolaires",
+      "word": "règle",
+      "forbidden_words": [
+        "mesurer",
+        "tracer",
+        "centimètres"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École",
+      "sub_category": "Fournitures scolaires",
+      "word": "rapporteur",
+      "forbidden_words": [
+        "angles",
+        "degrés",
+        "géométrie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École",
+      "sub_category": "Fournitures scolaires",
+      "word": "surligneur",
+      "forbidden_words": [
+        "fluorescent",
+        "texte",
+        "réviser"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École",
+      "sub_category": "Fournitures scolaires",
+      "word": "taille-crayon",
+      "forbidden_words": [
+        "mine",
+        "copeaux",
+        "affûter"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École",
+      "sub_category": "Fournitures scolaires",
+      "word": "ardoise",
+      "forbidden_words": [
+        "craie",
+        "classe",
+        "effacer"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École",
+      "sub_category": "Fournitures scolaires",
+      "word": "cartable",
+      "forbidden_words": [
+        "école",
+        "sac",
+        "livres"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École",
+      "sub_category": "Fournitures scolaires",
+      "word": "marque-page",
+      "forbidden_words": [
+        "lecture",
+        "repère",
+        "livre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nature",
+      "sub_category": "Paysages, faune et flore",
+      "word": "ruisseau",
+      "forbidden_words": [
+        "eau",
+        "courant",
+        "petit cours"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nature",
+      "sub_category": "Paysages, faune et flore",
+      "word": "clairière",
+      "forbidden_words": [
+        "forêt",
+        "espace",
+        "arbres"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nature",
+      "sub_category": "Paysages, faune et flore",
+      "word": "mousse",
+      "forbidden_words": [
+        "humidité",
+        "tronc",
+        "vert"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nature",
+      "sub_category": "Paysages, faune et flore",
+      "word": "fougère",
+      "forbidden_words": [
+        "sous-bois",
+        "frondes",
+        "plante"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nature",
+      "sub_category": "Paysages, faune et flore",
+      "word": "libellule",
+      "forbidden_words": [
+        "ailes",
+        "étang",
+        "insecte"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nature",
+      "sub_category": "Paysages, faune et flore",
+      "word": "hérisson",
+      "forbidden_words": [
+        "piquants",
+        "jardin",
+        "animal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nature",
+      "sub_category": "Paysages, faune et flore",
+      "word": "écureuil",
+      "forbidden_words": [
+        "noisettes",
+        "queue",
+        "arbre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nature",
+      "sub_category": "Paysages, faune et flore",
+      "word": "papillon",
+      "forbidden_words": [
+        "chenille",
+        "ailes",
+        "fleurs"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nature",
+      "sub_category": "Paysages, faune et flore",
+      "word": "coquelicot",
+      "forbidden_words": [
+        "rouge",
+        "champ",
+        "fleur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nature",
+      "sub_category": "Paysages, faune et flore",
+      "word": "rosée",
+      "forbidden_words": [
+        "matin",
+        "gouttelettes",
+        "herbe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Déplacements",
+      "sub_category": "Mobilité et transports",
+      "word": "vélo de ville",
+      "forbidden_words": [
+        "pédales",
+        "guidon",
+        "déplacement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Déplacements",
+      "sub_category": "Mobilité et transports",
+      "word": "piste cyclable",
+      "forbidden_words": [
+        "bicyclettes",
+        "voie",
+        "circulation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Déplacements",
+      "sub_category": "Mobilité et transports",
+      "word": "sonnette de vélo",
+      "forbidden_words": [
+        "avertir",
+        "guidon",
+        "ding"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Déplacements",
+      "sub_category": "Mobilité et transports",
+      "word": "casque de vélo",
+      "forbidden_words": [
+        "protection",
+        "tête",
+        "cycliste"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Déplacements",
+      "sub_category": "Mobilité et transports",
+      "word": "passage piéton",
+      "forbidden_words": [
+        "traverser",
+        "bandes",
+        "chaussée"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Déplacements",
+      "sub_category": "Mobilité et transports",
+      "word": "trottoir",
+      "forbidden_words": [
+        "marche",
+        "bordure",
+        "rue"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Déplacements",
+      "sub_category": "Mobilité et transports",
+      "word": "arrêt de bus",
+      "forbidden_words": [
+        "attendre",
+        "transport",
+        "abri"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Déplacements",
+      "sub_category": "Mobilité et transports",
+      "word": "ticket de métro",
+      "forbidden_words": [
+        "valider",
+        "transport",
+        "souterrain"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Déplacements",
+      "sub_category": "Mobilité et transports",
+      "word": "gare",
+      "forbidden_words": [
+        "quai",
+        "train",
+        "voyageurs"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Déplacements",
+      "sub_category": "Mobilité et transports",
+      "word": "horaire",
+      "forbidden_words": [
+        "heure",
+        "départ",
+        "planning"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Savoir-faire manuels",
+      "word": "poterie",
+      "forbidden_words": [
+        "argile",
+        "four",
+        "vase"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Savoir-faire manuels",
+      "word": "tour de potier",
+      "forbidden_words": [
+        "rotation",
+        "argile",
+        "atelier"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Savoir-faire manuels",
+      "word": "vannerie",
+      "forbidden_words": [
+        "osier",
+        "tressage",
+        "panier"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Savoir-faire manuels",
+      "word": "broderie",
+      "forbidden_words": [
+        "fil",
+        "aiguille",
+        "motif"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Savoir-faire manuels",
+      "word": "tricot",
+      "forbidden_words": [
+        "laine",
+        "mailles",
+        "aiguilles"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Savoir-faire manuels",
+      "word": "tissage",
+      "forbidden_words": [
+        "métier",
+        "fils",
+        "étoffe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Savoir-faire manuels",
+      "word": "vitrail",
+      "forbidden_words": [
+        "verre",
+        "coloré",
+        "fenêtre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Savoir-faire manuels",
+      "word": "reliure",
+      "forbidden_words": [
+        "livre",
+        "couverture",
+        "pages"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Savoir-faire manuels",
+      "word": "mosaïque",
+      "forbidden_words": [
+        "tesselles",
+        "assemblage",
+        "décoration"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Savoir-faire manuels",
+      "word": "marqueterie",
+      "forbidden_words": [
+        "bois",
+        "incrustation",
+        "motifs"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Loisirs",
+      "sub_category": "Découvertes et activités",
+      "word": "bibliothèque",
+      "forbidden_words": [
+        "livres",
+        "emprunter",
+        "rayonnages"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Loisirs",
+      "sub_category": "Découvertes et activités",
+      "word": "musée",
+      "forbidden_words": [
+        "exposition",
+        "collections",
+        "visiter"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Loisirs",
+      "sub_category": "Découvertes et activités",
+      "word": "planétarium",
+      "forbidden_words": [
+        "étoiles",
+        "dôme",
+        "astronomie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Loisirs",
+      "sub_category": "Découvertes et activités",
+      "word": "aquarium",
+      "forbidden_words": [
+        "poissons",
+        "vitre",
+        "eau"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Loisirs",
+      "sub_category": "Découvertes et activités",
+      "word": "jumelles",
+      "forbidden_words": [
+        "observer",
+        "grossissement",
+        "deux yeux"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Loisirs",
+      "sub_category": "Découvertes et activités",
+      "word": "cerf-volant",
+      "forbidden_words": [
+        "vent",
+        "ficelle",
+        "ciel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Loisirs",
+      "sub_category": "Découvertes et activités",
+      "word": "puzzle",
+      "forbidden_words": [
+        "pièces",
+        "assembler",
+        "image"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Loisirs",
+      "sub_category": "Découvertes et activités",
+      "word": "origami",
+      "forbidden_words": [
+        "papier",
+        "pliage",
+        "figurine"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Loisirs",
+      "sub_category": "Découvertes et activités",
+      "word": "carnet de croquis",
+      "forbidden_words": [
+        "dessiner",
+        "feuilles",
+        "esquisse"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Loisirs",
+      "sub_category": "Découvertes et activités",
+      "word": "appareil photo",
+      "forbidden_words": [
+        "objectif",
+        "image",
+        "déclencheur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Convivialité",
+      "sub_category": "À table et au café",
+      "word": "terrasse",
+      "forbidden_words": [
+        "tables",
+        "extérieur",
+        "café"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Convivialité",
+      "sub_category": "À table et au café",
+      "word": "salon de thé",
+      "forbidden_words": [
+        "infusion",
+        "gâteaux",
+        "pause"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Convivialité",
+      "sub_category": "À table et au café",
+      "word": "chocolat chaud",
+      "forbidden_words": [
+        "cacao",
+        "lait",
+        "tasse"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Convivialité",
+      "sub_category": "À table et au café",
+      "word": "tisane",
+      "forbidden_words": [
+        "plantes",
+        "infusion",
+        "soir"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Convivialité",
+      "sub_category": "À table et au café",
+      "word": "carafe d'eau",
+      "forbidden_words": [
+        "table",
+        "verser",
+        "boisson"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Convivialité",
+      "sub_category": "À table et au café",
+      "word": "nappe",
+      "forbidden_words": [
+        "table",
+        "tissu",
+        "repas"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Convivialité",
+      "sub_category": "À table et au café",
+      "word": "serviette de table",
+      "forbidden_words": [
+        "genoux",
+        "repas",
+        "tissu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Convivialité",
+      "sub_category": "À table et au café",
+      "word": "soucoupe",
+      "forbidden_words": [
+        "tasse",
+        "petite assiette",
+        "boisson"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Convivialité",
+      "sub_category": "À table et au café",
+      "word": "théière",
+      "forbidden_words": [
+        "infuser",
+        "bec",
+        "feuilles"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Convivialité",
+      "sub_category": "À table et au café",
+      "word": "sucrier",
+      "forbidden_words": [
+        "morceaux",
+        "table",
+        "douceur"
+      ]
+    }
+  ],
   "sessiz_sinema": [
     {
       "game_type": "sessiz_sinema",
