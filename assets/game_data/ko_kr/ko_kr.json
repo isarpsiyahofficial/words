@@ -11707,6 +11707,1306 @@
         "여름과 겨울",
         "기후"
       ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 집과 공간",
+      "sub_category": "전통 주택",
+      "word": "솟을대문",
+      "forbidden_words": [
+        "지붕이 높게 솟은 출입구",
+        "큰 집의 정면",
+        "양반가 입구"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 집과 공간",
+      "sub_category": "전통 주택",
+      "word": "사랑채",
+      "forbidden_words": [
+        "손님을 맞는 공간",
+        "바깥쪽 방",
+        "옛 주택"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 집과 공간",
+      "sub_category": "전통 주택",
+      "word": "안채",
+      "forbidden_words": [
+        "가족이 지내는 공간",
+        "집 안쪽",
+        "살림 중심"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 집과 공간",
+      "sub_category": "전통 주택",
+      "word": "툇마루",
+      "forbidden_words": [
+        "방 바깥의 좁은 나무 바닥",
+        "걸터앉는 곳",
+        "옛집 구조"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 집과 공간",
+      "sub_category": "전통 주택",
+      "word": "빗장",
+      "forbidden_words": [
+        "문을 가로질러 잠금",
+        "나무 막대",
+        "옛 잠금장치"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 집과 공간",
+      "sub_category": "전통 주택",
+      "word": "돌담",
+      "forbidden_words": [
+        "자연 재료를 쌓은 경계",
+        "집 둘레",
+        "시골 골목"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 집과 공간",
+      "sub_category": "전통 주택",
+      "word": "담장",
+      "forbidden_words": [
+        "집 둘레의 경계",
+        "울타리",
+        "이웃과 구분"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 집과 공간",
+      "sub_category": "전통 주택",
+      "word": "용마루",
+      "forbidden_words": [
+        "기와지붕 가장 높은 선",
+        "양쪽 경사가 만남",
+        "지붕 꼭대기"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 집과 공간",
+      "sub_category": "전통 주택",
+      "word": "풍경",
+      "forbidden_words": [
+        "처마 끝에 매다는 종",
+        "바람에 울림",
+        "맑은 소리"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 집과 공간",
+      "sub_category": "전통 주택",
+      "word": "창호지",
+      "forbidden_words": [
+        "전통 미닫이에 바르는 얇은 종이",
+        "빛이 은은하게 통함",
+        "한옥 창문"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식",
+      "sub_category": "지역의 밥상",
+      "word": "묵은지",
+      "forbidden_words": [
+        "오래 익힌 배추 반찬",
+        "깊은 신맛",
+        "숙성된 김치"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식",
+      "sub_category": "지역의 밥상",
+      "word": "열무김치",
+      "forbidden_words": [
+        "어린 무청으로 담근 반찬",
+        "여름철 밥상",
+        "아삭한 채소"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식",
+      "sub_category": "지역의 밥상",
+      "word": "나박김치",
+      "forbidden_words": [
+        "얇고 네모난 채소 조각",
+        "맑은 국물",
+        "시원한 반찬"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식",
+      "sub_category": "지역의 밥상",
+      "word": "김치전",
+      "forbidden_words": [
+        "발효 채소를 넣은 부침",
+        "바삭한 가장자리",
+        "비 오는 날 간식"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식",
+      "sub_category": "지역의 밥상",
+      "word": "배추전",
+      "forbidden_words": [
+        "잎을 통째로 부친 음식",
+        "밀가루 반죽",
+        "경북 향토 음식"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식",
+      "sub_category": "지역의 밥상",
+      "word": "청포묵",
+      "forbidden_words": [
+        "녹두 전분으로 만든 반투명 음식",
+        "탱글한 식감",
+        "차가운 반찬"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식",
+      "sub_category": "지역의 밥상",
+      "word": "잣죽",
+      "forbidden_words": [
+        "견과를 갈아 끓인 부드러운 음식",
+        "고소한 향",
+        "하얀 미음"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식",
+      "sub_category": "지역의 밥상",
+      "word": "콩나물무침",
+      "forbidden_words": [
+        "아삭한 싹채소 반찬",
+        "소금과 참기름",
+        "밥상 곁들임"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식",
+      "sub_category": "지역의 밥상",
+      "word": "호박전",
+      "forbidden_words": [
+        "둥근 노란 채소를 얇게 썰어 부침",
+        "달걀옷",
+        "명절 음식"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식",
+      "sub_category": "지역의 밥상",
+      "word": "미숫가루",
+      "forbidden_words": [
+        "볶은 곡식을 갈아 만든 분말",
+        "찬물에 타 마심",
+        "여름 간식"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "공방과 도구",
+      "sub_category": "목공 작업",
+      "word": "대패",
+      "forbidden_words": [
+        "나무 표면을 얇게 깎음",
+        "결을 고르게 함",
+        "목수의 연장"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "공방과 도구",
+      "sub_category": "목공 작업",
+      "word": "끌",
+      "forbidden_words": [
+        "나무에 홈을 파는 연장",
+        "망치로 두드림",
+        "날이 좁음"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "공방과 도구",
+      "sub_category": "목공 작업",
+      "word": "송곳",
+      "forbidden_words": [
+        "작은 구멍을 먼저 냄",
+        "뾰족한 끝",
+        "손으로 누르는 연장"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "공방과 도구",
+      "sub_category": "목공 작업",
+      "word": "먹줄",
+      "forbidden_words": [
+        "목재 위에 곧은 선 표시",
+        "검은 가루",
+        "팽팽하게 튕김"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "공방과 도구",
+      "sub_category": "목공 작업",
+      "word": "숫돌",
+      "forbidden_words": [
+        "날을 갈아 날카롭게 함",
+        "물을 묻혀 사용",
+        "칼 손질"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "공방과 도구",
+      "sub_category": "목공 작업",
+      "word": "각도기",
+      "forbidden_words": [
+        "도형의 벌어진 정도를 잼",
+        "반원 모양",
+        "학교 수학 도구"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "공방과 도구",
+      "sub_category": "목공 작업",
+      "word": "작업대",
+      "forbidden_words": [
+        "물건을 올려놓고 제작",
+        "튼튼한 평면",
+        "공방 가구"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "공방과 도구",
+      "sub_category": "목공 작업",
+      "word": "목공풀",
+      "forbidden_words": [
+        "나무 조각을 붙임",
+        "마르면 단단해짐",
+        "접착제"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "공방과 도구",
+      "sub_category": "목공 작업",
+      "word": "톱날",
+      "forbidden_words": [
+        "톱의 이빨 부분",
+        "목재 절단",
+        "날카로운 톱니"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "공방과 도구",
+      "sub_category": "목공 작업",
+      "word": "고무망치",
+      "forbidden_words": [
+        "표면에 자국을 덜 남김",
+        "부드러운 머리",
+        "조립 작업"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지리와 물길",
+      "sub_category": "다양한 지형",
+      "word": "선상지",
+      "forbidden_words": [
+        "산골짜기 출구에 부채꼴로 쌓인 땅",
+        "자갈 퇴적",
+        "평지로 나오는 물길"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지리와 물길",
+      "sub_category": "다양한 지형",
+      "word": "사주",
+      "forbidden_words": [
+        "모래가 길게 쌓여 생긴 해안 지형",
+        "파도와 흐름",
+        "육지와 평행"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지리와 물길",
+      "sub_category": "다양한 지형",
+      "word": "사행천",
+      "forbidden_words": [
+        "구불구불 흐르는 강",
+        "평야의 물길",
+        "굽이침"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지리와 물길",
+      "sub_category": "다양한 지형",
+      "word": "우각호",
+      "forbidden_words": [
+        "강의 굽이가 끊어져 남은 호수",
+        "초승달 모양",
+        "옛 물길"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지리와 물길",
+      "sub_category": "다양한 지형",
+      "word": "범람원",
+      "forbidden_words": [
+        "강물이 넘치며 만든 평평한 땅",
+        "비옥한 토양",
+        "하천 주변"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지리와 물길",
+      "sub_category": "다양한 지형",
+      "word": "용천수",
+      "forbidden_words": [
+        "땅속에서 자연히 솟아나는 물",
+        "샘",
+        "지하 흐름"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지리와 물길",
+      "sub_category": "다양한 지형",
+      "word": "침식분지",
+      "forbidden_words": [
+        "주변보다 낮고 넓은 땅",
+        "약한 암석이 깎임",
+        "산지 안쪽"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지리와 물길",
+      "sub_category": "다양한 지형",
+      "word": "해식애",
+      "forbidden_words": [
+        "파도가 깎은 가파른 절벽",
+        "해안 지형",
+        "높은 바위벽"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지리와 물길",
+      "sub_category": "다양한 지형",
+      "word": "빙퇴석",
+      "forbidden_words": [
+        "얼음 덩어리가 옮겨 놓은 자갈과 흙",
+        "산악 지형",
+        "퇴적된 돌무더기"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지리와 물길",
+      "sub_category": "다양한 지형",
+      "word": "하중도",
+      "forbidden_words": [
+        "강 한가운데 쌓인 흙",
+        "물길이 갈라짐",
+        "물 위의 작은 섬"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영 기법과 장비",
+      "word": "삼각대",
+      "forbidden_words": [
+        "카메라를 흔들리지 않게 받침",
+        "세 다리",
+        "촬영 보조"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영 기법과 장비",
+      "word": "셔터",
+      "forbidden_words": [
+        "빛이 들어오는 시간을 조절",
+        "찰칵 소리",
+        "사진기 내부 장치"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영 기법과 장비",
+      "word": "렌즈캡",
+      "forbidden_words": [
+        "유리 앞면을 덮는 보호 덮개",
+        "먼지 방지",
+        "촬영 전 제거"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영 기법과 장비",
+      "word": "역광",
+      "forbidden_words": [
+        "피사체 뒤쪽에서 오는 빛",
+        "실루엣",
+        "어둡게 보이는 얼굴"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영 기법과 장비",
+      "word": "구도",
+      "forbidden_words": [
+        "화면 속 요소를 배치",
+        "균형과 시선",
+        "사진 구성"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영 기법과 장비",
+      "word": "접사",
+      "forbidden_words": [
+        "아주 가까이에서 작은 대상을 찍음",
+        "꽃잎 무늬",
+        "확대 촬영"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영 기법과 장비",
+      "word": "파노라마",
+      "forbidden_words": [
+        "넓은 풍경을 길게 이어 담음",
+        "가로로 긴 화면",
+        "여러 장 합성"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영 기법과 장비",
+      "word": "인화지",
+      "forbidden_words": [
+        "사진을 출력하는 특수 종이",
+        "현상 작업",
+        "광택 표면"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영 기법과 장비",
+      "word": "필름카메라",
+      "forbidden_words": [
+        "빛에 반응하는 띠를 넣어 찍음",
+        "아날로그 촬영",
+        "현상소"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영 기법과 장비",
+      "word": "타임랩스",
+      "forbidden_words": [
+        "긴 변화를 짧게 보여주는 영상",
+        "일정 간격 촬영",
+        "구름 이동"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 거래",
+      "sub_category": "생활 경제",
+      "word": "오일장",
+      "forbidden_words": [
+        "며칠 간격으로 열리는 시골 시장",
+        "정해진 날짜",
+        "노점이 모임"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 거래",
+      "sub_category": "생활 경제",
+      "word": "좌판",
+      "forbidden_words": [
+        "물건을 펼쳐 놓는 낮은 판매 자리",
+        "길가 상인",
+        "바닥 진열"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 거래",
+      "sub_category": "생활 경제",
+      "word": "흥정",
+      "forbidden_words": [
+        "값을 두고 서로 의견을 주고받음",
+        "깎아 달라 요청",
+        "거래 대화"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 거래",
+      "sub_category": "생활 경제",
+      "word": "단골",
+      "forbidden_words": [
+        "한 가게를 자주 찾는 손님",
+        "익숙한 얼굴",
+        "꾸준한 방문"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 거래",
+      "sub_category": "생활 경제",
+      "word": "장날",
+      "forbidden_words": [
+        "시장이 열리는 정해진 날",
+        "사람이 붐빔",
+        "시골 상권"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 거래",
+      "sub_category": "생활 경제",
+      "word": "상인",
+      "forbidden_words": [
+        "물건을 사고파는 직업",
+        "가게 운영",
+        "시장 사람"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 거래",
+      "sub_category": "생활 경제",
+      "word": "노점",
+      "forbidden_words": [
+        "길가에 임시로 마련한 판매 장소",
+        "이동식 진열",
+        "가판"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 거래",
+      "sub_category": "생활 경제",
+      "word": "영수증",
+      "forbidden_words": [
+        "구매 금액이 적힌 증빙 종이",
+        "결제 내역",
+        "환불 때 필요"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 거래",
+      "sub_category": "생활 경제",
+      "word": "계산서",
+      "forbidden_words": [
+        "거래한 품목과 금액을 적은 문서",
+        "청구 내역",
+        "상점 기록"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "시장과 거래",
+      "sub_category": "생활 경제",
+      "word": "직거래",
+      "forbidden_words": [
+        "중간 판매자 없이 서로 사고팜",
+        "생산자와 소비자",
+        "유통 단계 감소"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다와 생물",
+      "sub_category": "해안의 생명",
+      "word": "갈매기",
+      "forbidden_words": [
+        "바닷가에서 흔히 보이는 흰 새",
+        "해변 울음소리",
+        "날개가 길다"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다와 생물",
+      "sub_category": "해안의 생명",
+      "word": "망둥어",
+      "forbidden_words": [
+        "갯벌에서 펄쩍 뛰는 물고기",
+        "얕은 바다",
+        "눈이 위쪽"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다와 생물",
+      "sub_category": "해안의 생명",
+      "word": "숭어",
+      "forbidden_words": [
+        "강 하구에도 사는 은빛 물고기",
+        "무리 지어 이동",
+        "수면 점프"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다와 생물",
+      "sub_category": "해안의 생명",
+      "word": "고등어",
+      "forbidden_words": [
+        "등에 푸른 줄무늬가 있는 생선",
+        "구이 반찬",
+        "기름진 살"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다와 생물",
+      "sub_category": "해안의 생명",
+      "word": "멸치",
+      "forbidden_words": [
+        "작고 가느다란 바다 생선",
+        "국물 재료",
+        "말린 건어물"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다와 생물",
+      "sub_category": "해안의 생명",
+      "word": "꽃게",
+      "forbidden_words": [
+        "옆으로 걷는 갑각류",
+        "집게발",
+        "딱딱한 껍데기"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다와 생물",
+      "sub_category": "해안의 생명",
+      "word": "굴",
+      "forbidden_words": [
+        "바위에 붙어 사는 조개",
+        "껍데기 속 살",
+        "겨울철 해산물"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다와 생물",
+      "sub_category": "해안의 생명",
+      "word": "새우",
+      "forbidden_words": [
+        "몸을 굽혀 헤엄치는 갑각류",
+        "긴 수염",
+        "튀김 재료"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다와 생물",
+      "sub_category": "해안의 생명",
+      "word": "미더덕",
+      "forbidden_words": [
+        "울퉁불퉁한 주황빛 해산물",
+        "톡 터지는 식감",
+        "찜 요리"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다와 생물",
+      "sub_category": "해안의 생명",
+      "word": "톳",
+      "forbidden_words": [
+        "바닷가 바위에 붙어 자라는 갈색 해조류",
+        "무침 반찬",
+        "가느다란 가지"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨와 기후",
+      "sub_category": "대기의 변화",
+      "word": "폭설",
+      "forbidden_words": [
+        "짧은 시간에 눈이 매우 많이 내림",
+        "도로가 하얗게 덮임",
+        "겨울 기상"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨와 기후",
+      "sub_category": "대기의 변화",
+      "word": "가뭄",
+      "forbidden_words": [
+        "오랫동안 비가 오지 않음",
+        "저수지 수위 감소",
+        "메마른 논"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨와 기후",
+      "sub_category": "대기의 변화",
+      "word": "우기",
+      "forbidden_words": [
+        "비가 집중되는 계절",
+        "습한 날씨",
+        "열대 기후"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨와 기후",
+      "sub_category": "대기의 변화",
+      "word": "건기",
+      "forbidden_words": [
+        "강수량이 적은 시기",
+        "메마른 계절",
+        "열대 지역"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨와 기후",
+      "sub_category": "대기의 변화",
+      "word": "적설량",
+      "forbidden_words": [
+        "땅에 쌓인 눈의 깊이",
+        "겨울 관측",
+        "센티미터"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨와 기후",
+      "sub_category": "대기의 변화",
+      "word": "이슬점",
+      "forbidden_words": [
+        "수증기가 물방울로 바뀌기 시작하는 온도",
+        "공기 냉각",
+        "습도"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨와 기후",
+      "sub_category": "대기의 변화",
+      "word": "열섬현상",
+      "forbidden_words": [
+        "도시가 주변보다 더 뜨거워짐",
+        "아스팔트",
+        "야간 기온"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨와 기후",
+      "sub_category": "대기의 변화",
+      "word": "편서풍",
+      "forbidden_words": [
+        "중위도에서 서쪽에서 동쪽으로 부는 바람",
+        "대기 순환",
+        "날씨 이동"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨와 기후",
+      "sub_category": "대기의 변화",
+      "word": "무역풍",
+      "forbidden_words": [
+        "저위도에서 일정 방향으로 부는 바람",
+        "적도 부근",
+        "옛 항해에 이용"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨와 기후",
+      "sub_category": "대기의 변화",
+      "word": "대류",
+      "forbidden_words": [
+        "따뜻한 공기가 올라가고 차가운 공기가 내려옴",
+        "열 이동",
+        "상하 순환"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 생활",
+      "sub_category": "기기와 파일",
+      "word": "공유기",
+      "forbidden_words": [
+        "집 안 여러 기기가 인터넷을 함께 사용",
+        "와이파이 신호",
+        "네트워크 장치"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 생활",
+      "sub_category": "기기와 파일",
+      "word": "외장하드",
+      "forbidden_words": [
+        "컴퓨터 밖에 연결하는 저장 장치",
+        "대용량 파일",
+        "USB 연결"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 생활",
+      "sub_category": "기기와 파일",
+      "word": "메모리카드",
+      "forbidden_words": [
+        "작은 탈착식 저장 매체",
+        "카메라와 휴대폰",
+        "사진 보관"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 생활",
+      "sub_category": "기기와 파일",
+      "word": "모니터",
+      "forbidden_words": [
+        "컴퓨터 화면을 보여주는 장치",
+        "책상 위 디스플레이",
+        "영상 출력"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 생활",
+      "sub_category": "기기와 파일",
+      "word": "해상도",
+      "forbidden_words": [
+        "화면을 이루는 점의 가로세로 수",
+        "선명함",
+        "픽셀 수"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 생활",
+      "sub_category": "기기와 파일",
+      "word": "화소",
+      "forbidden_words": [
+        "디지털 이미지의 작은 점 하나",
+        "색 정보",
+        "화면 구성 단위"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 생활",
+      "sub_category": "기기와 파일",
+      "word": "백업",
+      "forbidden_words": [
+        "자료를 다른 곳에 복사해 둠",
+        "손실 대비",
+        "복구용 사본"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 생활",
+      "sub_category": "기기와 파일",
+      "word": "웹주소",
+      "forbidden_words": [
+        "인터넷 페이지 위치를 나타냄",
+        "브라우저 입력창",
+        "사이트 연결"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 생활",
+      "sub_category": "기기와 파일",
+      "word": "확장자",
+      "forbidden_words": [
+        "파일 이름 끝에 붙는 형식 표시",
+        "점 뒤의 글자",
+        "문서 종류 구분"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 생활",
+      "sub_category": "기기와 파일",
+      "word": "마우스",
+      "forbidden_words": [
+        "손으로 움직이는 입력 기기",
+        "화면의 화살표",
+        "클릭 버튼"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "문화와 배움",
+      "sub_category": "체험 시설",
+      "word": "식물원",
+      "forbidden_words": [
+        "다양한 식물을 모아 가꾸는 시설",
+        "온실",
+        "관찰 산책"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "문화와 배움",
+      "sub_category": "체험 시설",
+      "word": "수목원",
+      "forbidden_words": [
+        "나무와 숲을 연구하고 전시",
+        "산림 교육",
+        "넓은 정원"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "문화와 배움",
+      "sub_category": "체험 시설",
+      "word": "박물관",
+      "forbidden_words": [
+        "옛 물건과 유물을 보존해 전시",
+        "관람실",
+        "역사 학습"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "문화와 배움",
+      "sub_category": "체험 시설",
+      "word": "과학관",
+      "forbidden_words": [
+        "실험과 원리를 체험하는 전시 공간",
+        "체험 장치",
+        "어린이 탐구"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "문화와 배움",
+      "sub_category": "체험 시설",
+      "word": "미술관",
+      "forbidden_words": [
+        "그림과 조각을 감상하는 시설",
+        "전시실",
+        "작품 관람"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "문화와 배움",
+      "sub_category": "체험 시설",
+      "word": "문화센터",
+      "forbidden_words": [
+        "주민 대상 취미 강좌",
+        "동네 수업",
+        "배움 공간"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "문화와 배움",
+      "sub_category": "체험 시설",
+      "word": "천체투영관",
+      "forbidden_words": [
+        "돔 천장에 밤하늘을 비추는 시설",
+        "별자리 상영",
+        "우주 교육"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "문화와 배움",
+      "sub_category": "체험 시설",
+      "word": "야외공연장",
+      "forbidden_words": [
+        "지붕 없는 무대와 관객석",
+        "공원 행사",
+        "음악과 연극"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "문화와 배움",
+      "sub_category": "체험 시설",
+      "word": "수족관",
+      "forbidden_words": [
+        "물속 생물을 유리 너머 관찰",
+        "대형 수조",
+        "물고기 전시"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "문화와 배움",
+      "sub_category": "체험 시설",
+      "word": "생태학습장",
+      "forbidden_words": [
+        "자연의 생물과 환경을 체험",
+        "탐방 해설",
+        "습지 관찰"
+      ]
     }
   ],
   "sessiz_sinema": [
