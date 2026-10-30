@@ -14276,6 +14276,616 @@
       "difficulty": "difficile",
       "question": "Quel ensemble d'altérations placées au début d'une portée indique la tonalité utilisée ?",
       "answer": "armure musicale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Menuiserie",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on le cadre fixe dans lequel vient s'insérer une porte ?",
+      "answer": "huisserie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Toiture",
+      "difficulty": "moyen",
+      "question": "Quel élément incliné conduit l'eau recueillie en bordure d'un toit vers le sol ?",
+      "answer": "descente pluviale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydrologie",
+      "sub_category": "Cours d'eau",
+      "difficulty": "difficile",
+      "question": "Quel creusement du lit se produit autour d'une pile de pont sous l'action du courant ?",
+      "answer": "affouillement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydrologie",
+      "sub_category": "Relief fluvial",
+      "difficulty": "moyen",
+      "question": "Quelle étendue plane est formée par les dépôts successifs d'un cours d'eau ?",
+      "answer": "plaine alluviale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydrologie",
+      "sub_category": "Cours d'eau",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on une accumulation de branches et de débris qui obstrue un cours d'eau ?",
+      "answer": "embâcle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Structure des roches",
+      "difficulty": "difficile",
+      "question": "Quel angle décrit l'inclinaison d'une couche par rapport à l'horizontale ?",
+      "answer": "pendage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Roches",
+      "difficulty": "moyen",
+      "question": "Quelle roche magmatique à gros cristaux contient notamment quartz et feldspath ?",
+      "answer": "granite"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Érosion",
+      "difficulty": "difficile",
+      "question": "Quel processus use davantage les couches tendres que les couches résistantes d'un relief ?",
+      "answer": "érosion différentielle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Sols",
+      "difficulty": "moyen",
+      "question": "Quelle couche superficielle résulte de l'altération des roches et de l'activité biologique ?",
+      "answer": "sol"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Instruments",
+      "difficulty": "moyen",
+      "question": "Quel appareil grossit de très petits objets grâce à un système de lentilles ?",
+      "answer": "microscope optique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Instruments",
+      "difficulty": "difficile",
+      "question": "Quel dispositif forme une image dans une boîte obscure à travers un minuscule trou ?",
+      "answer": "sténopé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Vision",
+      "difficulty": "difficile",
+      "question": "Quel défaut optique rend les objets lointains flous tandis que les proches restent nets ?",
+      "answer": "myopie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Milieux naturels",
+      "difficulty": "moyen",
+      "question": "Quel nom désigne la masse totale des organismes vivants dans un milieu donné ?",
+      "answer": "biomasse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Interactions",
+      "difficulty": "difficile",
+      "question": "Quelle relation entre deux espèces procure un bénéfice à chacune ?",
+      "answer": "mutualisme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Interactions",
+      "difficulty": "difficile",
+      "question": "Quelle relation profite à une espèce sans effet notable sur l'autre ?",
+      "answer": "commensalisme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Paysages",
+      "difficulty": "difficile",
+      "question": "Quelle zone de transition se trouve entre deux communautés naturelles différentes ?",
+      "answer": "écotone"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Dynamiques naturelles",
+      "difficulty": "difficile",
+      "question": "Quelle évolution progressive transforme la composition des communautés d'un milieu au fil du temps ?",
+      "answer": "succession écologique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Dynamiques naturelles",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on une plante qui colonise parmi les premières un terrain récemment découvert ?",
+      "answer": "espèce pionnière"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Habitats",
+      "difficulty": "difficile",
+      "question": "Quelle notion décrit le rôle et les ressources utilisés par une espèce dans son environnement ?",
+      "answer": "niche écologique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Pollinisation",
+      "difficulty": "difficile",
+      "question": "Comment appelle-t-on le transport du pollen assuré par le vent ?",
+      "answer": "anémophilie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Transmission",
+      "difficulty": "moyen",
+      "question": "Quel dispositif denté permet le mouvement dans un seul sens et bloque le retour ?",
+      "answer": "cliquet"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Transmission",
+      "difficulty": "moyen",
+      "question": "Quelle barre dentée transforme la rotation d'un pignon en déplacement rectiligne ?",
+      "answer": "crémaillère"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Transmission",
+      "difficulty": "difficile",
+      "question": "Quel organe rotatif stocke temporairement de l'énergie pour régulariser un mouvement ?",
+      "answer": "volant d'inertie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Assemblage",
+      "difficulty": "moyen",
+      "question": "Quel anneau élastique placé dans une rainure empêche une pièce de glisser le long d'un axe ?",
+      "answer": "circlip"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Transmission",
+      "difficulty": "difficile",
+      "question": "Quel engrenage comprend une vis hélicoïdale qui entraîne une roue dentée ?",
+      "answer": "vis sans fin"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Transmission",
+      "difficulty": "moyen",
+      "question": "Quel organe souple transmet une rotation entre deux poulies éloignées ?",
+      "answer": "courroie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Guidage",
+      "difficulty": "difficile",
+      "question": "Quel support permet à un arbre de tourner en glissant sur une surface lubrifiée ?",
+      "answer": "palier lisse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Couture",
+      "difficulty": "difficile",
+      "question": "Quelle technique rassemble un surplus de tissu en petits plis souples et réguliers ?",
+      "answer": "fronçage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage",
+      "difficulty": "moyen",
+      "question": "Quel fil traverse perpendiculairement les fils tendus sur un métier à tisser ?",
+      "answer": "fil de trame"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage",
+      "difficulty": "difficile",
+      "question": "Quelle armure textile crée des côtes obliques visibles sur la surface ?",
+      "answer": "sergé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Finitions",
+      "difficulty": "moyen",
+      "question": "Quelle bande étroite de tissu sert à orner ou renforcer une bordure ?",
+      "answer": "galon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Grammaire",
+      "difficulty": "difficile",
+      "question": "Quel groupe de mots complète un nom sans passer par un verbe conjugué ?",
+      "answer": "expansion du nom"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Grammaire",
+      "difficulty": "moyen",
+      "question": "Quel mode verbal exprime notamment un souhait ou une possibilité incertaine ?",
+      "answer": "subjonctif"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Grammaire",
+      "difficulty": "moyen",
+      "question": "Quel mode verbal présente une action comme une éventualité soumise à une condition ?",
+      "answer": "conditionnel"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Lexique",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on un mot qui a plusieurs sens liés entre eux ?",
+      "answer": "polysémie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Lexique",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on deux mots de sens opposés ?",
+      "answer": "antonymes"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Syntaxe",
+      "difficulty": "difficile",
+      "question": "Quelle construction inverse l'ordre habituel des mots pour produire un effet d'insistance ?",
+      "answer": "inversion syntaxique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Lexique",
+      "difficulty": "difficile",
+      "question": "Quel procédé crée un mot en réunissant les fragments de deux mots existants ?",
+      "answer": "mot-valise"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Réseaux",
+      "difficulty": "moyen",
+      "question": "Quel équipement oriente les paquets de données entre plusieurs réseaux ?",
+      "answer": "routeur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Réseaux",
+      "difficulty": "difficile",
+      "question": "Quel intermédiaire reçoit des requêtes pour le compte d'un autre ordinateur ?",
+      "answer": "serveur mandataire"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Programmation",
+      "difficulty": "moyen",
+      "question": "Quel programme transforme un code source en instructions exécutables avant leur lancement ?",
+      "answer": "compilateur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Programmation",
+      "difficulty": "moyen",
+      "question": "Quel programme exécute progressivement les instructions d'un langage sans créer d'exécutable préalable ?",
+      "answer": "interpréteur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Systèmes",
+      "difficulty": "difficile",
+      "question": "Quel composant logiciel répartit le temps de calcul entre plusieurs tâches ?",
+      "answer": "ordonnanceur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Données",
+      "difficulty": "difficile",
+      "question": "Quel algorithme produit une empreinte de taille fixe à partir de données de longueur variable ?",
+      "answer": "fonction de hachage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Données",
+      "difficulty": "difficile",
+      "question": "Quel procédé remplace les valeurs identifiantes d'un jeu de données par des substituts ?",
+      "answer": "pseudonymisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles",
+      "difficulty": "moyen",
+      "question": "Quel ustensile muni d'une lame réglable coupe des légumes en tranches régulières ?",
+      "answer": "mandoline de cuisine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles",
+      "difficulty": "moyen",
+      "question": "Quel outil à petites dents retire seulement la partie colorée de l'écorce d'un agrume ?",
+      "answer": "zesteur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Pâtisserie",
+      "difficulty": "difficile",
+      "question": "Quelle petite lame souple sert à racler une pâte sur un plan de travail ?",
+      "answer": "corne à pâtisserie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Préparations",
+      "difficulty": "difficile",
+      "question": "Quel procédé consiste à plonger brièvement un légume dans l'eau bouillante puis à le refroidir ?",
+      "answer": "blanchiment"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Préparations",
+      "difficulty": "difficile",
+      "question": "Quel procédé passe une poudre à travers un grillage fin pour retirer les amas ?",
+      "answer": "tamisage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Atmosphère",
+      "difficulty": "difficile",
+      "question": "Quel phénomène associe l'évaporation du sol et la transpiration des plantes ?",
+      "answer": "évapotranspiration"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Triangles",
+      "difficulty": "difficile",
+      "question": "Quel point est l'intersection des trois hauteurs d'un triangle ?",
+      "answer": "orthocentre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Triangles",
+      "difficulty": "difficile",
+      "question": "Quel point est l'intersection des trois médianes d'un triangle ?",
+      "answer": "centre de gravité"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Solides",
+      "difficulty": "difficile",
+      "question": "Comment appelle-t-on la figure plane obtenue en dépliant toutes les faces d'un solide ?",
+      "answer": "patron géométrique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Repérage",
+      "difficulty": "difficile",
+      "question": "Quel système de deux axes perpendiculaires avec une même unité permet de placer des points ?",
+      "answer": "repère orthonormé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Transformations",
+      "difficulty": "difficile",
+      "question": "Quelle transformation fait tourner une figure autour d'un point d'un angle donné ?",
+      "answer": "rotation plane"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Multiplication",
+      "difficulty": "moyen",
+      "question": "Quelle technique fait prendre racine à un fragment de plante séparé de son pied ?",
+      "answer": "bouturage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Multiplication",
+      "difficulty": "difficile",
+      "question": "Quelle technique unit une partie de plante à un autre pied pour qu'elles poussent ensemble ?",
+      "answer": "greffage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Culture",
+      "difficulty": "moyen",
+      "question": "Quel abri transparent protège des cultures tout en laissant passer la lumière ?",
+      "answer": "serre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Culture",
+      "difficulty": "difficile",
+      "question": "Quel dispositif répartit de l'eau en fines gouttes au-dessus d'une culture ?",
+      "answer": "aspersion"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Entretien",
+      "difficulty": "moyen",
+      "question": "Quelle opération consiste à enlever les pousses indésirables autour des plantes cultivées ?",
+      "answer": "désherbage"
     }
   ],
   "tabu": [
