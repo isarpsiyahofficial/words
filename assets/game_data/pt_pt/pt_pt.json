@@ -10147,13 +10147,13 @@
         "game_type": "tabu",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Costura e tecidos",
-        "sub_category": "Técnicas",
-        "word": "Bastidor de bordar",
+        "main_category": "Cozinha",
+        "sub_category": "Preparação",
+        "word": "Laminador de massa",
         "forbidden_words": [
-          "tecido",
-          "aro",
-          "esticar"
+          "folhas",
+          "espessura",
+          "rolo"
         ]
       },
       {
@@ -14151,13 +14151,13 @@
         "game_type": "tabu",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Tecelagem e costura",
-        "sub_category": "Fios e técnicas",
-        "word": "Bastidor de bordado",
+        "main_category": "Cozinha",
+        "sub_category": "Preparação",
+        "word": "Tábua de amassar",
         "forbidden_words": [
-          "tecido",
-          "esticar",
-          "círculo"
+          "farinha",
+          "superfície",
+          "pão"
         ]
       },
       {
@@ -24915,13 +24915,13 @@
         "game_type": "tabu",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Costura",
-        "sub_category": "Bordado",
-        "word": "Argola de bordar ajustável",
+        "main_category": "Carpintaria",
+        "sub_category": "Encaixes",
+        "word": "Cavilha de madeira",
         "forbidden_words": [
-          "tecido",
-          "esticar",
-          "aro"
+          "união",
+          "móveis",
+          "encaixe"
         ]
       },
       {
@@ -24967,13 +24967,13 @@
         "game_type": "tabu",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Artesanato",
-        "sub_category": "Bordado",
-        "word": "Bastidor de madeira",
+        "main_category": "Construção",
+        "sub_category": "Medição",
+        "word": "Régua de pedreiro",
         "forbidden_words": [
-          "aro",
-          "tecido",
-          "esticar"
+          "alinhamento",
+          "obra",
+          "comprimento"
         ]
       },
       {
@@ -25149,13 +25149,13 @@
         "game_type": "tabu",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Ambiente e sustentabilidade",
-        "sub_category": "Biodiversidade",
-        "word": "Ninho artificial",
+        "main_category": "Gastronomia",
+        "sub_category": "Utensílios",
+        "word": "Raspador de citrinos",
         "forbidden_words": [
-          "aves",
-          "abrigo",
-          "caixa"
+          "casca",
+          "limão",
+          "aroma"
         ]
       },
       {
@@ -25370,13 +25370,13 @@
         "game_type": "tabu",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Orientação e viagens",
-        "sub_category": "Paisagem",
-        "word": "Ponto de observação",
+        "main_category": "Pastelaria",
+        "sub_category": "Decoração",
+        "word": "Bico de pasteleiro",
         "forbidden_words": [
-          "vista",
-          "miradouro",
-          "panorama"
+          "creme",
+          "decorar",
+          "confeitaria"
         ]
       },
       {
@@ -25533,6 +25533,474 @@
           "ampliar",
           "lente",
           "apoio"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Instalações",
+        "sub_category": "Eletricidade",
+        "word": "Caixa de derivação",
+        "forbidden_words": [
+          "cabos",
+          "ligações",
+          "paredes"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Canalização",
+        "sub_category": "Componentes",
+        "word": "Válvula de retenção",
+        "forbidden_words": [
+          "fluido",
+          "retorno",
+          "tubagem"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artesanato",
+        "sub_category": "Feltro",
+        "word": "Agulha de feltragem",
+        "forbidden_words": [
+          "lã",
+          "fibras",
+          "picar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecelagem",
+        "sub_category": "Técnicas",
+        "word": "Tear de cartões",
+        "forbidden_words": [
+          "faixas",
+          "fios",
+          "entrelaçar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos",
+        "sub_category": "Observação",
+        "word": "Lupa conta-fios",
+        "forbidden_words": [
+          "trama",
+          "ampliar",
+          "tecelagem"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia",
+        "sub_category": "Instrumentos históricos",
+        "word": "Esfera armilar",
+        "forbidden_words": [
+          "anéis",
+          "astros",
+          "órbitas"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia",
+        "sub_category": "Medição do tempo",
+        "word": "Relógio de sol",
+        "forbidden_words": [
+          "sombra",
+          "horas",
+          "gnómon"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia",
+        "sub_category": "Relevo",
+        "word": "Curva de nível",
+        "forbidden_words": [
+          "altitude",
+          "mapa",
+          "terreno"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia",
+        "sub_category": "Instrumentos",
+        "word": "Manga de vento",
+        "forbidden_words": [
+          "aeródromo",
+          "direção",
+          "brisa"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia",
+        "sub_category": "Previsão",
+        "word": "Carta sinóptica",
+        "forbidden_words": [
+          "frentes",
+          "pressão",
+          "previsão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geografia costeira",
+        "sub_category": "Praias",
+        "word": "Praia de seixos",
+        "forbidden_words": [
+          "pedras",
+          "orla",
+          "arredondados"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Biologia marinha",
+        "sub_category": "Amostragem",
+        "word": "Rede de plâncton",
+        "forbidden_words": [
+          "amostras",
+          "água",
+          "organismos"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Conservação",
+        "word": "Prensa de flores",
+        "forbidden_words": [
+          "secar",
+          "pétalas",
+          "papel"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horticultura",
+        "sub_category": "Proteção",
+        "word": "Túnel de cultivo",
+        "forbidden_words": [
+          "horta",
+          "cobertura",
+          "plantas"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardinagem",
+        "sub_category": "Recipientes",
+        "word": "Vaso autoirrigável",
+        "forbidden_words": [
+          "reservatório",
+          "plantas",
+          "humidade"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais naturais",
+        "sub_category": "Embalagens",
+        "word": "Saco de juta",
+        "forbidden_words": [
+          "fibra",
+          "tecido",
+          "embalagem"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tratamento de água",
+        "sub_category": "Filtração",
+        "word": "Filtro de carvão ativado",
+        "forbidden_words": [
+          "impurezas",
+          "absorção",
+          "odor"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Casa",
+        "sub_category": "Aquecimento",
+        "word": "Fole de lareira",
+        "forbidden_words": [
+          "brasas",
+          "insuflar",
+          "oxigénio"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Limpeza doméstica",
+        "sub_category": "Ferramentas",
+        "word": "Escova para radiadores",
+        "forbidden_words": [
+          "pó",
+          "alhetas",
+          "limpeza"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Roupa",
+        "sub_category": "Manutenção",
+        "word": "Rolo tira-pelos",
+        "forbidden_words": [
+          "adesivo",
+          "roupa",
+          "fiapos"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Calçado",
+        "sub_category": "Cuidados",
+        "word": "Escova de camurça",
+        "forbidden_words": [
+          "cerdas",
+          "calçado",
+          "limpeza"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Casa",
+        "sub_category": "Ferragens",
+        "word": "Amortecedor de porta",
+        "forbidden_words": [
+          "fecho",
+          "impacto",
+          "batente"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Objetivas",
+        "word": "Lente macro",
+        "forbidden_words": [
+          "aproximação",
+          "detalhe",
+          "fotografia"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Exposição",
+        "word": "Cartão cinzento",
+        "forbidden_words": [
+          "calibração",
+          "medição",
+          "luz"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Estúdio",
+        "word": "Fundo infinito",
+        "forbidden_words": [
+          "cenário",
+          "estúdio",
+          "continuidade"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardinagem",
+        "sub_category": "Organização",
+        "word": "Caixa de sementes",
+        "forbidden_words": [
+          "saquetas",
+          "horta",
+          "guardar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Inverno",
+        "sub_category": "Acessórios",
+        "word": "Raspador de gelo",
+        "forbidden_words": [
+          "para-brisas",
+          "frio",
+          "retirar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Navegação",
+        "sub_category": "Cartas",
+        "word": "Régua de navegação",
+        "forbidden_words": [
+          "rumo",
+          "mapa",
+          "traçar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Engenharia",
+        "sub_category": "Escoamento",
+        "word": "Tubo de drenagem",
+        "forbidden_words": [
+          "água",
+          "escoamento",
+          "solo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Decoração",
+        "sub_category": "Iluminação",
+        "word": "Lanterna de papel",
+        "forbidden_words": [
+          "pendurar",
+          "luz",
+          "festas"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Iluminação",
+        "word": "Caixa de luz",
+        "forbidden_words": [
+          "objetos",
+          "iluminação",
+          "estúdio"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Limpeza doméstica",
+        "sub_category": "Vidros",
+        "word": "Rodo de vidros",
+        "forbidden_words": [
+          "janela",
+          "borracha",
+          "limpeza"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Organização doméstica",
+        "sub_category": "Arrumação",
+        "word": "Sacos de vácuo",
+        "forbidden_words": [
+          "compressão",
+          "armazenar",
+          "ar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura",
+        "sub_category": "Proteção",
+        "word": "Manta térmica agrícola",
+        "forbidden_words": [
+          "culturas",
+          "frio",
+          "cobertura"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Oficinas",
+        "sub_category": "Precisão",
+        "word": "Gabarito de corte",
+        "forbidden_words": [
+          "repetição",
+          "medidas",
+          "guiar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia",
+        "sub_category": "Registo",
+        "word": "Termógrafo",
+        "forbidden_words": [
+          "temperatura",
+          "registo",
+          "gráfico"
         ]
       }
     ],
