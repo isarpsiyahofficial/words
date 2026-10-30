@@ -10724,7 +10724,7 @@
       "main_category": "Cartographie",
       "sub_category": "Représentation",
       "difficulty": "difficile",
-      "question": "Quelle méthode représente la surface terrestre en utilisant un cône comme surface géométrique intermédiaire ?",
+      "question": "Quelle famille de représentations cartographiques utilise une surface géométrique développable touchant le globe le long d'un parallèle ?",
       "answer": "projection conique"
     },
     {
@@ -10894,7 +10894,7 @@
       "main_category": "Acoustique et musique",
       "sub_category": "Notation",
       "difficulty": "moyen",
-      "question": "Quel signe placé au début d'une ligne musicale indique notamment la position de la note fa ?",
+      "question": "Quel symbole musical placé sur la quatrième ligne de la portée sert de repère pour les sons graves ?",
       "answer": "clé de fa"
     },
     {
@@ -10954,7 +10954,7 @@
       "main_category": "Couture et textile",
       "sub_category": "Coupe",
       "difficulty": "difficile",
-      "question": "Quelle orientation du tissu suit les fils de chaîne et guide le placement des patrons ?",
+      "question": "Quelle direction de coupe suit la longueur de l'étoffe afin de limiter les déformations d'un vêtement ?",
       "answer": "droit-fil"
     },
     {
@@ -11035,7 +11035,1077 @@
       "sub_category": "Anatomie",
       "difficulty": "difficile",
       "question": "Quel réservoir de l'œsophage stocke temporairement la nourriture chez certains oiseaux ?",
-      "answer": "jab ot"
+      "answer": "jabot"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydraulique domestique",
+      "sub_category": "Sécurité des circuits",
+      "difficulty": "moyen",
+      "question": "Quel dispositif ne laisse circuler l'eau que dans un seul sens à l'intérieur d'une canalisation ?",
+      "answer": "clapet antiretour"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydraulique domestique",
+      "sub_category": "Étanchéité",
+      "difficulty": "moyen",
+      "question": "Quelle petite bague souple, de section ronde, assure l'étanchéité entre deux pièces assemblées ?",
+      "answer": "joint torique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydraulique domestique",
+      "sub_category": "Régulation",
+      "difficulty": "difficile",
+      "question": "Quel appareil placé sur une arrivée d'eau abaisse et stabilise la force exercée par le liquide en aval ?",
+      "answer": "réducteur de pression"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydraulique domestique",
+      "sub_category": "Réservoirs",
+      "difficulty": "moyen",
+      "question": "Quel mécanisme coupe l'arrivée d'eau d'une chasse lorsque le niveau voulu est atteint ?",
+      "answer": "robinet flotteur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydraulique domestique",
+      "sub_category": "Filtration",
+      "difficulty": "moyen",
+      "question": "Quel embout perforé protège l'aspiration d'une pompe contre les débris ?",
+      "answer": "crépine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydraulique domestique",
+      "sub_category": "Chauffage",
+      "difficulty": "difficile",
+      "question": "Quel petit appareil évacue de lui-même l'air accumulé dans un circuit de chauffage ?",
+      "answer": "purgeur automatique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydraulique domestique",
+      "sub_category": "Réseaux",
+      "difficulty": "difficile",
+      "question": "Quel collecteur central permet de raccorder plusieurs départs d'eau indépendants dans un logement ?",
+      "answer": "nourrice de distribution"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydraulique domestique",
+      "sub_category": "Économie d'eau",
+      "difficulty": "facile",
+      "question": "Quel embout de robinet mélange de l'air au jet pour limiter les éclaboussures ?",
+      "answer": "mousseur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydraulique domestique",
+      "sub_category": "Raccordement",
+      "difficulty": "facile",
+      "question": "Quel tuyau souple relie un lavabo ou un appareil sanitaire à une arrivée d'eau ?",
+      "answer": "flexible d'alimentation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydraulique domestique",
+      "sub_category": "Évacuation",
+      "difficulty": "moyen",
+      "question": "Quelle pièce située au fond d'un lavabo permet de fermer ou d'ouvrir son évacuation ?",
+      "answer": "bonde"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géomorphologie",
+      "sub_category": "Reliefs calcaires",
+      "difficulty": "difficile",
+      "question": "Quel puits naturel vertical donne accès à une cavité souterraine dans un massif calcaire ?",
+      "answer": "aven"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géomorphologie",
+      "sub_category": "Dépôts torrentiels",
+      "difficulty": "difficile",
+      "question": "Quel dépôt en éventail se forme lorsqu'un torrent débouche d'une pente raide sur un terrain plus plat ?",
+      "answer": "cône de déjection"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géomorphologie",
+      "sub_category": "Littoral",
+      "difficulty": "difficile",
+      "question": "Quel premier relief de sable se fixe près du rivage grâce aux plantes pionnières ?",
+      "answer": "dune embryonnaire"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géomorphologie",
+      "sub_category": "Érosion fluviale",
+      "difficulty": "difficile",
+      "question": "Quelle cavité arrondie est creusée dans la roche d'un cours d'eau par des galets entraînés en tourbillon ?",
+      "answer": "marmite de géant"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métrologie",
+      "sub_category": "Contrôle dimensionnel",
+      "difficulty": "difficile",
+      "question": "Quel instrument muni d'une aiguille amplifie de très petits écarts de position sur une pièce mécanique ?",
+      "answer": "comparateur à cadran"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métrologie",
+      "sub_category": "Épaisseurs",
+      "difficulty": "moyen",
+      "question": "Quel jeu de fines lames calibrées sert à mesurer l'espace entre deux surfaces rapprochées ?",
+      "answer": "jauge d'épaisseur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métrologie",
+      "sub_category": "Traçage",
+      "difficulty": "moyen",
+      "question": "Quel outil rigide vérifie précisément un angle de quatre-vingt-dix degrés sur une pièce usinée ?",
+      "answer": "équerre de mécanicien"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métrologie",
+      "sub_category": "Distances",
+      "difficulty": "moyen",
+      "question": "Quel appareil portatif calcule la distance jusqu'à une surface en envoyant un faisceau lumineux ?",
+      "answer": "télémètre laser"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métrologie",
+      "sub_category": "Densité",
+      "difficulty": "difficile",
+      "question": "Quel récipient de volume précisément connu sert à déterminer la masse volumique d'un liquide ?",
+      "answer": "pycnomètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métrologie",
+      "sub_category": "Fluides",
+      "difficulty": "difficile",
+      "question": "Quel instrument évalue la résistance d'un liquide à l'écoulement ?",
+      "answer": "viscosimètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métrologie",
+      "sub_category": "Qualité de l'eau",
+      "difficulty": "difficile",
+      "question": "Quel appareil mesure la capacité d'une solution à laisser passer un courant électrique ?",
+      "answer": "conductimètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métrologie",
+      "sub_category": "Acidité",
+      "difficulty": "moyen",
+      "question": "Quel instrument électronique indique le degré d'acidité ou d'alcalinité d'une solution ?",
+      "answer": "pH-mètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métrologie",
+      "sub_category": "Écoulement",
+      "difficulty": "moyen",
+      "question": "Quel instrument indique la quantité de fluide traversant une conduite par unité de temps ?",
+      "answer": "débitmètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métrologie",
+      "sub_category": "Solutions",
+      "difficulty": "difficile",
+      "question": "Quel appareil détermine la concentration d'une solution à partir de la déviation de la lumière ?",
+      "answer": "réfractomètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Entomologie",
+      "sub_category": "Développement",
+      "difficulty": "difficile",
+      "question": "Quel terme général désigne, chez les insectes à transformation complète, le stade entre la larve et l'adulte ?",
+      "answer": "nymphe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Entomologie",
+      "sub_category": "Développement",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on le stade adulte et définitivement formé d'un insecte ?",
+      "answer": "imago"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Entomologie",
+      "sub_category": "Reproduction",
+      "difficulty": "difficile",
+      "question": "Quelle enveloppe protectrice rassemble les œufs pondus par une mante religieuse ?",
+      "answer": "oothèque"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Entomologie",
+      "sub_category": "Anatomie",
+      "difficulty": "difficile",
+      "question": "Quel prolongement de la tête porte les pièces buccales chez un charançon ?",
+      "answer": "rostre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Entomologie",
+      "sub_category": "Respiration",
+      "difficulty": "difficile",
+      "question": "Quel petit orifice externe permet à l'air d'entrer dans le réseau respiratoire d'un insecte ?",
+      "answer": "stigmate"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Entomologie",
+      "sub_category": "Anatomie",
+      "difficulty": "difficile",
+      "question": "Quelle plaque dorsale recouvre le premier segment du thorax chez de nombreux insectes ?",
+      "answer": "pronotum"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Ouvertures",
+      "difficulty": "moyen",
+      "question": "Quelle partie, souvent vitrée, est aménagée immédiatement au-dessus d'une porte ?",
+      "answer": "imposte"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Façades",
+      "difficulty": "difficile",
+      "question": "Quelle portion de mur sépare deux ouvertures voisines sur une façade ?",
+      "answer": "trumeau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Construction ancienne",
+      "difficulty": "difficile",
+      "question": "Quelle technique permet à un étage de dépasser la façade inférieure grâce à des supports saillants ?",
+      "answer": "encorbellement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Maçonnerie",
+      "difficulty": "difficile",
+      "question": "Quel renfort vertical solidarise les murs à leur rencontre dans un coin de bâtiment ?",
+      "answer": "chaînage d'angle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Toitures régionales",
+      "difficulty": "difficile",
+      "question": "Quel débord de toit méditerranéen est formé de plusieurs rangs de tuiles creuses maçonnées ?",
+      "answer": "génoise"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Préparation des fibres",
+      "difficulty": "moyen",
+      "question": "Quelle opération démêle les fibres brutes à l'aide de surfaces garnies de fines pointes ?",
+      "answer": "cardage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Préparation des fibres",
+      "difficulty": "difficile",
+      "question": "Quelle opération aligne les longues fibres et élimine les plus courtes avant la filature ?",
+      "answer": "peignage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Filature",
+      "difficulty": "difficile",
+      "question": "Quelle opération associe plusieurs fils en les torsadant pour former un ensemble plus solide ?",
+      "answer": "retordage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage",
+      "difficulty": "difficile",
+      "question": "Quelle préparation dispose parallèlement les fils longitudinaux avant leur installation sur le métier ?",
+      "answer": "ourdissage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Finition",
+      "difficulty": "difficile",
+      "question": "Quel traitement humide et mécanique resserre les fibres d'une étoffe de laine ?",
+      "answer": "foulage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Finition",
+      "difficulty": "moyen",
+      "question": "Quel traitement final modifie la tenue, la souplesse ou l'aspect d'une étoffe ?",
+      "answer": "apprêt textile"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Entretien",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on l'apparition de petites boules de fibres à la surface d'un vêtement ?",
+      "answer": "boulochage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Contrôle qualité",
+      "difficulty": "difficile",
+      "question": "Quelle opération retire à la main les petits nœuds et défauts visibles d'une étoffe ?",
+      "answer": "noppage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Filature",
+      "difficulty": "moyen",
+      "question": "Quel petit outil allongé tourne pour transformer des fibres en fil à la main ?",
+      "answer": "fuseau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Reliure",
+      "sub_category": "Papeterie",
+      "difficulty": "difficile",
+      "question": "Quel type de feuille possède une surface régulière, sans les lignes parallèles visibles dans une fabrication traditionnelle à vergeures ?",
+      "answer": "papier vélin"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Reliure",
+      "sub_category": "Finition des livres",
+      "difficulty": "moyen",
+      "question": "Quelle opération égalise les trois bords d'un bloc de pages après son assemblage ?",
+      "answer": "rognage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Reliure",
+      "sub_category": "Façonnage du dos",
+      "difficulty": "difficile",
+      "question": "Quelle opération forme les épaulements du dos d'un livre avant la pose de sa couverture rigide ?",
+      "answer": "endossure"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Reliure",
+      "sub_category": "Parties du livre",
+      "difficulty": "difficile",
+      "question": "Quelle extrémité supérieure ou inférieure du dos de la couverture protège la tête ou la queue d'un livre ?",
+      "answer": "coiffe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Reliure",
+      "sub_category": "Assemblage",
+      "difficulty": "difficile",
+      "question": "Quelle étape consiste à fixer le bloc de pages dans une couverture rigide déjà fabriquée ?",
+      "answer": "emboîtage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Reliure",
+      "sub_category": "Découpe",
+      "difficulty": "moyen",
+      "question": "Quelle opération coupe d'un seul geste une pile de feuilles à l'aide d'une grande lame guidée ?",
+      "answer": "massicotage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Transplantation",
+      "difficulty": "difficile",
+      "question": "Quelle intervention sectionne les racines autour d'un arbre plusieurs mois avant son déplacement ?",
+      "answer": "cernage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Semis",
+      "difficulty": "moyen",
+      "question": "Quelle méthode consiste à déposer plusieurs graines ensemble dans un même petit trou ?",
+      "answer": "semis en poquet"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Semis",
+      "difficulty": "moyen",
+      "question": "Quelle méthode consiste à répartir les graines sur toute la surface du terrain sans tracer de lignes ?",
+      "answer": "semis à la volée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Germination",
+      "difficulty": "moyen",
+      "question": "Quel nom donne-t-on à l'apparition des jeunes pousses au-dessus du sol après la germination ?",
+      "answer": "levée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Céréales",
+      "difficulty": "difficile",
+      "question": "Quel phénomène fait apparaître plusieurs tiges à partir de la base d'un plant de blé ?",
+      "answer": "tallage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Prismes",
+      "difficulty": "difficile",
+      "question": "Quel phénomène sépare la lumière blanche en couleurs lorsqu'elle traverse un prisme ?",
+      "answer": "dispersion chromatique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Défauts des lentilles",
+      "difficulty": "difficile",
+      "question": "Quel défaut fait converger les rayons passant au bord d'une lentille à une autre distance que ceux proches de son centre ?",
+      "answer": "aberration sphérique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Réflexion",
+      "difficulty": "moyen",
+      "question": "Quelle surface réfléchissante courbée vers l'intérieur peut concentrer les rayons parallèles ?",
+      "answer": "miroir concave"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Photographie",
+      "difficulty": "facile",
+      "question": "Quel réglage de l'objectif permet de rendre un sujet net sur la photographie ?",
+      "answer": "mise au point"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Formation des images",
+      "difficulty": "difficile",
+      "question": "Comment qualifie-t-on une représentation visible dans un miroir plan mais impossible à recueillir directement sur un écran ?",
+      "answer": "image virtuelle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Vision",
+      "difficulty": "moyen",
+      "question": "Quel ensemble de directions une personne peut-elle percevoir sans déplacer ses yeux ?",
+      "answer": "champ visuel"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Mesures",
+      "difficulty": "difficile",
+      "question": "Quelle unité correspond à l'inverse de la distance focale exprimée en mètres ?",
+      "answer": "dioptrie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Réflexion",
+      "difficulty": "moyen",
+      "question": "Quel angle est formé par un rayon lumineux arrivant sur une surface et la normale à cette surface ?",
+      "answer": "angle d'incidence"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Photographie",
+      "difficulty": "moyen",
+      "question": "Quel accessoire placé devant l'objectif diminue la quantité de lumière sans modifier sensiblement les couleurs ?",
+      "answer": "filtre neutre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique du vélo",
+      "sub_category": "Pédalier",
+      "difficulty": "moyen",
+      "question": "Quel bras métallique relie une pédale à l'axe central du pédalier ?",
+      "answer": "manivelle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique du vélo",
+      "sub_category": "Transmission",
+      "difficulty": "moyen",
+      "question": "Quel assemblage articulé de maillons entraîne les pignons arrière à partir du plateau avant ?",
+      "answer": "chaîne de transmission"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique du vélo",
+      "sub_category": "Transmission",
+      "difficulty": "difficile",
+      "question": "Quelle petite pièce remplaçable relie le mécanisme arrière de changement de vitesse au cadre ?",
+      "answer": "patte de dérailleur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique du vélo",
+      "sub_category": "Réglages",
+      "difficulty": "moyen",
+      "question": "Quelle bague placée sous la potence permet d'ajuster la hauteur du guidon ?",
+      "answer": "entretoise"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique du vélo",
+      "sub_category": "Roues",
+      "difficulty": "difficile",
+      "question": "Quelle tige traverse entièrement le moyeu d'une roue et se visse dans la fourche ou le cadre ?",
+      "answer": "axe traversant"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique du vélo",
+      "sub_category": "Direction",
+      "difficulty": "moyen",
+      "question": "Quel ensemble de roulements permet à la fourche de pivoter librement dans le cadre ?",
+      "answer": "jeu de direction"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique du vélo",
+      "sub_category": "Pédalage",
+      "difficulty": "moyen",
+      "question": "Quel modèle de support du pied possède un mécanisme qui retient une cale fixée sous la chaussure ?",
+      "answer": "pédale automatique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique du vélo",
+      "sub_category": "Freinage",
+      "difficulty": "moyen",
+      "question": "Quelle pièce circulaire métallique est serrée par un étrier pour ralentir une roue ?",
+      "answer": "disque de frein"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique du vélo",
+      "sub_category": "Commandes",
+      "difficulty": "moyen",
+      "question": "Quel tube protecteur guide le fil métallique actionnant un changement de vitesse ou un système de ralentissement ?",
+      "answer": "gaine de câble"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique du vélo",
+      "sub_category": "Roues",
+      "difficulty": "moyen",
+      "question": "Quel dispositif à levier permet de retirer une roue sans utiliser d'outil ?",
+      "answer": "serrage rapide"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Verrerie",
+      "sub_category": "Décoration",
+      "difficulty": "difficile",
+      "question": "Quelle peinture à base de pigments et de fondant est cuite sur des pièces destinées aux fenêtres décoratives ?",
+      "answer": "grisaille"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Verrerie",
+      "sub_category": "Sécurité",
+      "difficulty": "moyen",
+      "question": "Quel vitrage traité thermiquement se fragmente en nombreux petits morceaux lorsqu'il se brise ?",
+      "answer": "verre trempé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Verrerie",
+      "sub_category": "Assemblage",
+      "difficulty": "difficile",
+      "question": "Quel profilé métallique souple maintient les pièces colorées d'une fenêtre décorative traditionnelle ?",
+      "answer": "plomb de sertissage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Verrerie",
+      "sub_category": "Soufflage",
+      "difficulty": "difficile",
+      "question": "Quel disque circulaire de matière transparente est obtenu par rotation rapide d'une bulle encore chaude ?",
+      "answer": "cive"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Verrerie",
+      "sub_category": "Soufflage",
+      "difficulty": "difficile",
+      "question": "Quelle tige métallique sert à tenir une pièce chaude par son fond pendant le façonnage de son ouverture ?",
+      "answer": "pontil"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Verrerie",
+      "sub_category": "Fabrication",
+      "difficulty": "difficile",
+      "question": "Quel procédé forme des tubes ou des baguettes en tirant la matière encore malléable ?",
+      "answer": "étirage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Verrerie",
+      "sub_category": "Finition",
+      "difficulty": "difficile",
+      "question": "Quel traitement lisse une surface en la réchauffant brièvement avec une source de chaleur intense ?",
+      "answer": "flammage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Verrerie",
+      "sub_category": "Matériaux",
+      "difficulty": "difficile",
+      "question": "Quel matériau transparent résiste bien aux changements brusques de température et sert aux récipients de laboratoire ?",
+      "answer": "verre borosilicaté"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences des sols",
+      "sub_category": "Biologie",
+      "difficulty": "difficile",
+      "question": "Quel terme collectif désigne les animaux qui vivent dans la terre, des minuscules arthropodes aux vers ?",
+      "answer": "pédofaune"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences des sols",
+      "sub_category": "Recyclage",
+      "difficulty": "moyen",
+      "question": "Quel amendement est obtenu lorsque des vers transforment des déchets végétaux dans un bac adapté ?",
+      "answer": "lombricompost"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences des sols",
+      "sub_category": "Cycle de l'azote",
+      "difficulty": "difficile",
+      "question": "Quel processus microbien transforme l'ammonium en nitrites puis en nitrates ?",
+      "answer": "nitrification"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences des sols",
+      "sub_category": "Cycle de l'azote",
+      "difficulty": "difficile",
+      "question": "Quel processus microbien transforme des nitrates en gaz azotés dans un milieu pauvre en oxygène ?",
+      "answer": "dénitrification"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences des sols",
+      "sub_category": "Structure",
+      "difficulty": "moyen",
+      "question": "Quelle propriété indique la proportion de petits espaces vides dans une roche ou une terre ?",
+      "answer": "porosité"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences des sols",
+      "sub_category": "Circulation de l'eau",
+      "difficulty": "difficile",
+      "question": "Comment appelle-t-on le déplacement progressif de l'eau vers le bas à travers un matériau poreux ?",
+      "answer": "percolation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences des sols",
+      "sub_category": "Analyse",
+      "difficulty": "difficile",
+      "question": "Quelle analyse classe les particules d'un échantillon selon leur taille ?",
+      "answer": "granulométrie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences des sols",
+      "sub_category": "Couches",
+      "difficulty": "difficile",
+      "question": "Quelle couche superficielle d'un profil pédologique est surtout composée de débris végétaux en décomposition ?",
+      "answer": "horizon organique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences des sols",
+      "sub_category": "Couches",
+      "difficulty": "difficile",
+      "question": "Quelle couche d'un profil pédologique contient principalement des particules issues de l'altération des roches ?",
+      "answer": "horizon minéral"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Sauces",
+      "difficulty": "moyen",
+      "question": "Quelle opération épaissit une préparation liquide en y incorporant par exemple de la crème ou un jaune d'œuf ?",
+      "answer": "liaison"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Bases",
+      "difficulty": "moyen",
+      "question": "Quel mélange de farine et de beurre chauffé très brièvement sert de base à une sauce claire ?",
+      "answer": "roux blanc"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Pâtisserie",
+      "difficulty": "difficile",
+      "question": "Quelle pâte épaisse, cuite dans une casserole avec de l'eau et de la farine, constitue la base des petits choux avant l'ajout des œufs ?",
+      "answer": "panade"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Riz",
+      "difficulty": "moyen",
+      "question": "Quel verbe décrit le fait de remuer le riz dans la matière grasse jusqu'à ce que ses grains deviennent légèrement translucides ?",
+      "answer": "nacrer"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Systèmes de fichiers",
+      "difficulty": "moyen",
+      "question": "Quelle indication d'emplacement part de la racine d'un système de dossiers plutôt que du répertoire courant ?",
+      "answer": "chemin absolu"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Noms de fichiers",
+      "difficulty": "facile",
+      "question": "Quel suffixe situé après le dernier point d'un nom aide à reconnaître le type de données ?",
+      "answer": "extension de fichier"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Interopérabilité",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on un type de document dont les spécifications sont publiquement accessibles et utilisables ?",
+      "answer": "format ouvert"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Protection des données",
+      "difficulty": "difficile",
+      "question": "Quelle méthode copie les modifications intervenues depuis la dernière copie complète, sans repartir de la précédente copie partielle ?",
+      "answer": "sauvegarde différentielle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Intégrité",
+      "difficulty": "difficile",
+      "question": "Quelle courte valeur calculée à partir d'un contenu permet de détecter une modification de celui-ci ?",
+      "answer": "empreinte numérique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Archivage",
+      "difficulty": "moyen",
+      "question": "Quel conteneur rassemble un ou plusieurs documents en réduisant généralement l'espace nécessaire ?",
+      "answer": "archive compressée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Navigation web",
+      "difficulty": "moyen",
+      "question": "Quel espace local conserve temporairement des ressources de sites pour accélérer leur affichage ultérieur ?",
+      "answer": "cache navigateur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Représentation des données",
+      "difficulty": "moyen",
+      "question": "Quel procédé associe des caractères à des suites d'octets afin de les stocker ou transmettre ?",
+      "answer": "encodage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "difficulty": "difficile",
+      "question": "Quel phénomène voit un petit astre passer devant le disque apparent d'un autre, plus lumineux ?",
+      "answer": "transit"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Positions planétaires",
+      "difficulty": "moyen",
+      "question": "Quelle configuration place une planète à l'opposé du Soleil dans le ciel vu depuis la Terre ?",
+      "answer": "opposition"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Positions planétaires",
+      "difficulty": "difficile",
+      "question": "Quelle grandeur angulaire mesure la séparation apparente entre une planète et le Soleil ?",
+      "answer": "élongation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Lune",
+      "difficulty": "difficile",
+      "question": "Quel léger balancement apparent de la Lune nous permet-il de voir, au fil du temps, un peu plus de la moitié de sa surface ?",
+      "answer": "libration"
     }
   ],
   "tabu": [
