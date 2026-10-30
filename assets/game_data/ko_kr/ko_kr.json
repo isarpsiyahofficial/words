@@ -14074,7 +14074,7 @@
       "main_category": "사진과 영상",
       "sub_category": "렌즈 장비",
       "difficulty": "보통",
-      "question": "렌즈 앞쪽에 부착해 화면 밖에서 들어오는 불필요한 빛을 막는 가리개는?",
+      "question": "사진을 찍을 때 화면 바깥에서 비스듬히 들어오는 빛을 막으려고 촬영 기구 앞에 씌우는 원통형 차광 부품은?",
       "answer": "렌즈후드"
     },
     {
@@ -14114,7 +14114,7 @@
       "main_category": "기록과 도서관",
       "sub_category": "책의 정보",
       "difficulty": "보통",
-      "question": "책의 제목, 저자, 출판사, 발행 연도 등을 묶어 기록한 정보는?",
+      "question": "도서관에서 책의 제목과 지은이, 발행 연도, 출판사 등을 함께 적어 자료를 식별하는 항목 묶음은?",
       "answer": "서지정보"
     },
     {
@@ -14154,7 +14154,7 @@
       "main_category": "기록과 도서관",
       "sub_category": "자료 보존",
       "difficulty": "보통",
-      "question": "문서의 페이지를 매우 작게 촬영해 두었다가 확대 장치로 읽는 필름 매체는?",
+      "question": "문서의 원본을 매우 작게 촬영해 감아 보관하고 전용 확대기로 읽는 기록 매체는?",
       "answer": "마이크로필름"
     },
     {
@@ -14384,7 +14384,7 @@
       "main_category": "숲과 미생물",
       "sub_category": "식물의 생활",
       "difficulty": "어려움",
-      "question": "다른 나무의 줄기나 가지를 지지대로 삼지만 양분을 빼앗지 않고 자라는 식물은?",
+      "question": "다른 나무의 몸통이나 가지를 지지대로 삼아 살지만 양분을 직접 빼앗지 않는 생물의 분류는?",
       "answer": "착생식물"
     },
     {
@@ -14514,7 +14514,7 @@
       "main_category": "물과 환경기술",
       "sub_category": "여과 장치",
       "difficulty": "어려움",
-      "question": "미세한 구멍이 있는 얇은 막을 통과시켜 물속 입자를 분리하는 기술은?",
+      "question": "물속 미세 입자를 선택적으로 통과시키는 얇은 장벽으로 걸러 내는 정수 기술은?",
       "answer": "막여과"
     },
     {
@@ -14564,7 +14564,7 @@
       "main_category": "음식과 조리과학",
       "sub_category": "제빵",
       "difficulty": "어려움",
-      "question": "빵 반죽이 오븐에 들어간 직후 열과 기체 팽창으로 부피가 빠르게 늘어나는 현상은?",
+      "question": "반죽을 뜨겁게 굽기 시작하자마자 내부 기체가 팽창해 부피가 급격히 커지는 현상은?",
       "answer": "오븐스프링"
     },
     {
@@ -14594,7 +14594,7 @@
       "main_category": "음식과 조리과학",
       "sub_category": "식품 화학",
       "difficulty": "어려움",
-      "question": "열이나 산성도 변화 때문에 단백질의 입체 구조가 달라지는 현상은?",
+      "question": "열이나 산성도 변화로 인해 아미노산 사슬의 입체적인 접힘 구조가 달라지는 현상은?",
       "answer": "단백질변성"
     },
     {
@@ -14604,7 +14604,7 @@
       "main_category": "음식과 조리과학",
       "sub_category": "식품 화학",
       "difficulty": "어려움",
-      "question": "녹인 젤라틴이 식으면서 그물 구조를 형성해 액체를 말랑하게 굳히는 과정은?",
+      "question": "전분을 물과 함께 가열할 때 입자가 팽창하고 점성이 커지는 현상을 외래어로 무엇이라 하나?",
       "answer": "젤라틴화"
     },
     {
@@ -14654,7 +14654,7 @@
       "main_category": "대중교통 운영",
       "sub_category": "차량",
       "difficulty": "보통",
-      "question": "출입문 바닥을 낮게 설계하여 휠체어나 유모차가 쉽게 오를 수 있는 버스는?",
+      "question": "휠체어나 유모차를 이용하는 사람도 쉽게 탈 수 있도록 출입구와 실내 바닥을 낮게 설계한 대중교통 차량은?",
       "answer": "저상버스"
     },
     {
@@ -14704,8 +14704,828 @@
       "main_category": "대중교통 운영",
       "sub_category": "신호 운영",
       "difficulty": "어려움",
-      "question": "버스 등이 교차로에 접근할 때 신호 시간을 조정해 지체를 줄이는 운영 방식은?",
+      "question": "대중교통 차량이 교차로에 접근할 때 초록불 시간을 조정하여 지체를 줄이는 운영 방식은?",
       "answer": "신호우선"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "해양과 바다",
+      "sub_category": "해저 지형",
+      "difficulty": "어려움",
+      "question": "얕은 연안 바닥에서 깊은 바다 바닥으로 급격히 낮아지는 경사진 구간은?",
+      "answer": "대륙사면"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "해양과 바다",
+      "sub_category": "해저 지형",
+      "difficulty": "보통",
+      "question": "물 위로 드러나지 않은 채 바다 바닥에서 독립적으로 솟은 산은?",
+      "answer": "해산"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "해양과 바다",
+      "sub_category": "해저 지형",
+      "difficulty": "어려움",
+      "question": "꼭대기가 넓고 평평하게 깎인 바닷속 산은?",
+      "answer": "평정해산"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "해양과 바다",
+      "sub_category": "물의 움직임",
+      "difficulty": "어려움",
+      "question": "표층의 물이 아래쪽으로 내려가는 방향의 흐름은?",
+      "answer": "침강류"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "대기와 기후",
+      "sub_category": "기온",
+      "difficulty": "보통",
+      "question": "한 해의 가장 더운 달과 가장 추운 달의 평균 기온 차이는?",
+      "answer": "연교차"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "대기와 기후",
+      "sub_category": "예보",
+      "difficulty": "보통",
+      "question": "특정 지역과 기간에 비나 눈이 내릴 가능성을 백분율로 나타낸 값은?",
+      "answer": "강수확률"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "대기와 기후",
+      "sub_category": "대기 구조",
+      "difficulty": "어려움",
+      "question": "날씨 현상이 주로 일어나는 아래쪽 대기층과 그 위층의 경계는?",
+      "answer": "대류권계면"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생리",
+      "sub_category": "생장 조절",
+      "difficulty": "어려움",
+      "question": "줄기 맨 끝의 눈이 옆눈의 성장을 억제하는 현상은?",
+      "answer": "정단우성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생리",
+      "sub_category": "줄기",
+      "difficulty": "어려움",
+      "question": "벼나 보리의 밑동에서 새로운 줄기가 여러 갈래로 생기는 현상은?",
+      "answer": "분얼"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생리",
+      "sub_category": "줄기",
+      "difficulty": "보통",
+      "question": "땅 위를 옆으로 기어가며 마디에서 새 뿌리와 싹을 내는 줄기는?",
+      "answer": "포복경"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생리",
+      "sub_category": "줄기",
+      "difficulty": "어려움",
+      "question": "흙 속에서 옆으로 자라며 마디와 눈을 지닌 변형된 줄기는?",
+      "answer": "근경"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생리",
+      "sub_category": "조직",
+      "difficulty": "어려움",
+      "question": "오래된 줄기의 바깥을 덮어 수분 손실과 외부 자극을 줄이는 보호 조직은?",
+      "answer": "주피"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생리",
+      "sub_category": "번식",
+      "difficulty": "보통",
+      "question": "곤충이나 바람이 꽃가루를 다른 꽃의 암컷 생식 부위로 옮기는 과정은?",
+      "answer": "수분매개"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생리",
+      "sub_category": "번식",
+      "difficulty": "보통",
+      "question": "바람이나 동물의 도움으로 씨앗이 어미 개체에서 멀리 퍼지는 과정은?",
+      "answer": "종자산포"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "도시와 환경",
+      "sub_category": "도시 기후",
+      "difficulty": "보통",
+      "question": "건물과 도로가 많은 시가지의 기온이 주변 교외보다 높아지는 현상은?",
+      "answer": "도시열섬"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "도시와 환경",
+      "sub_category": "빗물 관리",
+      "difficulty": "보통",
+      "question": "빗물이 땅속으로 스며들 수 있도록 틈이나 공극을 둔 도로 바닥 마감은?",
+      "answer": "투수포장"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "도시와 환경",
+      "sub_category": "녹지 계획",
+      "difficulty": "어려움",
+      "question": "공원과 숲을 띠 모양으로 이어 생물 이동과 바람길을 돕는 공간 구조는?",
+      "answer": "녹지축"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "도시와 환경",
+      "sub_category": "보행 환경",
+      "difficulty": "쉬움",
+      "question": "여름철 길을 걷거나 기다리는 사람이 햇빛을 피하도록 설치한 가림 시설은?",
+      "answer": "그늘막"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "도시와 환경",
+      "sub_category": "보행 안전",
+      "difficulty": "보통",
+      "question": "넓은 차도를 건너는 사람이 중간에서 안전하게 잠시 기다리도록 만든 공간은?",
+      "answer": "보행섬"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "도시와 환경",
+      "sub_category": "이동 수단",
+      "difficulty": "쉬움",
+      "question": "여러 사람이 정해진 장소에서 빌리고 반납하며 함께 이용하는 두 바퀴 교통수단은?",
+      "answer": "공유자전거"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "도시와 환경",
+      "sub_category": "대중교통",
+      "difficulty": "보통",
+      "question": "서로 다른 교통수단이나 노선 사이에서 갈아타기 쉽도록 기능을 모은 장소는?",
+      "answer": "환승거점"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "건축 환경",
+      "sub_category": "에너지",
+      "difficulty": "어려움",
+      "question": "문과 창의 틈새 등으로 원하지 않는 공기가 드나들지 않도록 막는 성능은?",
+      "answer": "기밀성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "건축 환경",
+      "sub_category": "에너지",
+      "difficulty": "어려움",
+      "question": "벽이나 창의 양쪽 온도 차가 있을 때 단위 면적을 통해 전달되는 열의 정도를 나타내는 값은?",
+      "answer": "열관류율"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "건축 환경",
+      "sub_category": "공기",
+      "difficulty": "보통",
+      "question": "기계 장치 없이 창과 개구부를 통해 실내 공기를 바꾸는 방식은?",
+      "answer": "자연환기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "건축 환경",
+      "sub_category": "에너지",
+      "difficulty": "어려움",
+      "question": "물체가 낮 동안 열을 저장했다가 온도가 내려갈 때 천천히 내놓는 작용은?",
+      "answer": "축열"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "건축 환경",
+      "sub_category": "햇빛",
+      "difficulty": "보통",
+      "question": "여름철 건물 안으로 들어오는 태양 에너지를 가리개 등으로 줄이는 조치는?",
+      "answer": "일사차단"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "건축 환경",
+      "sub_category": "에너지",
+      "difficulty": "보통",
+      "question": "벽의 실외 쪽에 보온층을 설치해 건물 전체를 감싸는 시공 방식은?",
+      "answer": "외단열"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식품과 저장",
+      "sub_category": "보존",
+      "difficulty": "보통",
+      "question": "식재료를 매우 짧은 시간에 얼려 큰 얼음 결정의 형성을 줄이는 방법은?",
+      "answer": "급속냉동"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식품과 저장",
+      "sub_category": "보존",
+      "difficulty": "보통",
+      "question": "낮은 온도에서 일정 기간 두어 재료의 맛이나 질감이 천천히 변하도록 하는 과정은?",
+      "answer": "저온숙성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "빛과 영상",
+      "sub_category": "광학 장치",
+      "difficulty": "어려움",
+      "question": "둥근 광학면의 중심부와 가장자리를 지나는 빛이 서로 다른 지점에 모이는 결함은?",
+      "answer": "구면수차"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "빛과 영상",
+      "sub_category": "측광",
+      "difficulty": "어려움",
+      "question": "장면의 빛을 측정하여 적절한 촬영 밝기 설정을 찾는 기기는?",
+      "answer": "노출계"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 자료",
+      "sub_category": "예측",
+      "difficulty": "어려움",
+      "question": "관측 자료를 이용해 변수 사이의 관계를 식으로 추정하는 통계 방법은?",
+      "answer": "회귀분석"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 자료",
+      "sub_category": "분포",
+      "difficulty": "어려움",
+      "question": "분포가 좌우 어느 방향으로 얼마나 비대칭인지 나타내는 지표는?",
+      "answer": "왜도"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 자료",
+      "sub_category": "분포",
+      "difficulty": "어려움",
+      "question": "분포의 꼬리 부분이 극단적인 값을 얼마나 자주 갖는지 나타내는 지표는?",
+      "answer": "첨도"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 기계",
+      "sub_category": "운동 전달",
+      "difficulty": "보통",
+      "question": "둘 이상의 움직이는 부품을 관절처럼 연결해 운동을 전달하는 막대 부재는?",
+      "answer": "링크"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 기계",
+      "sub_category": "진동",
+      "difficulty": "보통",
+      "question": "갑작스러운 충격이 다른 부품에 그대로 전달되지 않도록 에너지를 흡수하는 장치는?",
+      "answer": "완충기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 기계",
+      "sub_category": "탄성",
+      "difficulty": "어려움",
+      "question": "탄성체를 일정한 길이만큼 늘이는 데 필요한 힘의 비율을 나타내는 값은?",
+      "answer": "스프링상수"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 기계",
+      "sub_category": "진동",
+      "difficulty": "어려움",
+      "question": "외부에서 반복해 가하는 힘의 주기가 물체 고유의 떨림과 맞아 진폭이 커지는 현상은?",
+      "answer": "공진"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 기계",
+      "sub_category": "진동",
+      "difficulty": "보통",
+      "question": "어떤 물체가 한 초 동안 같은 떨림을 몇 번 반복하는지 나타내는 값은?",
+      "answer": "진동수"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 기계",
+      "sub_category": "평형",
+      "difficulty": "보통",
+      "question": "물체에 작용하는 중력의 합력을 한 점에 모아 생각할 수 있는 위치는?",
+      "answer": "무게중심"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 기계",
+      "sub_category": "지레",
+      "difficulty": "쉬움",
+      "question": "긴 막대가 한 지점을 기준으로 회전할 때 기준이 되는 지점은?",
+      "answer": "받침점"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 접근성",
+      "sub_category": "시각 지원",
+      "difficulty": "보통",
+      "question": "그림을 볼 수 없는 이용자에게 화면 속 이미지의 내용을 글로 설명하는 문구는?",
+      "answer": "대체텍스트"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 접근성",
+      "sub_category": "시각 지원",
+      "difficulty": "보통",
+      "question": "컴퓨터나 휴대전화의 글자와 조작 요소를 음성으로 읽어 주는 프로그램은?",
+      "answer": "화면낭독기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 접근성",
+      "sub_category": "시각 지원",
+      "difficulty": "보통",
+      "question": "글자와 배경의 밝기 차이를 크게 만들어 화면 내용을 구분하기 쉽게 하는 표시 설정은?",
+      "answer": "고대비모드"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 접근성",
+      "sub_category": "조작",
+      "difficulty": "어려움",
+      "question": "마우스 없이 방향키와 탭키 등으로 화면의 항목을 찾아 이동하는 방식은?",
+      "answer": "키보드탐색"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 접근성",
+      "sub_category": "청각 지원",
+      "difficulty": "쉬움",
+      "question": "영상에서 들리는 말과 주요 소리를 글자로 표시하는 정보는?",
+      "answer": "자막"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 접근성",
+      "sub_category": "조작",
+      "difficulty": "쉬움",
+      "question": "글자를 직접 타이핑하지 않고 말한 내용을 문자로 바꾸어 적는 기능은?",
+      "answer": "음성입력"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 접근성",
+      "sub_category": "시각 지원",
+      "difficulty": "어려움",
+      "question": "글자와 배경 사이의 밝기 차이를 수치로 나타낸 값은?",
+      "answer": "명도대비"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 접근성",
+      "sub_category": "조작",
+      "difficulty": "어려움",
+      "question": "키보드의 특정 이동 키를 반복해서 누를 때 화면 요소들이 선택되는 차례는?",
+      "answer": "탭순서"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 원예",
+      "sub_category": "관리",
+      "difficulty": "쉬움",
+      "question": "나무의 모양과 생장을 조절하려고 불필요한 줄기를 잘라 내는 작업은?",
+      "answer": "가지치기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 원예",
+      "sub_category": "지지",
+      "difficulty": "쉬움",
+      "question": "키가 큰 화초나 덩굴이 쓰러지지 않도록 곁에 세우는 막대는?",
+      "answer": "지주대"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 원예",
+      "sub_category": "흙",
+      "difficulty": "보통",
+      "question": "화분 아래쪽에 물이 고이지 않도록 물이 빠질 공간을 확보한 부분은?",
+      "answer": "배수층"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 원예",
+      "sub_category": "흙",
+      "difficulty": "보통",
+      "question": "낙엽이나 음식물의 유기물을 미생물이 분해해 흙에 쓸 수 있는 재료로 바꾸는 과정은?",
+      "answer": "퇴비화"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "암석과 지층",
+      "sub_category": "지층의 관계",
+      "difficulty": "어려움",
+      "question": "오랜 침식이나 퇴적 중단 뒤 새 층이 쌓여 지질 시대의 빈 구간이 남는 경계는?",
+      "answer": "부정합"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "암석과 지층",
+      "sub_category": "암석",
+      "difficulty": "보통",
+      "question": "화산에서 분출된 고운 입자가 쌓여 굳은 암석은?",
+      "answer": "응회암"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "암석과 지층",
+      "sub_category": "화산",
+      "difficulty": "보통",
+      "question": "분출 과정에서 만들어져 공중으로 날아간 아주 작은 암석과 유리 입자는?",
+      "answer": "화산재"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "암석과 지층",
+      "sub_category": "암석",
+      "difficulty": "보통",
+      "question": "녹은 돌이 지표나 그 가까운 곳에서 식어 굳은 암석은?",
+      "answer": "화산암"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "하늘 관측",
+      "sub_category": "천구",
+      "difficulty": "어려움",
+      "question": "관측자의 발밑을 향해 지구를 통과한 반대쪽 하늘의 점은?",
+      "answer": "천저"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "하늘 관측",
+      "sub_category": "별무리",
+      "difficulty": "보통",
+      "question": "비교적 젊은 별들이 느슨하게 모여 있는 별의 집단은?",
+      "answer": "산개성단"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "하늘 관측",
+      "sub_category": "별무리",
+      "difficulty": "어려움",
+      "question": "오래된 별 수만 개 이상이 거의 둥근 공처럼 조밀하게 모인 집단은?",
+      "answer": "구상성단"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "직물과 바느질",
+      "sub_category": "재봉 도구",
+      "difficulty": "보통",
+      "question": "재봉할 때 천이 들뜨지 않도록 바늘 옆에서 아래로 눌러 주는 부품은?",
+      "answer": "노루발"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "소리와 음향",
+      "sub_category": "공간의 소리",
+      "difficulty": "보통",
+      "question": "멀리 있는 벽이나 산에 부딪힌 소리가 시간차를 두고 다시 들리는 현상은?",
+      "answer": "반향"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "소리와 음향",
+      "sub_category": "공간의 소리",
+      "difficulty": "보통",
+      "question": "소리 에너지가 재료 안에서 열 등으로 바뀌어 반사되는 양이 줄어드는 작용은?",
+      "answer": "흡음"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "소리와 음향",
+      "sub_category": "공간의 소리",
+      "difficulty": "보통",
+      "question": "한 공간에서 다른 공간으로 소리가 전달되는 것을 벽이나 구조로 막는 일은?",
+      "answer": "차음"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물길과 배수",
+      "sub_category": "시설",
+      "difficulty": "보통",
+      "question": "여러 배관에서 흘러온 물을 한곳에 모아 배출하도록 만든 지하 구조물은?",
+      "answer": "집수정"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물길과 배수",
+      "sub_category": "시설",
+      "difficulty": "보통",
+      "question": "배관의 굽은 부분에 물을 남겨 하수 냄새가 실내로 올라오지 못하게 하는 장치는?",
+      "answer": "배수트랩"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물길과 배수",
+      "sub_category": "시설",
+      "difficulty": "어려움",
+      "question": "배관 안의 압력을 조절하고 악취가 실내로 들어오는 것을 줄이기 위해 공기를 통하게 하는 관은?",
+      "answer": "통기관"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물길과 배수",
+      "sub_category": "시설",
+      "difficulty": "보통",
+      "question": "비가 올 때 지붕이나 도로에 모인 물을 다른 곳으로 흘려보내는 관은?",
+      "answer": "우수관"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물길과 배수",
+      "sub_category": "시설",
+      "difficulty": "쉬움",
+      "question": "지하 배관이나 설비를 점검하려고 지표면에 뚜껑을 설치한 출입구는?",
+      "answer": "맨홀"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물길과 배수",
+      "sub_category": "처리",
+      "difficulty": "보통",
+      "question": "물의 흐름을 느리게 하여 무거운 모래와 자갈을 바닥에 가라앉히는 시설은?",
+      "answer": "침사지"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물길과 배수",
+      "sub_category": "저장",
+      "difficulty": "보통",
+      "question": "큰비가 내릴 때 물을 일시적으로 저장해 주변 지역의 침수를 줄이는 시설은?",
+      "answer": "유수지"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물길과 배수",
+      "sub_category": "저장",
+      "difficulty": "보통",
+      "question": "유입된 물을 일정 시간 담아 두었다가 필요에 따라 배출하는 저장 탱크는?",
+      "answer": "저류조"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물길과 배수",
+      "sub_category": "시설",
+      "difficulty": "어려움",
+      "question": "배관 안의 액체가 원래 흐르던 방향과 반대로 돌아가지 못하게 하는 부품은?",
+      "answer": "역류방지밸브"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 측량",
+      "sub_category": "지형",
+      "difficulty": "보통",
+      "question": "땅이 수평면에 비해 얼마나 기울어져 있는지를 수치로 나타낸 값은?",
+      "answer": "경사도"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 측량",
+      "sub_category": "표현",
+      "difficulty": "어려움",
+      "question": "지도에서 실제 지리 정보가 표시되는 영역을 둘러싼 테두리는?",
+      "answer": "도곽"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 원예",
+      "sub_category": "번식",
+      "difficulty": "어려움",
+      "question": "줄기의 작은 새싹 하나를 다른 나무의 껍질 안쪽에 끼워 붙이는 번식법은?",
+      "answer": "눈접"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 원예",
+      "sub_category": "번식",
+      "difficulty": "어려움",
+      "question": "살아 있는 가지를 땅으로 구부려 일부를 흙에 덮어 뿌리가 나게 하는 번식법은?",
+      "answer": "휘묻이"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 원예",
+      "sub_category": "번식",
+      "difficulty": "보통",
+      "question": "한 덩어리로 자란 다년생 화초의 뿌리와 줄기를 몇 부분으로 갈라 옮겨 심는 방법은?",
+      "answer": "포기나누기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 원예",
+      "sub_category": "양분",
+      "difficulty": "어려움",
+      "question": "작물의 생육에 필요한 영양분을 공급하기 위해 비료를 주는 일은?",
+      "answer": "시비"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 원예",
+      "sub_category": "화분",
+      "difficulty": "쉬움",
+      "question": "화분에서 자란 뿌리를 꺼내 새 흙과 더 적합한 용기로 옮기는 작업은?",
+      "answer": "분갈이"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 원예",
+      "sub_category": "재배",
+      "difficulty": "보통",
+      "question": "흙 대신 영양분을 녹인 물을 공급해 작물을 기르는 방법은?",
+      "answer": "양액재배"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 원예",
+      "sub_category": "환경 적응",
+      "difficulty": "어려움",
+      "question": "실내에서 기른 어린 식물을 야외의 햇빛과 바람에 조금씩 익숙하게 하는 과정은?",
+      "answer": "순화"
     }
   ],
   "tabu": [
