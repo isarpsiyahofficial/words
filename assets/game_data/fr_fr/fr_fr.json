@@ -22627,6 +22627,1566 @@
         "feuillage",
         "aérien"
       ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céramique",
+      "sub_category": "Émaux",
+      "word": "couverte",
+      "forbidden_words": [
+        "revêtement",
+        "transparent",
+        "brillant"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Apiculture",
+      "sub_category": "Ruche",
+      "word": "hausse de ruche",
+      "forbidden_words": [
+        "étage",
+        "récolte",
+        "cadres"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Apiculture",
+      "sub_category": "Ruche",
+      "word": "opercule de cire",
+      "forbidden_words": [
+        "alvéole",
+        "fermeture",
+        "miel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Apiculture",
+      "sub_category": "Récolte",
+      "word": "extracteur de miel",
+      "forbidden_words": [
+        "centrifugeuse",
+        "cadres",
+        "récolte"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Apiculture",
+      "sub_category": "Produits",
+      "word": "propolis",
+      "forbidden_words": [
+        "résine",
+        "abeilles",
+        "bourgeons"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Apiculture",
+      "sub_category": "Matériel",
+      "word": "cire gaufrée",
+      "forbidden_words": [
+        "feuille",
+        "alvéoles",
+        "cadre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Apiculture",
+      "sub_category": "Récolte",
+      "word": "pollen en pelotes",
+      "forbidden_words": [
+        "fleurs",
+        "butineuses",
+        "corbeilles"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Apiculture",
+      "sub_category": "Matériel",
+      "word": "nourrisseur de ruche",
+      "forbidden_words": [
+        "sirop",
+        "colonie",
+        "réserve"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Apiculture",
+      "sub_category": "Ruche",
+      "word": "rayon de cire",
+      "forbidden_words": [
+        "hexagones",
+        "alvéoles",
+        "miel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Apiculture",
+      "sub_category": "Vie de la colonie",
+      "word": "essaimage",
+      "forbidden_words": [
+        "colonie",
+        "reine",
+        "départ"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Apiculture",
+      "sub_category": "Matériel",
+      "word": "grille à reine",
+      "forbidden_words": [
+        "passage",
+        "cadres",
+        "séparation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ornithologie",
+      "sub_category": "Passereaux",
+      "word": "bergeronnette grise",
+      "forbidden_words": [
+        "queue",
+        "insectes",
+        "rivière"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ornithologie",
+      "sub_category": "Passereaux",
+      "word": "mésange huppée",
+      "forbidden_words": [
+        "crête",
+        "conifères",
+        "petit"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ornithologie",
+      "sub_category": "Oiseaux des bois",
+      "word": "pic épeiche",
+      "forbidden_words": [
+        "tambourinage",
+        "arbre",
+        "bec"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ornithologie",
+      "sub_category": "Passereaux",
+      "word": "fauvette à tête noire",
+      "forbidden_words": [
+        "chant",
+        "buisson",
+        "calotte"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ornithologie",
+      "sub_category": "Passereaux",
+      "word": "grive musicienne",
+      "forbidden_words": [
+        "mélodie",
+        "escargot",
+        "sous-bois"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ornithologie",
+      "sub_category": "Passereaux",
+      "word": "verdier d'Europe",
+      "forbidden_words": [
+        "vert",
+        "bec",
+        "graines"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ornithologie",
+      "sub_category": "Passereaux",
+      "word": "tarin des aulnes",
+      "forbidden_words": [
+        "jaune",
+        "conifères",
+        "graines"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie",
+      "sub_category": "Composition",
+      "word": "crénage",
+      "forbidden_words": [
+        "espacement",
+        "lettres",
+        "ajustement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie",
+      "sub_category": "Composition",
+      "word": "interlignage",
+      "forbidden_words": [
+        "lignes",
+        "espacement",
+        "texte"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie",
+      "sub_category": "Caractères",
+      "word": "ligature typographique",
+      "forbidden_words": [
+        "fusion",
+        "lettres",
+        "glyphe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie",
+      "sub_category": "Caractères",
+      "word": "bas-de-casse",
+      "forbidden_words": [
+        "minuscules",
+        "caractères",
+        "imprimerie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie",
+      "sub_category": "Composition",
+      "word": "chasse typographique",
+      "forbidden_words": [
+        "largeur",
+        "caractère",
+        "espace"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie",
+      "sub_category": "Mise en page",
+      "word": "justification du texte",
+      "forbidden_words": [
+        "marges",
+        "alignement",
+        "lignes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Relief marin",
+      "word": "isobathe",
+      "forbidden_words": [
+        "profondeur",
+        "mer",
+        "courbe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Relief",
+      "word": "équidistance des courbes",
+      "forbidden_words": [
+        "altitude",
+        "intervalle",
+        "relief"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Orientation",
+      "word": "boussole de relèvement",
+      "forbidden_words": [
+        "direction",
+        "visée",
+        "aiguille"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Minéralogie",
+      "sub_category": "Cristaux",
+      "word": "calcite",
+      "forbidden_words": [
+        "calcaire",
+        "cristal",
+        "carbonate"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Minéralogie",
+      "sub_category": "Cristaux",
+      "word": "quartz rose",
+      "forbidden_words": [
+        "silice",
+        "couleur",
+        "cristal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Minéralogie",
+      "sub_category": "Cristaux",
+      "word": "fluorite",
+      "forbidden_words": [
+        "violet",
+        "cristal",
+        "fluorescence"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Minéralogie",
+      "sub_category": "Cristaux",
+      "word": "aragonite",
+      "forbidden_words": [
+        "coquillage",
+        "carbonate",
+        "cristal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Minéralogie",
+      "sub_category": "Cristaux",
+      "word": "pyrite",
+      "forbidden_words": [
+        "doré",
+        "métallique",
+        "cube"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Minéralogie",
+      "sub_category": "Roches",
+      "word": "basalte",
+      "forbidden_words": [
+        "volcan",
+        "lave",
+        "sombre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Littoral",
+      "sub_category": "Milieux côtiers",
+      "word": "vasière",
+      "forbidden_words": [
+        "boue",
+        "oiseaux",
+        "marée"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Littoral",
+      "sub_category": "Dunes",
+      "word": "dune embryonnaire",
+      "forbidden_words": [
+        "sable",
+        "végétation",
+        "naissante"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Littoral",
+      "sub_category": "Plages",
+      "word": "laisse de mer",
+      "forbidden_words": [
+        "algues",
+        "débris",
+        "marée"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Littoral",
+      "sub_category": "Formes côtières",
+      "word": "tombolo",
+      "forbidden_words": [
+        "cordon",
+        "île",
+        "terre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Littoral",
+      "sub_category": "Formes côtières",
+      "word": "cordon littoral",
+      "forbidden_words": [
+        "sable",
+        "barrière",
+        "côte"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Phénomènes",
+      "word": "dispersion lumineuse",
+      "forbidden_words": [
+        "couleurs",
+        "spectre",
+        "blanc"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Photographie",
+      "word": "focale fixe",
+      "forbidden_words": [
+        "objectif",
+        "zoom",
+        "distance"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ustensiles professionnels",
+      "sub_category": "Préparation",
+      "word": "cul-de-poule",
+      "forbidden_words": [
+        "saladier",
+        "inox",
+        "mélanger"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ustensiles professionnels",
+      "sub_category": "Pâtisserie",
+      "word": "moule à charnière",
+      "forbidden_words": [
+        "gâteau",
+        "démoulage",
+        "cercle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ustensiles professionnels",
+      "sub_category": "Préparation",
+      "word": "spatule en silicone",
+      "forbidden_words": [
+        "souple",
+        "mélange",
+        "cuisson"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ustensiles professionnels",
+      "sub_category": "Pâtisserie",
+      "word": "pinceau alimentaire",
+      "forbidden_words": [
+        "badigeonner",
+        "dorure",
+        "poils"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Mesures",
+      "word": "point de rosée",
+      "forbidden_words": [
+        "humidité",
+        "condensation",
+        "température"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Fronts",
+      "word": "front froid",
+      "forbidden_words": [
+        "masse",
+        "température",
+        "averse"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Nuages",
+      "word": "cumulus congestus",
+      "forbidden_words": [
+        "nuage",
+        "vertical",
+        "bourgeonnement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Mesures",
+      "word": "gradient de température",
+      "forbidden_words": [
+        "variation",
+        "distance",
+        "chaleur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Sols",
+      "word": "paillage de chanvre",
+      "forbidden_words": [
+        "fibres",
+        "sol",
+        "évaporation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Semis",
+      "word": "semis en poquet",
+      "forbidden_words": [
+        "graines",
+        "trou",
+        "groupées"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Greffe",
+      "word": "greffoir",
+      "forbidden_words": [
+        "lame",
+        "arbre",
+        "écorce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Greffe",
+      "word": "écussonnage",
+      "forbidden_words": [
+        "bourgeon",
+        "greffe",
+        "écorce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Sols",
+      "word": "compost mûr",
+      "forbidden_words": [
+        "humus",
+        "décomposition",
+        "fertile"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Cultures",
+      "word": "rotation des cultures",
+      "forbidden_words": [
+        "parcelles",
+        "alternance",
+        "saisons"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Plants",
+      "word": "pépinière horticole",
+      "forbidden_words": [
+        "jeunes",
+        "plantes",
+        "culture"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèque",
+      "sub_category": "Classement",
+      "word": "catalogue en ligne",
+      "forbidden_words": [
+        "recherche",
+        "livres",
+        "références"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèque",
+      "sub_category": "Classement",
+      "word": "cote de rangement",
+      "forbidden_words": [
+        "rayonnage",
+        "étiquette",
+        "classement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèque",
+      "sub_category": "Espaces",
+      "word": "rayon jeunesse",
+      "forbidden_words": [
+        "enfants",
+        "albums",
+        "livres"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèque",
+      "sub_category": "Supports",
+      "word": "livre audio",
+      "forbidden_words": [
+        "écoute",
+        "narration",
+        "enregistrement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèque",
+      "sub_category": "Services",
+      "word": "prêt numérique",
+      "forbidden_words": [
+        "emprunt",
+        "fichier",
+        "lecture"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèque",
+      "sub_category": "Services",
+      "word": "boîte de retour",
+      "forbidden_words": [
+        "livres",
+        "dépôt",
+        "extérieur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèque",
+      "sub_category": "Collections",
+      "word": "réserve documentaire",
+      "forbidden_words": [
+        "archives",
+        "consultation",
+        "stockage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèque",
+      "sub_category": "Collections",
+      "word": "fonds patrimonial",
+      "forbidden_words": [
+        "ouvrages",
+        "anciens",
+        "conservation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèque",
+      "sub_category": "Espaces",
+      "word": "médiathèque",
+      "forbidden_words": [
+        "livres",
+        "musique",
+        "ressources"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèque",
+      "sub_category": "Classement",
+      "word": "index alphabétique",
+      "forbidden_words": [
+        "ordre",
+        "mots",
+        "repérage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Ouvertures",
+      "word": "imposte vitrée",
+      "forbidden_words": [
+        "porte",
+        "fenêtre",
+        "partie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Toitures",
+      "word": "lucarne à croupe",
+      "forbidden_words": [
+        "toit",
+        "fenêtre",
+        "pente"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Ouvertures",
+      "word": "baie vitrée",
+      "forbidden_words": [
+        "lumière",
+        "coulissante",
+        "façade"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Ouvertures",
+      "word": "verrière d'atelier",
+      "forbidden_words": [
+        "verre",
+        "cloison",
+        "luminosité"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Ouvertures",
+      "word": "embrasure",
+      "forbidden_words": [
+        "mur",
+        "fenêtre",
+        "épaisseur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Toitures",
+      "word": "solin",
+      "forbidden_words": [
+        "étanchéité",
+        "toiture",
+        "raccord"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Ouvertures",
+      "word": "appui de fenêtre",
+      "forbidden_words": [
+        "rebord",
+        "eau",
+        "façade"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Façades",
+      "word": "soubassement",
+      "forbidden_words": [
+        "base",
+        "mur",
+        "fondation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textiles",
+      "sub_category": "Couture",
+      "word": "biais thermocollant",
+      "forbidden_words": [
+        "bande",
+        "repassage",
+        "renfort"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textiles",
+      "sub_category": "Couture",
+      "word": "fil de bâti",
+      "forbidden_words": [
+        "provisoire",
+        "assemblage",
+        "aiguille"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textiles",
+      "sub_category": "Couture",
+      "word": "fronces",
+      "forbidden_words": [
+        "plis",
+        "tissu",
+        "volume"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textiles",
+      "sub_category": "Couture",
+      "word": "pinces de couture",
+      "forbidden_words": [
+        "ajustement",
+        "vêtement",
+        "forme"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textiles",
+      "sub_category": "Matières",
+      "word": "jersey côtelé",
+      "forbidden_words": [
+        "maille",
+        "élastique",
+        "rayures"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textiles",
+      "sub_category": "Broderie",
+      "word": "broderie anglaise",
+      "forbidden_words": [
+        "ajouré",
+        "motifs",
+        "tissu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Nombres",
+      "word": "nombre décimal",
+      "forbidden_words": [
+        "virgule",
+        "chiffres",
+        "partie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Calcul",
+      "word": "pourcentage",
+      "forbidden_words": [
+        "cent",
+        "proportion",
+        "taux"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Calcul",
+      "word": "racine carrée",
+      "forbidden_words": [
+        "multiplication",
+        "nombre",
+        "opération"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Solides",
+      "word": "aire latérale",
+      "forbidden_words": [
+        "surface",
+        "cylindre",
+        "faces"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Repérage",
+      "word": "déclinaison céleste",
+      "forbidden_words": [
+        "coordonnée",
+        "équateur",
+        "angle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Repérage",
+      "word": "azimut astronomique",
+      "forbidden_words": [
+        "horizon",
+        "direction",
+        "angle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Orbites",
+      "word": "écliptique",
+      "forbidden_words": [
+        "trajectoire",
+        "soleil",
+        "ciel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "word": "lumière zodiacale",
+      "forbidden_words": [
+        "lueur",
+        "horizon",
+        "poussière"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Lune",
+      "word": "croissant lunaire",
+      "forbidden_words": [
+        "phase",
+        "lune",
+        "fin"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "word": "occultation",
+      "forbidden_words": [
+        "astre",
+        "masqué",
+        "passage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "word": "transit planétaire",
+      "forbidden_words": [
+        "disque",
+        "étoile",
+        "passage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "word": "étoile circumpolaire",
+      "forbidden_words": [
+        "pôle",
+        "ciel",
+        "rotation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papeterie",
+      "sub_category": "Papiers",
+      "word": "papier marbré",
+      "forbidden_words": [
+        "motifs",
+        "couleurs",
+        "reliure"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papeterie",
+      "sub_category": "Papiers",
+      "word": "papier japonais",
+      "forbidden_words": [
+        "fibres",
+        "artisanat",
+        "fin"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papeterie",
+      "sub_category": "Reliure",
+      "word": "ruban de signet",
+      "forbidden_words": [
+        "repère",
+        "livre",
+        "tissu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papeterie",
+      "sub_category": "Finitions",
+      "word": "dorure à chaud",
+      "forbidden_words": [
+        "film",
+        "pression",
+        "brillant"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papeterie",
+      "sub_category": "Papiers",
+      "word": "papier de soie",
+      "forbidden_words": [
+        "emballage",
+        "fin",
+        "délicat"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papeterie",
+      "sub_category": "Pliage",
+      "word": "pli vallée",
+      "forbidden_words": [
+        "origami",
+        "creux",
+        "feuille"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Milieux",
+      "word": "ripisylve",
+      "forbidden_words": [
+        "rivière",
+        "arbres",
+        "berge"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Jardins",
+      "word": "nichoir à insectes",
+      "forbidden_words": [
+        "abri",
+        "pollinisateurs",
+        "bois"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Déchets",
+      "word": "composteur collectif",
+      "forbidden_words": [
+        "quartier",
+        "biodéchets",
+        "partage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Continuités naturelles",
+      "word": "trame verte",
+      "forbidden_words": [
+        "réseau",
+        "végétation",
+        "territoire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mobilité",
+      "sub_category": "Transports publics",
+      "word": "valideur",
+      "forbidden_words": [
+        "titre",
+        "transport",
+        "borne"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mobilité",
+      "sub_category": "Cyclisme",
+      "word": "arceau à vélo",
+      "forbidden_words": [
+        "stationnement",
+        "attache",
+        "métal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mobilité",
+      "sub_category": "Piétons",
+      "word": "passerelle piétonne",
+      "forbidden_words": [
+        "traversée",
+        "pont",
+        "marche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mobilité",
+      "sub_category": "Transports publics",
+      "word": "pôle multimodal",
+      "forbidden_words": [
+        "train",
+        "bus",
+        "connexion"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mobilité",
+      "sub_category": "Stationnement",
+      "word": "parking relais",
+      "forbidden_words": [
+        "voiture",
+        "transport",
+        "périphérie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Équipement domestique",
+      "sub_category": "Qualité de l'air",
+      "word": "purificateur d'air",
+      "forbidden_words": [
+        "filtre",
+        "poussière",
+        "appareil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Équipement domestique",
+      "sub_category": "Étanchéité",
+      "word": "joint d'étanchéité",
+      "forbidden_words": [
+        "fuite",
+        "raccord",
+        "caoutchouc"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Équipement domestique",
+      "sub_category": "Qualité de l'air",
+      "word": "filtre à charbon",
+      "forbidden_words": [
+        "odeur",
+        "absorption",
+        "cartouche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Équipement domestique",
+      "sub_category": "Plomberie",
+      "word": "mitigeur thermostatique",
+      "forbidden_words": [
+        "robinet",
+        "température",
+        "douche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Équipement domestique",
+      "sub_category": "Économie d'eau",
+      "word": "chasse d'eau double débit",
+      "forbidden_words": [
+        "réservoir",
+        "boutons",
+        "toilettes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Équipement domestique",
+      "sub_category": "Plomberie",
+      "word": "siphon",
+      "forbidden_words": [
+        "évacuation",
+        "odeurs",
+        "courbe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Équipement domestique",
+      "sub_category": "Plomberie",
+      "word": "bonde",
+      "forbidden_words": [
+        "lavabo",
+        "bouchon",
+        "évacuation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Équipement domestique",
+      "sub_category": "Économie d'eau",
+      "word": "aérateur de robinet",
+      "forbidden_words": [
+        "débit",
+        "embout",
+        "mousseur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Équipement domestique",
+      "sub_category": "Plomberie",
+      "word": "détecteur de fuite",
+      "forbidden_words": [
+        "eau",
+        "alerte",
+        "capteur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat du verre",
+      "sub_category": "Techniques",
+      "word": "verre filé",
+      "forbidden_words": [
+        "chalumeau",
+        "tige",
+        "chaleur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat du verre",
+      "sub_category": "Techniques",
+      "word": "verre gravé",
+      "forbidden_words": [
+        "motif",
+        "incision",
+        "surface"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat du verre",
+      "sub_category": "Techniques",
+      "word": "thermoformage",
+      "forbidden_words": [
+        "moule",
+        "chaleur",
+        "forme"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat du verre",
+      "sub_category": "Techniques",
+      "word": "fusing",
+      "forbidden_words": [
+        "fusion",
+        "four",
+        "plaques"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat du verre",
+      "sub_category": "Outils",
+      "word": "pince à gruger",
+      "forbidden_words": [
+        "bord",
+        "morceau",
+        "façonner"
+      ]
     }
   ],
   "sessiz_sinema": [
