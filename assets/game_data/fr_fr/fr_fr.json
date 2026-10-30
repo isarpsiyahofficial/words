@@ -19455,6 +19455,1826 @@
         "séparation",
         "caillé"
       ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie et édition",
+      "sub_category": "Notions et vocabulaire",
+      "word": "interligne",
+      "forbidden_words": [
+        "espacement",
+        "texte",
+        "lignes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Gestes de cuisine",
+      "sub_category": "Notions et vocabulaire",
+      "word": "émulsionner",
+      "forbidden_words": [
+        "mélanger",
+        "huile",
+        "liquides"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Phénomènes physiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "dispersion",
+      "forbidden_words": [
+        "séparation",
+        "spectre",
+        "couleurs"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture et tissus",
+      "sub_category": "Notions et vocabulaire",
+      "word": "canette",
+      "forbidden_words": [
+        "machine à coudre",
+        "fil inférieur",
+        "petite bobine"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Notions et vocabulaire",
+      "word": "givre",
+      "forbidden_words": [
+        "cristaux",
+        "gel",
+        "surface"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "onglet",
+      "forbidden_words": [
+        "navigateur",
+        "page",
+        "barre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie physique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "bassin versant",
+      "forbidden_words": [
+        "cours d'eau",
+        "drainage",
+        "territoire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie et ressources",
+      "sub_category": "Notions et vocabulaire",
+      "word": "niche écologique",
+      "forbidden_words": [
+        "espèce",
+        "rôle",
+        "habitat"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "numérateur",
+      "forbidden_words": [
+        "fraction",
+        "partie supérieure",
+        "division"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Commerces et marchés",
+      "sub_category": "Notions et vocabulaire",
+      "word": "balance",
+      "forbidden_words": [
+        "peser",
+        "plateau",
+        "mesure"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et image",
+      "sub_category": "Notions et vocabulaire",
+      "word": "objectif",
+      "forbidden_words": [
+        "appareil photo",
+        "lentilles",
+        "prise de vue"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Transports et voies",
+      "sub_category": "Notions et vocabulaire",
+      "word": "aiguillage",
+      "forbidden_words": [
+        "rails",
+        "direction",
+        "train"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Notions et vocabulaire",
+      "word": "chéneau",
+      "forbidden_words": [
+        "toiture",
+        "eaux pluviales",
+        "canal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "pétale",
+      "forbidden_words": [
+        "fleur",
+        "corolle",
+        "couleur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieu marin",
+      "sub_category": "Notions et vocabulaire",
+      "word": "marnage",
+      "forbidden_words": [
+        "marée",
+        "amplitude",
+        "niveau"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Aménagement intérieur",
+      "sub_category": "Notions et vocabulaire",
+      "word": "rideau occultant",
+      "forbidden_words": [
+        "fenêtre",
+        "lumière",
+        "tissu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Notions et vocabulaire",
+      "word": "cheville",
+      "forbidden_words": [
+        "assemblage",
+        "petite pièce",
+        "bois"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie et édition",
+      "sub_category": "Notions et vocabulaire",
+      "word": "césure",
+      "forbidden_words": [
+        "syllabe",
+        "fin de ligne",
+        "trait d'union"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Gestes de cuisine",
+      "sub_category": "Notions et vocabulaire",
+      "word": "tamiser",
+      "forbidden_words": [
+        "farine",
+        "grumeaux",
+        "passoire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Phénomènes physiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "conduction",
+      "forbidden_words": [
+        "chaleur",
+        "contact",
+        "transfert"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture et tissus",
+      "sub_category": "Notions et vocabulaire",
+      "word": "navette",
+      "forbidden_words": [
+        "métier à tisser",
+        "aller-retour",
+        "fil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Notions et vocabulaire",
+      "word": "crachin",
+      "forbidden_words": [
+        "pluie fine",
+        "persistant",
+        "gouttelettes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "curseur",
+      "forbidden_words": [
+        "insertion",
+        "clignotant",
+        "texte"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie physique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "ligne de partage des eaux",
+      "forbidden_words": [
+        "crête",
+        "rivières",
+        "séparation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie et ressources",
+      "sub_category": "Notions et vocabulaire",
+      "word": "décomposeur",
+      "forbidden_words": [
+        "champignons",
+        "matière organique",
+        "recyclage naturel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "dénominateur",
+      "forbidden_words": [
+        "fraction",
+        "partie inférieure",
+        "division"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Commerces et marchés",
+      "sub_category": "Notions et vocabulaire",
+      "word": "pesée",
+      "forbidden_words": [
+        "poids",
+        "marchandise",
+        "mesure"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et image",
+      "sub_category": "Notions et vocabulaire",
+      "word": "oculaire",
+      "forbidden_words": [
+        "œil",
+        "instrument",
+        "observation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Transports et voies",
+      "sub_category": "Notions et vocabulaire",
+      "word": "passage à niveau",
+      "forbidden_words": [
+        "route",
+        "rails",
+        "barrière"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Notions et vocabulaire",
+      "word": "faîtage",
+      "forbidden_words": [
+        "sommet",
+        "toit",
+        "jonction"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "bouture",
+      "forbidden_words": [
+        "plante",
+        "tige",
+        "multiplication"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieu marin",
+      "sub_category": "Notions et vocabulaire",
+      "word": "ressac",
+      "forbidden_words": [
+        "vagues",
+        "retour",
+        "rivage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Aménagement intérieur",
+      "sub_category": "Notions et vocabulaire",
+      "word": "tringle",
+      "forbidden_words": [
+        "rideaux",
+        "barre",
+        "support"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Notions et vocabulaire",
+      "word": "goujon",
+      "forbidden_words": [
+        "cylindre",
+        "assemblage",
+        "tige"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie et édition",
+      "sub_category": "Notions et vocabulaire",
+      "word": "ligature",
+      "forbidden_words": [
+        "caractères",
+        "fusion",
+        "imprimerie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Gestes de cuisine",
+      "sub_category": "Notions et vocabulaire",
+      "word": "pétrir",
+      "forbidden_words": [
+        "pâte",
+        "mains",
+        "élasticité"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Phénomènes physiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "convection",
+      "forbidden_words": [
+        "circulation",
+        "fluide",
+        "température"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture et tissus",
+      "sub_category": "Notions et vocabulaire",
+      "word": "trame",
+      "forbidden_words": [
+        "tissage",
+        "fils transversaux",
+        "étoffe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Notions et vocabulaire",
+      "word": "grésil",
+      "forbidden_words": [
+        "précipitation",
+        "petites billes",
+        "froid"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "défilement",
+      "forbidden_words": [
+        "écran",
+        "faire glisser",
+        "vertical"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie physique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "nappe phréatique",
+      "forbidden_words": [
+        "souterrain",
+        "réserve",
+        "eau"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie et ressources",
+      "sub_category": "Notions et vocabulaire",
+      "word": "chaîne alimentaire",
+      "forbidden_words": [
+        "prédateur",
+        "proie",
+        "relations"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "quotient",
+      "forbidden_words": [
+        "division",
+        "résultat",
+        "calcul"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Commerces et marchés",
+      "sub_category": "Notions et vocabulaire",
+      "word": "étiquette",
+      "forbidden_words": [
+        "prix",
+        "information",
+        "produit"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et image",
+      "sub_category": "Notions et vocabulaire",
+      "word": "lentille",
+      "forbidden_words": [
+        "verre",
+        "focalisation",
+        "optique"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Transports et voies",
+      "sub_category": "Notions et vocabulaire",
+      "word": "voie ferrée",
+      "forbidden_words": [
+        "train",
+        "rails",
+        "trajet"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Notions et vocabulaire",
+      "word": "jambage",
+      "forbidden_words": [
+        "ouverture",
+        "montant",
+        "maçonnerie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "germination",
+      "forbidden_words": [
+        "graine",
+        "pousse",
+        "début"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieu marin",
+      "sub_category": "Notions et vocabulaire",
+      "word": "déferlante",
+      "forbidden_words": [
+        "vague",
+        "écume",
+        "rupture"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Aménagement intérieur",
+      "sub_category": "Notions et vocabulaire",
+      "word": "housse",
+      "forbidden_words": [
+        "protection",
+        "enveloppe",
+        "coussin"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Notions et vocabulaire",
+      "word": "tasseau",
+      "forbidden_words": [
+        "baguette",
+        "support",
+        "bois"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie et édition",
+      "sub_category": "Notions et vocabulaire",
+      "word": "lettrine",
+      "forbidden_words": [
+        "initiale",
+        "ornement",
+        "chapitre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Gestes de cuisine",
+      "sub_category": "Notions et vocabulaire",
+      "word": "abaisser",
+      "forbidden_words": [
+        "rouleau",
+        "pâte",
+        "épaisseur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Phénomènes physiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "densité",
+      "forbidden_words": [
+        "masse",
+        "volume",
+        "rapport"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture et tissus",
+      "sub_category": "Notions et vocabulaire",
+      "word": "surjet",
+      "forbidden_words": [
+        "bord",
+        "effilochage",
+        "couture"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Notions et vocabulaire",
+      "word": "ondée",
+      "forbidden_words": [
+        "pluie",
+        "courte",
+        "passage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "glisser-déposer",
+      "forbidden_words": [
+        "souris",
+        "déplacer",
+        "relâcher"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie physique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "aquifère",
+      "forbidden_words": [
+        "roche perméable",
+        "réservoir",
+        "sous-sol"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie et ressources",
+      "sub_category": "Notions et vocabulaire",
+      "word": "réemploi",
+      "forbidden_words": [
+        "réutilisation",
+        "objet",
+        "seconde vie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "produit",
+      "forbidden_words": [
+        "multiplication",
+        "résultat",
+        "facteurs"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Commerces et marchés",
+      "sub_category": "Notions et vocabulaire",
+      "word": "panier",
+      "forbidden_words": [
+        "courses",
+        "anse",
+        "contenant"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et image",
+      "sub_category": "Notions et vocabulaire",
+      "word": "grossissement",
+      "forbidden_words": [
+        "agrandir",
+        "image",
+        "observation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Transports et voies",
+      "sub_category": "Notions et vocabulaire",
+      "word": "locomotive",
+      "forbidden_words": [
+        "traction",
+        "train",
+        "moteur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Notions et vocabulaire",
+      "word": "pilastre",
+      "forbidden_words": [
+        "mur",
+        "colonne plate",
+        "ornement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "pollinisation",
+      "forbidden_words": [
+        "pollen",
+        "fleur",
+        "transport"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieu marin",
+      "sub_category": "Notions et vocabulaire",
+      "word": "embouchure",
+      "forbidden_words": [
+        "fleuve",
+        "mer",
+        "arrivée"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Aménagement intérieur",
+      "sub_category": "Notions et vocabulaire",
+      "word": "plaid",
+      "forbidden_words": [
+        "couverture",
+        "canapé",
+        "tissu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Notions et vocabulaire",
+      "word": "liteau",
+      "forbidden_words": [
+        "toiture",
+        "lattes",
+        "fixation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie et édition",
+      "sub_category": "Notions et vocabulaire",
+      "word": "empattement",
+      "forbidden_words": [
+        "police",
+        "extrémité",
+        "caractère"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Gestes de cuisine",
+      "sub_category": "Notions et vocabulaire",
+      "word": "émincer",
+      "forbidden_words": [
+        "fines tranches",
+        "légumes",
+        "découpe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Phénomènes physiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "viscosité",
+      "forbidden_words": [
+        "écoulement",
+        "épais",
+        "liquide"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture et tissus",
+      "sub_category": "Notions et vocabulaire",
+      "word": "fronce",
+      "forbidden_words": [
+        "plis",
+        "tissu",
+        "resserrer"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Notions et vocabulaire",
+      "word": "humidité",
+      "forbidden_words": [
+        "vapeur d'eau",
+        "air",
+        "pourcentage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "restauration",
+      "forbidden_words": [
+        "sauvegarde",
+        "récupération",
+        "état précédent"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie physique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "versant",
+      "forbidden_words": [
+        "montagne",
+        "pente",
+        "côté"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie et ressources",
+      "sub_category": "Notions et vocabulaire",
+      "word": "économie circulaire",
+      "forbidden_words": [
+        "ressources",
+        "déchets",
+        "boucle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "fraction",
+      "forbidden_words": [
+        "partie",
+        "entier",
+        "barre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Commerces et marchés",
+      "sub_category": "Notions et vocabulaire",
+      "word": "ticket de caisse",
+      "forbidden_words": [
+        "achat",
+        "reçu",
+        "total"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et image",
+      "sub_category": "Notions et vocabulaire",
+      "word": "mise au point",
+      "forbidden_words": [
+        "netteté",
+        "réglage",
+        "photo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Transports et voies",
+      "sub_category": "Notions et vocabulaire",
+      "word": "wagon",
+      "forbidden_words": [
+        "train",
+        "marchandises",
+        "véhicule"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Notions et vocabulaire",
+      "word": "chapiteau",
+      "forbidden_words": [
+        "colonne",
+        "partie supérieure",
+        "ornement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "photosynthèse",
+      "forbidden_words": [
+        "soleil",
+        "chlorophylle",
+        "énergie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieu marin",
+      "sub_category": "Notions et vocabulaire",
+      "word": "atoll",
+      "forbidden_words": [
+        "île",
+        "anneau",
+        "lagon"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Aménagement intérieur",
+      "sub_category": "Notions et vocabulaire",
+      "word": "jeté de lit",
+      "forbidden_words": [
+        "chambre",
+        "couverture décorative",
+        "dessus"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Notions et vocabulaire",
+      "word": "placage",
+      "forbidden_words": [
+        "fine feuille",
+        "revêtement",
+        "bois"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie et édition",
+      "sub_category": "Notions et vocabulaire",
+      "word": "italique",
+      "forbidden_words": [
+        "incliné",
+        "écriture",
+        "police"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Gestes de cuisine",
+      "sub_category": "Notions et vocabulaire",
+      "word": "râper",
+      "forbidden_words": [
+        "copeaux",
+        "fromage",
+        "ustensile"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Phénomènes physiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "élasticité",
+      "forbidden_words": [
+        "déformation",
+        "retour",
+        "matière"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture et tissus",
+      "sub_category": "Notions et vocabulaire",
+      "word": "pince",
+      "forbidden_words": [
+        "ajustement",
+        "vêtement",
+        "forme"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Notions et vocabulaire",
+      "word": "anticyclone",
+      "forbidden_words": [
+        "hautes pressions",
+        "temps stable",
+        "atmosphère"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "arborescence",
+      "forbidden_words": [
+        "dossiers",
+        "hiérarchie",
+        "branches"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie physique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "promontoire",
+      "forbidden_words": [
+        "relief",
+        "avance",
+        "panorama"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie et ressources",
+      "sub_category": "Notions et vocabulaire",
+      "word": "empreinte carbone",
+      "forbidden_words": [
+        "émissions",
+        "impact",
+        "climat"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "proportion",
+      "forbidden_words": [
+        "rapport",
+        "quantités",
+        "comparaison"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Commerces et marchés",
+      "sub_category": "Notions et vocabulaire",
+      "word": "vrac",
+      "forbidden_words": [
+        "sans emballage",
+        "quantité",
+        "distribution"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et image",
+      "sub_category": "Notions et vocabulaire",
+      "word": "obturateur",
+      "forbidden_words": [
+        "durée",
+        "exposition",
+        "appareil photo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Transports et voies",
+      "sub_category": "Notions et vocabulaire",
+      "word": "carrefour",
+      "forbidden_words": [
+        "routes",
+        "croisement",
+        "circulation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Notions et vocabulaire",
+      "word": "palier",
+      "forbidden_words": [
+        "escalier",
+        "repos",
+        "étage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "radicelle",
+      "forbidden_words": [
+        "racine",
+        "embryon",
+        "graine"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieu marin",
+      "sub_category": "Notions et vocabulaire",
+      "word": "récif",
+      "forbidden_words": [
+        "roche",
+        "mer",
+        "obstacle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Aménagement intérieur",
+      "sub_category": "Notions et vocabulaire",
+      "word": "tête de lit",
+      "forbidden_words": [
+        "chambre",
+        "panneau",
+        "oreillers"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Notions et vocabulaire",
+      "word": "ponçage",
+      "forbidden_words": [
+        "abrasif",
+        "lisser",
+        "surface"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie et édition",
+      "sub_category": "Notions et vocabulaire",
+      "word": "alinéa",
+      "forbidden_words": [
+        "retrait",
+        "début",
+        "paragraphe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Gestes de cuisine",
+      "sub_category": "Notions et vocabulaire",
+      "word": "zester",
+      "forbidden_words": [
+        "agrume",
+        "écorce",
+        "parfum"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Phénomènes physiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "tension superficielle",
+      "forbidden_words": [
+        "surface",
+        "goutte",
+        "liquide"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture et tissus",
+      "sub_category": "Notions et vocabulaire",
+      "word": "biais",
+      "forbidden_words": [
+        "bande oblique",
+        "finition",
+        "tissu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Notions et vocabulaire",
+      "word": "dépression",
+      "forbidden_words": [
+        "basses pressions",
+        "perturbation",
+        "météo"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "extension",
+      "forbidden_words": [
+        "nom de fichier",
+        "format",
+        "suffixe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie physique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "cirque glaciaire",
+      "forbidden_words": [
+        "amphithéâtre",
+        "montagne",
+        "érosion"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie et ressources",
+      "sub_category": "Notions et vocabulaire",
+      "word": "ressource renouvelable",
+      "forbidden_words": [
+        "régénération",
+        "nature",
+        "durable"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "moyenne",
+      "forbidden_words": [
+        "valeurs",
+        "somme",
+        "nombre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Commerces et marchés",
+      "sub_category": "Notions et vocabulaire",
+      "word": "consigne",
+      "forbidden_words": [
+        "retour",
+        "contenant",
+        "remboursement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et image",
+      "sub_category": "Notions et vocabulaire",
+      "word": "capteur",
+      "forbidden_words": [
+        "lumière",
+        "signal",
+        "appareil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Transports et voies",
+      "sub_category": "Notions et vocabulaire",
+      "word": "déviation",
+      "forbidden_words": [
+        "itinéraire",
+        "travaux",
+        "contournement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Notions et vocabulaire",
+      "word": "auvent",
+      "forbidden_words": [
+        "abri",
+        "entrée",
+        "toit"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "sporange",
+      "forbidden_words": [
+        "spores",
+        "fougère",
+        "organe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieu marin",
+      "sub_category": "Notions et vocabulaire",
+      "word": "plancton",
+      "forbidden_words": [
+        "micro-organismes",
+        "eau",
+        "dérive"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Aménagement intérieur",
+      "sub_category": "Notions et vocabulaire",
+      "word": "sommier",
+      "forbidden_words": [
+        "matelas",
+        "support",
+        "lit"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Notions et vocabulaire",
+      "word": "chant",
+      "forbidden_words": [
+        "bord",
+        "panneau",
+        "épaisseur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie et édition",
+      "sub_category": "Notions et vocabulaire",
+      "word": "tréma",
+      "forbidden_words": [
+        "voyelles",
+        "deux points",
+        "prononciation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Gestes de cuisine",
+      "sub_category": "Notions et vocabulaire",
+      "word": "caraméliser",
+      "forbidden_words": [
+        "sucre",
+        "chaleur",
+        "doré"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Phénomènes physiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "capillarité",
+      "forbidden_words": [
+        "tube fin",
+        "remontée",
+        "liquide"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture et tissus",
+      "sub_category": "Notions et vocabulaire",
+      "word": "boutonnière",
+      "forbidden_words": [
+        "ouverture",
+        "fermeture",
+        "vêtement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Notions et vocabulaire",
+      "word": "bise",
+      "forbidden_words": [
+        "vent froid",
+        "nord-est",
+        "souffle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "compression",
+      "forbidden_words": [
+        "réduire",
+        "taille",
+        "archive"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie physique",
+      "sub_category": "Notions et vocabulaire",
+      "word": "faille",
+      "forbidden_words": [
+        "fracture",
+        "roches",
+        "géologie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie et ressources",
+      "sub_category": "Notions et vocabulaire",
+      "word": "géothermie",
+      "forbidden_words": [
+        "chaleur terrestre",
+        "énergie",
+        "sous-sol"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "médiane",
+      "forbidden_words": [
+        "série ordonnée",
+        "centre",
+        "statistique"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Commerces et marchés",
+      "sub_category": "Notions et vocabulaire",
+      "word": "emballage",
+      "forbidden_words": [
+        "protection",
+        "produit",
+        "paquet"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et image",
+      "sub_category": "Notions et vocabulaire",
+      "word": "résolution",
+      "forbidden_words": [
+        "détails",
+        "pixels",
+        "image"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Transports et voies",
+      "sub_category": "Notions et vocabulaire",
+      "word": "sens unique",
+      "forbidden_words": [
+        "circulation",
+        "direction",
+        "rue"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Notions et vocabulaire",
+      "word": "marquise",
+      "forbidden_words": [
+        "porte",
+        "protection",
+        "verre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieu marin",
+      "sub_category": "Notions et vocabulaire",
+      "word": "varech",
+      "forbidden_words": [
+        "algues",
+        "rivage",
+        "échouage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Aménagement intérieur",
+      "sub_category": "Notions et vocabulaire",
+      "word": "traversin",
+      "forbidden_words": [
+        "oreiller long",
+        "cylindre",
+        "lit"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Notions et vocabulaire",
+      "word": "chantournage",
+      "forbidden_words": [
+        "découpe courbe",
+        "scie",
+        "bois"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie et édition",
+      "sub_category": "Notions et vocabulaire",
+      "word": "apostrophe",
+      "forbidden_words": [
+        "élision",
+        "signe",
+        "voyelle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Gestes de cuisine",
+      "sub_category": "Notions et vocabulaire",
+      "word": "fouetter",
+      "forbidden_words": [
+        "battre",
+        "mousse",
+        "ustensile"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Phénomènes physiques",
+      "sub_category": "Notions et vocabulaire",
+      "word": "flottabilité",
+      "forbidden_words": [
+        "eau",
+        "poussée",
+        "objet"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture et tissus",
+      "sub_category": "Notions et vocabulaire",
+      "word": "point de croix",
+      "forbidden_words": [
+        "broderie",
+        "motif",
+        "deux diagonales"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Notions et vocabulaire",
+      "word": "mistral",
+      "forbidden_words": [
+        "Provence",
+        "vallée du Rhône",
+        "vent"
+      ]
     }
   ],
   "sessiz_sinema": [
