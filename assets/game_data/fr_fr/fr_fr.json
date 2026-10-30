@@ -9186,6 +9186,616 @@
       "difficulty": "difficile",
       "question": "Quelle figure désigne une réalité par un terme qui lui est étroitement associé ?",
       "answer": "métonymie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Relief",
+      "difficulty": "moyen",
+      "question": "Quel terme désigne la différence d'altitude constante entre deux lignes successives sur une carte topographique ?",
+      "answer": "équidistance"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Repérage",
+      "difficulty": "moyen",
+      "question": "Quel système quadrillé permet de situer précisément un point grâce à deux valeurs numériques ?",
+      "answer": "coordonnées"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Mesure",
+      "difficulty": "moyen",
+      "question": "Quelle représentation sous forme de barre graduée indique les distances réelles sur un plan ?",
+      "answer": "échelle graphique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Topographie",
+      "difficulty": "difficile",
+      "question": "Quel instrument optique monté sur trépied sert à mesurer des angles sur le terrain ?",
+      "answer": "théodolite"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Relief",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on une ligne joignant des points de même altitude ?",
+      "answer": "isohypse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Orientation",
+      "difficulty": "moyen",
+      "question": "Quel angle sépare le nord géographique du nord indiqué par une boussole ?",
+      "answer": "déclinaison magnétique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Topographie",
+      "difficulty": "difficile",
+      "question": "Quel relevé représente les variations d'altitude le long d'un trajet ?",
+      "answer": "profil altimétrique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Roches",
+      "difficulty": "difficile",
+      "question": "Quelle roche sédimentaire contient des galets arrondis cimentés ensemble ?",
+      "answer": "poudingue"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydrologie",
+      "sub_category": "Réseaux",
+      "difficulty": "difficile",
+      "question": "Quel point permet à l'eau de sortir d'un bassin ou d'un ouvrage hydraulique ?",
+      "answer": "exutoire"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydrologie",
+      "sub_category": "Mesures",
+      "difficulty": "difficile",
+      "question": "Quel appareil permet d'évaluer la vitesse d'un courant dans une rivière ?",
+      "answer": "courantomètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Fleurs",
+      "difficulty": "difficile",
+      "question": "Quelle petite pièce végétale située sous une fleur peut ressembler à une feuille ?",
+      "answer": "bractée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Fleurs",
+      "difficulty": "difficile",
+      "question": "Quel ensemble de pièces florales protège le bouton avant son ouverture ?",
+      "answer": "calice"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Feuilles",
+      "difficulty": "difficile",
+      "question": "Quels petits pores règlent les échanges gazeux à la surface d'une feuille ?",
+      "answer": "stomates"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Phénomènes",
+      "difficulty": "moyen",
+      "question": "Quel événement survient lorsqu'un corps céleste en masque un autre pour l'observateur ?",
+      "answer": "occultation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "difficulty": "difficile",
+      "question": "Quelle grandeur exprime la luminosité apparente d'un astre sur une échelle astronomique ?",
+      "answer": "magnitude"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Positions",
+      "difficulty": "difficile",
+      "question": "Quel rapprochement apparent de deux astres sur la voûte céleste porte un nom particulier ?",
+      "answer": "conjonction"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Mouvements",
+      "difficulty": "moyen",
+      "question": "Quel mouvement correspond au tour d'un astre sur lui-même ?",
+      "answer": "rotation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Mouvements",
+      "difficulty": "moyen",
+      "question": "Quel mouvement correspond au trajet d'un astre autour d'un autre ?",
+      "answer": "révolution"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Préparation",
+      "difficulty": "moyen",
+      "question": "Quelle opération consiste à passer une poudre ou une farine à travers un tamis ?",
+      "answer": "tamiser"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Pâtisserie",
+      "difficulty": "difficile",
+      "question": "Comment appelle-t-on une pâte étalée à l'épaisseur souhaitée avant découpe ?",
+      "answer": "abaisse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Préparation",
+      "difficulty": "moyen",
+      "question": "Quelle action consiste à enlever la mousse qui se forme à la surface d'un bouillon ?",
+      "answer": "écumer"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Charpente",
+      "difficulty": "moyen",
+      "question": "Quelle pièce horizontale supporte les éléments d'un plancher entre deux appuis ?",
+      "answer": "solive"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Façades",
+      "difficulty": "moyen",
+      "question": "Quelle partie triangulaire d'un mur ferme l'extrémité d'une toiture à deux versants ?",
+      "answer": "pignon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Couture",
+      "difficulty": "moyen",
+      "question": "Quelle couture de bord évite qu'un tissu ne s'effiloche ?",
+      "answer": "surjet"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Couture",
+      "difficulty": "moyen",
+      "question": "Quel pli cousu sert à ajuster un vêtement à la silhouette ?",
+      "answer": "pince"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Matières",
+      "difficulty": "difficile",
+      "question": "Quel renfort textile se fixe à chaud sur l'envers d'une pièce de tissu ?",
+      "answer": "thermocollant"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Assemblage",
+      "difficulty": "difficile",
+      "question": "Quelle technique assemble plusieurs épaisseurs par des coutures régulières pour former un relief ?",
+      "answer": "matelassage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage",
+      "difficulty": "difficile",
+      "question": "Quel nom désigne la manière dont les fils s'entrecroisent dans une étoffe ?",
+      "answer": "armure"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Données",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on les informations décrivant un fichier, comme sa date ou son format ?",
+      "answer": "métadonnées"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Données",
+      "difficulty": "difficile",
+      "question": "Quel procédé crée des structures accélérant la recherche dans une base de données ?",
+      "answer": "indexation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Réseaux",
+      "difficulty": "difficile",
+      "question": "Quel dispositif répartit les requêtes entre plusieurs serveurs pour éviter leur surcharge ?",
+      "answer": "répartiteur de charge"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Graphisme",
+      "difficulty": "moyen",
+      "question": "Quel type d'image est décrit par des formes géométriques plutôt que par une grille de points ?",
+      "answer": "vectoriel"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Réseaux",
+      "difficulty": "difficile",
+      "question": "Quel procédé traduit un nom de domaine en adresse numérique sur Internet ?",
+      "answer": "résolution DNS"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Statistiques",
+      "difficulty": "moyen",
+      "question": "Quel indicateur partage une série ordonnée en quatre groupes d'effectifs comparables ?",
+      "answer": "quartile"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Statistiques",
+      "difficulty": "difficile",
+      "question": "Quel terme désigne la valeur la plus fréquente dans une série ?",
+      "answer": "mode"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Combinatoire",
+      "difficulty": "difficile",
+      "question": "Quel arrangement tient compte de l'ordre des éléments sélectionnés ?",
+      "answer": "permutation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Géométrie",
+      "difficulty": "difficile",
+      "question": "Quel objet géométrique conserve des détails similaires à plusieurs échelles ?",
+      "answer": "fractale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie",
+      "sub_category": "Finition",
+      "difficulty": "moyen",
+      "question": "Quel film protecteur très fin recouvre parfois une couverture imprimée ?",
+      "answer": "pelliculage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie",
+      "sub_category": "Composition",
+      "difficulty": "difficile",
+      "question": "Quel terme désigne l'espace horizontal occupé par un texte composé ?",
+      "answer": "chasse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie",
+      "sub_category": "Composition",
+      "difficulty": "moyen",
+      "question": "Quelle coupure d'un mot en fin de ligne respecte les règles typographiques ?",
+      "answer": "césure"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie",
+      "sub_category": "Livre",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on une feuille pliée qui relie le corps d'un livre à sa couverture ?",
+      "answer": "garde"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie",
+      "sub_category": "Mise en page",
+      "difficulty": "difficile",
+      "question": "Quel espace blanc entoure le bloc de texte sur une page ?",
+      "answer": "marge"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Zoologie",
+      "sub_category": "Anatomie",
+      "difficulty": "difficile",
+      "question": "Quels longs poils sensoriels aident certains mammifères à percevoir leur environnement ?",
+      "answer": "vibrisses"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Zoologie",
+      "sub_category": "Anatomie",
+      "difficulty": "difficile",
+      "question": "Quelle paupière supplémentaire protège l'œil de certains animaux sans masquer totalement la vision ?",
+      "answer": "membrane nictitante"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Zoologie",
+      "sub_category": "Respiration",
+      "difficulty": "moyen",
+      "question": "Quels organes prélèvent l'oxygène dissous dans l'eau chez les poissons ?",
+      "answer": "branchies"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Zoologie",
+      "sub_category": "Anatomie",
+      "difficulty": "difficile",
+      "question": "Quel organe enroulé permet à de nombreux papillons d'aspirer le nectar ?",
+      "answer": "trompe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Zoologie",
+      "sub_category": "Comportement",
+      "difficulty": "difficile",
+      "question": "Quel comportement consiste à rester immobile pour passer inaperçu ?",
+      "answer": "immobilisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Physique",
+      "difficulty": "difficile",
+      "question": "Quel changement d'état fait passer directement un solide à l'état gazeux ?",
+      "answer": "sublimation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et acoustique",
+      "sub_category": "Lumière",
+      "difficulty": "moyen",
+      "question": "Quel phénomène sépare la lumière blanche en plusieurs couleurs ?",
+      "answer": "dispersion"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et acoustique",
+      "sub_category": "Photographie",
+      "difficulty": "moyen",
+      "question": "Quelle distance sépare le centre optique d'un objectif de son foyer ?",
+      "answer": "distance focale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céramique",
+      "sub_category": "Cuisson",
+      "difficulty": "moyen",
+      "question": "Quel revêtement vitrifié donne une surface imperméable et parfois brillante ?",
+      "answer": "émail"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céramique",
+      "sub_category": "Matériaux",
+      "difficulty": "difficile",
+      "question": "Quelle diminution de volume accompagne le séchage ou la cuisson de l'argile ?",
+      "answer": "retrait"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Entretien",
+      "difficulty": "moyen",
+      "question": "Quelle opération ameublit superficiellement la terre entre les rangs cultivés ?",
+      "answer": "binage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Culture",
+      "difficulty": "moyen",
+      "question": "Quelle opération déplace une jeune plante de son premier contenant vers un autre emplacement ?",
+      "answer": "repiquage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Logistique",
+      "sub_category": "Documents",
+      "difficulty": "moyen",
+      "question": "Quel document accompagne une livraison et détaille les marchandises remises ?",
+      "answer": "bordereau de livraison"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Logistique",
+      "sub_category": "Transport",
+      "difficulty": "difficile",
+      "question": "Quelle opération transfère des marchandises d'un véhicule à un autre sans stockage prolongé ?",
+      "answer": "transbordement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Logistique",
+      "sub_category": "Transport",
+      "difficulty": "difficile",
+      "question": "Quel procédé réunit plusieurs petits envois pour optimiser un même transport ?",
+      "answer": "groupage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Logistique",
+      "sub_category": "Préparation",
+      "difficulty": "difficile",
+      "question": "Quelle opération organise les produits en unités prêtes à être expédiées ?",
+      "answer": "colisage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Logistique",
+      "sub_category": "Stockage",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on la conservation organisée de marchandises dans un dépôt ?",
+      "answer": "entreposage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Logistique",
+      "sub_category": "Transport",
+      "difficulty": "moyen",
+      "question": "Quel équipement roulant à fourches soulève et déplace des charges sur des palettes ?",
+      "answer": "chariot élévateur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Logistique",
+      "sub_category": "Documents",
+      "difficulty": "difficile",
+      "question": "Quel document récapitule le contenu exact d'un envoi destiné au destinataire ?",
+      "answer": "liste de colisage"
     }
   ],
   "tabu": [
