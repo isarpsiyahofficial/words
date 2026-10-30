@@ -13384,7 +13384,7 @@
       "main_category": "Matériaux et physique",
       "sub_category": "Propriétés des corps",
       "difficulty": "moyen",
-      "question": "Quel phénomène répartit progressivement la chaleur d'une zone chaude vers une zone plus froide ?",
+      "question": "Quel processus décrit l'étalement progressif d'une variation de température dans un milieu sous l'effet de la conduction ?",
       "answer": "diffusion thermique"
     },
     {
@@ -13484,7 +13484,7 @@
       "main_category": "Météorologie",
       "sub_category": "Phénomènes atmosphériques",
       "difficulty": "difficile",
-      "question": "Quel vent local remonte les pentes pendant la journée lorsque le sol se réchauffe ?",
+      "question": "Quel courant d'air local circule durant la journée des parties basses d'une vallée vers ses hauteurs sous l'effet du réchauffement solaire ?",
       "answer": "brise de vallée"
     },
     {
@@ -13716,6 +13716,566 @@
       "difficulty": "difficile",
       "question": "Quelle végétation semée entre deux cultures principales protège la terre contre l'érosion ?",
       "answer": "couvert végétal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Physiologie végétale",
+      "difficulty": "difficile",
+      "question": "Quelle structure située au bord de certaines feuilles rejette des gouttelettes d'eau liquide ?",
+      "answer": "hydathode"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Tissus végétaux",
+      "difficulty": "difficile",
+      "question": "Quel tissu végétal rigide est constitué de cellules aux parois fortement épaissies ?",
+      "answer": "sclérenchyme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Tissus végétaux",
+      "difficulty": "difficile",
+      "question": "Quel tissu forme la couche externe d'une jeune racine et porte souvent les poils absorbants ?",
+      "answer": "rhizoderme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Morphologie",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on la disposition des feuilles le long d'une tige ?",
+      "answer": "phyllotaxie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Physiologie végétale",
+      "difficulty": "moyen",
+      "question": "Quel phénomène correspond à la croissance orientée d'un végétal en réponse à un stimulus ?",
+      "answer": "tropisme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Écologie végétale",
+      "difficulty": "difficile",
+      "question": "Quelle petite cavité ou touffe de poils d'une feuille peut servir d'abri à de minuscules animaux ?",
+      "answer": "domatie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Reliefs calcaires",
+      "difficulty": "difficile",
+      "question": "Quelle vaste dépression à fond relativement plat caractérise certains massifs calcaires ?",
+      "answer": "poljé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Sédimentation",
+      "difficulty": "difficile",
+      "question": "Quelle couche sédimentaire annuelle, souvent formée d'une partie claire et d'une partie sombre, se dépose dans certains lacs ?",
+      "answer": "varve"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Sédimentation",
+      "difficulty": "difficile",
+      "question": "Quel dépôt meuble, souvent jaunâtre, résulte de l'accumulation de poussières transportées par le vent ?",
+      "answer": "lœss"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Glaciers",
+      "difficulty": "moyen",
+      "question": "Quel amas de débris rocheux marque une ancienne position de l'extrémité d'un glacier ?",
+      "answer": "moraine frontale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Glaciers",
+      "difficulty": "difficile",
+      "question": "Quel relief rocheux arrondi et poli sur un côté, plus abrupt sur l'autre, témoigne du passage d'un glacier ?",
+      "answer": "roche moutonnée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Reliefs structuraux",
+      "difficulty": "difficile",
+      "question": "Quel relief présente un versant abrupt et un autre en pente douce dans une succession de couches inclinées ?",
+      "answer": "cuesta"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydrologie",
+      "sub_category": "Eaux souterraines",
+      "difficulty": "difficile",
+      "question": "Quelle réserve d'eau souterraine repose localement sur une couche imperméable située au-dessus de la réserve principale ?",
+      "answer": "nappe perchée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydrologie",
+      "sub_category": "Eaux souterraines",
+      "difficulty": "difficile",
+      "question": "Quel réservoir souterrain saturé est enfermé entre deux couches peu perméables ?",
+      "answer": "aquifère captif"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydrologie",
+      "sub_category": "Circulation des eaux",
+      "difficulty": "difficile",
+      "question": "Quel point du paysage permet à un cours d'eau de disparaître dans un réseau de cavités calcaires ?",
+      "answer": "perte karstique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydrologie",
+      "sub_category": "Régimes fluviaux",
+      "difficulty": "moyen",
+      "question": "Quelle hausse saisonnière du débit d'une rivière résulte principalement de la fonte des neiges ?",
+      "answer": "crue nivale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydrologie",
+      "sub_category": "Circulation des eaux",
+      "difficulty": "moyen",
+      "question": "Quel écoulement très lent laisse apparaître de l'humidité à travers une paroi ou un terrain ?",
+      "answer": "suintement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Hydrologie",
+      "sub_category": "Bassins versants",
+      "difficulty": "moyen",
+      "question": "Quelle limite topographique sépare deux bassins versants voisins ?",
+      "answer": "ligne de partage des eaux"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métiers du livre",
+      "sub_category": "Reliure",
+      "difficulty": "difficile",
+      "question": "Quelle feuille non collée au carton de couverture relie le corps d'un livre à sa reliure ?",
+      "answer": "garde volante"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métiers du livre",
+      "sub_category": "Papeterie",
+      "difficulty": "difficile",
+      "question": "Quelle tige de soutien du tamis traditionnel laisse une marque espacée visible dans certaines feuilles anciennes ?",
+      "answer": "pontuseau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métiers du livre",
+      "sub_category": "Papeterie",
+      "difficulty": "difficile",
+      "question": "Quelle fine marque parallèle reste visible par transparence dans certaines feuilles fabriquées sur une forme à fils ?",
+      "answer": "vergeure"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métiers du livre",
+      "sub_category": "Papeterie",
+      "difficulty": "moyen",
+      "question": "Quel support d'écriture traditionnel est fabriqué principalement à partir de fibres textiles récupérées ?",
+      "answer": "papier chiffon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métiers du livre",
+      "sub_category": "Façonnage",
+      "difficulty": "moyen",
+      "question": "Quelle opération consiste à fixer deux feuilles ou matériaux minces l'un contre l'autre pour les renforcer ?",
+      "answer": "contre-collage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Maçonnerie",
+      "difficulty": "difficile",
+      "question": "Quelle pierre taillée en coin constitue un élément d'un arc maçonné ?",
+      "answer": "claveau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Maçonnerie",
+      "difficulty": "difficile",
+      "question": "Quelle courbure forme la partie intérieure d'un arc ou d'une voûte au-dessus d'une ouverture ?",
+      "answer": "voussure"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Céramique",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on la première cuisson d'une pièce de céramique avant l'application d'une glaçure ?",
+      "answer": "dégourdi"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Textile",
+      "difficulty": "moyen",
+      "question": "Quelle technique transforme des fibres en fil continu à l'aide d'une petite tige lestée que l'on fait tourner ?",
+      "answer": "filage au fuseau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Multiplication végétale",
+      "difficulty": "difficile",
+      "question": "Quelle technique de multiplication insère un seul bourgeon sous l'écorce d'un végétal receveur ?",
+      "answer": "greffe en écusson"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Biodiversité",
+      "difficulty": "moyen",
+      "question": "Quelle parcelle temporairement non cultivée accueille un mélange de plantes à fleurs favorables aux insectes ?",
+      "answer": "jachère fleurie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Entretien des cultures",
+      "difficulty": "moyen",
+      "question": "Quelle couverture de sol faite de matières végétales limite l'évaporation et la pousse des herbes ?",
+      "answer": "paillage organique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Sols",
+      "difficulty": "moyen",
+      "question": "Quel amendement sombre et friable résulte de la décomposition suffisamment avancée de déchets biodégradables ?",
+      "answer": "compost mûr"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Sols",
+      "difficulty": "moyen",
+      "question": "Quel mélange de culture laisse s'évacuer facilement l'excès d'eau autour des racines ?",
+      "answer": "substrat drainant"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Formation des mots",
+      "difficulty": "difficile",
+      "question": "Quel procédé linguistique supprime un ou plusieurs sons à la fin d'un mot ?",
+      "answer": "apocope"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Formation des mots",
+      "difficulty": "difficile",
+      "question": "Quel procédé linguistique supprime un ou plusieurs sons au début d'un mot ?",
+      "answer": "aphérèse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Phonétique",
+      "difficulty": "difficile",
+      "question": "Quel phénomène de prononciation réunit deux voyelles voisines en une seule syllabe ?",
+      "answer": "synérèse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Phonétique",
+      "difficulty": "difficile",
+      "question": "Quel phénomène de prononciation sépare en deux syllabes des voyelles souvent réunies ?",
+      "answer": "diérèse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Lexique",
+      "difficulty": "difficile",
+      "question": "Quelle relation unit deux mots de forme proche mais de sens différent, souvent source de confusion ?",
+      "answer": "paronymie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Lexique",
+      "difficulty": "difficile",
+      "question": "Quelle relation unit deux mots qui s'écrivent de la même façon, même s'ils peuvent se prononcer différemment ?",
+      "answer": "homographie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Syntaxe",
+      "difficulty": "difficile",
+      "question": "Quelle rupture de construction grammaticale fait changer la structure attendue d'une phrase en cours de route ?",
+      "answer": "anacoluthe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Syntaxe",
+      "difficulty": "moyen",
+      "question": "Quel procédé omet un élément de phrase que le contexte permet de comprendre ?",
+      "answer": "ellipse grammaticale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Figures de style",
+      "difficulty": "moyen",
+      "question": "Quelle figure de style enchaîne des termes selon une intensité croissante ou décroissante ?",
+      "answer": "gradation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Figures de style",
+      "difficulty": "difficile",
+      "question": "Quelle figure de style dispose deux groupes d'éléments selon un ordre inversé de type AB puis BA ?",
+      "answer": "chiasme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Intégrité des données",
+      "difficulty": "moyen",
+      "question": "Quelle valeur calculée à partir d'un fichier permet de détecter une modification accidentelle de ses données ?",
+      "answer": "somme de contrôle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Structures de données",
+      "difficulty": "moyen",
+      "question": "Quelle structure de données donne à chaque nœud au plus deux enfants ?",
+      "answer": "arbre binaire"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Structures de données",
+      "difficulty": "moyen",
+      "question": "Quelle structure de données retire les éléments dans l'ordre où ils ont été ajoutés ?",
+      "answer": "file FIFO"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Systèmes",
+      "difficulty": "moyen",
+      "question": "Quelle zone temporaire stocke des données pendant leur transfert entre deux composants ?",
+      "answer": "mémoire tampon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Réseaux",
+      "difficulty": "moyen",
+      "question": "Quelle opération informatique retrouve une adresse numérique à partir d'un nom de domaine ?",
+      "answer": "résolution de nom"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Exploitation",
+      "difficulty": "moyen",
+      "question": "Quelle pratique enregistre chronologiquement les événements d'un système pour faciliter leur analyse ?",
+      "answer": "journalisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Théorie musicale",
+      "sub_category": "Rythme",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on une ou plusieurs notes placées avant le premier temps fort d'une phrase musicale ?",
+      "answer": "anacrouse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Théorie musicale",
+      "sub_category": "Rythme",
+      "difficulty": "moyen",
+      "question": "Quel effet rythmique accentue un moment situé entre deux pulsations principales ?",
+      "answer": "contretemps"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Théorie musicale",
+      "sub_category": "Voix",
+      "difficulty": "moyen",
+      "question": "Quelle étendue de notes une voix peut-elle produire confortablement et régulièrement ?",
+      "answer": "tessiture"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Théorie musicale",
+      "sub_category": "Expression",
+      "difficulty": "moyen",
+      "question": "Quelle indication demande d'augmenter progressivement l'intensité sonore ?",
+      "answer": "nuance crescendo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Théorie musicale",
+      "sub_category": "Notation",
+      "difficulty": "difficile",
+      "question": "Quel signe de notation autorise à prolonger librement la durée d'une note ou d'un silence ?",
+      "answer": "point d'orgue"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Théorie musicale",
+      "sub_category": "Acoustique",
+      "difficulty": "moyen",
+      "question": "Quelle qualité permet de distinguer deux instruments jouant la même note à la même intensité ?",
+      "answer": "timbre sonore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Théorie musicale",
+      "sub_category": "Harmonie",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on la distance entre deux hauteurs entendues simultanément ?",
+      "answer": "intervalle harmonique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Théorie musicale",
+      "sub_category": "Notation",
+      "difficulty": "difficile",
+      "question": "Quel ensemble d'altérations placées au début d'une portée indique la tonalité utilisée ?",
+      "answer": "armure musicale"
     }
   ],
   "tabu": [
