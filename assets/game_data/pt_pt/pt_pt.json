@@ -18391,11 +18391,11 @@
         "locale": "pt-PT",
         "main_category": "Costura e têxteis",
         "sub_category": "Materiais e técnicas",
-        "word": "Fio de alinhavo",
+        "word": "Entretela termocolante",
         "forbidden_words": [
-          "provisório",
-          "agulha",
-          "tecido"
+          "reforço",
+          "tecido",
+          "ferro"
         ]
       },
       {
@@ -18443,11 +18443,11 @@
         "locale": "pt-PT",
         "main_category": "Paisagens e ecossistemas",
         "sub_category": "Ambientes naturais",
-        "word": "Mata ripícola",
+        "word": "Várzea",
         "forbidden_words": [
-          "vegetação",
-          "curso",
-          "água"
+          "planície",
+          "rio",
+          "inundação"
         ]
       },
       {
@@ -19904,6 +19904,1033 @@
           "caiaque",
           "água",
           "propulsão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Açoteia",
+        "forbidden_words": [
+          "terraço",
+          "cobertura",
+          "casa"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Cunhal",
+        "forbidden_words": [
+          "esquina",
+          "parede",
+          "pedra"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Cimalha",
+        "forbidden_words": [
+          "remate",
+          "fachada",
+          "moldura"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Mísula",
+        "forbidden_words": [
+          "suporte",
+          "parede",
+          "saliente"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Platibanda",
+        "forbidden_words": [
+          "fachada",
+          "cobertura",
+          "muro"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Óculo arquitetónico",
+        "forbidden_words": [
+          "abertura",
+          "circular",
+          "parede"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Arco abatido",
+        "forbidden_words": [
+          "curvatura",
+          "entrada",
+          "baixo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Pavimento drenante",
+        "forbidden_words": [
+          "chuva",
+          "solo",
+          "permeável"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Ladrilho hidráulico",
+        "forbidden_words": [
+          "cimento",
+          "padrão",
+          "chão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Reboco de cal",
+        "forbidden_words": [
+          "parede",
+          "argamassa",
+          "tradicional"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Caixilharia de madeira",
+        "forbidden_words": [
+          "janela",
+          "aro",
+          "vidro"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura",
+        "sub_category": "Conceitos e objetos",
+        "word": "Escada helicoidal",
+        "forbidden_words": [
+          "degraus",
+          "espiral",
+          "subida"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ofícios e ferramentas",
+        "sub_category": "Conceitos e objetos",
+        "word": "Grosa",
+        "forbidden_words": [
+          "desbastar",
+          "madeira",
+          "dentes"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ofícios e ferramentas",
+        "sub_category": "Conceitos e objetos",
+        "word": "Verruma",
+        "forbidden_words": [
+          "furo",
+          "manual",
+          "madeira"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ofícios e ferramentas",
+        "sub_category": "Conceitos e objetos",
+        "word": "Plaina de desbaste",
+        "forbidden_words": [
+          "aparas",
+          "superfície",
+          "madeira"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ofícios e ferramentas",
+        "sub_category": "Conceitos e objetos",
+        "word": "Formão de meia-cana",
+        "forbidden_words": [
+          "entalhe",
+          "curva",
+          "madeira"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ofícios e ferramentas",
+        "sub_category": "Conceitos e objetos",
+        "word": "Lima bastarda",
+        "forbidden_words": [
+          "metal",
+          "desbaste",
+          "dentes"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica",
+        "sub_category": "Conceitos e objetos",
+        "word": "Pasta de grés",
+        "forbidden_words": [
+          "barro",
+          "resistente",
+          "forno"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica",
+        "sub_category": "Conceitos e objetos",
+        "word": "Vidrado craquelado",
+        "forbidden_words": [
+          "esmalte",
+          "fissuras",
+          "decoração"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis",
+        "sub_category": "Conceitos e objetos",
+        "word": "Urdidura",
+        "forbidden_words": [
+          "tear",
+          "longitudinal",
+          "fios"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis",
+        "sub_category": "Conceitos e objetos",
+        "word": "Lançadeira de tear",
+        "forbidden_words": [
+          "trama",
+          "tecelagem",
+          "passagem"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis",
+        "sub_category": "Conceitos e objetos",
+        "word": "Ponto de cadeia",
+        "forbidden_words": [
+          "bordado",
+          "laçada",
+          "agulha"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis",
+        "sub_category": "Conceitos e objetos",
+        "word": "Linho cru",
+        "forbidden_words": [
+          "fibra",
+          "natural",
+          "tecido"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecossistemas",
+        "sub_category": "Conceitos e objetos",
+        "word": "Duna fixa",
+        "forbidden_words": [
+          "areia",
+          "plantas",
+          "estável"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecossistemas",
+        "sub_category": "Conceitos e objetos",
+        "word": "Cordão dunar",
+        "forbidden_words": [
+          "costa",
+          "areia",
+          "barreira"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecossistemas",
+        "sub_category": "Conceitos e objetos",
+        "word": "Pradaria marinha",
+        "forbidden_words": [
+          "plantas",
+          "submersas",
+          "fundo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecossistemas",
+        "sub_category": "Conceitos e objetos",
+        "word": "Restinga",
+        "forbidden_words": [
+          "areia",
+          "litoral",
+          "faixa"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecossistemas",
+        "sub_category": "Conceitos e objetos",
+        "word": "Arriba",
+        "forbidden_words": [
+          "costa",
+          "rocha",
+          "declive"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecossistemas",
+        "sub_category": "Conceitos e objetos",
+        "word": "Ribeira sazonal",
+        "forbidden_words": [
+          "curso",
+          "água",
+          "verão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Conceitos e objetos",
+        "word": "Estípula",
+        "forbidden_words": [
+          "folha",
+          "base",
+          "apêndice"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Conceitos e objetos",
+        "word": "Raiz fasciculada",
+        "forbidden_words": [
+          "finas",
+          "feixe",
+          "planta"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Conceitos e objetos",
+        "word": "Estoma",
+        "forbidden_words": [
+          "poros",
+          "folha",
+          "trocas"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Conceitos e objetos",
+        "word": "Gavinha",
+        "forbidden_words": [
+          "trepar",
+          "enrolar",
+          "planta"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Conceitos e objetos",
+        "word": "Cormo",
+        "forbidden_words": [
+          "reserva",
+          "subterrâneo",
+          "caule"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Padaria",
+        "sub_category": "Conceitos e objetos",
+        "word": "Alvéolo do pão",
+        "forbidden_words": [
+          "miolo",
+          "buraco",
+          "fermentação"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Padaria",
+        "sub_category": "Conceitos e objetos",
+        "word": "Ponto de véu",
+        "forbidden_words": [
+          "massa",
+          "elasticidade",
+          "esticar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Padaria",
+        "sub_category": "Conceitos e objetos",
+        "word": "Dobras da massa",
+        "forbidden_words": [
+          "pão",
+          "estrutura",
+          "repouso"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Padaria",
+        "sub_category": "Conceitos e objetos",
+        "word": "Pão ázimo",
+        "forbidden_words": [
+          "fermento",
+          "sem",
+          "achatado"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha",
+        "sub_category": "Conceitos e objetos",
+        "word": "Passador chinês",
+        "forbidden_words": [
+          "coar",
+          "cónico",
+          "cozinha"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha",
+        "sub_category": "Conceitos e objetos",
+        "word": "Pincel de pastelaria",
+        "forbidden_words": [
+          "untar",
+          "massa",
+          "cerdas"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha",
+        "sub_category": "Conceitos e objetos",
+        "word": "Coador de pano",
+        "forbidden_words": [
+          "filtrar",
+          "tecido",
+          "líquido"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Conceitos e objetos",
+        "word": "Ditongo crescente",
+        "forbidden_words": [
+          "vogais",
+          "sílaba",
+          "semivogal"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Conceitos e objetos",
+        "word": "Ditongo decrescente",
+        "forbidden_words": [
+          "vogais",
+          "sílaba",
+          "semivogal"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Conceitos e objetos",
+        "word": "Parónimo",
+        "forbidden_words": [
+          "palavras",
+          "semelhantes",
+          "significados"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Conceitos e objetos",
+        "word": "Homónimo",
+        "forbidden_words": [
+          "palavras",
+          "iguais",
+          "sentidos"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Conceitos e objetos",
+        "word": "Onomatopeia",
+        "forbidden_words": [
+          "som",
+          "imitação",
+          "palavra"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Conceitos e objetos",
+        "word": "Locução adverbial",
+        "forbidden_words": [
+          "expressão",
+          "circunstância",
+          "frase"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e edição",
+        "sub_category": "Conceitos e objetos",
+        "word": "Guarda de livro",
+        "forbidden_words": [
+          "capa",
+          "interior",
+          "papel"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e edição",
+        "sub_category": "Conceitos e objetos",
+        "word": "Cabeceado",
+        "forbidden_words": [
+          "lombada",
+          "tecido",
+          "encadernação"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e edição",
+        "sub_category": "Conceitos e objetos",
+        "word": "Caderno de assinaturas",
+        "forbidden_words": [
+          "folhas",
+          "dobradas",
+          "livro"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e edição",
+        "sub_category": "Conceitos e objetos",
+        "word": "Nota marginal",
+        "forbidden_words": [
+          "anotação",
+          "lado",
+          "texto"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Instrumentos científicos",
+        "sub_category": "Conceitos e objetos",
+        "word": "Anemómetro de copos",
+        "forbidden_words": [
+          "vento",
+          "velocidade",
+          "rotação"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Instrumentos científicos",
+        "sub_category": "Conceitos e objetos",
+        "word": "Clinómetro",
+        "forbidden_words": [
+          "inclinação",
+          "ângulo",
+          "medição"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Instrumentos científicos",
+        "sub_category": "Conceitos e objetos",
+        "word": "Tubo capilar",
+        "forbidden_words": [
+          "fino",
+          "líquido",
+          "vidro"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Instrumentos científicos",
+        "sub_category": "Conceitos e objetos",
+        "word": "Cadinho",
+        "forbidden_words": [
+          "aquecimento",
+          "material",
+          "laboratório"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade",
+        "sub_category": "Conceitos e objetos",
+        "word": "Parque dissuasor",
+        "forbidden_words": [
+          "estacionamento",
+          "transporte",
+          "periferia"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade",
+        "sub_category": "Conceitos e objetos",
+        "word": "Faixa BUS",
+        "forbidden_words": [
+          "autocarros",
+          "reservada",
+          "estrada"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia",
+        "sub_category": "Conceitos e objetos",
+        "word": "Solstício de inverno",
+        "forbidden_words": [
+          "dia",
+          "curto",
+          "estação"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia",
+        "sub_category": "Conceitos e objetos",
+        "word": "Equinócio de primavera",
+        "forbidden_words": [
+          "dia",
+          "noite",
+          "estação"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia",
+        "sub_category": "Conceitos e objetos",
+        "word": "Eclíptica",
+        "forbidden_words": [
+          "trajetória",
+          "aparente",
+          "sol"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardinagem",
+        "sub_category": "Conceitos e objetos",
+        "word": "Adubo verde",
+        "forbidden_words": [
+          "plantas",
+          "solo",
+          "fertilidade"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardinagem",
+        "sub_category": "Conceitos e objetos",
+        "word": "Sementeira direta",
+        "forbidden_words": [
+          "sementes",
+          "terra",
+          "cultivo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardinagem",
+        "sub_category": "Conceitos e objetos",
+        "word": "Estufa fria",
+        "forbidden_words": [
+          "plantas",
+          "proteção",
+          "temperatura"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardinagem",
+        "sub_category": "Conceitos e objetos",
+        "word": "Enxertia de borbulha",
+        "forbidden_words": [
+          "gema",
+          "porta-enxerto",
+          "planta"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Conceitos e objetos",
+        "word": "Basalto colunar",
+        "forbidden_words": [
+          "lava",
+          "prismas",
+          "rocha"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Conceitos e objetos",
+        "word": "Calcário fossilífero",
+        "forbidden_words": [
+          "sedimentar",
+          "conchas",
+          "rocha"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Conceitos e objetos",
+        "word": "Quartzito",
+        "forbidden_words": [
+          "metamórfica",
+          "quartzo",
+          "dura"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Conceitos e objetos",
+        "word": "Filão mineral",
+        "forbidden_words": [
+          "rocha",
+          "veio",
+          "depósito"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Conceitos e objetos",
+        "word": "Falha geológica",
+        "forbidden_words": [
+          "fratura",
+          "deslocamento",
+          "rocha"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Conceitos e objetos",
+        "word": "Dobra geológica",
+        "forbidden_words": [
+          "camadas",
+          "curvatura",
+          "pressão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Conceitos e objetos",
+        "word": "Gnaisse",
+        "forbidden_words": [
+          "metamórfica",
+          "bandas",
+          "rocha"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Instrumentos musicais",
+        "sub_category": "Conceitos e objetos",
+        "word": "Requinta",
+        "forbidden_words": [
+          "sopro",
+          "madeira",
+          "agudo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Instrumentos musicais",
+        "sub_category": "Conceitos e objetos",
+        "word": "Sarronca",
+        "forbidden_words": [
+          "fricção",
+          "membrana",
+          "popular"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Instrumentos musicais",
+        "sub_category": "Conceitos e objetos",
+        "word": "Ferrinhos",
+        "forbidden_words": [
+          "metal",
+          "ritmo",
+          "percussão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia quotidiana",
+        "sub_category": "Conceitos e objetos",
+        "word": "Pasta comprimida",
+        "forbidden_words": [
+          "ficheiros",
+          "reduzir",
+          "arquivo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia quotidiana",
+        "sub_category": "Conceitos e objetos",
+        "word": "Navegação privada",
+        "forbidden_words": [
+          "histórico",
+          "janela",
+          "internet"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia quotidiana",
+        "sub_category": "Conceitos e objetos",
+        "word": "Filtro de mensagens indesejadas",
+        "forbidden_words": [
+          "correio",
+          "automático",
+          "bloquear"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia quotidiana",
+        "sub_category": "Conceitos e objetos",
+        "word": "Gestor de palavras-passe",
+        "forbidden_words": [
+          "credenciais",
+          "guardar",
+          "acesso"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia quotidiana",
+        "sub_category": "Conceitos e objetos",
+        "word": "Autenticação de dois fatores",
+        "forbidden_words": [
+          "código",
+          "segurança",
+          "entrada"
         ]
       }
     ],
