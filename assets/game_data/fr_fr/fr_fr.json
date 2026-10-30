@@ -12192,10 +12192,10 @@
       "language": "Français",
       "locale": "fr-FR",
       "main_category": "Biologie cellulaire",
-      "sub_category": "Transport interne",
+      "sub_category": "Organites",
       "difficulty": "difficile",
-      "question": "Quel ensemble de sacs aplatis modifie, trie et expédie certaines protéines ?",
-      "answer": "appareil de Golgi"
+      "question": "Quel organite cellulaire utilise notamment une enzyme appelée catalase pour neutraliser le peroxyde d'hydrogène ?",
+      "answer": "peroxysome"
     },
     {
       "game_type": "kelime_ustasi",
@@ -12744,7 +12744,7 @@
       "main_category": "Montagne et glaciers",
       "sub_category": "Relief",
       "difficulty": "difficile",
-      "question": "Quel amphithéâtre naturel creusé en haute montagne par l'action d'un glacier ?",
+      "question": "Comment nomme-t-on la cuvette en forme d'amphithéâtre creusée dans un versant montagneux par un ancien glacier ?",
       "answer": "cirque glaciaire"
     },
     {
@@ -13126,6 +13126,596 @@
       "difficulty": "moyen",
       "question": "Quelle tige pousse à l'horizontale au contact du sol sans être nécessairement souterraine ?",
       "answer": "tige rampante"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèques et livres",
+      "sub_category": "Repères et fabrication",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on un livre imprimé en Europe avant l'année 1501 ?",
+      "answer": "incunable"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèques et livres",
+      "sub_category": "Repères et fabrication",
+      "difficulty": "moyen",
+      "question": "Quel petit ruban fixé dans certains volumes permet de retrouver la page où l'on s'est arrêté ?",
+      "answer": "signet"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèques et livres",
+      "sub_category": "Repères et fabrication",
+      "difficulty": "difficile",
+      "question": "Quelles feuilles relient le bloc de pages à la couverture rigide d'un livre ?",
+      "answer": "gardes"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Instruments de mesure",
+      "sub_category": "Atelier et observation",
+      "difficulty": "difficile",
+      "question": "Quel instrument à vis graduée permet de mesurer l'épaisseur d'une petite pièce avec une grande précision ?",
+      "answer": "micromètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Instruments de mesure",
+      "sub_category": "Atelier et observation",
+      "difficulty": "facile",
+      "question": "Quel appareil sert à relever le nombre de tours effectués par un axe en une minute ?",
+      "answer": "tachymètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Instruments de mesure",
+      "sub_category": "Atelier et observation",
+      "difficulty": "moyen",
+      "question": "Quel appareil indique le niveau d'éclairement reçu par une surface ?",
+      "answer": "luxmètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Instruments de mesure",
+      "sub_category": "Atelier et observation",
+      "difficulty": "difficile",
+      "question": "Quel capteur utilise la différence de potentiel entre deux métaux pour relever une température ?",
+      "answer": "thermocouple"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Instruments de mesure",
+      "sub_category": "Atelier et observation",
+      "difficulty": "difficile",
+      "question": "Quel instrument permet de mesurer l'inclinaison d'une pente par rapport à l'horizontale ?",
+      "answer": "clinomètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Reliefs calcaires",
+      "sub_category": "Paysages souterrains",
+      "difficulty": "facile",
+      "question": "Quel petit bassin naturel en gradins se forme par dépôt de calcite dans une cavité ?",
+      "answer": "gour"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Reliefs calcaires",
+      "sub_category": "Paysages souterrains",
+      "difficulty": "moyen",
+      "question": "Quel endroit d'un cours d'eau correspond à sa disparition dans des fissures souterraines ?",
+      "answer": "perte"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Reliefs calcaires",
+      "sub_category": "Paysages souterrains",
+      "difficulty": "difficile",
+      "question": "Quel dépôt minéral solide se forme progressivement par précipitation de substances dissoutes ?",
+      "answer": "concrétion"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Reliefs calcaires",
+      "sub_category": "Paysages souterrains",
+      "difficulty": "difficile",
+      "question": "Quel passage entièrement noyé oblige l'eau à circuler sous une voûte rocheuse ?",
+      "answer": "siphon souterrain"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures et transformations",
+      "difficulty": "facile",
+      "question": "Quelle distance relie le centre d'un polygone régulier au milieu de l'un de ses côtés ?",
+      "answer": "apothème"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures et transformations",
+      "difficulty": "moyen",
+      "question": "Comment qualifie-t-on un angle dont la mesure est supérieure à 180 degrés et inférieure à 360 degrés ?",
+      "answer": "angle rentrant"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures et transformations",
+      "difficulty": "difficile",
+      "question": "Quelle transformation agrandit ou réduit une figure à partir d'un centre et d'un même rapport ?",
+      "answer": "homothétie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures et transformations",
+      "difficulty": "difficile",
+      "question": "Quelle transformation déplace tous les points d'une figure selon un même vecteur ?",
+      "answer": "translation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures et transformations",
+      "difficulty": "facile",
+      "question": "Quelle transformation associe à chaque point son opposé par rapport à un centre fixe ?",
+      "answer": "symétrie centrale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures et transformations",
+      "difficulty": "moyen",
+      "question": "Quelle droite coupe un cercle en deux points distincts ?",
+      "answer": "sécante"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures et transformations",
+      "difficulty": "difficile",
+      "question": "Quel solide possède deux bases polygonales parallèles et des faces latérales rectangulaires ?",
+      "answer": "prisme droit"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Potager et pépinière",
+      "sub_category": "Gestes de culture",
+      "difficulty": "difficile",
+      "question": "Quelle méthode consiste à prélever une jeune pousse avec un petit morceau du bois qui la portait ?",
+      "answer": "bouture à talon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et préparation",
+      "sub_category": "Gestes et ustensiles",
+      "difficulty": "facile",
+      "question": "Quelle opération dissout les sucs attachés au fond d'une poêle en y versant un liquide ?",
+      "answer": "déglaçage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et préparation",
+      "sub_category": "Gestes et ustensiles",
+      "difficulty": "moyen",
+      "question": "Quelle cuisson consiste à maintenir un aliment dans un liquide chaud sans forte ébullition ?",
+      "answer": "pochage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et préparation",
+      "sub_category": "Gestes et ustensiles",
+      "difficulty": "difficile",
+      "question": "Quelle méthode fait cuire les aliments à couvert avec très peu de liquide en conservant leur vapeur ?",
+      "answer": "cuisson à l'étouffée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Matériaux et physique",
+      "sub_category": "Propriétés des corps",
+      "difficulty": "difficile",
+      "question": "Quelle propriété permet à un métal d'être étiré en fil sans se rompre ?",
+      "answer": "ductilité"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Matériaux et physique",
+      "sub_category": "Propriétés des corps",
+      "difficulty": "facile",
+      "question": "Quelle propriété permet à un matériau d'être aplati en feuille sous l'effet d'une pression ?",
+      "answer": "malléabilité"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Matériaux et physique",
+      "sub_category": "Propriétés des corps",
+      "difficulty": "moyen",
+      "question": "Quel phénomène répartit progressivement la chaleur d'une zone chaude vers une zone plus froide ?",
+      "answer": "diffusion thermique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bâtiment et toiture",
+      "sub_category": "Éléments de construction",
+      "difficulty": "difficile",
+      "question": "Quel ensemble d'éléments continus renforce la liaison entre les murs d'un bâtiment ?",
+      "answer": "chaînage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bâtiment et toiture",
+      "sub_category": "Éléments de construction",
+      "difficulty": "difficile",
+      "question": "Quelle ligne creuse à la rencontre de deux pans de toit dirige l'eau vers l'évacuation ?",
+      "answer": "noue"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bâtiment et toiture",
+      "sub_category": "Éléments de construction",
+      "difficulty": "facile",
+      "question": "Quelle pièce longitudinale de charpente soutient les chevrons au sommet du toit ?",
+      "answer": "panne faîtière"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bâtiment et toiture",
+      "sub_category": "Éléments de construction",
+      "difficulty": "moyen",
+      "question": "Quel dispositif placé au bord d'un balcon ou d'un escalier empêche les chutes ?",
+      "answer": "garde-corps"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bâtiment et toiture",
+      "sub_category": "Éléments de construction",
+      "difficulty": "difficile",
+      "question": "Quelle pièce forme la partie basse de l'encadrement d'une entrée et reçoit le passage ?",
+      "answer": "seuil de porte"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bâtiment et toiture",
+      "sub_category": "Éléments de construction",
+      "difficulty": "difficile",
+      "question": "Quel espace aménagé entre deux parties d'une construction permet leurs mouvements liés aux variations de température ?",
+      "answer": "joint de dilatation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bâtiment et toiture",
+      "sub_category": "Éléments de construction",
+      "difficulty": "facile",
+      "question": "Quelle petite saillie sous un rebord empêche l'eau de pluie de ruisseler sur la façade ?",
+      "answer": "larmier"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Phénomènes atmosphériques",
+      "difficulty": "moyen",
+      "question": "Quel phénomène apparaît lorsqu'une masse d'air humide passe sur une surface plus froide et se refroidit ?",
+      "answer": "brouillard d'advection"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Phénomènes atmosphériques",
+      "difficulty": "difficile",
+      "question": "Quelle limite atmosphérique apparaît lorsqu'une masse d'air froid rattrape une zone de transition plus chaude ?",
+      "answer": "front occlus"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Phénomènes atmosphériques",
+      "difficulty": "difficile",
+      "question": "Quel vent local remonte les pentes pendant la journée lorsque le sol se réchauffe ?",
+      "answer": "brise de vallée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Phénomènes atmosphériques",
+      "difficulty": "facile",
+      "question": "Quel rapport mesure la part du rayonnement solaire qu'une surface renvoie ?",
+      "answer": "albédo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique et données",
+      "sub_category": "Fonctionnement numérique",
+      "difficulty": "moyen",
+      "question": "Quel espace de stockage temporaire conserve des ressources de sites déjà visités pour accélérer leur affichage ?",
+      "answer": "cache du navigateur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique et données",
+      "sub_category": "Fonctionnement numérique",
+      "difficulty": "difficile",
+      "question": "Quelle méthode exige deux preuves de nature différente pour accéder à un compte ?",
+      "answer": "authentification à deux facteurs"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique et données",
+      "sub_category": "Fonctionnement numérique",
+      "difficulty": "difficile",
+      "question": "Quel procédé garantit que seuls les correspondants possèdent les clés nécessaires pour lire les messages échangés ?",
+      "answer": "chiffrement de bout en bout"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique et données",
+      "sub_category": "Fonctionnement numérique",
+      "difficulty": "facile",
+      "question": "Quelle copie de sécurité ne conserve que les changements survenus depuis la précédente opération ?",
+      "answer": "sauvegarde incrémentale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique et données",
+      "sub_category": "Fonctionnement numérique",
+      "difficulty": "moyen",
+      "question": "Quelle technique réduit la taille d'un fichier tout en permettant de retrouver exactement les données d'origine ?",
+      "answer": "compression sans perte"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique et données",
+      "sub_category": "Fonctionnement numérique",
+      "difficulty": "difficile",
+      "question": "Quel type de dessin numérique est défini par des formes mathématiques et reste net lorsqu'on l'agrandit ?",
+      "answer": "image vectorielle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique et données",
+      "sub_category": "Fonctionnement numérique",
+      "difficulty": "difficile",
+      "question": "Quel mécanisme cryptographique permet de vérifier l'origine et l'intégrité d'un document électronique ?",
+      "answer": "signature numérique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique et données",
+      "sub_category": "Fonctionnement numérique",
+      "difficulty": "facile",
+      "question": "Quel délai sépare l'envoi d'une requête informatique de la réception de sa réponse ?",
+      "answer": "latence réseau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique et données",
+      "sub_category": "Fonctionnement numérique",
+      "difficulty": "moyen",
+      "question": "Quelle structure associe chaque mot d'un corpus aux documents où il apparaît afin d'accélérer les recherches ?",
+      "answer": "index inversé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique et données",
+      "sub_category": "Fonctionnement numérique",
+      "difficulty": "difficile",
+      "question": "Quelle organisation logicielle gère les noms, dossiers et emplacements des données enregistrées sur un support ?",
+      "answer": "système de fichiers"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Dessin et impression",
+      "sub_category": "Techniques graphiques",
+      "difficulty": "difficile",
+      "question": "Quelle couche de couleur très transparente est appliquée sur une peinture sèche pour en modifier la teinte ?",
+      "answer": "glacis"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Dessin et impression",
+      "sub_category": "Techniques graphiques",
+      "difficulty": "facile",
+      "question": "Quelle technique d'impression utilise une plaque souple évidée au moyen de gouges ?",
+      "answer": "linogravure"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Dessin et impression",
+      "sub_category": "Techniques graphiques",
+      "difficulty": "moyen",
+      "question": "Quelle famille de procédés d'impression dépose l'encre dans les creux d'une plaque gravée ?",
+      "answer": "taille-douce"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Dessin et impression",
+      "sub_category": "Techniques graphiques",
+      "difficulty": "difficile",
+      "question": "Quel procédé de dessin superpose des séries de traits inclinés pour renforcer les zones sombres ?",
+      "answer": "hachures croisées"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Dessin et impression",
+      "sub_category": "Techniques graphiques",
+      "difficulty": "difficile",
+      "question": "Quel accessoire souple de dessin se modèle pour retirer délicatement du graphite ou du fusain ?",
+      "answer": "gomme mie de pain"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et paysages",
+      "sub_category": "Sols et cultures",
+      "difficulty": "facile",
+      "question": "Quelle pratique fait se succéder différentes espèces cultivées sur une même parcelle au fil des saisons ?",
+      "answer": "rotation culturale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et paysages",
+      "sub_category": "Sols et cultures",
+      "difficulty": "moyen",
+      "question": "Quelle méthode fait pousser simultanément plusieurs espèces complémentaires sur une même parcelle ?",
+      "answer": "culture associée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et paysages",
+      "sub_category": "Sols et cultures",
+      "difficulty": "difficile",
+      "question": "Quel outil agricole muni de dents travaille la surface du terrain après le labour ?",
+      "answer": "herse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et paysages",
+      "sub_category": "Sols et cultures",
+      "difficulty": "difficile",
+      "question": "Quel système apporte l'eau lentement au pied des plantes par de petits émetteurs ?",
+      "answer": "irrigation goutte à goutte"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et paysages",
+      "sub_category": "Sols et cultures",
+      "difficulty": "facile",
+      "question": "Quel alignement d'arbustes et d'arbres sépare les parcelles agricoles tout en abritant la biodiversité ?",
+      "answer": "haie bocagère"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et paysages",
+      "sub_category": "Sols et cultures",
+      "difficulty": "moyen",
+      "question": "Quel aménagement évacue l'excès d'eau d'un terrain cultivé à l'aide de conduites enterrées ?",
+      "answer": "drainage agricole"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et paysages",
+      "sub_category": "Sols et cultures",
+      "difficulty": "difficile",
+      "question": "Quelle végétation semée entre deux cultures principales protège la terre contre l'érosion ?",
+      "answer": "couvert végétal"
     }
   ],
   "tabu": [
