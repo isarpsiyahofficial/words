@@ -34007,7 +34007,800 @@
         "target_text": "कार्डबोर्ड के बक्से को मोड़कर समेटना"
       }
     ],
-    "riddle": [],
+    "riddle": [
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "धूप में तुम्हारे कदमों के साथ खिसकती हूँ; अँधेरा होते ही बिना आवाज़ खो जाती हूँ।",
+        "answer": "परछाईं"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "सिकुड़कर पतली डंडी बन जाता हूँ, मगर बारिश में सिर के ऊपर गोल छत फैला देता हूँ।",
+        "answer": "छाता"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "दो पंक्तियों के छोटे दाँतों को मेरा चलने वाला सिर एक ही रास्ते में जोड़ता है।",
+        "answer": "ज़िप"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "घर में कदम रखने से पहले जूतों के नीचे लगी मिट्टी मुझ पर रगड़ी जाती है।",
+        "answer": "पायदान"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरे दाँत सही खाँचों में बैठें तभी बंद कमरे का रास्ता खुलता है।",
+        "answer": "चाबी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "दरवाज़े की रखवाली करता हूँ; एक खास दाँतेदार साथी घूमे तभी अपनी पकड़ छोड़ता हूँ।",
+        "answer": "ताला"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "मेरे दो काँच के पेटों के बीच महीन कण गिरते हैं; उलटते ही समय फिर नापना शुरू हो जाता है।",
+        "answer": "रेतघड़ी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरी दो धारदार बाँहें एक धुरी पर मिलती हैं और कागज़ या कपड़ा काटते हुए अलग होती जाती हैं।",
+        "answer": "कैंची"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "कागज़ की कई तहों को एक छोटी धातु की पिन मोड़कर साथ रखता हूँ, बिना धागे के।",
+        "answer": "स्टेपलर"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "किताब बंद होने पर भी पढ़ाई की छोड़ी हुई जगह मैं चुपचाप सँभालकर रखता हूँ।",
+        "answer": "बुकमार्क"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरे भीतर कागज़ का संदेश छिपता है; बाहर नाम-पता और कोने में डाक टिकट लगता है।",
+        "answer": "लिफाफा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "गली में खड़ा मेरा मुँह चिट्ठियाँ निगलता है, पर उन्हें सही पते पर पहुँचाने कोई और आता है।",
+        "answer": "डाकपेटी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "छोटी गेंद पर देश और समुद्र बसते हैं; मुझे घुमाओ तो पूरी धरती मेज़ पर घूमती दिखती है।",
+        "answer": "ग्लोब"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "मेरी चुंबकीय सुई बार-बार उत्तर की ओर टिकती है, भले यात्री रास्ता भूल जाए।",
+        "answer": "कम्पास"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "सपाट कागज़ पर रास्तों, नदियों और नगरों को असली आकार से बहुत छोटा दिखाता हूँ।",
+        "answer": "मानचित्र"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरे दो पलड़ों में संतुलन बैठते ही पता चलता है किस ओर भार अधिक है।",
+        "answer": "तराजू"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "बुखार हो या कमरे की गर्मी, मेरे बढ़ते-घटते निशान ताप का अंक बताते हैं।",
+        "answer": "थर्मामीटर"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरे खाने बदलते ही बीतते दिन और आने वाली तारीखें दिखाई देती हैं।",
+        "answer": "कैलेंडर"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरे काँटे घूमते हैं, पर मैं कहीं नहीं जाता; फिर भी हर मुलाकात का समय बताता हूँ।",
+        "answer": "घड़ी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "मेरे गोल पारदर्शी पेट से चींटी के छोटे पैर भी बड़े दिखाई देते हैं।",
+        "answer": "आवर्धक काँच"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "दूर पहाड़ी पर बैठी चिड़िया को आँखों के पास लाती हूँ, बिना उसे छुए।",
+        "answer": "दूरबीन"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "छत से लटका हूँ; घूमते ही कमरे की ठहरी हवा को चलने पर मजबूर करता हूँ।",
+        "answer": "पंखा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "दीवार पर मेरी छोटी सी करवट से बल्ब कभी चमकता है, कभी बुझता है।",
+        "answer": "स्विच"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "हथेली में समाता हूँ; बटन दबते ही अँधेरी राह पर रोशनी की पतली धारा भेजता हूँ।",
+        "answer": "टॉर्च"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "बिना आग के अपने भीतर ऊर्जा सँभालकर रखती हूँ; खिलौने और छोटी रोशनियाँ मुझसे चलती हैं।",
+        "answer": "बैटरी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरे धातु के दो या तीन पिन दीवार के छेद में बैठें तो उपकरण को बिजली मिलती है।",
+        "answer": "प्लग"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "फर्श की बिखरी धूल को अपनी कई पतली टहनियों से एक ढेर में समेटती हूँ।",
+        "answer": "झाड़ू"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "पानी में भीगकर फर्श पर फिसलता हूँ और सूखी सफाई के बाद बचा मैल उठाता हूँ।",
+        "answer": "पोछा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "दीवार में बने प्रवेश के चारों ओर मेरा लकड़ी या पत्थर का घेरा रहता है।",
+        "answer": "चौखट"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरी छोटी धातु की बाँह खिसकते ही दरवाज़ा भीतर से अटक जाता है।",
+        "answer": "कुंडी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "खिड़की के ऊपर बाहर निकला रहता हूँ ताकि बारिश का पानी सीधे भीतर न गिरे।",
+        "answer": "छज्जा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "गलियों में किनारे-किनारे बहते गंदे पानी को आगे ले जाने का मेरा रास्ता नीचा होता है।",
+        "answer": "नाली"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "एक-एक पायदान चढ़ो तो बिना उड़ान के ऊपरी मंज़िल तक पहुँच जाओगे।",
+        "answer": "सीढ़ी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "छोटा कमरा ऊपर-नीचे चलता है, पर उसके भीतर खड़े लोगों को कदम नहीं बढ़ाने पड़ते।",
+        "answer": "लिफ्ट"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "पहाड़ के आर-पार जाने के लिए भीतर अँधेरी राह काटी गई है, ऊपर चट्टान बची रहती है।",
+        "answer": "सुरंग"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "दो किनारों को जोड़कर नदी के ऊपर रास्ता बनाता हूँ; मेरे नीचे पानी बहता रहता है।",
+        "answer": "पुल"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "खेतों के बीच लोगों के बार-बार चलने से बना सँकरा रास्ता हूँ, चौड़ी सड़क नहीं।",
+        "answer": "पगडंडी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "जमीन में गहरा गोल मुँह है; रस्सी से पात्र नीचे भेजो तो पानी ऊपर आता है।",
+        "answer": "कुआँ"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "नदी का पानी खेतों तक पहुँचाने के लिए मेरा लंबा रास्ता मनुष्यों ने बनाया है।",
+        "answer": "नहर"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "खेत की सीमाओं पर उठी मिट्टी की पतली दीवार हूँ, बरसाती पानी रोकने में भी मदद करती हूँ।",
+        "answer": "मेड़"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "हाथ में पकड़ी छोटी धातु की धार से क्यारी की अनचाही घास उखाड़ती हूँ।",
+        "answer": "खुरपी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "मेरे गहरे कटोरे में अनाज या मसाले रखकर भारी डंडे से कूटा जाता है।",
+        "answer": "ओखली"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "लकड़ी का भारी डंडा हूँ; गहरे बर्तन में दाने कूटते समय ऊपर-नीचे चलता हूँ।",
+        "answer": "मूसल"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "कठिन",
+        "question": "मेरी चौड़ी बुनावट को झटका दो तो अनाज से हल्का भूसा अलग उड़ता है।",
+        "answer": "सूप"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "धागों को लंबाई और चौड़ाई में बिठाकर कपड़ा बनाता हूँ; मेरे हिस्से लय से चलते हैं।",
+        "answer": "करघा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "घूमती गोल थाली पर गीली मिट्टी रखो, हाथों से बर्तन का आकार उभर आता है।",
+        "answer": "कुम्हार का चाक"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "मेरी गर्दन लंबी और पेट गोल है; मिट्टी की दीवारों से पानी ठंडा रहता है।",
+        "answer": "सुराही"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मिट्टी में पककर बना छोटा प्याला हूँ; चाय पीते ही मेरी सोंधी खुशबू याद आती है।",
+        "answer": "कुल्हड़"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "दही में गोल-गोल घूमकर मक्खन को अलग करने में मदद करती हूँ।",
+        "answer": "मथानी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरे बहुत से छोटे छेद आटे को छानते हैं, बड़े कण ऊपर ही रह जाते हैं।",
+        "answer": "छलनी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "गर्म तेल से पकौड़े उठाऊँ, तो मेरे छेदों से तेल वापस नीचे टपक जाता है।",
+        "answer": "झारा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "ढक्कन कसते ही भीतर भाप का दबाव बढ़ता है; पकने पर सीटी बजती है।",
+        "answer": "प्रेशर कुकर"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "एक सपाट पत्थर पर दूसरे बेलनाकार पत्थर को घिसकर मसाला महीन बनता है।",
+        "answer": "सिलबट्टा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "मेरा चौड़ा उथला पेट आटा और पानी मिलाकर गूँथने के काम आता है।",
+        "answer": "परात"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "बर्तन के मुँह पर बैठकर भाप और खुशबू भीतर रोकता हूँ; उठते ही सब बाहर निकलता है।",
+        "answer": "ढक्कन"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "गरम रोटी को आग के पास बिना उँगलियाँ जलाए पकड़ता हूँ; मेरी दो लंबी बाँहें हैं।",
+        "answer": "चिमटा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "छोटी मिट्टी की कटोरी में तेल और रूई का सहारा पाकर कोमल लौ जलती है।",
+        "answer": "दीया"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "तेल में डूबी मेरी रूई की पतली देह का ऊपरी सिरा लौ सँभालता है।",
+        "answer": "बाती"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "आँगन के फर्श पर रंगीन चूर्ण से फूल और आकृतियाँ बनाकर उत्सव का स्वागत करती हूँ।",
+        "answer": "रंगोली"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "नर्तक के टखने से बँधकर हर कदम पर छोटी-छोटी धातु की आवाज़ें निकालता हूँ।",
+        "answer": "घुँघरू"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "दो सिरों पर खिंची चमड़ी को हथेलियों से थपथपाओ तो अलग-अलग ताल निकलती है।",
+        "answer": "ढोलक"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "खोखली नली में फूँक और उँगलियों से बंद-खुले छेद मिलें तो मीठी धुन निकलती है।",
+        "answer": "बाँसुरी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "बाँस की पतली पट्टियाँ बुनकर बना मेरा पेट फल-सब्ज़ियाँ उठाए घूमता है।",
+        "answer": "टोकरी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "डोर से बँधा रंगीन कागज़ हवा में ऊँचा चढ़ता है, मगर हाथ से रिश्ता नहीं छोड़ता।",
+        "answer": "पतंग"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "डोर मेरे गोल शरीर पर लिपटी रहती है; घुमाओ तो ऊपर उड़ते कागज़ की दूरी बदलती है।",
+        "answer": "चरखी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "एक नुकीले पैर पर देर तक नाचता हूँ; घूमना बंद होते ही गिर पड़ता हूँ।",
+        "answer": "लट्टू"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरे सिर के छोटे छेद से सिक्के भीतर जाते हैं; बचत बढ़ती है पर बाहर निकालना कठिन है।",
+        "answer": "गुल्लक"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "नींद के चारों ओर बारीक जाल का कमरा बनाती हूँ; हवा आने देती हूँ पर भनभनाते मेहमान रोकती हूँ।",
+        "answer": "मच्छरदानी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "ठंडी रात में रूई भरा मोटा ओढ़ना हूँ; भीतर की गर्माहट बाहर भागने नहीं देती।",
+        "answer": "रजाई"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "सोते समय सिर का भार उठाता हूँ; कपड़े के खोल में मुलायम भराव छिपा रहता है।",
+        "answer": "तकिया"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "नहाने के बाद मेरी सूती तहें शरीर पर बची पानी की बूँदें सोख लेती हैं।",
+        "answer": "तौलिया"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "जूते के भीतर पैर को कपड़े की मुलायम परत देती हूँ; जोड़ी में रहती हूँ।",
+        "answer": "जुराब"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "बरसात में कपड़ों के ऊपर पहन लो; मेरी सतह से बूँदें फिसलकर नीचे चली जाती हैं।",
+        "answer": "रेनकोट"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "गर्म शाम में घास के ऊपर उड़ते हुए मेरा छोटा शरीर टिमटिमाता है, बिना दीपक के।",
+        "answer": "जुगनू"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "पेड़ के तने पर चोंच की लगातार ठक-ठक से भीतर छिपे कीड़े खोजता हूँ।",
+        "answer": "कठफोड़वा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "धीरे चलता हूँ, पीठ पर घुमावदार घर उठाए; छूने पर कोमल देह भीतर खींच लेता हूँ।",
+        "answer": "घोंघा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मिट्टी के भीतर सुराख बनाकर उसे भुरभुरा करता हूँ; मेरे पैर नहीं होते।",
+        "answer": "केंचुआ"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "कठिन",
+        "question": "पतली घास की तिनकियों से लटकता हुआ बुना घर बनाती हूँ, अक्सर पेड़ की शाख से।",
+        "answer": "बया"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "वसंत में पेड़ों के बीच से मेरी कूक सुनाई देती है, पर घोंसला अक्सर दूसरे पक्षी का चुनती हूँ।",
+        "answer": "कोयल"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "फूलों से रस लेकर लौटती हूँ, छत्ते में मीठा भंडार भरती हूँ और पराग भी फैलाती हूँ।",
+        "answer": "मधुमक्खी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "अपने शरीर से निकले महीन धागे का जाल बुनती हूँ; उसमें उड़ते छोटे कीट अटक जाते हैं।",
+        "answer": "मकड़ी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "साफ रात के बाद सुबह घास की नोक पर छोटे चमकीले मोती दिखते हैं, बारिश नहीं हुई होती।",
+        "answer": "ओस"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "बारिश के बाद सूरज की उलटी दिशा में सात रंगों की कमान आसमान पर उभरती है।",
+        "answer": "इंद्रधनुष"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "समुद्र का पानी किनारे पर नियमित रूप से चढ़ता और उतरता है; चंद्रमा का आकर्षण भी इसे चलाता है।",
+        "answer": "ज्वार-भाटा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "सुबह दूर के पेड़ सफेद परदे में खो जाते हैं; हवा गरम होते ही मेरा पर्दा हल्का पड़ता है।",
+        "answer": "धुंध"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "बहुत ठंडी रात के बाद पत्तियों पर सफेद बर्फीली परत जमती है, बादल बरसे बिना।",
+        "answer": "पाला"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "हवा रेत को एक जगह इकट्ठा कर मेरा आकार बदलती रहती है; मैं चलने वाली पहाड़ी जैसा हूँ।",
+        "answer": "बालू का टीला"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "ऊँची चट्टान से पानी सीधा नीचे गिरता है और नीचे पहुँचकर फुहार बन जाता है।",
+        "answer": "झरना"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "नदी में पानी गोल-गोल घूमकर बीच में खिंचाव पैदा करता है; सतह पर गोल आँख जैसा दिखता है।",
+        "answer": "भँवर"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "रात के साफ आकाश में अनगिनत तारों की दूधिया पट्टी फैलती है; हमारा सूर्य भी उसी विशाल परिवार में है।",
+        "answer": "आकाशगंगा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "रात में दिशा खोजने वालों को मैं उत्तर की ओर लगभग एक ही जगह दिखता हूँ।",
+        "answer": "ध्रुवतारा"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "जब धरती की छाया पूर्णिमा के चमकते गोल चेहरे पर पड़ती है, कुछ देर उसका रंग बदल जाता है।",
+        "answer": "चंद्रग्रहण"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "मध्यम",
+        "question": "दिन में चाँद बीच में आकर उजले गोले को आंशिक या पूरा ढँक देता है।",
+        "answer": "सूर्यग्रहण"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरी एक आँख में धागा जाता है और नुकीला सिर कपड़े के दो किनारे जोड़ता है।",
+        "answer": "सुई"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "कपड़े की छोटी गोल चौकी हूँ; सामने वाले छेद में बैठते ही दोनों किनारे साथ रहते हैं।",
+        "answer": "बटन"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "मेरे कई पतले दाँत सिर के उलझे रेशों में चलते हैं, मगर मैं कुछ खाती नहीं।",
+        "answer": "कंघी"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "लकड़ी की नोक को मेरे भीतर घुमाते ही पतली छीलन निकलती है और लिखने वाला सिर तेज हो जाता है।",
+        "answer": "शार्पनर"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "लिखा हुआ धूसर निशान मुझसे रगड़ते ही मिट जाता है; मैं खुद धीरे-धीरे घिसती हूँ।",
+        "answer": "रबड़"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "difficulty": "आसान",
+        "question": "काली पट्टी पर सफेद लिखावट को मैं एक फेरे में धूल बनाकर हटा देता हूँ।",
+        "answer": "डस्टर"
+      }
+    ],
     "word_master": [
       {
         "game_type": "kelime_ustasi",
