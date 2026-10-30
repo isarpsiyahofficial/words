@@ -42748,6 +42748,846 @@
         "difficulty": "मध्यम",
         "question": "कपड़े के कुछ हिस्से मोड़कर या बाँधकर रंग से बचाने की पारंपरिक तकनीक का सामान्य नाम क्या है?",
         "answer": "प्रतिरोध रंगाई"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पृथ्वी विज्ञान",
+        "sub_category": "हिमानी स्थलरूप",
+        "difficulty": "मध्यम",
+        "question": "बहती बर्फ अपने साथ लाए पत्थरों और मलबे का जो ढेर छोड़ती है, उसका भूवैज्ञानिक नाम क्या है?",
+        "answer": "हिमोढ़"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पृथ्वी विज्ञान",
+        "sub_category": "शैल प्रक्रियाएँ",
+        "difficulty": "मध्यम",
+        "question": "आग्नेय, अवसादी और रूपांतरित चट्टानों के एक-दूसरे में बदलने की सतत प्रक्रिया क्या कहलाती है?",
+        "answer": "शैलचक्र"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पृथ्वी विज्ञान",
+        "sub_category": "भूगर्भ",
+        "difficulty": "मध्यम",
+        "question": "दबाव से चट्टानों की परतें बिना टूटे मुड़ जाएँ तो बनी संरचना क्या कहलाती है?",
+        "answer": "वलन"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पृथ्वी विज्ञान",
+        "sub_category": "भूकंप अध्ययन",
+        "difficulty": "मध्यम",
+        "question": "भूमि के भीतर कंपन शुरू होने वाले स्थान के ठीक ऊपर सतह पर स्थित बिंदु क्या कहलाता है?",
+        "answer": "उपकेंद्र"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पृथ्वी विज्ञान",
+        "sub_category": "भूकंप अध्ययन",
+        "difficulty": "मध्यम",
+        "question": "धरती के अंदर वह बिंदु जहाँ से भूकंपीय कंपन आरंभ होता है, क्या कहलाता है?",
+        "answer": "उद्गम केंद्र"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "मौसम विज्ञान",
+        "sub_category": "नमी",
+        "difficulty": "मध्यम",
+        "question": "वह तापमान जिस पर हवा में मौजूद जलवाष्प संघनित होने लगती है, क्या कहलाता है?",
+        "answer": "ओसांक"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "मौसम विज्ञान",
+        "sub_category": "उपकरण",
+        "difficulty": "मध्यम",
+        "question": "वायुमंडल की सापेक्ष नमी मापने के लिए किस यंत्र का उपयोग होता है?",
+        "answer": "आर्द्रतामापी"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "मौसम विज्ञान",
+        "sub_category": "उपकरण",
+        "difficulty": "मध्यम",
+        "question": "हवा का दबाव मापने के लिए प्रयोग होने वाला यंत्र क्या कहलाता है?",
+        "answer": "वायुदाबमापी"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "मौसम विज्ञान",
+        "sub_category": "उपकरण",
+        "difficulty": "मध्यम",
+        "question": "छत पर लगा घूमने वाला तीर हवा किस ओर से आ रही है, यह बताता है; उसे क्या कहते हैं?",
+        "answer": "पवनदिशासूचक"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "मौसम विज्ञान",
+        "sub_category": "उपकरण",
+        "difficulty": "मध्यम",
+        "question": "हवा की गति मापने के लिए घूमते प्यालों वाला कौन-सा यंत्र लगाया जाता है?",
+        "answer": "पवनवेगमापी"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भौतिक विज्ञान",
+        "sub_category": "बल",
+        "difficulty": "मध्यम",
+        "question": "किसी धुरी के चारों ओर बल के घुमाने वाले प्रभाव को क्या कहते हैं?",
+        "answer": "बल आघूर्ण"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भौतिक विज्ञान",
+        "sub_category": "द्रव",
+        "difficulty": "मध्यम",
+        "question": "बहुत पतली नली में तरल का गुरुत्व के विरुद्ध ऊपर चढ़ना किस प्रभाव का उदाहरण है?",
+        "answer": "केशिकत्व"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भौतिक विज्ञान",
+        "sub_category": "प्रकाश",
+        "difficulty": "मध्यम",
+        "question": "प्रकाश के कंपन को एक निश्चित तल तक सीमित करने की प्रक्रिया क्या कहलाती है?",
+        "answer": "ध्रुवण"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भौतिक विज्ञान",
+        "sub_category": "ध्वनि",
+        "difficulty": "मध्यम",
+        "question": "बाहरी आवर्ती बल की आवृत्ति प्राकृतिक आवृत्ति से मिल जाए और कंपन बहुत बढ़ जाए, तो घटना क्या है?",
+        "answer": "अनुनाद"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भौतिक विज्ञान",
+        "sub_category": "विद्युत",
+        "difficulty": "मध्यम",
+        "question": "अत्यधिक धारा आने पर पिघलकर उपकरण को सुरक्षित रखने वाला पतला तार क्या कहलाता है?",
+        "answer": "फ्यूज"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भौतिक विज्ञान",
+        "sub_category": "विद्युत",
+        "difficulty": "मध्यम",
+        "question": "परिपथ में धारा नियंत्रित करने के लिए उपयोग होने वाला परिवर्तनीय प्रतिरोधक क्या कहलाता है?",
+        "answer": "रिओस्टैट"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भौतिक विज्ञान",
+        "sub_category": "प्रकाश",
+        "difficulty": "मध्यम",
+        "question": "समानांतर प्रकाश किरणों को एक बिंदु पर समेटने वाला पारदर्शी उपकरण क्या कहलाता है?",
+        "answer": "उत्तल लेंस"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भौतिक विज्ञान",
+        "sub_category": "ऊष्मा",
+        "difficulty": "मध्यम",
+        "question": "ताप बढ़ने पर किसी ठोस वस्तु के आकार में वृद्धि की घटना क्या कहलाती है?",
+        "answer": "ऊष्मीय प्रसार"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "वनस्पति विज्ञान",
+        "sub_category": "पत्तियाँ",
+        "difficulty": "मध्यम",
+        "question": "पत्तियों से पानी का वाष्प बनकर वातावरण में निकलना क्या कहलाता है?",
+        "answer": "वाष्पोत्सर्जन"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "वनस्पति विज्ञान",
+        "sub_category": "कवक",
+        "difficulty": "मध्यम",
+        "question": "फफूँद के शरीर में महीन तंतुओं का आपस में जुड़ा जाल क्या कहलाता है?",
+        "answer": "कवकजाल"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "जीव विज्ञान",
+        "sub_category": "पारिस्थितिकी",
+        "difficulty": "मध्यम",
+        "question": "दो अलग जीवों का साथ रहकर दोनों को लाभ पहुँचाना किस प्रकार का संबंध है?",
+        "answer": "पारस्परिक सहजीविता"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "जीव विज्ञान",
+        "sub_category": "पारिस्थितिकी",
+        "difficulty": "मध्यम",
+        "question": "एक जीव का दूसरे जीव पर रहकर उससे पोषण लेना किस संबंध का उदाहरण है?",
+        "answer": "परजीविता"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "जीव विज्ञान",
+        "sub_category": "कोशिका",
+        "difficulty": "मध्यम",
+        "question": "कोशिका के भीतर केंद्रक और अन्य अंगकों के आसपास का जैली जैसा पदार्थ क्या कहलाता है?",
+        "answer": "कोशिकाद्रव्य"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "जीव विज्ञान",
+        "sub_category": "आनुवंशिकी",
+        "difficulty": "मध्यम",
+        "question": "कोशिका के केंद्रक में आनुवंशिक सूचना धारण करने वाली धागेनुमा संरचना क्या कहलाती है?",
+        "answer": "गुणसूत्र"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "जीव विज्ञान",
+        "sub_category": "सूक्ष्मजीव",
+        "difficulty": "मध्यम",
+        "question": "सूक्ष्मजीवों द्वारा शर्करा को अम्ल या गैस जैसे पदार्थों में बदलने की जैविक प्रक्रिया क्या कहलाती है?",
+        "answer": "किण्वन"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "जीव विज्ञान",
+        "sub_category": "प्रकृति",
+        "difficulty": "मध्यम",
+        "question": "कुछ समुद्री जीवों का रासायनिक क्रिया से अपने शरीर में प्रकाश उत्पन्न करना क्या कहलाता है?",
+        "answer": "जैवदीप्ति"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "मानव शरीर",
+        "sub_category": "हड्डियाँ और जोड़",
+        "difficulty": "मध्यम",
+        "question": "मांसपेशी को हड्डी से जोड़ने वाली मजबूत रेशेदार संरचना क्या कहलाती है?",
+        "answer": "कंडरा"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "मानव शरीर",
+        "sub_category": "हड्डियाँ और जोड़",
+        "difficulty": "मध्यम",
+        "question": "नाक और कान जैसे भागों को लचीलापन देने वाला सहायक ऊतक क्या कहलाता है?",
+        "answer": "उपास्थि"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "मानव शरीर",
+        "sub_category": "श्वसन",
+        "difficulty": "मध्यम",
+        "question": "फेफड़ों में हवा और रक्त के बीच गैसों का आदान-प्रदान करने वाली सूक्ष्म थैलियाँ क्या कहलाती हैं?",
+        "answer": "वायुकोष्ठिकाएँ"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित",
+        "sub_category": "ज्यामिति",
+        "difficulty": "मध्यम",
+        "question": "आकृति को ऐसी रेखा के आर-पार मोड़ने पर दोनों आधे पूरी तरह मिलें, तो वह गुण क्या कहलाता है?",
+        "answer": "रेखीय सममिति"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "हिन्दी भाषा",
+        "sub_category": "पुस्तक संरचना",
+        "difficulty": "मध्यम",
+        "question": "पुस्तक के मुख्य भाग के बाद जोड़ी गई पूरक सामग्री का खंड क्या कहलाता है?",
+        "answer": "परिशिष्ट"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "हिन्दी भाषा",
+        "sub_category": "भाषा अध्ययन",
+        "difficulty": "मध्यम",
+        "question": "किसी शब्द की उत्पत्ति और उसके पुराने रूपों का अध्ययन क्या कहलाता है?",
+        "answer": "व्युत्पत्ति"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "हिन्दी भाषा",
+        "sub_category": "संपादन",
+        "difficulty": "मध्यम",
+        "question": "छपाई से पहले तैयार पाठ में वर्तनी और मुद्रण संबंधी त्रुटियाँ जाँचने की प्रक्रिया क्या कहलाती है?",
+        "answer": "प्रूफ संशोधन"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "स्थापत्य और घर",
+        "sub_category": "रचना",
+        "difficulty": "मध्यम",
+        "question": "दरवाज़े या गलियारे के ऊपर अर्धवृत्ताकार घुमावदार संरचना क्या कहलाती है?",
+        "answer": "मेहराब"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "स्थापत्य और घर",
+        "sub_category": "दीवार",
+        "difficulty": "मध्यम",
+        "question": "दीवार में सामान या दीपक रखने के लिए बनाया गया छोटा धँसा हुआ स्थान क्या कहलाता है?",
+        "answer": "आला"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "स्थापत्य और घर",
+        "sub_category": "निर्माण",
+        "difficulty": "मध्यम",
+        "question": "ईंटों को जोड़ने के लिए रेत, पानी और बंधक पदार्थ से बनाया गया मिश्रण क्या कहलाता है?",
+        "answer": "गारा"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "स्थापत्य और घर",
+        "sub_category": "सतह उपचार",
+        "difficulty": "मध्यम",
+        "question": "दीवारों पर चूने का पतला घोल लगाकर सफेद करने की पारंपरिक विधि क्या कहलाती है?",
+        "answer": "चूना पुताई"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "कृषि और बागवानी",
+        "sub_category": "मिट्टी संरक्षण",
+        "difficulty": "मध्यम",
+        "question": "ढलान वाले खेत में एक ही ऊँचाई पर मेड़ बनाकर मिट्टी का बहाव घटाने की विधि क्या है?",
+        "answer": "समोच्च मेड़बंदी"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "कृषि और बागवानी",
+        "sub_category": "पौध वृद्धि",
+        "difficulty": "मध्यम",
+        "question": "एक पौधे की टहनी को दूसरे पौधे के तने से जोड़कर बढ़ाने की बागवानी विधि क्या कहलाती है?",
+        "answer": "कलमबंदी"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "कृषि और बागवानी",
+        "sub_category": "भंडारण",
+        "difficulty": "मध्यम",
+        "question": "कटाई के बाद अनाज में बची नमी घटाने के लिए धूप में फैलाकर रखने की प्रक्रिया क्या कहलाती है?",
+        "answer": "धूप सुखाई"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक विज्ञान",
+        "sub_category": "प्रयोगशाला",
+        "difficulty": "मध्यम",
+        "question": "बहुत कम मात्रा में द्रव को बूँद-बूँद स्थानांतरित करने वाली पतली नली क्या कहलाती है?",
+        "answer": "पिपेट"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक विज्ञान",
+        "sub_category": "प्रयोगशाला",
+        "difficulty": "मध्यम",
+        "question": "द्रव का निश्चित आयतन रखने वाला नीचे चौड़ा और ऊपर लंबी पतली गर्दन वाला काँच का पात्र क्या है?",
+        "answer": "मापी फ्लास्क"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक विज्ञान",
+        "sub_category": "प्रयोगशाला",
+        "difficulty": "मध्यम",
+        "question": "द्रव का आयतन पढ़ने के लिए अंकित ऊँची बेलनाकार पारदर्शी नलीनुमा पात्र क्या कहलाता है?",
+        "answer": "मापक सिलिंडर"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक विज्ञान",
+        "sub_category": "प्रयोगशाला",
+        "difficulty": "मध्यम",
+        "question": "किसी द्रव में तैरकर उसके सापेक्ष घनत्व का अनुमान देने वाला यंत्र क्या कहलाता है?",
+        "answer": "हाइड्रोमीटर"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक विज्ञान",
+        "sub_category": "प्रयोगशाला",
+        "difficulty": "मध्यम",
+        "question": "दो अलग धातुओं के जोड़ से तापमान मापने वाला संवेदक क्या कहलाता है?",
+        "answer": "तापयुग्म"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "दैनिक विज्ञान",
+        "sub_category": "प्रयोगशाला",
+        "difficulty": "मध्यम",
+        "question": "बहुत छोटे कणों को बड़ा दिखाने के लिए एक से अधिक आवर्धक काँच वाला उपकरण क्या कहलाता है?",
+        "answer": "संयुक्त सूक्ष्मदर्शी"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय शिल्प",
+        "sub_category": "छपाई",
+        "difficulty": "मध्यम",
+        "question": "लकड़ी की उभरी हुई आकृति पर रंग लगाकर कपड़े पर नमूना छापने की विधि क्या कहलाती है?",
+        "answer": "ठप्पा छपाई"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय शिल्प",
+        "sub_category": "सिलाई",
+        "difficulty": "मध्यम",
+        "question": "दो कपड़ों के टुकड़ों को उनके किनारों पर अदृश्य छोटे टाँकों से जोड़ने की तकनीक क्या कहलाती है?",
+        "answer": "छिपी सिलाई"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पुस्तक और मुद्रण",
+        "sub_category": "जिल्दसाजी",
+        "difficulty": "मध्यम",
+        "question": "पन्नों को एक साथ जोड़कर मजबूत आवरण में बाँधने की कला क्या कहलाती है?",
+        "answer": "जिल्दसाजी"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पुस्तक और मुद्रण",
+        "sub_category": "पृष्ठ विन्यास",
+        "difficulty": "मध्यम",
+        "question": "मुद्रित पृष्ठ के किनारे और लिखित भाग के बीच छोड़ी गई खाली जगह क्या कहलाती है?",
+        "answer": "हाशिया"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पुस्तक और मुद्रण",
+        "sub_category": "पृष्ठ विन्यास",
+        "difficulty": "मध्यम",
+        "question": "पुस्तक के पन्नों पर क्रम से अंक लगाने की प्रक्रिया क्या कहलाती है?",
+        "answer": "पृष्ठांकन"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पुस्तक और मुद्रण",
+        "sub_category": "कागज",
+        "difficulty": "मध्यम",
+        "question": "नोट या विशेष कागज में रोशनी के सामने दिखने वाली हल्की अंतर्निहित आकृति क्या कहलाती है?",
+        "answer": "जलचिह्न"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पुस्तक और मुद्रण",
+        "sub_category": "प्रकाशन",
+        "difficulty": "मध्यम",
+        "question": "पुराने दस्तावेजों को सुरक्षित रखने और व्यवस्थित करने वाली संस्था क्या कहलाती है?",
+        "answer": "अभिलेखागार"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पुस्तक और मुद्रण",
+        "sub_category": "प्रकाशन",
+        "difficulty": "मध्यम",
+        "question": "पढ़ते समय पन्ने का स्थान याद रखने के लिए बीच में रखी पतली पट्टी क्या कहलाती है?",
+        "answer": "पुस्तक चिह्न"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "पुस्तक और मुद्रण",
+        "sub_category": "टंकण",
+        "difficulty": "मध्यम",
+        "question": "मुद्रण के लिए एक ही शैली में तैयार किए गए अक्षरों के पूरे समूह को क्या कहते हैं?",
+        "answer": "टाइपफेस"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डिजिटल तकनीक",
+        "sub_category": "पहुँच सुविधा",
+        "difficulty": "मध्यम",
+        "question": "वेब पृष्ठ पर चित्र का अर्थ बताने वाला वैकल्पिक लिखित विवरण क्या कहलाता है?",
+        "answer": "ऑल्ट टेक्स्ट"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डिजिटल तकनीक",
+        "sub_category": "डेटा",
+        "difficulty": "मध्यम",
+        "question": "समानांतर मोटी-पतली रेखाओं के रूप में उत्पाद की जानकारी रखने वाला संकेत क्या कहलाता है?",
+        "answer": "बारकोड"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डिजिटल तकनीक",
+        "sub_category": "डेटा",
+        "difficulty": "मध्यम",
+        "question": "डेटा की अखंडता जाँचने के लिए उसकी सामग्री से निकाला गया छोटा सत्यापन मान क्या कहलाता है?",
+        "answer": "चेकसम"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डिजिटल तकनीक",
+        "sub_category": "डेटा",
+        "difficulty": "मध्यम",
+        "question": "जानकारी को कम जगह में रखने के लिए उसका आकार घटाने की प्रक्रिया क्या कहलाती है?",
+        "answer": "डेटा संपीड़न"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डिजिटल तकनीक",
+        "sub_category": "सुरक्षा",
+        "difficulty": "मध्यम",
+        "question": "जानकारी को गुप्त कुंजी के बिना न पढ़े जा सकने वाले रूप में बदलने की प्रक्रिया क्या कहलाती है?",
+        "answer": "कूटलेखन"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डिजिटल तकनीक",
+        "sub_category": "सुरक्षा",
+        "difficulty": "मध्यम",
+        "question": "नेटवर्क में आने-जाने वाले संपर्कों को नियमों से नियंत्रित करने वाली सुरक्षा व्यवस्था क्या कहलाती है?",
+        "answer": "फायरवॉल"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डिजिटल तकनीक",
+        "sub_category": "वेब",
+        "difficulty": "मध्यम",
+        "question": "किसी पृष्ठ पर बड़े भाग से छोटे भाग तक आने के रास्ते को दिखाने वाली कड़ियों की शृंखला क्या कहलाती है?",
+        "answer": "ब्रेडक्रंब नेविगेशन"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डिजिटल तकनीक",
+        "sub_category": "वेब",
+        "difficulty": "मध्यम",
+        "question": "एक ही सामग्री को मोबाइल और बड़े पर्दे पर अनुकूल ढंग से सजाने की विधि क्या कहलाती है?",
+        "answer": "उत्तरदायी वेब डिजाइन"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डिजिटल तकनीक",
+        "sub_category": "संग्रहण",
+        "difficulty": "मध्यम",
+        "question": "बार-बार उपयोग होने वाली जानकारी की अस्थायी तेज प्रति रखने की व्यवस्था क्या कहलाती है?",
+        "answer": "कैश मेमोरी"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "डिजिटल तकनीक",
+        "sub_category": "नेटवर्क",
+        "difficulty": "मध्यम",
+        "question": "सर्वर तक छोटा संदेश भेजकर उत्तर आने में लगा समय मापने की सामान्य जाँच क्या कहलाती है?",
+        "answer": "पिंग"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "वनस्पति विज्ञान",
+        "sub_category": "फूल की संरचना",
+        "difficulty": "मध्यम",
+        "question": "एक ही डंठल या शाखा पर व्यवस्थित अनेक फूलों के समूह को क्या कहते हैं?",
+        "answer": "पुष्पक्रम"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "वनस्पति विज्ञान",
+        "sub_category": "फूल की संरचना",
+        "difficulty": "मध्यम",
+        "question": "परागकण से निकलकर मादा भाग के भीतर बीजांड तक बढ़ने वाली सूक्ष्म नली क्या कहलाती है?",
+        "answer": "परागनली"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "वनस्पति विज्ञान",
+        "sub_category": "फूल की संरचना",
+        "difficulty": "मध्यम",
+        "question": "फूलों में पराग ले जाने वाले कीट या अन्य जीव को सामान्यतः क्या कहते हैं?",
+        "answer": "परागवाहक"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "वनस्पति विज्ञान",
+        "sub_category": "फूल की संरचना",
+        "difficulty": "मध्यम",
+        "question": "फूल में कीटों को आकर्षित करने वाला मीठा तरल पदार्थ क्या कहलाता है?",
+        "answer": "मकरंद"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "वनस्पति विज्ञान",
+        "sub_category": "तना",
+        "difficulty": "मध्यम",
+        "question": "तने पर दो लगातार गाँठों के बीच के हिस्से को क्या कहते हैं?",
+        "answer": "अंतरपर्व"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "वनस्पति विज्ञान",
+        "sub_category": "बीज",
+        "difficulty": "मध्यम",
+        "question": "बीज के भीतर से सबसे पहले बाहर निकलने वाला प्रारंभिक जड़ भाग क्या कहलाता है?",
+        "answer": "मूलांकुर"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "वनस्पति विज्ञान",
+        "sub_category": "ऊतक",
+        "difficulty": "मध्यम",
+        "question": "तने में लकड़ी और भीतरी छाल के बीच नई कोशिकाएँ बनाने वाली पतली सक्रिय परत क्या कहलाती है?",
+        "answer": "कैंबियम"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय भोजन",
+        "sub_category": "खाद्य सामग्री",
+        "difficulty": "मध्यम",
+        "question": "चावल उबालने पर पानी में घुला स्टार्चयुक्त गाढ़ा तरल क्या कहलाता है?",
+        "answer": "मांड"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय भोजन",
+        "sub_category": "खाद्य सामग्री",
+        "difficulty": "मध्यम",
+        "question": "फूले हुए चावल के हल्के कुरकुरे दानों को सामान्यतः क्या कहते हैं?",
+        "answer": "मुरमुरा"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय भोजन",
+        "sub_category": "खाद्य सामग्री",
+        "difficulty": "मध्यम",
+        "question": "गेहूँ की दरदरी पिसाई से मिलने वाला अनाज का दानेदार अंश क्या कहलाता है?",
+        "answer": "सूजी"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय भोजन",
+        "sub_category": "पाक विधि",
+        "difficulty": "मध्यम",
+        "question": "चीनी को पानी में घोलकर गरम करने से बनने वाला मीठा गाढ़ा तरल क्या कहलाता है?",
+        "answer": "चाशनी"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय भोजन",
+        "sub_category": "पाक विधि",
+        "difficulty": "मध्यम",
+        "question": "भोजन को उबलते पानी से सीधे छुए बिना उसकी गरम भाप से पकाने की विधि क्या कहलाती है?",
+        "answer": "भाप में पकाना"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय भोजन",
+        "sub_category": "रसोई उपकरण",
+        "difficulty": "मध्यम",
+        "question": "गहरे पात्र में रखे मसाले को मोटे डंडे से कूटने के उपकरणों की जोड़ी क्या कहलाती है?",
+        "answer": "ओखली-मूसल"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "भारतीय भोजन",
+        "sub_category": "रसोई उपकरण",
+        "difficulty": "मध्यम",
+        "question": "आटा या दाने छानने के लिए जालीदार गोल रसोई उपकरण क्या कहलाता है?",
+        "answer": "चलनी"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "स्थापत्य और घर",
+        "sub_category": "निर्माण",
+        "difficulty": "मध्यम",
+        "question": "दीवारों के ऊपर भार बाँटने वाली क्षैतिज मजबूत पट्टी क्या कहलाती है?",
+        "answer": "लिंटल"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "स्थापत्य और घर",
+        "sub_category": "छत",
+        "difficulty": "मध्यम",
+        "question": "वर्षा का पानी बहाने के लिए छत में बनाया गया झुका हुआ तल क्या कहलाता है?",
+        "answer": "ढलानदार छत"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित",
+        "sub_category": "ज्यामिति",
+        "difficulty": "मध्यम",
+        "question": "त्रिभुज में किसी शीर्ष से विपरीत भुजा पर खींची गई लंब रेखा क्या कहलाती है?",
+        "answer": "शीर्षलंब"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित",
+        "sub_category": "ज्यामिति",
+        "difficulty": "मध्यम",
+        "question": "त्रिभुज के किसी शीर्ष से विपरीत भुजा के मध्यबिंदु तक खींचा गया रेखाखंड क्या कहलाता है?",
+        "answer": "मध्यिका"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "हिन्दी",
+        "locale": "hi-IN",
+        "main_category": "गणित",
+        "sub_category": "ज्यामिति",
+        "difficulty": "मध्यम",
+        "question": "किसी त्रिभुज की तीन मध्यिकाएँ जिस एक बिंदु पर मिलती हैं, उसे क्या कहते हैं?",
+        "answer": "केन्द्रक"
       }
     ]
   }
