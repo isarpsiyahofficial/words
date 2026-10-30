@@ -21275,6 +21275,1358 @@
         "vallée du Rhône",
         "vent"
       ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Courrier et livraison",
+      "sub_category": "Services postaux",
+      "word": "avis de passage",
+      "forbidden_words": [
+        "facteur",
+        "absence",
+        "livraison"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Confort de l'habitat",
+      "sub_category": "Isolation et équipements",
+      "word": "isolation des combles",
+      "forbidden_words": [
+        "laine",
+        "toiture",
+        "chaleur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Randonnée et relief",
+      "sub_category": "Paysages de montagne",
+      "word": "sentier balisé",
+      "forbidden_words": [
+        "itinéraire",
+        "marques",
+        "randonnée"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Rivières et paysages",
+      "sub_category": "Eaux continentales",
+      "word": "berge végétalisée",
+      "forbidden_words": [
+        "rivière",
+        "plantes",
+        "rive"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céramique et verre",
+      "sub_category": "Techniques artisanales",
+      "word": "soufflage du verre",
+      "forbidden_words": [
+        "canne",
+        "chaleur",
+        "bulle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Biodiversité et environnement",
+      "sub_category": "Gestes et aménagements",
+      "word": "mare pédagogique",
+      "forbidden_words": [
+        "école",
+        "biodiversité",
+        "eau"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Outils et usages",
+      "word": "authentification à deux facteurs",
+      "forbidden_words": [
+        "sécurité",
+        "code",
+        "connexion"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mobilité quotidienne",
+      "sub_category": "Transports collectifs et doux",
+      "word": "correspondance ferroviaire",
+      "forbidden_words": [
+        "train",
+        "changement",
+        "gare"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Musées et expositions",
+      "sub_category": "Visite et conservation",
+      "word": "cartel de musée",
+      "forbidden_words": [
+        "œuvre",
+        "notice",
+        "salle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie locale",
+      "sub_category": "Activités de proximité",
+      "word": "brocante",
+      "forbidden_words": [
+        "objets anciens",
+        "marché",
+        "occasion"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques du quotidien",
+      "sub_category": "Notions et représentations",
+      "word": "angle aigu",
+      "forbidden_words": [
+        "géométrie",
+        "inférieur",
+        "degrés"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fleurs des jardins",
+      "sub_category": "Plantes et saisons",
+      "word": "capucine grimpante",
+      "forbidden_words": [
+        "fleur",
+        "potager",
+        "orange"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papier et cartonnage",
+      "sub_category": "Matériel et techniques",
+      "word": "pliage en accordéon",
+      "forbidden_words": [
+        "papier",
+        "alternance",
+        "soufflet"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Courrier et livraison",
+      "sub_category": "Services postaux",
+      "word": "lettre suivie",
+      "forbidden_words": [
+        "envoi",
+        "traçabilité",
+        "adresse"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèques et lecture",
+      "sub_category": "Livres et emprunts",
+      "word": "bibliobus",
+      "forbidden_words": [
+        "camion",
+        "lecture",
+        "village"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céréales et légumineuses",
+      "sub_category": "Ingrédients de cuisine",
+      "word": "lentilles corail",
+      "forbidden_words": [
+        "légumineuse",
+        "orange",
+        "cuisson"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Potager et horticulture",
+      "sub_category": "Gestes de jardinage",
+      "word": "butte de culture",
+      "forbidden_words": [
+        "terre",
+        "potager",
+        "surélevé"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Assemblages et finitions",
+      "word": "tourillon",
+      "forbidden_words": [
+        "assemblage",
+        "bois",
+        "cheville"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ciel et météo",
+      "sub_category": "Phénomènes naturels",
+      "word": "ciel voilé",
+      "forbidden_words": [
+        "nuages",
+        "léger",
+        "soleil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Biodiversité et environnement",
+      "sub_category": "Gestes et aménagements",
+      "word": "lombricomposteur",
+      "forbidden_words": [
+        "vers",
+        "déchets",
+        "terreau"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École et apprentissage",
+      "sub_category": "Matériel et méthodes",
+      "word": "cahier à spirale",
+      "forbidden_words": [
+        "feuilles",
+        "anneaux",
+        "notes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Outils et usages",
+      "word": "gestionnaire de mots de passe",
+      "forbidden_words": [
+        "coffre",
+        "identifiants",
+        "logiciel"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Musées et expositions",
+      "sub_category": "Visite et conservation",
+      "word": "audioguide",
+      "forbidden_words": [
+        "écoute",
+        "visite",
+        "commentaires"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture et confection",
+      "sub_category": "Techniques et accessoires",
+      "word": "épingle à nourrice",
+      "forbidden_words": [
+        "attache",
+        "métal",
+        "vêtement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue et optique",
+      "word": "vitesse d'obturation",
+      "forbidden_words": [
+        "mouvement",
+        "exposition",
+        "photographie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie locale",
+      "sub_category": "Activités de proximité",
+      "word": "vide-grenier",
+      "forbidden_words": [
+        "stands",
+        "particuliers",
+        "objets"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques du quotidien",
+      "sub_category": "Notions et représentations",
+      "word": "angle obtus",
+      "forbidden_words": [
+        "géométrie",
+        "supérieur",
+        "degrés"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fleurs des jardins",
+      "sub_category": "Plantes et saisons",
+      "word": "bourrache officinale",
+      "forbidden_words": [
+        "plante",
+        "étoile",
+        "bleue"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Habitat collectif",
+      "sub_category": "Parties communes et finitions",
+      "word": "interphone",
+      "forbidden_words": [
+        "entrée",
+        "voix",
+        "visiteurs"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papier et cartonnage",
+      "sub_category": "Matériel et techniques",
+      "word": "perforatrice à deux trous",
+      "forbidden_words": [
+        "classeur",
+        "feuilles",
+        "bureau"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Courrier et livraison",
+      "sub_category": "Services postaux",
+      "word": "accusé de réception",
+      "forbidden_words": [
+        "signature",
+        "preuve",
+        "courrier"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèques et lecture",
+      "sub_category": "Livres et emprunts",
+      "word": "prêt interbibliothèques",
+      "forbidden_words": [
+        "emprunt",
+        "réseau",
+        "établissement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ustensiles de cuisine",
+      "sub_category": "Préparation des aliments",
+      "word": "cercle à pâtisserie",
+      "forbidden_words": [
+        "moule",
+        "rond",
+        "entremets"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céréales et légumineuses",
+      "sub_category": "Ingrédients de cuisine",
+      "word": "pois chiches",
+      "forbidden_words": [
+        "houmous",
+        "légumineuse",
+        "sec"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Confort de l'habitat",
+      "sub_category": "Isolation et équipements",
+      "word": "radiateur à inertie",
+      "forbidden_words": [
+        "chaleur",
+        "électrique",
+        "diffusion"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Randonnée et relief",
+      "sub_category": "Paysages de montagne",
+      "word": "refuge de randonnée",
+      "forbidden_words": [
+        "hébergement",
+        "marcheurs",
+        "altitude"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Assemblages et finitions",
+      "word": "languette de bois",
+      "forbidden_words": [
+        "emboîtement",
+        "parquet",
+        "assemblage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ciel et météo",
+      "sub_category": "Phénomènes naturels",
+      "word": "arc circumzénithal",
+      "forbidden_words": [
+        "couleurs",
+        "ciel",
+        "atmosphère"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Biodiversité et environnement",
+      "sub_category": "Gestes et aménagements",
+      "word": "réparation participative",
+      "forbidden_words": [
+        "atelier",
+        "bénévoles",
+        "objets"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Musées et expositions",
+      "sub_category": "Visite et conservation",
+      "word": "vitrine d'exposition",
+      "forbidden_words": [
+        "verre",
+        "objets",
+        "protection"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Faune des jardins",
+      "sub_category": "Petits animaux d'Europe",
+      "word": "salamandre tachetée",
+      "forbidden_words": [
+        "amphibien",
+        "jaune",
+        "humide"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue et optique",
+      "word": "balance des blancs",
+      "forbidden_words": [
+        "couleur",
+        "lumière",
+        "réglage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie locale",
+      "sub_category": "Activités de proximité",
+      "word": "foire artisanale",
+      "forbidden_words": [
+        "exposants",
+        "créations",
+        "métiers"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques du quotidien",
+      "sub_category": "Notions et représentations",
+      "word": "aire d'un disque",
+      "forbidden_words": [
+        "cercle",
+        "surface",
+        "rayon"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fleurs des jardins",
+      "sub_category": "Plantes et saisons",
+      "word": "achillée millefeuille",
+      "forbidden_words": [
+        "plante",
+        "ombelle",
+        "prairie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Habitat collectif",
+      "sub_category": "Parties communes et finitions",
+      "word": "digicode",
+      "forbidden_words": [
+        "chiffres",
+        "accès",
+        "immeuble"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papier et cartonnage",
+      "sub_category": "Matériel et techniques",
+      "word": "reliure japonaise",
+      "forbidden_words": [
+        "fil",
+        "pages",
+        "couture"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Courrier et livraison",
+      "sub_category": "Services postaux",
+      "word": "affranchissement",
+      "forbidden_words": [
+        "timbre",
+        "tarif",
+        "expédition"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèques et lecture",
+      "sub_category": "Livres et emprunts",
+      "word": "notice bibliographique",
+      "forbidden_words": [
+        "catalogue",
+        "titre",
+        "description"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céréales et légumineuses",
+      "sub_category": "Ingrédients de cuisine",
+      "word": "haricots blancs",
+      "forbidden_words": [
+        "cassoulet",
+        "légumineuse",
+        "grains"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Confort de l'habitat",
+      "sub_category": "Isolation et équipements",
+      "word": "double vitrage",
+      "forbidden_words": [
+        "fenêtres",
+        "isolation",
+        "deux couches"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Potager et horticulture",
+      "sub_category": "Gestes de jardinage",
+      "word": "semis en godet",
+      "forbidden_words": [
+        "graine",
+        "petit pot",
+        "plantation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Assemblages et finitions",
+      "word": "ponceuse orbitale",
+      "forbidden_words": [
+        "abrasif",
+        "finition",
+        "vibration"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Outils et usages",
+      "word": "capture d'écran",
+      "forbidden_words": [
+        "image",
+        "affichage",
+        "appareil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mobilité quotidienne",
+      "sub_category": "Transports collectifs et doux",
+      "word": "plan de réseau",
+      "forbidden_words": [
+        "lignes",
+        "stations",
+        "carte"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Musées et expositions",
+      "sub_category": "Visite et conservation",
+      "word": "collection permanente",
+      "forbidden_words": [
+        "musée",
+        "œuvres",
+        "présentation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Faune des jardins",
+      "sub_category": "Petits animaux d'Europe",
+      "word": "triton palmé",
+      "forbidden_words": [
+        "mare",
+        "amphibien",
+        "nage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie locale",
+      "sub_category": "Activités de proximité",
+      "word": "fête de village",
+      "forbidden_words": [
+        "animations",
+        "habitants",
+        "place"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques du quotidien",
+      "sub_category": "Notions et représentations",
+      "word": "volume d'un cylindre",
+      "forbidden_words": [
+        "hauteur",
+        "base",
+        "capacité"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fleurs des jardins",
+      "sub_category": "Plantes et saisons",
+      "word": "souci des jardins",
+      "forbidden_words": [
+        "fleur",
+        "orange",
+        "pétales"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Habitat collectif",
+      "sub_category": "Parties communes et finitions",
+      "word": "boîte à clés sécurisée",
+      "forbidden_words": [
+        "accès",
+        "combinaison",
+        "logement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Courrier et livraison",
+      "sub_category": "Services postaux",
+      "word": "enveloppe à fenêtre",
+      "forbidden_words": [
+        "papier",
+        "destinataire",
+        "transparent"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèques et lecture",
+      "sub_category": "Livres et emprunts",
+      "word": "page de garde",
+      "forbidden_words": [
+        "livre",
+        "ouverture",
+        "couverture"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céréales et légumineuses",
+      "sub_category": "Ingrédients de cuisine",
+      "word": "fécule de maïs",
+      "forbidden_words": [
+        "épaissir",
+        "poudre",
+        "dessert"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Confort de l'habitat",
+      "sub_category": "Isolation et équipements",
+      "word": "pont thermique",
+      "forbidden_words": [
+        "déperdition",
+        "paroi",
+        "isolation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Randonnée et relief",
+      "sub_category": "Paysages de montagne",
+      "word": "gourde filtrante",
+      "forbidden_words": [
+        "eau",
+        "potable",
+        "randonnée"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École et apprentissage",
+      "sub_category": "Matériel et méthodes",
+      "word": "papier quadrillé",
+      "forbidden_words": [
+        "carreaux",
+        "calcul",
+        "feuille"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Outils et usages",
+      "word": "mode hors ligne",
+      "forbidden_words": [
+        "connexion",
+        "internet",
+        "accès"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mobilité quotidienne",
+      "sub_category": "Transports collectifs et doux",
+      "word": "arrêt à la demande",
+      "forbidden_words": [
+        "bus",
+        "signaler",
+        "conducteur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Musées et expositions",
+      "sub_category": "Visite et conservation",
+      "word": "parcours thématique",
+      "forbidden_words": [
+        "visite",
+        "sujet",
+        "étapes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue et optique",
+      "word": "grand-angle",
+      "forbidden_words": [
+        "paysage",
+        "objectif",
+        "cadrage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie locale",
+      "sub_category": "Activités de proximité",
+      "word": "pique-nique champêtre",
+      "forbidden_words": [
+        "repas",
+        "plein air",
+        "nappe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques du quotidien",
+      "sub_category": "Notions et représentations",
+      "word": "suite arithmétique",
+      "forbidden_words": [
+        "nombres",
+        "écart",
+        "constant"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fleurs des jardins",
+      "sub_category": "Plantes et saisons",
+      "word": "bleuet des champs",
+      "forbidden_words": [
+        "fleur",
+        "bleu",
+        "céréales"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Habitat collectif",
+      "sub_category": "Parties communes et finitions",
+      "word": "local à vélos",
+      "forbidden_words": [
+        "immeuble",
+        "rangement",
+        "cycles"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papier et cartonnage",
+      "sub_category": "Matériel et techniques",
+      "word": "marbrure sur papier",
+      "forbidden_words": [
+        "motifs",
+        "encres",
+        "surface"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Courrier et livraison",
+      "sub_category": "Services postaux",
+      "word": "centre de tri",
+      "forbidden_words": [
+        "acheminement",
+        "distribution",
+        "paquets"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèques et lecture",
+      "sub_category": "Livres et emprunts",
+      "word": "table des matières",
+      "forbidden_words": [
+        "chapitres",
+        "sommaire",
+        "pages"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céréales et légumineuses",
+      "sub_category": "Ingrédients de cuisine",
+      "word": "graines de lin",
+      "forbidden_words": [
+        "fibres",
+        "végétal",
+        "huile"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Confort de l'habitat",
+      "sub_category": "Isolation et équipements",
+      "word": "ventilation mécanique",
+      "forbidden_words": [
+        "air",
+        "renouvellement",
+        "extraction"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Potager et horticulture",
+      "sub_category": "Gestes de jardinage",
+      "word": "sarcloir",
+      "forbidden_words": [
+        "mauvaises herbes",
+        "sol",
+        "jardinage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Randonnée et relief",
+      "sub_category": "Paysages de montagne",
+      "word": "table d'orientation",
+      "forbidden_words": [
+        "panorama",
+        "directions",
+        "sommet"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Assemblages et finitions",
+      "word": "tour à bois",
+      "forbidden_words": [
+        "rotation",
+        "tournage",
+        "artisan"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "École et apprentissage",
+      "sub_category": "Matériel et méthodes",
+      "word": "feuille millimétrée",
+      "forbidden_words": [
+        "grille",
+        "précision",
+        "tracé"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Outils et usages",
+      "word": "mise à jour logicielle",
+      "forbidden_words": [
+        "version",
+        "correctifs",
+        "programme"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mobilité quotidienne",
+      "sub_category": "Transports collectifs et doux",
+      "word": "station de vélos",
+      "forbidden_words": [
+        "location",
+        "deux roues",
+        "libre-service"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Musées et expositions",
+      "sub_category": "Visite et conservation",
+      "word": "maquette architecturale",
+      "forbidden_words": [
+        "miniature",
+        "bâtiment",
+        "modèle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Faune des jardins",
+      "sub_category": "Petits animaux d'Europe",
+      "word": "demoiselle bleue",
+      "forbidden_words": [
+        "insecte",
+        "étang",
+        "fines ailes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue et optique",
+      "word": "contre-jour",
+      "forbidden_words": [
+        "silhouette",
+        "soleil",
+        "photographie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie locale",
+      "sub_category": "Activités de proximité",
+      "word": "bal populaire",
+      "forbidden_words": [
+        "danse",
+        "place",
+        "fête"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques du quotidien",
+      "sub_category": "Notions et représentations",
+      "word": "fraction irréductible",
+      "forbidden_words": [
+        "division",
+        "simplifier",
+        "nombres"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fleurs des jardins",
+      "sub_category": "Plantes et saisons",
+      "word": "cosmos bipenné",
+      "forbidden_words": [
+        "fleur",
+        "tiges",
+        "jardin"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Habitat collectif",
+      "sub_category": "Parties communes et finitions",
+      "word": "cage d'escalier",
+      "forbidden_words": [
+        "marches",
+        "immeuble",
+        "montée"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papier et cartonnage",
+      "sub_category": "Matériel et techniques",
+      "word": "carnet à points",
+      "forbidden_words": [
+        "notes",
+        "pages",
+        "grille"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Courrier et livraison",
+      "sub_category": "Services postaux",
+      "word": "point relais",
+      "forbidden_words": [
+        "retrait",
+        "commerce",
+        "commande"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bibliothèques et lecture",
+      "sub_category": "Livres et emprunts",
+      "word": "édition de poche",
+      "forbidden_words": [
+        "petit format",
+        "roman",
+        "transport"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céréales et légumineuses",
+      "sub_category": "Ingrédients de cuisine",
+      "word": "graines de courge",
+      "forbidden_words": [
+        "pépins",
+        "vert",
+        "salade"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Confort de l'habitat",
+      "sub_category": "Isolation et équipements",
+      "word": "mousse isolante",
+      "forbidden_words": [
+        "expansion",
+        "joint",
+        "calfeutrage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Randonnée et relief",
+      "sub_category": "Paysages de montagne",
+      "word": "lac d'altitude",
+      "forbidden_words": [
+        "eau",
+        "montagne",
+        "bassin"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Musées et expositions",
+      "sub_category": "Visite et conservation",
+      "word": "restauration de fresque",
+      "forbidden_words": [
+        "peinture",
+        "conservation",
+        "mur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue et optique",
+      "word": "heure dorée",
+      "forbidden_words": [
+        "lumière",
+        "coucher",
+        "photographie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie locale",
+      "sub_category": "Activités de proximité",
+      "word": "chorale amateur",
+      "forbidden_words": [
+        "voix",
+        "ensemble",
+        "répétition"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques du quotidien",
+      "sub_category": "Notions et représentations",
+      "word": "nombre premier",
+      "forbidden_words": [
+        "entier",
+        "diviseurs",
+        "mathématiques"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fleurs des jardins",
+      "sub_category": "Plantes et saisons",
+      "word": "nigelle de Damas",
+      "forbidden_words": [
+        "fleur",
+        "feuillage",
+        "aérien"
+      ]
     }
   ],
   "sessiz_sinema": [
