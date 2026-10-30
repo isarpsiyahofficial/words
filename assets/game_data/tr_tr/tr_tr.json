@@ -49308,12 +49308,12 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Bilim",
-      "sub_category": "Biyoloji",
-      "word": "Petri kabı",
+      "sub_category": "Kimya",
+      "word": "Dereceli silindir",
       "forbidden_words": [
         "laboratuvar",
-        "kültür",
-        "yuvarlak"
+        "hacim",
+        "ölçmek"
       ]
     },
     {
@@ -52298,7 +52298,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Hayvanlar",
-      "sub_category": "Deniz",
+      "sub_category": "Tatlı Su Balıkları",
       "word": "Alabalık",
       "forbidden_words": [
         "tatlı su",
@@ -52324,7 +52324,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Hayvanlar",
-      "sub_category": "Deniz",
+      "sub_category": "Tatlı Su Balıkları",
       "word": "Sazan",
       "forbidden_words": [
         "göl",
@@ -52337,7 +52337,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Hayvanlar",
-      "sub_category": "Deniz",
+      "sub_category": "Tatlı Su Balıkları",
       "word": "Yayın balığı",
       "forbidden_words": [
         "bıyık",
@@ -52492,8 +52492,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Hayvanlar",
-      "sub_category": "Deniz",
+      "main_category": "Doğa",
+      "sub_category": "Su Ekosistemleri",
       "word": "Plankton",
       "forbidden_words": [
         "mikroskobik",
@@ -52506,7 +52506,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Hayvanlar",
-      "sub_category": "Böcekler",
+      "sub_category": "Eklembacaklılar",
       "word": "Kırkayak",
       "forbidden_words": [
         "çok bacak",
@@ -52519,7 +52519,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Hayvanlar",
-      "sub_category": "Böcekler",
+      "sub_category": "Eklembacaklılar",
       "word": "Örümcek",
       "forbidden_words": [
         "ağ",
@@ -53183,11 +53183,11 @@
       "locale": "tr-TR",
       "main_category": "Yiyecek",
       "sub_category": "Ev Yemekleri",
-      "word": "Ezogelin çorbası",
+      "word": "Brokoli çorbası",
       "forbidden_words": [
-        "bulgur",
-        "mercimek",
-        "baharat"
+        "yeşil",
+        "sebze",
+        "kâse"
       ]
     },
     {
