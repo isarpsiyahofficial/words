@@ -5406,6 +5406,806 @@
       "difficulty": "facile",
       "question": "Quelle inscription ou étiquette placée dans un livre indique son propriétaire ?",
       "answer": "ex-libris"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et perception",
+      "sub_category": "Phénomènes lumineux",
+      "difficulty": "facile",
+      "question": "Quel solide transparent à faces planes décompose la lumière blanche en plusieurs couleurs ?",
+      "answer": "prisme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et perception",
+      "sub_category": "Phénomènes lumineux",
+      "difficulty": "facile",
+      "question": "Quel élément optique épais au centre rapproche des rayons lumineux parallèles ?",
+      "answer": "lentille convergente"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et perception",
+      "sub_category": "Phénomènes lumineux",
+      "difficulty": "facile",
+      "question": "Quel élément optique mince au centre écarte des rayons lumineux parallèles ?",
+      "answer": "lentille divergente"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et perception",
+      "sub_category": "Phénomènes lumineux",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on l'ensemble des couleurs perceptibles par l'œil humain ?",
+      "answer": "spectre visible"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et perception",
+      "sub_category": "Phénomènes lumineux",
+      "difficulty": "moyen",
+      "question": "En quel point se rejoignent les rayons parallèles après un dispositif qui les rassemble ?",
+      "answer": "foyer optique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et perception",
+      "sub_category": "Phénomènes lumineux",
+      "difficulty": "moyen",
+      "question": "Quelle grandeur compare la vitesse de la lumière dans un milieu à celle dans le vide ?",
+      "answer": "indice de réfraction"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et perception",
+      "sub_category": "Phénomènes lumineux",
+      "difficulty": "moyen",
+      "question": "Comment nomme-t-on une zone partiellement éclairée autour d'une région entièrement sombre ?",
+      "answer": "pénombre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et perception",
+      "sub_category": "Phénomènes lumineux",
+      "difficulty": "difficile",
+      "question": "Quelle silhouette sombre se dessine sur une surface lorsqu'un objet intercepte la lumière ?",
+      "answer": "ombre portée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et perception",
+      "sub_category": "Phénomènes lumineux",
+      "difficulty": "difficile",
+      "question": "Quel phénomène sélectionne une seule orientation des oscillations d'une onde lumineuse ?",
+      "answer": "polarisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique et perception",
+      "sub_category": "Phénomènes lumineux",
+      "difficulty": "difficile",
+      "question": "Quel défaut d'un objectif fait apparaître des franges colorées autour des contours ?",
+      "answer": "aberration chromatique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et audition",
+      "sub_category": "Sons et vibrations",
+      "difficulty": "facile",
+      "question": "Quelle qualité distingue deux instruments jouant la même note à la même intensité ?",
+      "answer": "timbre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et audition",
+      "sub_category": "Sons et vibrations",
+      "difficulty": "facile",
+      "question": "Quelle grandeur indique l'écart maximal d'une vibration à sa position de repos ?",
+      "answer": "amplitude"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et audition",
+      "sub_category": "Sons et vibrations",
+      "difficulty": "facile",
+      "question": "Quel son revient à l'auditeur après s'être réfléchi sur un obstacle éloigné ?",
+      "answer": "écho"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et audition",
+      "sub_category": "Sons et vibrations",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on la persistance d'un son dans une salle après l'arrêt de sa source ?",
+      "answer": "réverbération"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et audition",
+      "sub_category": "Sons et vibrations",
+      "difficulty": "moyen",
+      "question": "Quel phénomène amplifie les oscillations d'un système excité près de sa fréquence propre ?",
+      "answer": "résonance"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et audition",
+      "sub_category": "Sons et vibrations",
+      "difficulty": "moyen",
+      "question": "Quel type de son possède une fréquence trop élevée pour l'audition humaine habituelle ?",
+      "answer": "ultrason"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et audition",
+      "sub_category": "Sons et vibrations",
+      "difficulty": "moyen",
+      "question": "Quel type de son possède une fréquence trop basse pour l'audition humaine habituelle ?",
+      "answer": "infrason"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et audition",
+      "sub_category": "Sons et vibrations",
+      "difficulty": "difficile",
+      "question": "Quelle propriété d'un son permet de le qualifier de grave ou d'aigu ?",
+      "answer": "hauteur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et audition",
+      "sub_category": "Sons et vibrations",
+      "difficulty": "difficile",
+      "question": "Quel accessoire réduit ou modifie la sonorité d'un instrument ?",
+      "answer": "sourdine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et audition",
+      "sub_category": "Sons et vibrations",
+      "difficulty": "difficile",
+      "question": "Quel phénomène survient lorsqu'un matériau retient une partie de l'énergie sonore au lieu de la renvoyer ?",
+      "answer": "absorption acoustique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie et édition",
+      "sub_category": "Fabrication des pages",
+      "difficulty": "facile",
+      "question": "Quel art concerne le choix et l'agencement des caractères d'un texte imprimé ?",
+      "answer": "typographie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie et édition",
+      "sub_category": "Fabrication des pages",
+      "difficulty": "facile",
+      "question": "Quels petits éléments réutilisables portant chacun un signe servaient à composer une page ?",
+      "answer": "caractères mobiles"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie et édition",
+      "sub_category": "Fabrication des pages",
+      "difficulty": "facile",
+      "question": "Quel premier tirage sert à contrôler une page avant la production définitive ?",
+      "answer": "épreuve"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie et édition",
+      "sub_category": "Fabrication des pages",
+      "difficulty": "moyen",
+      "question": "Quelle mention de validation autorise l'atelier à lancer l'impression définitive ?",
+      "answer": "bon à tirer"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie et édition",
+      "sub_category": "Fabrication des pages",
+      "difficulty": "moyen",
+      "question": "Quel procédé reproduit de nombreuses couleurs à l'aide de quatre encres standard ?",
+      "answer": "quadrichromie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie et édition",
+      "sub_category": "Fabrication des pages",
+      "difficulty": "moyen",
+      "question": "Quelle partie d'une image dépasse la limite de coupe afin d'éviter un bord blanc ?",
+      "answer": "fond perdu"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie et édition",
+      "sub_category": "Fabrication des pages",
+      "difficulty": "moyen",
+      "question": "Quel réglage assure la superposition exacte des couches de couleur sur le papier ?",
+      "answer": "repérage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie et édition",
+      "sub_category": "Fabrication des pages",
+      "difficulty": "difficile",
+      "question": "Quel procédé fait passer l'encre à travers les zones ouvertes d'un écran tendu ?",
+      "answer": "sérigraphie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie et édition",
+      "sub_category": "Fabrication des pages",
+      "difficulty": "difficile",
+      "question": "Quel procédé transfère l'encre d'une plaque vers un cylindre en caoutchouc avant le papier ?",
+      "answer": "offset"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Imprimerie et édition",
+      "sub_category": "Fabrication des pages",
+      "difficulty": "difficile",
+      "question": "Quelle finition donne un relief à un motif sur une feuille sans ajout nécessaire d'encre ?",
+      "answer": "gaufrage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Navigation et voies d'eau",
+      "sub_category": "Ports et canaux",
+      "difficulty": "facile",
+      "question": "Quelle construction côtière émet une lumière caractéristique pour guider les marins la nuit ?",
+      "answer": "phare"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Navigation et voies d'eau",
+      "sub_category": "Ports et canaux",
+      "difficulty": "facile",
+      "question": "Quel repère coloré, fixe ou flottant, indique aux bateaux un passage ou un danger ?",
+      "answer": "balise"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Navigation et voies d'eau",
+      "sub_category": "Ports et canaux",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on un passage navigable indiqué ou aménagé dans une étendue d'eau ?",
+      "answer": "chenal"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Navigation et voies d'eau",
+      "sub_category": "Ports et canaux",
+      "difficulty": "moyen",
+      "question": "Quel ouvrage muni de portes permet aux bateaux de franchir une différence de niveau sur un canal ?",
+      "answer": "écluse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Navigation et voies d'eau",
+      "sub_category": "Ports et canaux",
+      "difficulty": "moyen",
+      "question": "Quel cordage retient un bateau contre un quai ?",
+      "answer": "amarre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Navigation et voies d'eau",
+      "sub_category": "Ports et canaux",
+      "difficulty": "moyen",
+      "question": "Quelle borne métallique massive sur un quai sert à fixer les gros cordages des navires ?",
+      "answer": "bollard"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Navigation et voies d'eau",
+      "sub_category": "Ports et canaux",
+      "difficulty": "moyen",
+      "question": "Quelle plateforme flottante ou sur pilotis facilite l'accès aux embarcations ?",
+      "answer": "ponton"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Navigation et voies d'eau",
+      "sub_category": "Ports et canaux",
+      "difficulty": "difficile",
+      "question": "Quel appareil enregistre les variations du niveau de la mer au cours du temps ?",
+      "answer": "marégraphe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Navigation et voies d'eau",
+      "sub_category": "Ports et canaux",
+      "difficulty": "difficile",
+      "question": "Quel appareil embarqué mesure la profondeur de l'eau sous la coque ?",
+      "answer": "sondeur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Navigation et voies d'eau",
+      "sub_category": "Ports et canaux",
+      "difficulty": "difficile",
+      "question": "Quel service portuaire accueille les plaisanciers et attribue les emplacements ?",
+      "answer": "capitainerie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine des régions françaises",
+      "sub_category": "Spécialités régionales",
+      "difficulty": "facile",
+      "question": "Quelle spécialité bretonne salée, souvent garnie d'œuf et de fromage, se cuit sur une grande plaque ?",
+      "answer": "galette de sarrasin"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine des régions françaises",
+      "sub_category": "Spécialités régionales",
+      "difficulty": "facile",
+      "question": "Quelle fine préparation niçoise à base de pois chiches se mange chaude et croustillante ?",
+      "answer": "socca"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine des régions françaises",
+      "sub_category": "Spécialités régionales",
+      "difficulty": "facile",
+      "question": "Quel pain provençal aplati présente souvent des entailles qui évoquent une feuille ?",
+      "answer": "fougasse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine des régions françaises",
+      "sub_category": "Spécialités régionales",
+      "difficulty": "moyen",
+      "question": "Quelle préparation lyonnaise de forme ovale gonfle lorsqu'elle cuit dans une sauce ?",
+      "answer": "quenelle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine des régions françaises",
+      "sub_category": "Spécialités régionales",
+      "difficulty": "moyen",
+      "question": "Quelle tarte salée niçoise est traditionnellement garnie d'oignons confits et d'olives ?",
+      "answer": "pissaladière"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine des régions françaises",
+      "sub_category": "Spécialités régionales",
+      "difficulty": "moyen",
+      "question": "Quelle spécialité alsacienne associe une pâte très fine, de la crème, des oignons et des lardons ?",
+      "answer": "flammekueche"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine des régions françaises",
+      "sub_category": "Spécialités régionales",
+      "difficulty": "moyen",
+      "question": "Quelle préparation de l'Aubrac mêle une purée de pommes de terre à une tome fraîche filante ?",
+      "answer": "aligot"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine des régions françaises",
+      "sub_category": "Spécialités régionales",
+      "difficulty": "difficile",
+      "question": "Quel dessert du Limousin cuit des cerises dans une pâte proche de celle d'un flan ?",
+      "answer": "clafoutis"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine des régions françaises",
+      "sub_category": "Spécialités régionales",
+      "difficulty": "difficile",
+      "question": "Quelle petite pâtisserie bordelaise possède une croûte sombre caramélisée et un cœur moelleux ?",
+      "answer": "canelé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine des régions françaises",
+      "sub_category": "Spécialités régionales",
+      "difficulty": "difficile",
+      "question": "Quel dessert traditionnel de Bretagne ressemble à un flan épais parfois garni de pruneaux ?",
+      "answer": "far breton"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et cultures",
+      "sub_category": "Travaux agricoles",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on une parcelle laissée temporairement sans culture pour reposer le sol ?",
+      "answer": "jachère"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et cultures",
+      "sub_category": "Travaux agricoles",
+      "difficulty": "facile",
+      "question": "Quelle organisation répartit différentes cultures entre les parcelles d'une exploitation ?",
+      "answer": "assolement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et cultures",
+      "sub_category": "Travaux agricoles",
+      "difficulty": "facile",
+      "question": "Quel système apporte lentement l'eau au pied des plantes par de petits émetteurs ?",
+      "answer": "goutte-à-goutte"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et cultures",
+      "sub_category": "Travaux agricoles",
+      "difficulty": "moyen",
+      "question": "Quelle opération ramène de la terre au pied des plants pour former une petite levée ?",
+      "answer": "buttage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et cultures",
+      "sub_category": "Travaux agricoles",
+      "difficulty": "moyen",
+      "question": "Quelle opération sépare les grains des épis après la récolte des céréales ?",
+      "answer": "battage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et cultures",
+      "sub_category": "Travaux agricoles",
+      "difficulty": "moyen",
+      "question": "Quels travaux consistent à couper puis sécher l'herbe destinée aux animaux ?",
+      "answer": "fenaison"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et cultures",
+      "sub_category": "Travaux agricoles",
+      "difficulty": "moyen",
+      "question": "Quelle méthode conserve des végétaux hachés et tassés à l'abri de l'air pour le bétail ?",
+      "answer": "ensilage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et cultures",
+      "sub_category": "Travaux agricoles",
+      "difficulty": "difficile",
+      "question": "Quelle machine dépose les graines dans le sol à intervalles réguliers ?",
+      "answer": "semoir"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et cultures",
+      "sub_category": "Travaux agricoles",
+      "difficulty": "difficile",
+      "question": "Quel nom collectif donne-t-on aux végétaux récoltés pour nourrir les animaux d'élevage ?",
+      "answer": "fourrage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Agriculture et cultures",
+      "sub_category": "Travaux agricoles",
+      "difficulty": "difficile",
+      "question": "Quelle grande installation sert à stocker les céréales en vrac ?",
+      "answer": "silo"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et patrimoine",
+      "sub_category": "Bâtiments anciens",
+      "difficulty": "facile",
+      "question": "Quelle sculpture saillante évacue l'eau de pluie loin des murs d'un édifice ancien ?",
+      "answer": "gargouille"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et patrimoine",
+      "sub_category": "Bâtiments anciens",
+      "difficulty": "facile",
+      "question": "Quel massif de maçonnerie appuyé contre un mur résiste aux poussées latérales ?",
+      "answer": "contrefort"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et patrimoine",
+      "sub_category": "Bâtiments anciens",
+      "difficulty": "facile",
+      "question": "Quel élément extérieur en forme d'arche reporte la poussée d'une voûte vers un appui éloigné ?",
+      "answer": "arc-boutant"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et patrimoine",
+      "sub_category": "Bâtiments anciens",
+      "difficulty": "moyen",
+      "question": "Quelle surface souvent sculptée occupe l'espace au-dessus d'une porte et sous son arche ?",
+      "answer": "tympan"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et patrimoine",
+      "sub_category": "Bâtiments anciens",
+      "difficulty": "moyen",
+      "question": "Quelle grande fenêtre circulaire à motifs rayonnants orne de nombreux bâtiments anciens ?",
+      "answer": "rosace"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et patrimoine",
+      "sub_category": "Bâtiments anciens",
+      "difficulty": "moyen",
+      "question": "Quelle tour communale abrite souvent une cloche et symbolise l'autonomie d'une ville ?",
+      "answer": "beffroi"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et patrimoine",
+      "sub_category": "Bâtiments anciens",
+      "difficulty": "moyen",
+      "question": "Quelle technique laisse visibles les pièces de bois formant l'ossature d'une façade ?",
+      "answer": "colombage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et patrimoine",
+      "sub_category": "Bâtiments anciens",
+      "difficulty": "difficile",
+      "question": "Quel mélange de terre argileuse et de fibres végétales remplit les espaces d'une ossature en bois ?",
+      "answer": "torchis"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et patrimoine",
+      "sub_category": "Bâtiments anciens",
+      "difficulty": "difficile",
+      "question": "Quel montant vertical en pierre ou en bois partage une baie en plusieurs ouvertures ?",
+      "answer": "meneau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et patrimoine",
+      "sub_category": "Bâtiments anciens",
+      "difficulty": "difficile",
+      "question": "Quelle petite ouverture ronde apporte de la lumière à une façade ou à une coupole ?",
+      "answer": "oculus"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardins et horticulture",
+      "sub_category": "Culture et entretien",
+      "difficulty": "facile",
+      "question": "Quelle forme de culture guide les branches d'un fruitier dans un plan contre un support ?",
+      "answer": "espalier"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardins et horticulture",
+      "sub_category": "Culture et entretien",
+      "difficulty": "facile",
+      "question": "Quel assemblage ajouré de lattes soutient les plantes grimpantes ?",
+      "answer": "treillage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardins et horticulture",
+      "sub_category": "Culture et entretien",
+      "difficulty": "facile",
+      "question": "Quel aménagement paysager associe des pierres et des plantes adaptées aux terrains secs ?",
+      "answer": "rocaille"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardins et horticulture",
+      "sub_category": "Culture et entretien",
+      "difficulty": "moyen",
+      "question": "Quel organe souterrain charnu permet notamment à la tulipe de survivre à l'hiver ?",
+      "answer": "bulbe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardins et horticulture",
+      "sub_category": "Culture et entretien",
+      "difficulty": "moyen",
+      "question": "Quelle tige rampante produit de nouveaux plants à distance du pied mère chez le fraisier ?",
+      "answer": "stolon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardins et horticulture",
+      "sub_category": "Culture et entretien",
+      "difficulty": "moyen",
+      "question": "Quelle culture est semée puis incorporée au sol pour améliorer sa fertilité ?",
+      "answer": "engrais vert"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardins et horticulture",
+      "sub_category": "Culture et entretien",
+      "difficulty": "moyen",
+      "question": "Quelle préparation des racines nues consiste à les enrober d'une boue protectrice avant plantation ?",
+      "answer": "pralinage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardins et horticulture",
+      "sub_category": "Culture et entretien",
+      "difficulty": "difficile",
+      "question": "Comment qualifie-t-on une plante qui repousse pendant plusieurs années ?",
+      "answer": "vivace"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardins et horticulture",
+      "sub_category": "Culture et entretien",
+      "difficulty": "difficile",
+      "question": "Quel nom donne-t-on au support de culture dans lequel les racines se développent en pot ?",
+      "answer": "substrat"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardins et horticulture",
+      "sub_category": "Culture et entretien",
+      "difficulty": "difficile",
+      "question": "Quel abri transparent non chauffé protège les plantes des intempéries et atténue le gel ?",
+      "answer": "serre froide"
     }
   ],
   "tabu": [
