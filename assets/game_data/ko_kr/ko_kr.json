@@ -2606,6 +2606,806 @@
       "difficulty": "쉬움",
       "question": "멀리 있는 천체나 풍경을 렌즈 또는 거울로 모아 크게 보게 하는 관측 장치는?",
       "answer": "망원경"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통놀이",
+      "sub_category": "명절과 놀이",
+      "difficulty": "쉬움",
+      "question": "설날 아침에 어른께 공손히 큰절을 올리며 새해 인사를 드리는 풍습은?",
+      "answer": "세배"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통놀이",
+      "sub_category": "명절과 놀이",
+      "difficulty": "쉬움",
+      "question": "새해를 맞은 가족이나 이웃에게 건강과 행복을 빌며 건네는 좋은 말은?",
+      "answer": "덕담"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통놀이",
+      "sub_category": "명절과 놀이",
+      "difficulty": "쉬움",
+      "question": "긴 줄에 매단 종이나 천으로 만든 물체를 바람에 띄워 즐기는 놀이는?",
+      "answer": "연날리기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통놀이",
+      "sub_category": "명절과 놀이",
+      "difficulty": "쉬움",
+      "question": "뾰족한 축을 중심으로 빙글빙글 도는 장난감을 채로 쳐서 계속 돌리는 놀이는?",
+      "answer": "팽이치기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통놀이",
+      "sub_category": "명절과 놀이",
+      "difficulty": "보통",
+      "question": "일정한 거리에서 항아리 입구를 향해 가느다란 막대를 던져 넣는 놀이는?",
+      "answer": "투호"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통놀이",
+      "sub_category": "명절과 놀이",
+      "difficulty": "쉬움",
+      "question": "작은 물체를 발등으로 여러 번 차 올려 땅에 떨어뜨리지 않는 놀이는?",
+      "answer": "제기차기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통놀이",
+      "sub_category": "명절과 놀이",
+      "difficulty": "보통",
+      "question": "높은 곳에 매단 넓은 판 위에 앉거나 서서 앞뒤로 오가는 전통 놀이는?",
+      "answer": "그네뛰기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통놀이",
+      "sub_category": "명절과 놀이",
+      "difficulty": "보통",
+      "question": "긴 판의 양끝에 번갈아 올라 서로 발을 굴러 높이 뛰는 전통 놀이는?",
+      "answer": "널뛰기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식문화",
+      "sub_category": "재료와 음식",
+      "difficulty": "쉬움",
+      "question": "엿기름으로 밥알을 삭혀 단맛을 낸 뒤 차갑게 마시는 전통 음료는?",
+      "answer": "식혜"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식문화",
+      "sub_category": "재료와 음식",
+      "difficulty": "보통",
+      "question": "계피와 생강을 달여 단맛을 더하고 잣을 띄우기도 하는 전통 음료는?",
+      "answer": "수정과"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식문화",
+      "sub_category": "재료와 음식",
+      "difficulty": "쉬움",
+      "question": "밥을 지을 때 솥 바닥에 눌어붙어 노릇하게 된 밥 부분은?",
+      "answer": "누룽지"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식문화",
+      "sub_category": "재료와 음식",
+      "difficulty": "보통",
+      "question": "참나무 열매의 녹말을 굳혀 만든 갈색의 탱글한 음식은?",
+      "answer": "도토리묵"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식문화",
+      "sub_category": "재료와 음식",
+      "difficulty": "보통",
+      "question": "삶은 대두를 짧게 띄워 강한 향과 끈기가 생기게 만든 장류는?",
+      "answer": "청국장"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식문화",
+      "sub_category": "재료와 음식",
+      "difficulty": "쉬움",
+      "question": "무를 큼직하게 썰어 맑고 시원한 국물과 함께 익히는 겨울 저장 반찬은?",
+      "answer": "동치미"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식문화",
+      "sub_category": "재료와 음식",
+      "difficulty": "쉬움",
+      "question": "무를 작은 네모 모양으로 썰어 양념해 익히는 아삭한 반찬은?",
+      "answer": "깍두기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 음식문화",
+      "sub_category": "재료와 음식",
+      "difficulty": "쉬움",
+      "question": "대두의 싹을 길러 아삭한 줄기와 노란 머리 부분을 먹는 채소는?",
+      "answer": "콩나물"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생식과 성장",
+      "sub_category": "꽃과 번식",
+      "difficulty": "보통",
+      "question": "바람이나 곤충에 의해 수술의 가루가 암술머리로 옮겨지는 과정은?",
+      "answer": "수분"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생식과 성장",
+      "sub_category": "꽃과 번식",
+      "difficulty": "보통",
+      "question": "식물에서 수컷 생식세포와 암컷 생식세포가 결합하는 과정은?",
+      "answer": "수정"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생식과 성장",
+      "sub_category": "꽃과 번식",
+      "difficulty": "쉬움",
+      "question": "꽃이 진 뒤 씨를 감싸며 자라 동물이나 바람을 통해 퍼지기도 하는 구조는?",
+      "answer": "열매"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생식과 성장",
+      "sub_category": "꽃과 번식",
+      "difficulty": "보통",
+      "question": "식물의 씨 바깥을 둘러싸 내부 조직을 보호하는 껍질은?",
+      "answer": "종피"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생식과 성장",
+      "sub_category": "꽃과 번식",
+      "difficulty": "어려움",
+      "question": "꽃의 씨방 안에 들어 있으며 나중에 씨가 되는 작은 구조는?",
+      "answer": "배주"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생식과 성장",
+      "sub_category": "꽃과 번식",
+      "difficulty": "보통",
+      "question": "암술머리에 붙은 가루에서 자라 배주 쪽으로 생식세포를 운반하는 가느다란 통로는?",
+      "answer": "화분관"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생식과 성장",
+      "sub_category": "꽃과 번식",
+      "difficulty": "어려움",
+      "question": "여러 송이의 작은 꽃이 일정한 배열로 모여 하나의 무리를 이루는 방식은?",
+      "answer": "꽃차례"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 생식과 성장",
+      "sub_category": "꽃과 번식",
+      "difficulty": "보통",
+      "question": "꽃의 여러 기관이 붙는 줄기 끝의 조금 부풀어 오른 부분은?",
+      "answer": "꽃턱"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "강과 담수 지형",
+      "sub_category": "하천의 모습",
+      "difficulty": "보통",
+      "question": "강바닥이 얕고 물살이 빠르며 자갈 사이로 물이 흐르는 구간은?",
+      "answer": "여울"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "강과 담수 지형",
+      "sub_category": "하천의 모습",
+      "difficulty": "보통",
+      "question": "강물이 상대적으로 깊게 고이고 흐름이 느려지는 부분은?",
+      "answer": "소"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "강과 담수 지형",
+      "sub_category": "하천의 모습",
+      "difficulty": "보통",
+      "question": "큰비가 내릴 때 강물이 넘쳐 주변에 흙을 쌓아 만드는 평탄한 땅은?",
+      "answer": "범람원"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "강과 담수 지형",
+      "sub_category": "하천의 모습",
+      "difficulty": "보통",
+      "question": "강물이 넓은 평지를 지나며 뱀처럼 구불구불 흐르는 형태는?",
+      "answer": "곡류"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "강과 담수 지형",
+      "sub_category": "하천의 모습",
+      "difficulty": "어려움",
+      "question": "강 한가운데 퇴적물이 쌓여 생긴 섬 모양의 땅은?",
+      "answer": "하중도"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "강과 담수 지형",
+      "sub_category": "하천의 모습",
+      "difficulty": "어려움",
+      "question": "구불구불 흐르던 강줄기가 끊어져 말굽 모양으로 남은 호수는?",
+      "answer": "우각호"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "강과 담수 지형",
+      "sub_category": "하천의 모습",
+      "difficulty": "쉬움",
+      "question": "강물이 바다나 큰 호수로 흘러 들어가는 끝부분은?",
+      "answer": "하구"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "강과 담수 지형",
+      "sub_category": "하천의 모습",
+      "difficulty": "보통",
+      "question": "빗물이 한 하천으로 모여 흘러드는 주변의 전체 지역은?",
+      "answer": "유역"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 물리",
+      "sub_category": "물질의 변화",
+      "difficulty": "쉬움",
+      "question": "늘어나거나 눌린 물체가 원래 모양으로 돌아가려는 성질은?",
+      "answer": "탄성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 물리",
+      "sub_category": "물질의 변화",
+      "difficulty": "쉬움",
+      "question": "액체 표면의 입자가 기체가 되어 공기 중으로 퍼지는 현상은?",
+      "answer": "증발"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 물리",
+      "sub_category": "물질의 변화",
+      "difficulty": "보통",
+      "question": "고체가 액체 단계를 거치지 않고 바로 기체로 바뀌는 현상은?",
+      "answer": "승화"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 물리",
+      "sub_category": "물질의 변화",
+      "difficulty": "쉬움",
+      "question": "액체가 열을 잃어 단단한 고체로 바뀌는 현상은?",
+      "answer": "응고"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 물리",
+      "sub_category": "물질의 변화",
+      "difficulty": "쉬움",
+      "question": "얼음처럼 단단한 물질이 열을 받아 액체가 되는 현상은?",
+      "answer": "융해"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 물리",
+      "sub_category": "물질의 변화",
+      "difficulty": "보통",
+      "question": "일정한 압력에서 액체 내부에 기포가 생기며 활발히 기체로 바뀌기 시작하는 온도는?",
+      "answer": "끓는점"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 물리",
+      "sub_category": "물질의 변화",
+      "difficulty": "보통",
+      "question": "고체가 열을 받아 액체로 바뀌기 시작하는 특정 온도는?",
+      "answer": "녹는점"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 속 물리",
+      "sub_category": "물질의 변화",
+      "difficulty": "어려움",
+      "question": "액체의 겉면이 가능한 한 작아지려 하여 작은 물방울이 둥글어지는 성질은?",
+      "answer": "표면장력"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바느질과 옷 만들기",
+      "sub_category": "도구와 기법",
+      "difficulty": "쉬움",
+      "question": "천을 실과 바늘로 꿰매어 잇거나 장식하는 작업을 통틀어 무엇이라 하나요?",
+      "answer": "바느질"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바느질과 옷 만들기",
+      "sub_category": "도구와 기법",
+      "difficulty": "보통",
+      "question": "옷을 본격적으로 꿰매기 전에 천이 움직이지 않도록 성기게 임시로 꿰매는 방법은?",
+      "answer": "시침질"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바느질과 옷 만들기",
+      "sub_category": "도구와 기법",
+      "difficulty": "보통",
+      "question": "앞뒤로 촘촘하게 꿰매어 실선처럼 튼튼한 선을 만드는 손바느질 방법은?",
+      "answer": "박음질"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바느질과 옷 만들기",
+      "sub_category": "도구와 기법",
+      "difficulty": "보통",
+      "question": "천을 따라 일정한 간격으로 위아래를 번갈아 통과시키며 꿰매는 기본 방법은?",
+      "answer": "홈질"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바느질과 옷 만들기",
+      "sub_category": "도구와 기법",
+      "difficulty": "보통",
+      "question": "옷감의 모양을 본에 맞추어 잘라 내는 작업은?",
+      "answer": "재단"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바느질과 옷 만들기",
+      "sub_category": "도구와 기법",
+      "difficulty": "보통",
+      "question": "두 장의 천을 이어 붙일 때 꿰맨 자리에 생기는 연결선은?",
+      "answer": "솔기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바느질과 옷 만들기",
+      "sub_category": "도구와 기법",
+      "difficulty": "쉬움",
+      "question": "손으로 꿰맬 때 손가락 끝에 끼워 뾰족한 도구에 찔리지 않게 하는 보호구는?",
+      "answer": "골무"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바느질과 옷 만들기",
+      "sub_category": "도구와 기법",
+      "difficulty": "보통",
+      "question": "실을 감아 두어 엉키지 않게 보관하는 작은 납작한 도구는?",
+      "answer": "실패"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨 관측과 기후",
+      "sub_category": "현상과 관측",
+      "difficulty": "쉬움",
+      "question": "여름철에 여러 날 동안 비가 이어지는 우리나라의 계절적 현상은?",
+      "answer": "장마"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨 관측과 기후",
+      "sub_category": "현상과 관측",
+      "difficulty": "쉬움",
+      "question": "맑다가도 갑자기 짧은 시간에 세차게 쏟아지는 비는?",
+      "answer": "소나기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨 관측과 기후",
+      "sub_category": "현상과 관측",
+      "difficulty": "보통",
+      "question": "짧은 시간 동안 갑자기 강하게 불었다가 약해지는 바람은?",
+      "answer": "돌풍"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨 관측과 기후",
+      "sub_category": "현상과 관측",
+      "difficulty": "쉬움",
+      "question": "공기 중에 떠다니는 매우 작은 입자상 오염물질을 통틀어 부르는 말은?",
+      "answer": "미세먼지"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨 관측과 기후",
+      "sub_category": "현상과 관측",
+      "difficulty": "보통",
+      "question": "전파를 보내 되돌아오는 신호로 비구름의 위치와 움직임을 살피는 관측 장비는?",
+      "answer": "기상레이더"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨 관측과 기후",
+      "sub_category": "현상과 관측",
+      "difficulty": "보통",
+      "question": "넓은 지역의 기압과 전선, 비구름 등을 기호로 표시한 지도는?",
+      "answer": "일기도"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨 관측과 기후",
+      "sub_category": "현상과 관측",
+      "difficulty": "쉬움",
+      "question": "대기가 지표면을 누르는 힘의 크기를 재는 기구는?",
+      "answer": "기압계"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "날씨 관측과 기후",
+      "sub_category": "현상과 관측",
+      "difficulty": "쉬움",
+      "question": "공기 속 수증기가 얼마나 들어 있는지 측정하는 기구는?",
+      "answer": "습도계"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 공간",
+      "sub_category": "도형의 성질",
+      "difficulty": "쉬움",
+      "question": "한 쌍의 마주 보는 변만 서로 나란한 사각형은?",
+      "answer": "사다리꼴"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 공간",
+      "sub_category": "도형의 성질",
+      "difficulty": "쉬움",
+      "question": "네 변의 길이가 모두 같고 마주 보는 각의 크기가 같은 사각형은?",
+      "answer": "마름모"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 공간",
+      "sub_category": "도형의 성질",
+      "difficulty": "보통",
+      "question": "마주 보는 두 쌍의 변이 각각 나란한 사각형은?",
+      "answer": "평행사변형"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 공간",
+      "sub_category": "도형의 성질",
+      "difficulty": "쉬움",
+      "question": "둥근 밑면 하나와 한 점으로 모이는 옆면을 가진 입체도형은?",
+      "answer": "원뿔"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 공간",
+      "sub_category": "도형의 성질",
+      "difficulty": "쉬움",
+      "question": "크기가 같은 두 원형 밑면을 평행하게 놓고 곡면으로 이은 입체도형은?",
+      "answer": "원기둥"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 공간",
+      "sub_category": "도형의 성질",
+      "difficulty": "쉬움",
+      "question": "중심에서 겉면까지의 거리가 어느 방향으로나 같은 둥근 입체도형은?",
+      "answer": "구"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 공간",
+      "sub_category": "도형의 성질",
+      "difficulty": "쉬움",
+      "question": "다각형에서 서로 이웃하지 않는 두 꼭짓점을 잇는 선분은?",
+      "answer": "대각선"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 공간",
+      "sub_category": "도형의 성질",
+      "difficulty": "보통",
+      "question": "원과 오직 한 점에서 만나며 그 점에서 반지름과 수직인 직선은?",
+      "answer": "접선"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구의 지형 변화",
+      "sub_category": "물과 얼음의 작용",
+      "difficulty": "쉬움",
+      "question": "눈이 오랜 세월 쌓이고 압축되어 땅 위를 아주 천천히 이동하는 거대한 얼음 덩어리는?",
+      "answer": "빙하"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구의 지형 변화",
+      "sub_category": "물과 얼음의 작용",
+      "difficulty": "어려움",
+      "question": "움직이는 거대한 얼음 덩어리가 운반하다 남긴 돌과 흙의 퇴적물은?",
+      "answer": "빙퇴석"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구의 지형 변화",
+      "sub_category": "물과 얼음의 작용",
+      "difficulty": "보통",
+      "question": "강물이 오랫동안 암석을 깎아 양쪽 벽이 가파르게 형성된 깊은 골짜기는?",
+      "answer": "협곡"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구의 지형 변화",
+      "sub_category": "물과 얼음의 작용",
+      "difficulty": "쉬움",
+      "question": "강이나 계곡의 물이 높은 곳에서 낮은 곳으로 수직에 가깝게 떨어지는 곳은?",
+      "answer": "폭포"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구의 지형 변화",
+      "sub_category": "물과 얼음의 작용",
+      "difficulty": "어려움",
+      "question": "하천이 땅을 더 깊게 깎아 내려가면서 옛 바닥이 계단처럼 높게 남은 지형은?",
+      "answer": "단구"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구의 지형 변화",
+      "sub_category": "물과 얼음의 작용",
+      "difficulty": "보통",
+      "question": "해안에서 파도와 연안 흐름이 운반한 모래가 길고 좁게 쌓인 지형은?",
+      "answer": "사주"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구의 지형 변화",
+      "sub_category": "물과 얼음의 작용",
+      "difficulty": "보통",
+      "question": "파도가 절벽의 약한 부분을 오랫동안 깎아 만든 해안의 빈 공간은?",
+      "answer": "해식동굴"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구의 지형 변화",
+      "sub_category": "물과 얼음의 작용",
+      "difficulty": "어려움",
+      "question": "파도가 바닷가 절벽의 양쪽을 뚫어 자연스러운 다리 모양이 된 암석 지형은?",
+      "answer": "해식아치"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 표현과 문법",
+      "sub_category": "낱말과 문장",
+      "difficulty": "쉬움",
+      "question": "오랜 경험에서 얻은 지혜나 교훈을 짧고 익숙한 말로 나타낸 표현은?",
+      "answer": "속담"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 표현과 문법",
+      "sub_category": "낱말과 문장",
+      "difficulty": "보통",
+      "question": "낱말 하나하나의 뜻만으로는 전체 의미를 알기 어려운 굳어진 표현은?",
+      "answer": "관용구"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 표현과 문법",
+      "sub_category": "낱말과 문장",
+      "difficulty": "보통",
+      "question": "하나의 낱말이 서로 관련된 여러 뜻으로 사용되는 경우의 낱말은?",
+      "answer": "다의어"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 표현과 문법",
+      "sub_category": "낱말과 문장",
+      "difficulty": "보통",
+      "question": "소리는 같지만 뜻과 어원이 서로 다른 낱말들을 가리키는 말은?",
+      "answer": "동음이의어"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 표현과 문법",
+      "sub_category": "낱말과 문장",
+      "difficulty": "보통",
+      "question": "두 개 이상의 독립된 어근이 결합해 만들어진 낱말은?",
+      "answer": "합성어"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 표현과 문법",
+      "sub_category": "낱말과 문장",
+      "difficulty": "보통",
+      "question": "어근에 접사가 붙어 새롭게 만들어진 낱말은?",
+      "answer": "파생어"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 표현과 문법",
+      "sub_category": "낱말과 문장",
+      "difficulty": "어려움",
+      "question": "발음할 때 혀의 위치가 처음부터 끝까지 거의 변하지 않는 홀소리는?",
+      "answer": "단모음"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 표현과 문법",
+      "sub_category": "낱말과 문장",
+      "difficulty": "어려움",
+      "question": "한 번 발음하는 동안 혀의 위치가 움직여 소리의 성질이 바뀌는 홀소리는?",
+      "answer": "이중모음"
     }
   ],
   "tabu": [
