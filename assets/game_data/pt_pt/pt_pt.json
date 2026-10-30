@@ -21803,6 +21803,825 @@
           "comprida",
           "exterior"
         ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecossistemas costeiros",
+        "sub_category": "Dunas",
+        "word": "Duna consolidada",
+        "forbidden_words": [
+          "areia",
+          "raízes",
+          "estável"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecossistemas costeiros",
+        "sub_category": "Litoral",
+        "word": "Zona intertidal",
+        "forbidden_words": [
+          "marés",
+          "costa",
+          "emersa"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecossistemas costeiros",
+        "sub_category": "Litoral",
+        "word": "Recife rochoso",
+        "forbidden_words": [
+          "pedras",
+          "submerso",
+          "peixes"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecossistemas costeiros",
+        "sub_category": "Zonas húmidas",
+        "word": "Sapais salobros",
+        "forbidden_words": [
+          "plantas",
+          "sal",
+          "estuário"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecossistemas costeiros",
+        "sub_category": "Hidrografia",
+        "word": "Canal de maré",
+        "forbidden_words": [
+          "água",
+          "entrada",
+          "saída"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Vida marinha",
+        "sub_category": "Invertebrados",
+        "word": "Pepino-do-mar",
+        "forbidden_words": [
+          "alongado",
+          "fundo",
+          "animal"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Vida marinha",
+        "sub_category": "Moluscos",
+        "word": "Búzio",
+        "forbidden_words": [
+          "concha",
+          "espiral",
+          "mar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Vida marinha",
+        "sub_category": "Plâncton",
+        "word": "Salpa",
+        "forbidden_words": [
+          "transparente",
+          "gelatinosa",
+          "oceano"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Vida marinha",
+        "sub_category": "Peixes",
+        "word": "Sargo",
+        "forbidden_words": [
+          "peixe",
+          "prateado",
+          "costeiro"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Vida marinha",
+        "sub_category": "Peixes",
+        "word": "Robalo",
+        "forbidden_words": [
+          "peixe",
+          "estuário",
+          "grelhado"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Vida marinha",
+        "sub_category": "Crustáceos",
+        "word": "Caranguejo-eremita",
+        "forbidden_words": [
+          "concha",
+          "abdómen",
+          "abrigo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha portuguesa",
+        "sub_category": "Pratos",
+        "word": "Caldeirada",
+        "forbidden_words": [
+          "peixe",
+          "panela",
+          "batata"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha portuguesa",
+        "sub_category": "Pratos",
+        "word": "Arroz malandrinho",
+        "forbidden_words": [
+          "caldoso",
+          "grãos",
+          "panela"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha portuguesa",
+        "sub_category": "Cereais",
+        "word": "Carolo",
+        "forbidden_words": [
+          "milho",
+          "granulado",
+          "papas"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha portuguesa",
+        "sub_category": "Doçaria",
+        "word": "Bolo lêvedo",
+        "forbidden_words": [
+          "frigideira",
+          "redondo",
+          "fofo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Utensílios de cozinha",
+        "sub_category": "Preparação",
+        "word": "Passador de rede",
+        "forbidden_words": [
+          "coar",
+          "malha",
+          "cozinha"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Utensílios de cozinha",
+        "sub_category": "Pastelaria",
+        "word": "Forma de aro",
+        "forbidden_words": [
+          "bolo",
+          "desmontável",
+          "lateral"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horticultura e agricultura",
+        "sub_category": "Propagação",
+        "word": "Porta-enxerto",
+        "forbidden_words": [
+          "raiz",
+          "planta",
+          "união"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horticultura e agricultura",
+        "sub_category": "Propagação",
+        "word": "Sementeira em tabuleiro",
+        "forbidden_words": [
+          "sementes",
+          "alvéolos",
+          "mudas"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horticultura e agricultura",
+        "sub_category": "Compostagem",
+        "word": "Compostor rotativo",
+        "forbidden_words": [
+          "resíduos",
+          "cilindro",
+          "adubo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horticultura e agricultura",
+        "sub_category": "Irrigação",
+        "word": "Gotejador",
+        "forbidden_words": [
+          "água",
+          "saída",
+          "rega"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horticultura e agricultura",
+        "sub_category": "Propagação",
+        "word": "Viveiro florestal",
+        "forbidden_words": [
+          "mudas",
+          "árvores",
+          "crescimento"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horticultura e agricultura",
+        "sub_category": "Ferramentas",
+        "word": "Pá de transplante",
+        "forbidden_words": [
+          "cabo",
+          "terra",
+          "pequena"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horticultura e agricultura",
+        "sub_category": "Ferramentas",
+        "word": "Escarificador de jardim",
+        "forbidden_words": [
+          "solo",
+          "arejar",
+          "dentes"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecelagem e costura",
+        "sub_category": "Tear",
+        "word": "Trama",
+        "forbidden_words": [
+          "fios",
+          "transversal",
+          "tecido"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecelagem e costura",
+        "sub_category": "Ferramentas",
+        "word": "Navete",
+        "forbidden_words": [
+          "fio",
+          "pequena",
+          "bordado"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecelagem e costura",
+        "sub_category": "Tear",
+        "word": "Liço",
+        "forbidden_words": [
+          "fio",
+          "tear",
+          "levantar"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecelagem e costura",
+        "sub_category": "Tear",
+        "word": "Lançadeira",
+        "forbidden_words": [
+          "passar",
+          "fio",
+          "tear"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecelagem e costura",
+        "sub_category": "Pontos",
+        "word": "Ponto espinha de peixe",
+        "forbidden_words": [
+          "bordado",
+          "diagonal",
+          "ornamento"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecelagem e costura",
+        "sub_category": "Ferramentas",
+        "word": "Fita métrica de costura",
+        "forbidden_words": [
+          "medir",
+          "flexível",
+          "corpo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecelagem e costura",
+        "sub_category": "Máquinas",
+        "word": "Calcador de máquina",
+        "forbidden_words": [
+          "tecido",
+          "agulha",
+          "pressão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura e construção",
+        "sub_category": "Coberturas",
+        "word": "Água-furtada",
+        "forbidden_words": [
+          "telhado",
+          "janela",
+          "sótão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura e construção",
+        "sub_category": "Estruturas",
+        "word": "Lintel",
+        "forbidden_words": [
+          "vão",
+          "porta",
+          "superior"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura e construção",
+        "sub_category": "Materiais",
+        "word": "Cantaria",
+        "forbidden_words": [
+          "pedra",
+          "talhada",
+          "construção"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura e construção",
+        "sub_category": "Acabamentos",
+        "word": "Reboco",
+        "forbidden_words": [
+          "parede",
+          "argamassa",
+          "revestimento"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura e construção",
+        "sub_category": "Coberturas",
+        "word": "Rufo",
+        "forbidden_words": [
+          "chapa",
+          "infiltração",
+          "remate"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Ótica",
+        "word": "Distância focal",
+        "forbidden_words": [
+          "objetiva",
+          "milímetros",
+          "ângulo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Iluminação",
+        "word": "Luz difusa",
+        "forbidden_words": [
+          "sombras",
+          "suave",
+          "iluminação"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Iluminação",
+        "word": "Contraluz",
+        "forbidden_words": [
+          "silhueta",
+          "fonte",
+          "atrás"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Composição",
+        "word": "Enquadramento",
+        "forbidden_words": [
+          "composição",
+          "limites",
+          "imagem"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Ótica",
+        "word": "Grande angular",
+        "forbidden_words": [
+          "objetiva",
+          "amplo",
+          "paisagem"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Acessórios",
+        "word": "Disparador remoto",
+        "forbidden_words": [
+          "câmara",
+          "distância",
+          "botão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática",
+        "word": "Conjunção coordenativa",
+        "forbidden_words": [
+          "ligação",
+          "orações",
+          "independentes"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática",
+        "word": "Pronome demonstrativo",
+        "forbidden_words": [
+          "indicar",
+          "proximidade",
+          "substituir"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia e céu",
+        "sub_category": "Fenómenos",
+        "word": "Eclipse penumbral",
+        "forbidden_words": [
+          "lua",
+          "sombra",
+          "parcial"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia e céu",
+        "sub_category": "Observação",
+        "word": "Constelação circumpolar",
+        "forbidden_words": [
+          "estrelas",
+          "horizonte",
+          "visível"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciências do quotidiano",
+        "sub_category": "Química",
+        "word": "Decantação",
+        "forbidden_words": [
+          "separação",
+          "sedimento",
+          "líquido"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciências do quotidiano",
+        "sub_category": "Química",
+        "word": "Centrifugação",
+        "forbidden_words": [
+          "rotação",
+          "separação",
+          "velocidade"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciências do quotidiano",
+        "sub_category": "Ondas",
+        "word": "Ressonância",
+        "forbidden_words": [
+          "vibração",
+          "frequência",
+          "amplitude"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciências do quotidiano",
+        "sub_category": "Termodinâmica",
+        "word": "Convecção",
+        "forbidden_words": [
+          "calor",
+          "fluido",
+          "movimento"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciências do quotidiano",
+        "sub_category": "Termodinâmica",
+        "word": "Isolante térmico",
+        "forbidden_words": [
+          "calor",
+          "proteção",
+          "material"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Ferramentas",
+        "word": "Régua metálica",
+        "forbidden_words": [
+          "medir",
+          "desenho",
+          "aço"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Ferramentas",
+        "word": "Esquadro de desenho",
+        "forbidden_words": [
+          "ângulo",
+          "retas",
+          "triângulo"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Gravura",
+        "word": "Matriz de impressão",
+        "forbidden_words": [
+          "tinta",
+          "reprodução",
+          "gravura"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Impressão",
+        "word": "Carimbo de borracha",
+        "forbidden_words": [
+          "tinta",
+          "marca",
+          "pressão"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Materiais",
+        "word": "Papel de aguarela",
+        "forbidden_words": [
+          "água",
+          "pintura",
+          "espesso"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade e transportes",
+        "sub_category": "Segurança",
+        "word": "Ilha de refúgio",
+        "forbidden_words": [
+          "peões",
+          "atravessamento",
+          "meio"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade e transportes",
+        "sub_category": "Serviços",
+        "word": "Paragem terminal",
+        "forbidden_words": [
+          "linha",
+          "última",
+          "autocarro"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade e transportes",
+        "sub_category": "Infraestruturas",
+        "word": "Pista ciclável segregada",
+        "forbidden_words": [
+          "bicicletas",
+          "separada",
+          "automóveis"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia",
+        "sub_category": "Visibilidade",
+        "word": "Bruma marítima",
+        "forbidden_words": [
+          "humidade",
+          "névoa",
+          "costa"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia",
+        "sub_category": "Mapas",
+        "word": "Isóbara",
+        "forbidden_words": [
+          "mapa",
+          "pressão",
+          "linha"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia",
+        "sub_category": "Observação",
+        "word": "Nebulosidade",
+        "forbidden_words": [
+          "nuvens",
+          "cobertura",
+          "céu"
+        ]
+      },
+      {
+        "game_type": "tabu",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia",
+        "sub_category": "Frentes",
+        "word": "Frente quente",
+        "forbidden_words": [
+          "ar",
+          "massa",
+          "temperatura"
+        ]
       }
     ],
     "charades": [
