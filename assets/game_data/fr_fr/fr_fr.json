@@ -1984,7 +1984,7 @@
       "main_category": "Photographie",
       "sub_category": "Prise de vue",
       "difficulty": "difficile",
-      "question": "Quelle pratique photographique permet de saisir de très petits sujets en gros plan ?",
+      "question": "Comment appelle-t-on la technique de prise de vue qui révèle les détails minuscules d'un insecte ou d'une fleur en très gros plan ?",
       "answer": "macrophotographie"
     },
     {
@@ -2306,6 +2306,1206 @@
       "difficulty": "moyen",
       "question": "Quel document constitue la version originale d'un texte remise à un éditeur avant publication ?",
       "answer": "manuscrit"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures planes",
+      "difficulty": "facile",
+      "question": "Quel quadrilatère possède quatre côtés de même longueur, sans avoir nécessairement quatre angles droits ?",
+      "answer": "losange"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures planes",
+      "difficulty": "moyen",
+      "question": "Comment nomme-t-on un quadrilatère dont deux côtés opposés sont parallèles et les deux autres ne le sont pas ?",
+      "answer": "trapèze"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures planes",
+      "difficulty": "facile",
+      "question": "Quel polygone fermé possède exactement cinq côtés ?",
+      "answer": "pentagone"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures planes",
+      "difficulty": "facile",
+      "question": "Quel polygone régulier compose les alvéoles des rayons de miel ?",
+      "answer": "hexagone"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Figures planes",
+      "difficulty": "facile",
+      "question": "Comment s'appelle une figure plane fermée à huit côtés ?",
+      "answer": "octogone"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Cercle",
+      "difficulty": "facile",
+      "question": "Quel segment relie le centre d'un cercle à un point de son contour ?",
+      "answer": "rayon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Cercle",
+      "difficulty": "facile",
+      "question": "Quel segment traverse le centre d'un cercle en reliant deux points de son contour ?",
+      "answer": "diamètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Cercle",
+      "difficulty": "moyen",
+      "question": "Quelle droite touche un cercle en un seul point sans le traverser ?",
+      "answer": "tangente"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Angles",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on un angle qui mesure exactement quatre-vingt-dix degrés ?",
+      "answer": "angle droit"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Transformations",
+      "difficulty": "moyen",
+      "question": "Quelle transformation fait correspondre deux figures comme dans un miroir, de part et d'autre d'une droite ?",
+      "answer": "symétrie axiale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Grandeurs",
+      "difficulty": "moyen",
+      "question": "Quelle grandeur exprime la masse contenue dans une unité de volume d'une substance ?",
+      "answer": "masse volumique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Température",
+      "difficulty": "facile",
+      "question": "Quel instrument sert à mesurer le degré de chaleur ou de froid d'un milieu ?",
+      "answer": "thermomètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Forces",
+      "difficulty": "moyen",
+      "question": "Quel instrument muni d'un ressort gradué sert à mesurer une force ?",
+      "answer": "dynamomètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Durées",
+      "difficulty": "facile",
+      "question": "Quel appareil permet de mesurer précisément la durée d'une course ou d'une expérience ?",
+      "answer": "chronomètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Électricité",
+      "difficulty": "moyen",
+      "question": "Quel appareil indique la différence de potentiel électrique entre deux points ?",
+      "answer": "voltmètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Électricité",
+      "difficulty": "moyen",
+      "question": "Quel appareil mesure l'intensité du courant qui circule dans un circuit ?",
+      "answer": "ampèremètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Pression",
+      "difficulty": "moyen",
+      "question": "Quel instrument sert à mesurer la pression d'un gaz dans un circuit fermé ?",
+      "answer": "manomètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Acoustique",
+      "difficulty": "moyen",
+      "question": "Quelle unité logarithmique sert à exprimer le niveau sonore ?",
+      "answer": "décibel"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Oscillations",
+      "difficulty": "moyen",
+      "question": "Quelle grandeur indique combien de cycles se produisent chaque seconde ?",
+      "answer": "fréquence"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Unités",
+      "difficulty": "facile",
+      "question": "Quelle unité du système international sert à mesurer une longueur ?",
+      "answer": "mètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Eaux et paysages",
+      "sub_category": "Cours d'eau",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on le lieu où un cours d'eau prend naissance naturellement ?",
+      "answer": "source"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Eaux et paysages",
+      "sub_category": "Cours d'eau",
+      "difficulty": "moyen",
+      "question": "Quel cours d'eau se jette dans un autre, généralement plus important ?",
+      "answer": "affluent"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Eaux et paysages",
+      "sub_category": "Cours d'eau",
+      "difficulty": "moyen",
+      "question": "Quel nom porte le point où deux cours d'eau se rejoignent ?",
+      "answer": "confluence"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Eaux et paysages",
+      "sub_category": "Relief",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on une chute d'eau franchissant une rupture de pente ?",
+      "answer": "cascade"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Eaux et paysages",
+      "sub_category": "Cours d'eau",
+      "difficulty": "moyen",
+      "question": "Quel cours d'eau de montagne se caractérise par une pente forte et un écoulement rapide ?",
+      "answer": "torrent"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Eaux et paysages",
+      "sub_category": "Zones humides",
+      "difficulty": "facile",
+      "question": "Quel terrain constamment gorgé d'eau accueille souvent des roseaux et des plantes aquatiques ?",
+      "answer": "marais"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Eaux et paysages",
+      "sub_category": "Zones humides",
+      "difficulty": "difficile",
+      "question": "Quel milieu humide acide accumule progressivement des débris végétaux peu décomposés ?",
+      "answer": "tourbière"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Eaux et paysages",
+      "sub_category": "Sous-sol",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on une formation géologique capable de stocker et de transmettre de l'eau souterraine ?",
+      "answer": "aquifère"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Eaux et paysages",
+      "sub_category": "Cycle de l'eau",
+      "difficulty": "moyen",
+      "question": "Quel processus fait pénétrer l'eau de pluie à travers la surface du sol ?",
+      "answer": "infiltration"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Eaux et paysages",
+      "sub_category": "Cycle de l'eau",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on l'écoulement de la pluie sur un terrain lorsqu'elle ne pénètre pas dans le sol ?",
+      "answer": "ruissellement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Roches et minéraux",
+      "sub_category": "Minéralogie",
+      "difficulty": "moyen",
+      "question": "Quel minéral très répandu est constitué de silice et peut former des cristaux transparents ?",
+      "answer": "quartz"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Roches et minéraux",
+      "sub_category": "Minéralogie",
+      "difficulty": "moyen",
+      "question": "Quel groupe de minéraux se débite facilement en feuillets minces et brillants ?",
+      "answer": "mica"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Roches et minéraux",
+      "sub_category": "Minéralogie",
+      "difficulty": "difficile",
+      "question": "Quel groupe de minéraux aluminosilicatés constitue une grande partie de la croûte terrestre ?",
+      "answer": "feldspath"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Roches et minéraux",
+      "sub_category": "Matériaux",
+      "difficulty": "facile",
+      "question": "Quelle roche se fend en plaques minces et sert traditionnellement à couvrir les toits ?",
+      "answer": "ardoise"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Roches et minéraux",
+      "sub_category": "Roches",
+      "difficulty": "moyen",
+      "question": "Quelle roche sédimentaire riche en carbonate de calcium réagit à une goutte d'acide dilué ?",
+      "answer": "calcaire"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Roches et minéraux",
+      "sub_category": "Sédiments",
+      "difficulty": "facile",
+      "question": "Quelle matière naturelle très fine devient malléable lorsqu'on la mélange à de l'eau ?",
+      "answer": "argile"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Roches et minéraux",
+      "sub_category": "Roches",
+      "difficulty": "moyen",
+      "question": "Quelle roche sédimentaire résulte de la consolidation de grains de sable ?",
+      "answer": "grès"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Roches et minéraux",
+      "sub_category": "Roches",
+      "difficulty": "moyen",
+      "question": "Quelle roche magmatique grenue contient généralement du quartz, des feldspaths et du mica ?",
+      "answer": "granit"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Roches et minéraux",
+      "sub_category": "Matériaux",
+      "difficulty": "facile",
+      "question": "Quelle roche métamorphique polissable est appréciée pour les sculptures et les revêtements ?",
+      "answer": "marbre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Roches et minéraux",
+      "sub_category": "Minéralogie",
+      "difficulty": "difficile",
+      "question": "Quel minéral tendre composé de sulfate de calcium hydraté entre dans la fabrication du plâtre ?",
+      "answer": "gypse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et techniques",
+      "sub_category": "Cuissons",
+      "difficulty": "moyen",
+      "question": "Quelle technique consiste à plonger brièvement un aliment dans l'eau bouillante puis à le refroidir ?",
+      "answer": "blanchir"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et techniques",
+      "sub_category": "Cuissons",
+      "difficulty": "moyen",
+      "question": "Quel verbe décrit la cuisson douce d'un aliment dans un liquide maintenu juste sous l'ébullition ?",
+      "answer": "pocher"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et techniques",
+      "sub_category": "Cuissons",
+      "difficulty": "moyen",
+      "question": "Quelle action consiste à exposer rapidement la surface d'un aliment à une forte chaleur pour la colorer ?",
+      "answer": "saisir"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et techniques",
+      "sub_category": "Cuissons",
+      "difficulty": "facile",
+      "question": "Quel verbe signifie laisser cuire longtemps à feu doux dans un récipient couvert ?",
+      "answer": "mijoter"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et techniques",
+      "sub_category": "Préparations",
+      "difficulty": "moyen",
+      "question": "Quel mélange stable de deux liquides normalement non miscibles trouve-t-on dans une mayonnaise ?",
+      "answer": "émulsion"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et techniques",
+      "sub_category": "Sauces",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on l'opération qui concentre une sauce en laissant une partie de son eau s'évaporer ?",
+      "answer": "réduction"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et techniques",
+      "sub_category": "Préparations",
+      "difficulty": "facile",
+      "question": "Quel liquide assaisonné sert à parfumer un aliment avant sa cuisson ?",
+      "answer": "marinade"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et techniques",
+      "sub_category": "Préparations",
+      "difficulty": "facile",
+      "question": "Quelle enveloppe de chapelure recouvre un aliment avant qu'on le fasse dorer ?",
+      "answer": "panure"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et techniques",
+      "sub_category": "Transformations",
+      "difficulty": "moyen",
+      "question": "Quel phénomène donne une couleur ambrée et un goût caractéristique au sucre chauffé ?",
+      "answer": "caramélisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et techniques",
+      "sub_category": "Transformations",
+      "difficulty": "moyen",
+      "question": "Quel processus transforme les sucres grâce à l'activité de micro-organismes ?",
+      "answer": "fermentation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Machines",
+      "difficulty": "facile",
+      "question": "Quelle scie électrique à lame verticale effectue des découpes courbes dans une planche ?",
+      "answer": "scie sauteuse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Machines",
+      "difficulty": "moyen",
+      "question": "Quelle machine permet de réaliser des coupes précises selon un angle choisi sur une pièce de bois ?",
+      "answer": "scie à onglet"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Assemblage",
+      "difficulty": "facile",
+      "question": "Quel outil maintient fermement deux pièces serrées pendant le collage ?",
+      "answer": "serre-joint"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Machines",
+      "difficulty": "facile",
+      "question": "Quel outil électrique fait tourner un foret pour pratiquer des trous ?",
+      "answer": "perceuse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Assemblage",
+      "difficulty": "moyen",
+      "question": "Quelle petite tige cylindrique de bois sert à aligner et réunir deux panneaux percés ?",
+      "answer": "tourillon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Fixations",
+      "difficulty": "facile",
+      "question": "Quel petit élément inséré dans un mur permet à une vis de tenir dans le support ?",
+      "answer": "cheville"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Traçage",
+      "difficulty": "moyen",
+      "question": "Quel instrument en forme de L permet de tracer un angle de quatre-vingt-dix degrés sur une planche ?",
+      "answer": "équerre de menuisier"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Finitions",
+      "difficulty": "facile",
+      "question": "Quelle machine abrasive lisse une surface en effectuant des mouvements rapides ?",
+      "answer": "ponceuse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Machines",
+      "difficulty": "difficile",
+      "question": "Quelle machine enlève de la matière avec un outil coupant rotatif pour créer des rainures ou des profils ?",
+      "answer": "fraiseuse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Travail du bois",
+      "sub_category": "Résidus",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on un fin ruban de bois retiré par un outil de coupe ?",
+      "answer": "copeau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arbres et sols",
+      "sub_category": "Anatomie végétale",
+      "difficulty": "facile",
+      "question": "Quelle partie supérieure d'un arbre regroupe ses branches les plus hautes ?",
+      "answer": "cime"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arbres et sols",
+      "sub_category": "Anatomie végétale",
+      "difficulty": "facile",
+      "question": "Quelle couche extérieure protège le tronc d'un arbre ?",
+      "answer": "écorce"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arbres et sols",
+      "sub_category": "Anatomie végétale",
+      "difficulty": "difficile",
+      "question": "Comment appelle-t-on le bois jeune et conducteur situé près de la périphérie du tronc ?",
+      "answer": "aubier"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arbres et sols",
+      "sub_category": "Anatomie végétale",
+      "difficulty": "difficile",
+      "question": "Quel nom porte le bois central plus ancien, souvent plus sombre, d'un tronc ?",
+      "answer": "duramen"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arbres et sols",
+      "sub_category": "Anatomie végétale",
+      "difficulty": "facile",
+      "question": "Quel liquide circule dans les tissus conducteurs d'une plante ?",
+      "answer": "sève"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arbres et sols",
+      "sub_category": "Croissance",
+      "difficulty": "facile",
+      "question": "Quelle petite structure végétale peut donner naissance à une nouvelle feuille ou à une fleur ?",
+      "answer": "bourgeon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arbres et sols",
+      "sub_category": "Multiplication",
+      "difficulty": "difficile",
+      "question": "Quelle méthode permet à une tige de former des racines tout en restant reliée à la plante mère ?",
+      "answer": "marcottage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arbres et sols",
+      "sub_category": "Entretien",
+      "difficulty": "moyen",
+      "question": "Quelle opération consiste à couper certaines branches pour orienter la croissance d'un arbre ?",
+      "answer": "taille"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arbres et sols",
+      "sub_category": "Culture",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on un lieu où l'on élève de jeunes plants destinés à être repiqués ?",
+      "answer": "pépinière"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arbres et sols",
+      "sub_category": "Sols",
+      "difficulty": "moyen",
+      "question": "Quelle matière sombre et stable résulte de la décomposition avancée de résidus organiques dans le sol ?",
+      "answer": "humus"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nuages et phénomènes",
+      "sub_category": "Nuages",
+      "difficulty": "moyen",
+      "question": "Quel nuage élevé se présente sous la forme de fins filaments blancs ?",
+      "answer": "cirrus"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nuages et phénomènes",
+      "sub_category": "Nuages",
+      "difficulty": "moyen",
+      "question": "Quel type de nuage forme une couche basse et uniforme, semblable à un voile gris ?",
+      "answer": "stratus"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nuages et phénomènes",
+      "sub_category": "Nuages",
+      "difficulty": "facile",
+      "question": "Quel nuage a souvent l'aspect d'un amas blanc aux contours bien dessinés ?",
+      "answer": "cumulus"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nuages et phénomènes",
+      "sub_category": "Visibilité",
+      "difficulty": "facile",
+      "question": "Quel phénomène réduit fortement la visibilité lorsque de minuscules gouttelettes restent près du sol ?",
+      "answer": "brouillard"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nuages et phénomènes",
+      "sub_category": "Froid",
+      "difficulty": "moyen",
+      "question": "Quel dépôt de cristaux blancs apparaît sur les surfaces refroidies sous zéro degré ?",
+      "answer": "gelée blanche"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nuages et phénomènes",
+      "sub_category": "Températures",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on une période prolongée de chaleur exceptionnellement forte ?",
+      "answer": "canicule"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nuages et phénomènes",
+      "sub_category": "Vent",
+      "difficulty": "facile",
+      "question": "Quel terme désigne une augmentation brusque et brève de la vitesse du vent ?",
+      "answer": "rafale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nuages et phénomènes",
+      "sub_category": "Précipitations",
+      "difficulty": "moyen",
+      "question": "Quelle pluie très fine tombe en gouttelettes serrées, presque flottantes ?",
+      "answer": "bruine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nuages et phénomènes",
+      "sub_category": "Précipitations",
+      "difficulty": "moyen",
+      "question": "Comment nomme-t-on une averse soudaine, souvent printanière, mêlant parfois pluie et petits grêlons ?",
+      "answer": "giboulée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Nuages et phénomènes",
+      "sub_category": "Optique atmosphérique",
+      "difficulty": "facile",
+      "question": "Quel arc coloré peut apparaître à l'opposé du Soleil lorsque la lumière traverse des gouttes de pluie ?",
+      "answer": "arc-en-ciel"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et espaces",
+      "sub_category": "Éléments",
+      "difficulty": "moyen",
+      "question": "Quel passage couvert est rythmé par une succession d'arcs soutenus par des piliers ?",
+      "answer": "arcade"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et espaces",
+      "sub_category": "Éléments",
+      "difficulty": "moyen",
+      "question": "Quelle structure courbe sert à couvrir un espace entre deux appuis ?",
+      "answer": "voûte"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et espaces",
+      "sub_category": "Éléments",
+      "difficulty": "difficile",
+      "question": "Quel élément vertical plat, engagé dans un mur, imite l'aspect d'un pilier ?",
+      "answer": "pilastre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et espaces",
+      "sub_category": "Éléments",
+      "difficulty": "moyen",
+      "question": "Quelle couverture arrondie en forme de demi-sphère surmonte certains édifices ?",
+      "answer": "coupole"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et espaces",
+      "sub_category": "Espaces",
+      "difficulty": "difficile",
+      "question": "Quel espace central ouvert ou éclairé par le haut organise certaines maisons autour de lui ?",
+      "answer": "atrium"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et espaces",
+      "sub_category": "Façades",
+      "difficulty": "facile",
+      "question": "Quel petit toit en saillie protège une entrée de la pluie ?",
+      "answer": "auvent"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et espaces",
+      "sub_category": "Ouvertures",
+      "difficulty": "difficile",
+      "question": "Comment appelle-t-on l'espace ménagé dans l'épaisseur d'un mur pour recevoir une porte ou une fenêtre ?",
+      "answer": "embrasure"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et espaces",
+      "sub_category": "Aménagement",
+      "difficulty": "facile",
+      "question": "Quelle paroi intérieure non porteuse sert à séparer deux pièces ?",
+      "answer": "cloison"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et espaces",
+      "sub_category": "Sols",
+      "difficulty": "moyen",
+      "question": "Quel revêtement de sol est constitué de grandes plaques de pierre ou de béton posées côte à côte ?",
+      "answer": "dallage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture et espaces",
+      "sub_category": "Voirie",
+      "difficulty": "facile",
+      "question": "Quel petit bloc de pierre taillée sert traditionnellement à revêtir les rues ?",
+      "answer": "pavé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fibres et étoffes",
+      "sub_category": "Fibres naturelles",
+      "difficulty": "facile",
+      "question": "Quelle fibre végétale provient d'une plante à fleurs bleues et sert à confectionner des vêtements d'été ?",
+      "answer": "lin"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fibres et étoffes",
+      "sub_category": "Fibres naturelles",
+      "difficulty": "moyen",
+      "question": "Quelle fibre résistante issue d'une plante à tige haute sert notamment aux cordages et aux tissus ?",
+      "answer": "chanvre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fibres et étoffes",
+      "sub_category": "Fibres naturelles",
+      "difficulty": "facile",
+      "question": "Quelle fibre animale est obtenue en tondant les moutons ?",
+      "answer": "laine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fibres et étoffes",
+      "sub_category": "Fibres naturelles",
+      "difficulty": "facile",
+      "question": "Quelle fibre blanche pousse autour des graines d'une plante cultivée dans les régions chaudes ?",
+      "answer": "coton"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fibres et étoffes",
+      "sub_category": "Fibres naturelles",
+      "difficulty": "facile",
+      "question": "Quelle fibre continue est produite par certaines chenilles pour former leur cocon ?",
+      "answer": "soie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fibres et étoffes",
+      "sub_category": "Textiles",
+      "difficulty": "moyen",
+      "question": "Quelle matière textile compacte est obtenue en agglomérant des fibres sans tissage classique ?",
+      "answer": "feutre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fibres et étoffes",
+      "sub_category": "Textiles",
+      "difficulty": "facile",
+      "question": "Quel tissu présente une surface douce formée de petits poils dressés ?",
+      "answer": "velours"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fibres et étoffes",
+      "sub_category": "Armures",
+      "difficulty": "moyen",
+      "question": "Quel type de tissage produit une face particulièrement lisse et brillante grâce à de longs flottés ?",
+      "answer": "satin"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fibres et étoffes",
+      "sub_category": "Mailles",
+      "difficulty": "moyen",
+      "question": "Quel textile souple est fabriqué par tricotage de mailles et sert souvent aux tee-shirts ?",
+      "answer": "jersey"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Fibres et étoffes",
+      "sub_category": "Textiles",
+      "difficulty": "facile",
+      "question": "Quel tissu de coton robuste à armure sergée sert principalement à fabriquer des jeans ?",
+      "answer": "denim"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Habitats",
+      "difficulty": "facile",
+      "question": "Quel abri souterrain creusé dans le sol sert de refuge à certains mammifères ?",
+      "answer": "terrier"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Reproduction",
+      "difficulty": "moyen",
+      "question": "Quel terme désigne l'installation et la construction des nids par les oiseaux ?",
+      "answer": "nidification"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Écologie",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on un animal qui transporte du pollen d'une fleur à une autre ?",
+      "answer": "pollinisateur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Alimentation",
+      "difficulty": "facile",
+      "question": "Quel adjectif décrit un animal qui se nourrit essentiellement de végétaux ?",
+      "answer": "herbivore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Alimentation",
+      "difficulty": "facile",
+      "question": "Quel adjectif désigne un animal qui consomme à la fois des végétaux et des aliments d'origine animale ?",
+      "answer": "omnivore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Classification",
+      "difficulty": "facile",
+      "question": "Quel nom regroupe les animaux dépourvus de colonne vertébrale ?",
+      "answer": "invertébré"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Classification",
+      "difficulty": "moyen",
+      "question": "Quel groupe de vertébrés comprend les grenouilles et les salamandres ?",
+      "answer": "amphibien"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Classification",
+      "difficulty": "facile",
+      "question": "Quel groupe de vertébrés comprend les lézards, les serpents et les tortues ?",
+      "answer": "reptile"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Classification",
+      "difficulty": "facile",
+      "question": "Quel groupe d'animaux vertébrés nourrit ses petits avec du lait produit par la mère ?",
+      "answer": "mammifère"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Rythmes biologiques",
+      "difficulty": "facile",
+      "question": "Quel adjectif qualifie un animal surtout actif pendant la nuit ?",
+      "answer": "nocturne"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique pratique",
+      "sub_category": "Organisation",
+      "difficulty": "facile",
+      "question": "Quel conteneur numérique permet de regrouper des fichiers et d'autres sous-ensembles ?",
+      "answer": "dossier"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique pratique",
+      "sub_category": "Fichiers",
+      "difficulty": "moyen",
+      "question": "Quel suffixe placé après le dernier point d'un nom de fichier indique généralement son format ?",
+      "answer": "extension"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique pratique",
+      "sub_category": "Affichage",
+      "difficulty": "moyen",
+      "question": "Quelle caractéristique d'une image numérique indique son nombre de points en largeur et en hauteur ?",
+      "answer": "résolution"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique pratique",
+      "sub_category": "Accès",
+      "difficulty": "facile",
+      "question": "Quelle suite secrète de caractères sert à protéger l'accès à un compte ?",
+      "answer": "mot de passe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique pratique",
+      "sub_category": "Accès",
+      "difficulty": "moyen",
+      "question": "Quel processus vérifie qu'une personne est bien celle qu'elle prétend être avant de lui donner accès à un service ?",
+      "answer": "authentification"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique pratique",
+      "sub_category": "Logiciels",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on l'installation d'une version plus récente d'un logiciel ?",
+      "answer": "mise à jour"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique pratique",
+      "sub_category": "Internet",
+      "difficulty": "facile",
+      "question": "Quelle opération consiste à récupérer sur son appareil un fichier provenant d'un service distant ?",
+      "answer": "téléchargement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique pratique",
+      "sub_category": "Données",
+      "difficulty": "moyen",
+      "question": "Quel mécanisme maintient des informations cohérentes entre plusieurs appareils ?",
+      "answer": "synchronisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique pratique",
+      "sub_category": "Réseaux",
+      "difficulty": "moyen",
+      "question": "Quel ordinateur ou programme fournit des ressources à d'autres appareils qui les demandent ?",
+      "answer": "serveur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique pratique",
+      "sub_category": "Réseaux",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on l'ensemble d'appareils connectés entre eux dans un même domicile ou bureau ?",
+      "answer": "réseau local"
     }
   ],
   "tabu": [
