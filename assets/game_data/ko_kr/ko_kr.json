@@ -6,7 +6,608 @@
   },
   "analysis": {},
   "bilmece": [],
-  "kelime_ustasi": [],
+  "kelime_ustasi": [
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 생활문화",
+      "sub_category": "주거",
+      "difficulty": "쉬움",
+      "question": "실내에서 신발을 벗고 바닥에 앉아 생활하는 방식을 무엇이라 하나요?",
+      "answer": "좌식생활"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 생활문화",
+      "sub_category": "주거",
+      "difficulty": "보통",
+      "question": "방바닥 밑으로 열기를 보내 실내를 따뜻하게 하는 한국의 전통 난방 방식은?",
+      "answer": "온돌"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 생활문화",
+      "sub_category": "계절 풍습",
+      "difficulty": "어려움",
+      "question": "겨울을 앞두고 여러 집이 함께 많은 양의 배추 반찬을 담그는 풍습은?",
+      "answer": "김장"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 생활문화",
+      "sub_category": "가족 행사",
+      "difficulty": "쉬움",
+      "question": "아이가 태어난 지 꼭 한 해가 되었을 때 여는 축하 행사는?",
+      "answer": "돌잔치"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 생활문화",
+      "sub_category": "전통 재료",
+      "difficulty": "보통",
+      "question": "옛집의 문살이나 창살에 발라 빛은 통과시키고 바람은 막던 종이는?",
+      "answer": "창호지"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 생활문화",
+      "sub_category": "전통 가옥",
+      "difficulty": "어려움",
+      "question": "한옥에서 여러 방 사이에 놓인 넓고 시원한 나무 바닥 공간은?",
+      "answer": "대청마루"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 생활문화",
+      "sub_category": "여름 생활",
+      "difficulty": "쉬움",
+      "question": "여름밤 몸에 끼고 자며 열기를 식히던 길쭉한 대나무 베개 모양 도구는?",
+      "answer": "죽부인"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 생활문화",
+      "sub_category": "식사 도구",
+      "difficulty": "보통",
+      "question": "두 개의 가느다란 막대를 한 손에 잡고 반찬을 집는 식사 도구는?",
+      "answer": "젓가락"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 생활문화",
+      "sub_category": "전통 의복",
+      "difficulty": "어려움",
+      "question": "전통 저고리의 앞부분을 여밀 때 묶는 길고 납작한 끈은?",
+      "answer": "고름"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 생활문화",
+      "sub_category": "명절 음식",
+      "difficulty": "쉬움",
+      "question": "추석에 반달 모양으로 빚고 솔잎을 깔아 쪄 먹는 떡은?",
+      "answer": "송편"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식과 조리",
+      "sub_category": "가열 방법",
+      "difficulty": "보통",
+      "question": "재료를 뜨거운 기름 속에 넣어 겉을 바삭하게 익히는 조리법은?",
+      "answer": "튀김"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식과 조리",
+      "sub_category": "가열 방법",
+      "difficulty": "어려움",
+      "question": "양념한 재료를 적은 국물에 오래 끓여 맛이 배게 하는 조리법은?",
+      "answer": "조림"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식과 조리",
+      "sub_category": "가열 방법",
+      "difficulty": "쉬움",
+      "question": "끓는 물에서 올라오는 수증기의 열로 재료를 익히는 방법은?",
+      "answer": "찜"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식과 조리",
+      "sub_category": "손질 방법",
+      "difficulty": "보통",
+      "question": "채소에 소금을 뿌려 숨을 죽이고 물기를 빼는 과정은?",
+      "answer": "절이기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식과 조리",
+      "sub_category": "주방 도구",
+      "difficulty": "어려움",
+      "question": "재료의 액체 부피를 눈금으로 확인할 때 사용하는 컵은?",
+      "answer": "계량컵"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식과 조리",
+      "sub_category": "전통 떡",
+      "difficulty": "쉬움",
+      "question": "찹쌀밥을 쳐서 길게 만든 뒤 콩가루를 묻혀 먹는 떡은?",
+      "answer": "인절미"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식과 조리",
+      "sub_category": "전통 떡",
+      "difficulty": "보통",
+      "question": "쌀 반죽을 길고 둥근 막대 모양으로 뽑아 썰어 먹는 떡은?",
+      "answer": "가래떡"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식과 조리",
+      "sub_category": "부침 요리",
+      "difficulty": "어려움",
+      "question": "밀가루 반죽에 채소 등을 섞어 팬에 넓게 펴서 지지는 음식은?",
+      "answer": "부침개"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식과 조리",
+      "sub_category": "음식 장식",
+      "difficulty": "쉬움",
+      "question": "달걀을 얇게 부쳐 가늘게 썰어 국이나 면 위에 얹는 고명은?",
+      "answer": "지단"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식과 조리",
+      "sub_category": "발효 식품",
+      "difficulty": "보통",
+      "question": "삶은 콩을 띄워 만든 덩어리를 소금물에 담가 장을 만들 때 쓰는 것은?",
+      "answer": "메주"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물과 생태",
+      "sub_category": "잎의 구조",
+      "difficulty": "어려움",
+      "question": "잎 표면에서 공기와 수증기가 드나드는 아주 작은 구멍은?",
+      "answer": "기공"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물과 생태",
+      "sub_category": "줄기의 구조",
+      "difficulty": "쉬움",
+      "question": "뿌리에서 흡수한 물과 무기 양분을 위쪽으로 운반하는 통로는?",
+      "answer": "물관"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물과 생태",
+      "sub_category": "줄기의 구조",
+      "difficulty": "보통",
+      "question": "잎에서 만들어진 유기 양분을 식물의 다른 부분으로 옮기는 통로는?",
+      "answer": "체관"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물과 생태",
+      "sub_category": "꽃의 구조",
+      "difficulty": "어려움",
+      "question": "수술 끝에 달려 노란 가루를 만들어 내는 부분은?",
+      "answer": "꽃밥"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물과 생태",
+      "sub_category": "꽃의 구조",
+      "difficulty": "쉬움",
+      "question": "암술의 맨 위에서 수술이 만든 가루를 받아들이는 부분은?",
+      "answer": "암술머리"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물과 생태",
+      "sub_category": "생장",
+      "difficulty": "보통",
+      "question": "씨앗이 물과 알맞은 온도를 만나 어린 싹을 내는 현상은?",
+      "answer": "발아"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물과 생태",
+      "sub_category": "생리 작용",
+      "difficulty": "어려움",
+      "question": "녹색 식물이 빛 에너지를 이용해 물과 이산화탄소로 양분을 만드는 과정은?",
+      "answer": "광합성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물과 생태",
+      "sub_category": "나무의 구조",
+      "difficulty": "쉬움",
+      "question": "나무 단면에 해마다 생긴 성장 흔적이 둥근 띠로 나타나는 것은?",
+      "answer": "나이테"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물과 생태",
+      "sub_category": "나무의 구조",
+      "difficulty": "보통",
+      "question": "나무줄기에서 새로운 세포를 만들어 굵기 생장을 일으키는 얇은 조직은?",
+      "answer": "형성층"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물과 생태",
+      "sub_category": "씨앗의 확산",
+      "difficulty": "어려움",
+      "question": "민들레 열매 끝에서 낙하산처럼 펼쳐져 바람을 타게 돕는 털 구조는?",
+      "answer": "관모"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "화산",
+      "difficulty": "쉬움",
+      "question": "지표 아래에 있는 고온의 녹은 암석 물질을 무엇이라 하나요?",
+      "answer": "마그마"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "화산",
+      "difficulty": "보통",
+      "question": "땅속의 녹은 암석이 지표로 흘러나온 상태를 무엇이라 하나요?",
+      "answer": "용암"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "풍화",
+      "difficulty": "어려움",
+      "question": "바위 틈의 물이 얼며 팽창해 바위를 갈라지게 하는 작용은?",
+      "answer": "동결풍화"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "하천 지형",
+      "difficulty": "쉬움",
+      "question": "산골짜기를 빠져나온 하천이 자갈과 모래를 부채꼴로 쌓아 만든 지형은?",
+      "answer": "선상지"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "하천 지형",
+      "difficulty": "보통",
+      "question": "강어귀에 운반된 흙과 모래가 쌓여 세 갈래 모양의 평야를 이루는 지형은?",
+      "answer": "삼각주"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "물의 순환",
+      "difficulty": "어려움",
+      "question": "공기 중 기체 상태의 물이 차가워져 작은 액체 방울로 변하는 현상은?",
+      "answer": "응결"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "대기 관측",
+      "difficulty": "쉬움",
+      "question": "같은 온도에서 공기가 머금을 수 있는 최대 수증기량에 대한 실제 수증기량의 비율은?",
+      "answer": "상대습도"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "지역 바람",
+      "difficulty": "보통",
+      "question": "낮과 밤에 육지와 바다의 온도 차이 때문에 방향이 바뀌는 바람은?",
+      "answer": "해륙풍"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "겨울 현상",
+      "difficulty": "어려움",
+      "question": "차가운 풀잎이나 유리 표면에 공기 중 수증기가 직접 얼어 붙어 생기는 흰 결정은?",
+      "answer": "서리"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "산악 기후",
+      "difficulty": "쉬움",
+      "question": "습한 공기가 산을 넘으며 비를 내린 뒤 반대쪽으로 따뜻하고 건조하게 내려오는 현상은?",
+      "answer": "푄현상"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "지구의 운동",
+      "difficulty": "보통",
+      "question": "우리 행성이 중심별의 주위를 한 바퀴 도는 운동을 무엇이라 하나요?",
+      "answer": "공전"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "지구의 운동",
+      "difficulty": "어려움",
+      "question": "우리 행성이 스스로의 축을 중심으로 한 바퀴 도는 운동은?",
+      "answer": "자전"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "천체 현상",
+      "difficulty": "쉬움",
+      "question": "달이 지구와 태양 사이에 놓여 태양의 일부 또는 전부를 가리는 현상은?",
+      "answer": "일식"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "천체 현상",
+      "difficulty": "보통",
+      "question": "지구의 그림자 속으로 달이 들어가 어둡게 보이는 현상은?",
+      "answer": "월식"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "별 관측",
+      "difficulty": "어려움",
+      "question": "북반구 밤하늘에서 거의 움직이지 않아 북쪽 방향을 찾는 기준이 되는 별은?",
+      "answer": "북극성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "행성",
+      "difficulty": "쉬움",
+      "question": "태양계에서 지름과 질량이 가장 큰 행성은?",
+      "answer": "목성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "행성",
+      "difficulty": "보통",
+      "question": "얼음 알갱이와 암석 조각으로 된 넓은 고리가 특히 뚜렷한 행성은?",
+      "answer": "토성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "행성",
+      "difficulty": "어려움",
+      "question": "표면의 산화철 때문에 붉게 보이고 거대한 협곡이 있는 행성은?",
+      "answer": "화성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "천체 집단",
+      "difficulty": "쉬움",
+      "question": "태양과 그 주위를 도는 행성·위성·소천체를 통틀어 이르는 체계는?",
+      "answer": "태양계"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "밤하늘",
+      "difficulty": "보통",
+      "question": "우리 은하의 수많은 별이 하늘을 가로지르는 희미한 빛의 띠처럼 보이는 것은?",
+      "answer": "은하수"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 측정",
+      "sub_category": "도형",
+      "difficulty": "어려움",
+      "question": "직각삼각형에서 직각과 마주 보는 가장 긴 변은?",
+      "answer": "빗변"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 측정",
+      "sub_category": "도형",
+      "difficulty": "쉬움",
+      "question": "원의 중심에서 원 위의 한 점까지 이은 선분은?",
+      "answer": "반지름"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 측정",
+      "sub_category": "도형",
+      "difficulty": "보통",
+      "question": "원의 둘레 길이를 지름으로 나누면 항상 나오는 일정한 수는?",
+      "answer": "원주율"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 측정",
+      "sub_category": "도형",
+      "difficulty": "어려움",
+      "question": "평면도형의 바깥 경계를 따라 한 바퀴 잰 길이는?",
+      "answer": "둘레"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 측정",
+      "sub_category": "통계",
+      "difficulty": "쉬움",
+      "question": "자료를 크기순으로 놓았을 때 한가운데에 오는 값은?",
+      "answer": "중앙값"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 측정",
+      "sub_category": "통계",
+      "difficulty": "보통",
+      "question": "여러 수를 모두 더한 뒤 그 수의 개수로 나누어 얻는 값은?",
+      "answer": "평균"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 측정",
+      "sub_category": "연산",
+      "difficulty": "어려움",
+      "question": "두 수를 서로 몇 번씩 더하는 방식으로 계산한 결과의 이름은?",
+      "answer": "곱"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 측정",
+      "sub_category": "수의 성질",
+      "difficulty": "쉬움",
+      "question": "1보다 큰 자연수 중 약수가 1과 자기 자신뿐인 수는?",
+      "answer": "소수"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 측정",
+      "sub_category": "좌표",
+      "difficulty": "보통",
+      "question": "가로축과 세로축이 직각으로 만나는 두 축으로 점의 위치를 나타내는 평면은?",
+      "answer": "좌표평면"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 측정",
+      "sub_category": "입체도형",
+      "difficulty": "어려움",
+      "question": "여섯 면이 모두 크기가 같은 정사각형으로 이루어진 입체도형은?",
+      "answer": "정육면체"
+    }
+  ],
   "tabu": [
     {
       "game_type": "tabu",
