@@ -1506,6 +1506,806 @@
       "difficulty": "moyen",
       "question": "Quel nouveau mot obtient-on en réorganisant toutes les lettres d'un autre ?",
       "answer": "anagramme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et relief",
+      "sub_category": "Formes et dépôts",
+      "difficulty": "facile",
+      "question": "Quelle formation minérale descend du plafond d'une grotte à la suite de dépôts calcaires ?",
+      "answer": "stalactite"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et relief",
+      "sub_category": "Formes et dépôts",
+      "difficulty": "moyen",
+      "question": "Quelle formation calcaire s'élève depuis le sol d'une cavité souterraine ?",
+      "answer": "stalagmite"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et relief",
+      "sub_category": "Formes et dépôts",
+      "difficulty": "moyen",
+      "question": "Comment nomme-t-on l'accumulation de débris rocheux transportés puis déposés par un glacier ?",
+      "answer": "moraine"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et relief",
+      "sub_category": "Formes et dépôts",
+      "difficulty": "difficile",
+      "question": "Quelle dépression du terrain peut se former lorsque le calcaire du sous-sol se dissout ?",
+      "answer": "doline"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et relief",
+      "sub_category": "Formes et dépôts",
+      "difficulty": "facile",
+      "question": "Quel nom donne-t-on aux sédiments déposés par un cours d'eau dans sa plaine ?",
+      "answer": "alluvions"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et relief",
+      "sub_category": "Formes et dépôts",
+      "difficulty": "moyen",
+      "question": "Comment nomme-t-on une grande courbe sinueuse dessinée par le lit d'une rivière ?",
+      "answer": "méandre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et relief",
+      "sub_category": "Formes et dépôts",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on un amas de fragments rocheux accumulés au pied d'une pente ?",
+      "answer": "éboulis"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et relief",
+      "sub_category": "Formes et dépôts",
+      "difficulty": "difficile",
+      "question": "Quel type de relief se caractérise par la dissolution de roches calcaires et la présence de cavités ?",
+      "answer": "karst"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et relief",
+      "sub_category": "Formes et dépôts",
+      "difficulty": "facile",
+      "question": "Quel passage naturel situé entre deux sommets permet de franchir une chaîne de montagnes ?",
+      "answer": "col"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et relief",
+      "sub_category": "Formes et dépôts",
+      "difficulty": "moyen",
+      "question": "Quel territoire rassemble toutes les eaux qui s'écoulent vers un même cours d'eau ?",
+      "answer": "bassin versant"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieux marins",
+      "sub_category": "Phénomènes côtiers",
+      "difficulty": "facile",
+      "question": "Quel phénomène fait varier périodiquement le niveau de la mer sous l'influence de la Lune et du Soleil ?",
+      "answer": "marée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieux marins",
+      "sub_category": "Phénomènes côtiers",
+      "difficulty": "moyen",
+      "question": "Quelle zone du rivage se découvre à basse mer et se recouvre à haute mer ?",
+      "answer": "estran"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieux marins",
+      "sub_category": "Phénomènes côtiers",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on les ondulations régulières de la surface marine qui persistent après le passage du vent ?",
+      "answer": "houle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieux marins",
+      "sub_category": "Phénomènes côtiers",
+      "difficulty": "difficile",
+      "question": "Quelle grandeur exprime la quantité de sels dissous dans l'eau de mer ?",
+      "answer": "salinité"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieux marins",
+      "sub_category": "Phénomènes côtiers",
+      "difficulty": "facile",
+      "question": "Comment nomme-t-on la couche d'eau où la température chute rapidement avec la profondeur ?",
+      "answer": "thermocline"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieux marins",
+      "sub_category": "Phénomènes côtiers",
+      "difficulty": "moyen",
+      "question": "Quel ensemble d'organismes aquatiques dérive au gré des courants ?",
+      "answer": "plancton"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieux marins",
+      "sub_category": "Phénomènes côtiers",
+      "difficulty": "moyen",
+      "question": "Quelle structure sous-marine proche de la surface peut être construite par des coraux ?",
+      "answer": "récif"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieux marins",
+      "sub_category": "Phénomènes côtiers",
+      "difficulty": "difficile",
+      "question": "Comment appelle-t-on le déplacement durable d'une masse d'eau océanique dans une direction dominante ?",
+      "answer": "courant marin"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieux marins",
+      "sub_category": "Phénomènes côtiers",
+      "difficulty": "facile",
+      "question": "Quelle discipline mesure les profondeurs et décrit le relief des fonds aquatiques ?",
+      "answer": "bathymétrie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Milieux marins",
+      "sub_category": "Phénomènes côtiers",
+      "difficulty": "moyen",
+      "question": "Quel terrain a été gagné sur une étendue d'eau grâce à des digues et à un drainage ?",
+      "answer": "polder"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Géométrie et statistiques",
+      "difficulty": "facile",
+      "question": "Quelle demi-droite partage un angle en deux angles de même mesure ?",
+      "answer": "bissectrice"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Géométrie et statistiques",
+      "difficulty": "moyen",
+      "question": "Quelle droite passe par le milieu d'un segment en lui étant perpendiculaire ?",
+      "answer": "médiatrice"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Géométrie et statistiques",
+      "difficulty": "moyen",
+      "question": "Dans un triangle rectangle, quel côté est opposé à l'angle droit ?",
+      "answer": "hypoténuse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Géométrie et statistiques",
+      "difficulty": "difficile",
+      "question": "Quelle mesure obtient-on en additionnant les longueurs de tous les côtés d'une figure ?",
+      "answer": "périmètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Géométrie et statistiques",
+      "difficulty": "facile",
+      "question": "Quelle grandeur mesure la surface intérieure d'une figure plane ?",
+      "answer": "aire"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Géométrie et statistiques",
+      "difficulty": "moyen",
+      "question": "Quel segment relie deux sommets non consécutifs d'un polygone ?",
+      "answer": "diagonale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Géométrie et statistiques",
+      "difficulty": "moyen",
+      "question": "Comment s'appelle le résultat principal d'une division ?",
+      "answer": "quotient"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Géométrie et statistiques",
+      "difficulty": "difficile",
+      "question": "Dans une division euclidienne, quel terme désigne la quantité inférieure au diviseur qui n'entre pas dans les parts entières ?",
+      "answer": "reste"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Géométrie et statistiques",
+      "difficulty": "facile",
+      "question": "Quelle valeur obtient-on en divisant la somme des observations par leur nombre ?",
+      "answer": "moyenne"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Géométrie et statistiques",
+      "difficulty": "moyen",
+      "question": "Dans une série de valeurs ordonnées, quelle valeur partage les observations en deux groupes de même effectif ?",
+      "answer": "médiane"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique du quotidien",
+      "sub_category": "Logiciels et données",
+      "difficulty": "facile",
+      "question": "Quel logiciel permet d'afficher et de parcourir des sites web ?",
+      "answer": "navigateur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique du quotidien",
+      "sub_category": "Logiciels et données",
+      "difficulty": "moyen",
+      "question": "Quelle mémoire temporaire conserve des données déjà consultées pour accélérer leur affichage ?",
+      "answer": "cache"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique du quotidien",
+      "sub_category": "Logiciels et données",
+      "difficulty": "moyen",
+      "question": "Quel dispositif logiciel filtre les connexions réseau selon des règles de sécurité ?",
+      "answer": "pare-feu"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique du quotidien",
+      "sub_category": "Logiciels et données",
+      "difficulty": "difficile",
+      "question": "Comment appelle-t-on une copie de données conservée pour pouvoir les restaurer après une panne ?",
+      "answer": "sauvegarde"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique du quotidien",
+      "sub_category": "Logiciels et données",
+      "difficulty": "facile",
+      "question": "Quel nom donne-t-on à une combinaison de touches qui déclenche rapidement une commande ?",
+      "answer": "raccourci clavier"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique du quotidien",
+      "sub_category": "Logiciels et données",
+      "difficulty": "moyen",
+      "question": "Quelle partie d'une fenêtre permet de passer entre plusieurs pages ouvertes dans une même application ?",
+      "answer": "onglet"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique du quotidien",
+      "sub_category": "Logiciels et données",
+      "difficulty": "moyen",
+      "question": "Quel repère mobile indique l'endroit où le prochain caractère sera inséré dans un texte ?",
+      "answer": "curseur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique du quotidien",
+      "sub_category": "Logiciels et données",
+      "difficulty": "difficile",
+      "question": "Quel élément cliquable d'une page ouvre une autre ressource numérique ?",
+      "answer": "hyperlien"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique du quotidien",
+      "sub_category": "Logiciels et données",
+      "difficulty": "facile",
+      "question": "Quel procédé réduit la taille des données pour occuper moins d'espace ?",
+      "answer": "compression"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique du quotidien",
+      "sub_category": "Logiciels et données",
+      "difficulty": "moyen",
+      "question": "Quelle est la plus petite unité colorée d'une image numérique matricielle ?",
+      "answer": "pixel"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue",
+      "difficulty": "facile",
+      "question": "Quel mécanisme à ouverture réglable contrôle la quantité de lumière qui traverse l'objectif ?",
+      "answer": "diaphragme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue",
+      "difficulty": "moyen",
+      "question": "Quel mécanisme règle la durée pendant laquelle le capteur reçoit la lumière ?",
+      "answer": "obturateur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue",
+      "difficulty": "moyen",
+      "question": "Quelle distance optique, généralement exprimée en millimètres, caractérise le cadrage d'un objectif ?",
+      "answer": "focale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue",
+      "difficulty": "difficile",
+      "question": "Quel support à trois pieds stabilise un appareil pendant une prise de vue ?",
+      "answer": "trépied"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue",
+      "difficulty": "facile",
+      "question": "Quel dispositif permet au photographe de cadrer une scène avant de la capturer ?",
+      "answer": "viseur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue",
+      "difficulty": "moyen",
+      "question": "Quelle situation d'éclairage place la source lumineuse principale derrière le sujet photographié ?",
+      "answer": "contre-jour"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue",
+      "difficulty": "moyen",
+      "question": "Quel terme désigne l'étendue des distances apparaissant suffisamment nettes dans une photographie ?",
+      "answer": "profondeur de champ"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue",
+      "difficulty": "difficile",
+      "question": "Quelle pratique photographique permet de saisir de très petits sujets en gros plan ?",
+      "answer": "macrophotographie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue",
+      "difficulty": "facile",
+      "question": "Quel réglage global détermine si une photographie apparaît trop sombre, correcte ou trop claire ?",
+      "answer": "exposition"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue",
+      "difficulty": "moyen",
+      "question": "Quel accessoire optique orientable atténue les reflets sur l'eau ou le verre ?",
+      "answer": "filtre polarisant"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et orientation",
+      "sub_category": "Lecture des cartes",
+      "difficulty": "facile",
+      "question": "Quelle indication relie une distance mesurée sur un plan à la distance réelle correspondante ?",
+      "answer": "échelle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et orientation",
+      "sub_category": "Lecture des cartes",
+      "difficulty": "moyen",
+      "question": "Quelle partie d'une carte explique la signification des symboles et des couleurs ?",
+      "answer": "légende"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et orientation",
+      "sub_category": "Lecture des cartes",
+      "difficulty": "moyen",
+      "question": "Sur une carte de relief, quelle ligne relie les points situés à une même altitude ?",
+      "answer": "courbe de niveau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et orientation",
+      "sub_category": "Lecture des cartes",
+      "difficulty": "difficile",
+      "question": "Quel demi-cercle imaginaire relie les deux pôles sur un globe terrestre ?",
+      "answer": "méridien"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et orientation",
+      "sub_category": "Lecture des cartes",
+      "difficulty": "facile",
+      "question": "Quel cercle imaginaire du globe reste partout à la même distance angulaire de l'équateur ?",
+      "answer": "parallèle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et orientation",
+      "sub_category": "Lecture des cartes",
+      "difficulty": "moyen",
+      "question": "Quelle coordonnée géographique situe un lieu au nord ou au sud de l'équateur ?",
+      "answer": "latitude"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et orientation",
+      "sub_category": "Lecture des cartes",
+      "difficulty": "moyen",
+      "question": "Quelle coordonnée géographique situe un lieu à l'est ou à l'ouest du méridien origine ?",
+      "answer": "longitude"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et orientation",
+      "sub_category": "Lecture des cartes",
+      "difficulty": "difficile",
+      "question": "Quel dessin circulaire indique les principaux points cardinaux sur une carte ?",
+      "answer": "rose des vents"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et orientation",
+      "sub_category": "Lecture des cartes",
+      "difficulty": "facile",
+      "question": "Quel angle horizontal, mesuré depuis le nord, sert à définir une direction ?",
+      "answer": "azimut"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et orientation",
+      "sub_category": "Lecture des cartes",
+      "difficulty": "moyen",
+      "question": "Quel instrument à aiguille aimantée permet de repérer le nord ?",
+      "answer": "boussole"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Adaptations et comportements",
+      "difficulty": "facile",
+      "question": "Quel déplacement périodique effectuent certaines espèces entre leurs zones de reproduction et d'hivernage ?",
+      "answer": "migration"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Adaptations et comportements",
+      "difficulty": "moyen",
+      "question": "Quel état saisonnier de ralentissement profond permet à certains mammifères de traverser l'hiver ?",
+      "answer": "hibernation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Adaptations et comportements",
+      "difficulty": "moyen",
+      "question": "Quelle adaptation permet à une espèce d'en imiter une autre pour tromper un prédateur ?",
+      "answer": "mimétisme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Adaptations et comportements",
+      "difficulty": "difficile",
+      "question": "Quelle capacité permet à certaines chauves-souris de repérer des obstacles en analysant le retour de leurs cris ?",
+      "answer": "écholocation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Adaptations et comportements",
+      "difficulty": "facile",
+      "question": "Quel changement de forme majeur fait passer un têtard au stade de grenouille adulte ?",
+      "answer": "métamorphose"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Adaptations et comportements",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on le renouvellement de la peau ou des plumes chez certains animaux ?",
+      "answer": "mue"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Adaptations et comportements",
+      "difficulty": "moyen",
+      "question": "Quel ensemble de comportements sert à attirer un partenaire avant la reproduction chez certains animaux ?",
+      "answer": "parade nuptiale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Adaptations et comportements",
+      "difficulty": "difficile",
+      "question": "Quel terme désigne une association intime et durable entre deux organismes d'espèces différentes ?",
+      "answer": "symbiose"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Adaptations et comportements",
+      "difficulty": "facile",
+      "question": "Quelle stratégie visuelle permet à un animal de se confondre avec son environnement ?",
+      "answer": "camouflage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Monde animal",
+      "sub_category": "Adaptations et comportements",
+      "difficulty": "moyen",
+      "question": "Quel comportement consiste pour un animal à défendre un espace utilisé pour se nourrir ou se reproduire ?",
+      "answer": "territorialité"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Livres et bibliothèques",
+      "sub_category": "Organisation des ouvrages",
+      "difficulty": "facile",
+      "question": "Quel outil répertorie les ouvrages d'une bibliothèque et permet de les retrouver ?",
+      "answer": "catalogue"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Livres et bibliothèques",
+      "sub_category": "Organisation des ouvrages",
+      "difficulty": "moyen",
+      "question": "Quel code placé sur le dos d'un livre indique où le ranger sur les rayonnages ?",
+      "answer": "cote"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Livres et bibliothèques",
+      "sub_category": "Organisation des ouvrages",
+      "difficulty": "moyen",
+      "question": "Quelle liste alphabétique en fin de livre renvoie à des pages pour retrouver des sujets ?",
+      "answer": "index"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Livres et bibliothèques",
+      "sub_category": "Organisation des ouvrages",
+      "difficulty": "difficile",
+      "question": "Quelle liste explique les termes spécialisés employés dans un livre ?",
+      "answer": "glossaire"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Livres et bibliothèques",
+      "sub_category": "Organisation des ouvrages",
+      "difficulty": "facile",
+      "question": "Quel aperçu bref des principales parties figure souvent au début d'un magazine ?",
+      "answer": "sommaire"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Livres et bibliothèques",
+      "sub_category": "Organisation des ouvrages",
+      "difficulty": "moyen",
+      "question": "Quel texte introductif, parfois rédigé par une autre personne, présente un ouvrage avant son contenu principal ?",
+      "answer": "préface"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Livres et bibliothèques",
+      "sub_category": "Organisation des ouvrages",
+      "difficulty": "moyen",
+      "question": "Quelle liste rassemble les sources consultées ou citées à la fin d'un ouvrage ?",
+      "answer": "bibliographie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Livres et bibliothèques",
+      "sub_category": "Organisation des ouvrages",
+      "difficulty": "difficile",
+      "question": "Quel système attribue un numéro aux pages d'un document ?",
+      "answer": "pagination"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Livres et bibliothèques",
+      "sub_category": "Organisation des ouvrages",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on le nombre d'exemplaires imprimés lors d'une même fabrication d'un ouvrage ?",
+      "answer": "tirage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Livres et bibliothèques",
+      "sub_category": "Organisation des ouvrages",
+      "difficulty": "moyen",
+      "question": "Quel document constitue la version originale d'un texte remise à un éditeur avant publication ?",
+      "answer": "manuscrit"
     }
   ],
   "tabu": [
