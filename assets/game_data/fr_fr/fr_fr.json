@@ -17635,6 +17635,1826 @@
         "protection",
         "attente"
       ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et relief",
+      "sub_category": "Lecture des cartes",
+      "word": "projection conique",
+      "forbidden_words": [
+        "globe",
+        "surface",
+        "représentation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et minéraux",
+      "sub_category": "Roches et formations",
+      "word": "mica",
+      "forbidden_words": [
+        "feuillets",
+        "brillant",
+        "roche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Anatomie végétale",
+      "word": "inflorescence",
+      "forbidden_words": [
+        "fleurs",
+        "groupe",
+        "disposition"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arboriculture",
+      "sub_category": "Entretien du verger",
+      "word": "porte-greffe",
+      "forbidden_words": [
+        "arbre",
+        "base",
+        "assemblage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie des milieux",
+      "sub_category": "Biodiversité",
+      "word": "mare temporaire",
+      "forbidden_words": [
+        "saison",
+        "eau",
+        "amphibien"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Mesures et phénomènes",
+      "word": "brouillard d'advection",
+      "forbidden_words": [
+        "air",
+        "déplacement",
+        "visibilité"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ports et canaux",
+      "sub_category": "Équipements nautiques",
+      "word": "amarre",
+      "forbidden_words": [
+        "cordage",
+        "quai",
+        "bateau"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture du bâti",
+      "sub_category": "Éléments de construction",
+      "word": "imposte",
+      "forbidden_words": [
+        "fenêtre",
+        "partie",
+        "supérieure"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Assemblages et outils",
+      "word": "rabot",
+      "forbidden_words": [
+        "bois",
+        "copeaux",
+        "lisser"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Techniques textiles",
+      "sub_category": "Tissage et couture",
+      "word": "armure sergé",
+      "forbidden_words": [
+        "diagonale",
+        "tissage",
+        "tissu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papier et impression",
+      "sub_category": "Fabrication et reliure",
+      "word": "filigrane",
+      "forbidden_words": [
+        "papier",
+        "transparence",
+        "motif"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céramique artisanale",
+      "sub_category": "Façonnage et cuisson",
+      "word": "biscuit céramique",
+      "forbidden_words": [
+        "première",
+        "cuisson",
+        "poterie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et préparation",
+      "sub_category": "Gestes techniques",
+      "word": "blanchiment des légumes",
+      "forbidden_words": [
+        "ébullition",
+        "cuisson",
+        "rapide"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Produits laitiers",
+      "sub_category": "Transformation des aliments",
+      "word": "levain chef",
+      "forbidden_words": [
+        "farine",
+        "fermentation",
+        "pain"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique courante",
+      "sub_category": "Transmission du mouvement",
+      "word": "pignon",
+      "forbidden_words": [
+        "dents",
+        "roue",
+        "rotation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Lumière et image",
+      "word": "prisme",
+      "forbidden_words": [
+        "lumière",
+        "décomposition",
+        "verre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Formes et constructions",
+      "word": "apothème",
+      "forbidden_words": [
+        "polygone",
+        "centre",
+        "distance"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Fonctions pratiques",
+      "word": "presse-papiers",
+      "forbidden_words": [
+        "copier",
+        "coller",
+        "mémoire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Décoration intérieure",
+      "sub_category": "Aménagement et finitions",
+      "word": "cimaise",
+      "forbidden_words": [
+        "tableau",
+        "rail",
+        "accrochage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Laboratoire et précision",
+      "word": "thermocouple",
+      "forbidden_words": [
+        "température",
+        "capteur",
+        "métal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et relief",
+      "sub_category": "Lecture des cartes",
+      "word": "azimut",
+      "forbidden_words": [
+        "orientation",
+        "angle",
+        "boussole"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et minéraux",
+      "sub_category": "Roches et formations",
+      "word": "quartzite",
+      "forbidden_words": [
+        "métamorphisme",
+        "silice",
+        "dureté"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Anatomie végétale",
+      "word": "stolon",
+      "forbidden_words": [
+        "rampant",
+        "propagation",
+        "fraise"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arboriculture",
+      "sub_category": "Entretien du verger",
+      "word": "greffon",
+      "forbidden_words": [
+        "bourgeon",
+        "variété",
+        "insertion"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie des milieux",
+      "sub_category": "Biodiversité",
+      "word": "prairie fleurie",
+      "forbidden_words": [
+        "pollinisateurs",
+        "herbes",
+        "biodiversité"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Mesures et phénomènes",
+      "word": "front chaud",
+      "forbidden_words": [
+        "masses",
+        "météo",
+        "température"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ports et canaux",
+      "sub_category": "Équipements nautiques",
+      "word": "aussière",
+      "forbidden_words": [
+        "corde",
+        "navire",
+        "attacher"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture du bâti",
+      "sub_category": "Éléments de construction",
+      "word": "acrotère",
+      "forbidden_words": [
+        "toiture",
+        "rebord",
+        "terrasse"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Assemblages et outils",
+      "word": "varlope",
+      "forbidden_words": [
+        "planche",
+        "outil",
+        "aplanir"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Techniques textiles",
+      "sub_category": "Tissage et couture",
+      "word": "armure satin",
+      "forbidden_words": [
+        "fils",
+        "surface",
+        "brillant"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papier et impression",
+      "sub_category": "Fabrication et reliure",
+      "word": "presse à gaufrer",
+      "forbidden_words": [
+        "relief",
+        "motif",
+        "pression"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céramique artisanale",
+      "sub_category": "Façonnage et cuisson",
+      "word": "colombin",
+      "forbidden_words": [
+        "boudin",
+        "terre",
+        "poterie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et préparation",
+      "sub_category": "Gestes techniques",
+      "word": "chemisage du moule",
+      "forbidden_words": [
+        "farine",
+        "beurre",
+        "préparation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Produits laitiers",
+      "sub_category": "Transformation des aliments",
+      "word": "fermentation lactique",
+      "forbidden_words": [
+        "bactéries",
+        "acidité",
+        "conservation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique courante",
+      "sub_category": "Transmission du mouvement",
+      "word": "axe de rotation",
+      "forbidden_words": [
+        "pivot",
+        "mouvement",
+        "centre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Lumière et image",
+      "word": "diffraction",
+      "forbidden_words": [
+        "onde",
+        "obstacle",
+        "étalement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Formes et constructions",
+      "word": "trapèze isocèle",
+      "forbidden_words": [
+        "côtés",
+        "parallèles",
+        "symétrie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Fonctions pratiques",
+      "word": "raccourci clavier",
+      "forbidden_words": [
+        "touches",
+        "commande",
+        "rapide"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Décoration intérieure",
+      "sub_category": "Aménagement et finitions",
+      "word": "passe-partout",
+      "forbidden_words": [
+        "cadre",
+        "bordure",
+        "image"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Laboratoire et précision",
+      "word": "ampèremètre",
+      "forbidden_words": [
+        "courant",
+        "électrique",
+        "mesure"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et relief",
+      "sub_category": "Lecture des cartes",
+      "word": "point coté",
+      "forbidden_words": [
+        "hauteur",
+        "repère",
+        "topographie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et minéraux",
+      "sub_category": "Roches et formations",
+      "word": "schiste ardoisier",
+      "forbidden_words": [
+        "plaques",
+        "toiture",
+        "roche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Anatomie végétale",
+      "word": "cotylédon",
+      "forbidden_words": [
+        "germination",
+        "graine",
+        "embryon"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arboriculture",
+      "sub_category": "Entretien du verger",
+      "word": "bourgeon dormant",
+      "forbidden_words": [
+        "hiver",
+        "pousse",
+        "repos"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie des milieux",
+      "sub_category": "Biodiversité",
+      "word": "jachère mellifère",
+      "forbidden_words": [
+        "abeilles",
+        "parcelle",
+        "nectar"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Météorologie",
+      "sub_category": "Mesures et phénomènes",
+      "word": "brise de vallée",
+      "forbidden_words": [
+        "vent",
+        "pente",
+        "journée"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ports et canaux",
+      "sub_category": "Équipements nautiques",
+      "word": "taquet d'amarrage",
+      "forbidden_words": [
+        "fixation",
+        "pont",
+        "cordage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture du bâti",
+      "sub_category": "Éléments de construction",
+      "word": "lucarne rampante",
+      "forbidden_words": [
+        "toiture",
+        "pente",
+        "ouverture"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Assemblages et outils",
+      "word": "guillaume",
+      "forbidden_words": [
+        "feuillure",
+        "bois",
+        "outil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Techniques textiles",
+      "sub_category": "Tissage et couture",
+      "word": "fil de chaîne",
+      "forbidden_words": [
+        "métier",
+        "longueur",
+        "tissage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papier et impression",
+      "sub_category": "Fabrication et reliure",
+      "word": "rainage",
+      "forbidden_words": [
+        "pli",
+        "carton",
+        "marque"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céramique artisanale",
+      "sub_category": "Façonnage et cuisson",
+      "word": "dégourdi",
+      "forbidden_words": [
+        "cuisson",
+        "terre",
+        "première"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et préparation",
+      "sub_category": "Gestes techniques",
+      "word": "déglacer",
+      "forbidden_words": [
+        "jus",
+        "poêle",
+        "liquide"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Produits laitiers",
+      "sub_category": "Transformation des aliments",
+      "word": "yaourt nature",
+      "forbidden_words": [
+        "lait",
+        "ferment",
+        "blanc"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique courante",
+      "sub_category": "Transmission du mouvement",
+      "word": "came",
+      "forbidden_words": [
+        "profil",
+        "mécanisme",
+        "poussée"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Lumière et image",
+      "word": "réfraction",
+      "forbidden_words": [
+        "lumière",
+        "changement",
+        "milieu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Formes et constructions",
+      "word": "polyèdre",
+      "forbidden_words": [
+        "faces",
+        "solide",
+        "géométrie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Fonctions pratiques",
+      "word": "onglet épinglé",
+      "forbidden_words": [
+        "navigateur",
+        "fixe",
+        "page"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Décoration intérieure",
+      "sub_category": "Aménagement et finitions",
+      "word": "applique murale",
+      "forbidden_words": [
+        "lampe",
+        "fixation",
+        "éclairage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Laboratoire et précision",
+      "word": "voltmètre",
+      "forbidden_words": [
+        "tension",
+        "électrique",
+        "appareil"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et relief",
+      "sub_category": "Lecture des cartes",
+      "word": "quadrillage kilométrique",
+      "forbidden_words": [
+        "lignes",
+        "grille",
+        "repérage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et minéraux",
+      "sub_category": "Roches et formations",
+      "word": "basalte vacuolaire",
+      "forbidden_words": [
+        "volcan",
+        "cavités",
+        "pierre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Anatomie végétale",
+      "word": "cambium",
+      "forbidden_words": [
+        "arbre",
+        "croissance",
+        "couche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arboriculture",
+      "sub_category": "Entretien du verger",
+      "word": "taille en espalier",
+      "forbidden_words": [
+        "mur",
+        "branches",
+        "conduite"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie des milieux",
+      "sub_category": "Biodiversité",
+      "word": "microhabitat",
+      "forbidden_words": [
+        "abri",
+        "organisme",
+        "milieu"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ports et canaux",
+      "sub_category": "Équipements nautiques",
+      "word": "bitte d'amarrage",
+      "forbidden_words": [
+        "quai",
+        "attache",
+        "navire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture du bâti",
+      "sub_category": "Éléments de construction",
+      "word": "œil-de-bœuf",
+      "forbidden_words": [
+        "fenêtre",
+        "ronde",
+        "façade"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Assemblages et outils",
+      "word": "tenon",
+      "forbidden_words": [
+        "assemblage",
+        "saillie",
+        "pièce"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Techniques textiles",
+      "sub_category": "Tissage et couture",
+      "word": "fil de trame",
+      "forbidden_words": [
+        "navette",
+        "largeur",
+        "métier"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papier et impression",
+      "sub_category": "Fabrication et reliure",
+      "word": "pli accordéon",
+      "forbidden_words": [
+        "zigzag",
+        "feuille",
+        "repli"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céramique artisanale",
+      "sub_category": "Façonnage et cuisson",
+      "word": "couverte transparente",
+      "forbidden_words": [
+        "glaçure",
+        "finition",
+        "poterie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et préparation",
+      "sub_category": "Gestes techniques",
+      "word": "faire suer",
+      "forbidden_words": [
+        "légumes",
+        "doux",
+        "cuisson"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Produits laitiers",
+      "sub_category": "Transformation des aliments",
+      "word": "saumure",
+      "forbidden_words": [
+        "sel",
+        "eau",
+        "conservation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique courante",
+      "sub_category": "Transmission du mouvement",
+      "word": "bielle",
+      "forbidden_words": [
+        "liaison",
+        "piston",
+        "mouvement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Lumière et image",
+      "word": "polarisation",
+      "forbidden_words": [
+        "orientation",
+        "onde",
+        "filtre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Formes et constructions",
+      "word": "hexagone régulier",
+      "forbidden_words": [
+        "six",
+        "côtés",
+        "égaux"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Fonctions pratiques",
+      "word": "historique de navigation",
+      "forbidden_words": [
+        "sites",
+        "consultés",
+        "navigateur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Décoration intérieure",
+      "sub_category": "Aménagement et finitions",
+      "word": "suspension luminaire",
+      "forbidden_words": [
+        "plafond",
+        "lampe",
+        "pendante"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Laboratoire et précision",
+      "word": "oscilloscope",
+      "forbidden_words": [
+        "signal",
+        "écran",
+        "courbe"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et relief",
+      "sub_category": "Lecture des cartes",
+      "word": "carte bathymétrique",
+      "forbidden_words": [
+        "profondeurs",
+        "mer",
+        "relevé"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et minéraux",
+      "sub_category": "Roches et formations",
+      "word": "concrétion calcaire",
+      "forbidden_words": [
+        "dépôt",
+        "grotte",
+        "minéral"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Anatomie végétale",
+      "word": "xylème",
+      "forbidden_words": [
+        "sève",
+        "bois",
+        "transport"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arboriculture",
+      "sub_category": "Entretien du verger",
+      "word": "éclaircissage des fruits",
+      "forbidden_words": [
+        "récolte",
+        "espacement",
+        "sélection"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie des milieux",
+      "sub_category": "Biodiversité",
+      "word": "bois mort",
+      "forbidden_words": [
+        "forêt",
+        "décomposition",
+        "insectes"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ports et canaux",
+      "sub_category": "Équipements nautiques",
+      "word": "pare-battage",
+      "forbidden_words": [
+        "protection",
+        "coque",
+        "choc"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture du bâti",
+      "sub_category": "Éléments de construction",
+      "word": "garde-corps",
+      "forbidden_words": [
+        "balcon",
+        "sécurité",
+        "barrière"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Assemblages et outils",
+      "word": "mortaise",
+      "forbidden_words": [
+        "assemblage",
+        "cavité",
+        "bois"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Techniques textiles",
+      "sub_category": "Tissage et couture",
+      "word": "lisière",
+      "forbidden_words": [
+        "bord",
+        "tissu",
+        "finition"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papier et impression",
+      "sub_category": "Fabrication et reliure",
+      "word": "signet",
+      "forbidden_words": [
+        "lecture",
+        "repère",
+        "page"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Céramique artisanale",
+      "sub_category": "Façonnage et cuisson",
+      "word": "cuisson oxydante",
+      "forbidden_words": [
+        "four",
+        "oxygène",
+        "céramique"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et préparation",
+      "sub_category": "Gestes techniques",
+      "word": "réduction de sauce",
+      "forbidden_words": [
+        "évaporation",
+        "épaissir",
+        "casserole"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Produits laitiers",
+      "sub_category": "Transformation des aliments",
+      "word": "lactofermentation",
+      "forbidden_words": [
+        "légumes",
+        "microbes",
+        "acidité"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique courante",
+      "sub_category": "Transmission du mouvement",
+      "word": "courroie",
+      "forbidden_words": [
+        "transmission",
+        "bande",
+        "moteur"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Lumière et image",
+      "word": "miroir concave",
+      "forbidden_words": [
+        "réflexion",
+        "courbe",
+        "image"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Formes et constructions",
+      "word": "sécante",
+      "forbidden_words": [
+        "intersection",
+        "droite",
+        "cercle"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Fonctions pratiques",
+      "word": "stockage local",
+      "forbidden_words": [
+        "fichiers",
+        "appareil",
+        "mémoire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Décoration intérieure",
+      "sub_category": "Aménagement et finitions",
+      "word": "voilage",
+      "forbidden_words": [
+        "fenêtre",
+        "tissu",
+        "léger"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Laboratoire et précision",
+      "word": "micromètre",
+      "forbidden_words": [
+        "petites",
+        "dimensions",
+        "précision"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et relief",
+      "sub_category": "Lecture des cartes",
+      "word": "déclinaison magnétique",
+      "forbidden_words": [
+        "nord",
+        "aiguille",
+        "différence"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et minéraux",
+      "sub_category": "Roches et formations",
+      "word": "moraine latérale",
+      "forbidden_words": [
+        "glacier",
+        "débris",
+        "vallée"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Anatomie végétale",
+      "word": "phloème",
+      "forbidden_words": [
+        "nutriments",
+        "circulation",
+        "végétal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arboriculture",
+      "sub_category": "Entretien du verger",
+      "word": "gourmand végétal",
+      "forbidden_words": [
+        "pousse",
+        "vigueur",
+        "branche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie des milieux",
+      "sub_category": "Biodiversité",
+      "word": "espèce pionnière",
+      "forbidden_words": [
+        "colonisation",
+        "milieu",
+        "première"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ports et canaux",
+      "sub_category": "Équipements nautiques",
+      "word": "ponton flottant",
+      "forbidden_words": [
+        "passerelle",
+        "eau",
+        "embarquement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture du bâti",
+      "sub_category": "Éléments de construction",
+      "word": "trémie d'escalier",
+      "forbidden_words": [
+        "plancher",
+        "passage",
+        "étage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Assemblages et outils",
+      "word": "queue d'aronde",
+      "forbidden_words": [
+        "tiroir",
+        "emboîtement",
+        "trapèze"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Techniques textiles",
+      "sub_category": "Tissage et couture",
+      "word": "point de feston",
+      "forbidden_words": [
+        "aiguille",
+        "bordure",
+        "broderie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et préparation",
+      "sub_category": "Gestes techniques",
+      "word": "monder une tomate",
+      "forbidden_words": [
+        "peau",
+        "eau",
+        "retirer"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Produits laitiers",
+      "sub_category": "Transformation des aliments",
+      "word": "croûte fleurie",
+      "forbidden_words": [
+        "fromage",
+        "surface",
+        "affinage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique courante",
+      "sub_category": "Transmission du mouvement",
+      "word": "ressort de rappel",
+      "forbidden_words": [
+        "retour",
+        "tension",
+        "mécanisme"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Lumière et image",
+      "word": "distance focale",
+      "forbidden_words": [
+        "objectif",
+        "netteté",
+        "optique"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Formes et constructions",
+      "word": "rayon de courbure",
+      "forbidden_words": [
+        "arc",
+        "cercle",
+        "mesure"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Fonctions pratiques",
+      "word": "mise en veille",
+      "forbidden_words": [
+        "ordinateur",
+        "repos",
+        "énergie"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Décoration intérieure",
+      "sub_category": "Aménagement et finitions",
+      "word": "crédence",
+      "forbidden_words": [
+        "cuisine",
+        "mur",
+        "protection"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Laboratoire et précision",
+      "word": "éprouvette graduée",
+      "forbidden_words": [
+        "liquide",
+        "volume",
+        "laboratoire"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et relief",
+      "sub_category": "Lecture des cartes",
+      "word": "coordonnées géographiques",
+      "forbidden_words": [
+        "latitude",
+        "longitude",
+        "position"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et minéraux",
+      "sub_category": "Roches et formations",
+      "word": "roche sédimentaire",
+      "forbidden_words": [
+        "couches",
+        "dépôt",
+        "formation"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arboriculture",
+      "sub_category": "Entretien du verger",
+      "word": "pralinage",
+      "forbidden_words": [
+        "racines",
+        "plantation",
+        "mélange"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie des milieux",
+      "sub_category": "Biodiversité",
+      "word": "pollinisateur",
+      "forbidden_words": [
+        "pollen",
+        "insecte",
+        "fleurs"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ports et canaux",
+      "sub_category": "Équipements nautiques",
+      "word": "bouée de mouillage",
+      "forbidden_words": [
+        "flotteur",
+        "ancrage",
+        "bateau"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture du bâti",
+      "sub_category": "Éléments de construction",
+      "word": "joint de dilatation",
+      "forbidden_words": [
+        "construction",
+        "mouvement",
+        "espace"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Assemblages et outils",
+      "word": "rainure",
+      "forbidden_words": [
+        "entaille",
+        "longueur",
+        "planche"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Techniques textiles",
+      "sub_category": "Tissage et couture",
+      "word": "découd-vite",
+      "forbidden_words": [
+        "couture",
+        "lame",
+        "retirer"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et préparation",
+      "sub_category": "Gestes techniques",
+      "word": "écumer",
+      "forbidden_words": [
+        "mousse",
+        "surface",
+        "retirer"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Produits laitiers",
+      "sub_category": "Transformation des aliments",
+      "word": "présure",
+      "forbidden_words": [
+        "lait",
+        "coagulation",
+        "fromage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique courante",
+      "sub_category": "Transmission du mouvement",
+      "word": "engrenage conique",
+      "forbidden_words": [
+        "dents",
+        "angle",
+        "transmission"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Optique",
+      "sub_category": "Lumière et image",
+      "word": "profondeur de champ",
+      "forbidden_words": [
+        "photographie",
+        "netteté",
+        "distance"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Formes et constructions",
+      "word": "périmètre",
+      "forbidden_words": [
+        "contour",
+        "longueur",
+        "figure"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Vie numérique",
+      "sub_category": "Fonctions pratiques",
+      "word": "fond d'écran",
+      "forbidden_words": [
+        "image",
+        "bureau",
+        "affichage"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Décoration intérieure",
+      "sub_category": "Aménagement et finitions",
+      "word": "niche murale",
+      "forbidden_words": [
+        "renfoncement",
+        "étagère",
+        "rangement"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences et mesures",
+      "sub_category": "Laboratoire et précision",
+      "word": "entonnoir de laboratoire",
+      "forbidden_words": [
+        "transfert",
+        "récipient",
+        "liquide"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie et relief",
+      "sub_category": "Lecture des cartes",
+      "word": "relief ombré",
+      "forbidden_words": [
+        "montagnes",
+        "représentation",
+        "lumière"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie et minéraux",
+      "sub_category": "Roches et formations",
+      "word": "grès",
+      "forbidden_words": [
+        "sable",
+        "ciment",
+        "pierre"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Arboriculture",
+      "sub_category": "Entretien du verger",
+      "word": "scion",
+      "forbidden_words": [
+        "jeune arbre",
+        "tige",
+        "pépinière"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie des milieux",
+      "sub_category": "Biodiversité",
+      "word": "litière forestière",
+      "forbidden_words": [
+        "feuilles",
+        "sol",
+        "décomposition"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Ports et canaux",
+      "sub_category": "Équipements nautiques",
+      "word": "cale de halage",
+      "forbidden_words": [
+        "rive",
+        "traction",
+        "canal"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Assemblages et outils",
+      "word": "languette de parquet",
+      "forbidden_words": [
+        "emboîtement",
+        "bord",
+        "lame"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Techniques textiles",
+      "sub_category": "Tissage et couture",
+      "word": "canette de machine",
+      "forbidden_words": [
+        "fil",
+        "bobine",
+        "couture"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine et préparation",
+      "sub_category": "Gestes techniques",
+      "word": "concasser",
+      "forbidden_words": [
+        "morceaux",
+        "grossiers",
+        "hacher"
+      ]
+    },
+    {
+      "game_type": "tabu",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Produits laitiers",
+      "sub_category": "Transformation des aliments",
+      "word": "égouttage",
+      "forbidden_words": [
+        "liquide",
+        "séparation",
+        "caillé"
+      ]
     }
   ],
   "sessiz_sinema": [
