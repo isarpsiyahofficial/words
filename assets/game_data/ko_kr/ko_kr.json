@@ -7345,6 +7345,836 @@
       "difficulty": "보통",
       "question": "문을 열어 두면 저절로 닫히도록 위쪽에서 천천히 당겨 주는 장치는?",
       "answer": "도어클로저"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 생활",
+      "sub_category": "주거",
+      "difficulty": "어려움",
+      "question": "방바닥을 따뜻하게 하려고 부엌 아래쪽에서 장작을 넣던 입구는 어디일까요?",
+      "answer": "아궁이"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 생활",
+      "sub_category": "주거",
+      "difficulty": "보통",
+      "question": "집 안에서 생긴 연기가 하늘로 빠져나가도록 지붕 밖으로 솟은 길은?",
+      "answer": "굴뚝"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 생활",
+      "sub_category": "생활 도구",
+      "difficulty": "보통",
+      "question": "옷감을 곱게 펴려고 방망이로 두드릴 때 밑에 받치던 단단한 돌은?",
+      "answer": "다듬잇돌"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 생활",
+      "sub_category": "생활 도구",
+      "difficulty": "쉬움",
+      "question": "곡식을 위로 살짝 던져 가벼운 껍질만 날려 보내는 옛 손놀림은?",
+      "answer": "키질"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 생활",
+      "sub_category": "전통 공예",
+      "difficulty": "보통",
+      "question": "얇은 솜을 두 천 사이에 넣고 촘촘한 바느질로 고정해 만든 겨울옷은?",
+      "answer": "누비옷"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 생활",
+      "sub_category": "생활 도구",
+      "difficulty": "어려움",
+      "question": "비누칠한 천을 울퉁불퉁한 홈 위에서 문질러 때를 빼던 도구는?",
+      "answer": "빨래판"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 생활",
+      "sub_category": "전통 공예",
+      "difficulty": "쉬움",
+      "question": "실이나 끈을 자르지 않고 여러 번 엮어 장식 무늬를 만드는 손기술은?",
+      "answer": "매듭술"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 생활",
+      "sub_category": "농촌 풍경",
+      "difficulty": "보통",
+      "question": "논 한가운데 팔을 벌리고 서 있지만 한 걸음도 걷지 못하는 새 쫓는 지킴이는?",
+      "answer": "허수아비"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 생활",
+      "sub_category": "농촌 풍경",
+      "difficulty": "보통",
+      "question": "흐르는 시냇물이 바퀴를 돌려 곡식을 찧는 힘을 만들어 주던 시설은?",
+      "answer": "물레방아"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 생활",
+      "sub_category": "전통 공예",
+      "difficulty": "쉬움",
+      "question": "닥나무 섬유로 만든 얇은 재료를 여러 겹 붙여 상자와 장식품을 만드는 기술은?",
+      "answer": "한지공예"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "산림",
+      "difficulty": "어려움",
+      "question": "나무의 몸통을 가로로 잘랐을 때 동그랗게 겹쳐 보이며 자란 세월을 알려 주는 흔적은?",
+      "answer": "연륜"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "산림",
+      "difficulty": "보통",
+      "question": "숲 바닥을 이불처럼 덮고 천천히 썩어 흙을 풍요롭게 하는 마른 잎의 층은?",
+      "answer": "낙엽층"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "산림",
+      "difficulty": "쉬움",
+      "question": "높은 나무들이 가지와 잎을 넓게 펼쳐 숲 위에 초록 지붕을 만드는 부분은?",
+      "answer": "수관"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "산림",
+      "difficulty": "보통",
+      "question": "큰 나무가 베어진 뒤에도 땅 위에 낮게 남아 있는 밑동은?",
+      "answer": "그루터기"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "식물",
+      "difficulty": "보통",
+      "question": "줄기에서 가늘게 뻗어 지지대를 감고 위로 오르도록 돕는 식물의 손가락은?",
+      "answer": "덩굴손"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "식물",
+      "difficulty": "어려움",
+      "question": "굵은 중심 하나 없이 가느다란 여러 갈래가 빗자루처럼 퍼져 있는 땅속 기관은?",
+      "answer": "수염뿌리"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "식물",
+      "difficulty": "보통",
+      "question": "어두운 방의 화분 줄기가 창문 쪽으로 조금씩 굽어 자라는 성질은?",
+      "answer": "광굴성"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "식물",
+      "difficulty": "보통",
+      "question": "이끼나 고사리에서 아주 작은 번식 알갱이들을 모아 두는 주머니는?",
+      "answer": "포자낭"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "동물",
+      "difficulty": "쉬움",
+      "question": "주변 배경과 몸빛이 비슷해 포식자의 눈에 잘 띄지 않게 하는 특징은?",
+      "answer": "보호색"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "동물",
+      "difficulty": "보통",
+      "question": "몸이 자라며 작아진 겉껍질을 벗어 내고 새것으로 바꾸는 일은?",
+      "answer": "탈피"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "동물",
+      "difficulty": "어려움",
+      "question": "몸속 뼈 대신 몸 바깥의 단단한 껍질이 형태를 지탱하는 구조는?",
+      "answer": "외골격"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "동물",
+      "difficulty": "쉬움",
+      "question": "주변 기온에 따라 몸의 온도가 크게 달라지는 생물을 일컫는 말은?",
+      "answer": "변온동물"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "동물",
+      "difficulty": "보통",
+      "question": "물속에 떠 있는 작은 먹이를 걸러 모아 먹는 방식은?",
+      "answer": "여과섭식"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "생태",
+      "difficulty": "보통",
+      "question": "누가 누구를 먹는지 선을 이어 그리면 하나의 사슬보다 복잡하게 얽히는 관계는?",
+      "answer": "먹이그물"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "자연 관찰",
+      "sub_category": "생태",
+      "difficulty": "쉬움",
+      "question": "빈 땅에 풀이 먼저 자라고 관목과 큰 나무가 차례로 들어서는 긴 변화는?",
+      "answer": "천이"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "지질",
+      "difficulty": "어려움",
+      "question": "모래가 쌓인 지층 안에 비스듬한 줄무늬가 여러 방향으로 나타나는 구조는?",
+      "answer": "사층리"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "지질",
+      "difficulty": "보통",
+      "question": "큰 바위가 물과 공기와 온도 변화 때문에 제자리에서 조금씩 부서지는 과정은?",
+      "answer": "풍화작용"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "지질",
+      "difficulty": "쉬움",
+      "question": "평평한 땅을 지나면서 뱀이 움직이듯 크게 구불구불 흐르는 강은?",
+      "answer": "곡류하천"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "지질",
+      "difficulty": "보통",
+      "question": "물에 녹기 쉬운 암석이 오랜 시간 깎여 땅속에 만들어진 빈 공간은?",
+      "answer": "석회동굴"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "기상",
+      "difficulty": "보통",
+      "question": "구름이 떠 있는 높이를 빛을 이용해 재는 관측 장치는?",
+      "answer": "운고계"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "기상",
+      "difficulty": "어려움",
+      "question": "보통과 달리 땅 가까운 곳이 위쪽 공기보다 더 차가운 상태는?",
+      "answer": "기온역전"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "기상",
+      "difficulty": "보통",
+      "question": "낮과 밤에 육지와 바다의 데워지는 속도가 달라 방향이 바뀌는 바람은?",
+      "answer": "해륙풍"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "바다",
+      "difficulty": "보통",
+      "question": "해변 가까이 들어온 물이 좁은 길을 따라 갑자기 먼바다 쪽으로 빠져나가는 흐름은?",
+      "answer": "이안류"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우주 탐구",
+      "sub_category": "천문",
+      "difficulty": "쉬움",
+      "question": "밤하늘의 위치를 지구의 경도처럼 동서 방향 각도로 표시하는 좌표는?",
+      "answer": "적경"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우주 탐구",
+      "sub_category": "천문",
+      "difficulty": "보통",
+      "question": "별의 위치를 하늘의 적도에서 북쪽 또는 남쪽으로 얼마나 떨어졌는지 나타내는 값은?",
+      "answer": "적위"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우주 탐구",
+      "sub_category": "천문",
+      "difficulty": "어려움",
+      "question": "서로 다른 자리에서 같은 대상을 보면 배경에 대한 위치가 달라 보이는 현상은?",
+      "answer": "시차"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우주 탐구",
+      "sub_category": "천문",
+      "difficulty": "쉬움",
+      "question": "앞쪽의 천체가 뒤쪽의 천체를 가려 잠시 보이지 않게 되는 현상은?",
+      "answer": "엄폐"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우주 탐구",
+      "sub_category": "관측",
+      "difficulty": "보통",
+      "question": "눈에 보이는 빛 대신 우주에서 오는 긴 파장의 신호를 모아 관측하는 장치는?",
+      "answer": "전파망원경"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우주 탐구",
+      "sub_category": "관측",
+      "difficulty": "보통",
+      "question": "들어온 빛을 여러 파장으로 나누어 성분과 성질을 살피는 장치는?",
+      "answer": "분광기"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우주 탐구",
+      "sub_category": "관측",
+      "difficulty": "쉬움",
+      "question": "밤에도 인공조명이 지나치게 밝아 별을 보기 어려워지는 현상은?",
+      "answer": "광해"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우주 탐구",
+      "sub_category": "관측",
+      "difficulty": "어려움",
+      "question": "날짜와 시각에 맞춰 돌리면 그때 보이는 밤하늘의 배치를 알려 주는 원판은?",
+      "answer": "별자리판"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 과학",
+      "sub_category": "물리",
+      "difficulty": "보통",
+      "question": "빛이 다른 물질로 나가지 못하고 경계면에서 모두 되돌아오는 현상은?",
+      "answer": "전반사"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 과학",
+      "sub_category": "물리",
+      "difficulty": "쉬움",
+      "question": "뜨거워진 금속 뚜껑이 조금 넓어져 병에서 더 쉽게 열리는 까닭은?",
+      "answer": "열팽창"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 과학",
+      "sub_category": "물리",
+      "difficulty": "보통",
+      "question": "빠르게 도는 회전판 위에서 바깥쪽으로 밀려나는 듯 느끼는 힘은?",
+      "answer": "원심력"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 과학",
+      "sub_category": "화학",
+      "difficulty": "보통",
+      "question": "잘라 놓은 사과의 표면이 시간이 지나며 갈색으로 바뀌는 데 관여하는 반응은?",
+      "answer": "산화"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 과학",
+      "sub_category": "화학",
+      "difficulty": "어려움",
+      "question": "서로 반대 성질의 두 용액이 만나 강한 성질을 약하게 만드는 반응은?",
+      "answer": "중화"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 과학",
+      "sub_category": "화학",
+      "difficulty": "보통",
+      "question": "자신은 반응이 끝나도 대부분 남아 있으면서 변화가 더 빨리 일어나게 돕는 물질은?",
+      "answer": "촉매"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 과학",
+      "sub_category": "화학",
+      "difficulty": "보통",
+      "question": "일정한 온도에서 액체에 어떤 물질이 최대 얼마나 녹을 수 있는지를 나타내는 값은?",
+      "answer": "용해도"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 과학",
+      "sub_category": "화학",
+      "difficulty": "쉬움",
+      "question": "서로 잘 섞이지 않는 기름과 물이 작은 방울로 고르게 퍼져 있는 상태를 만드는 과정은?",
+      "answer": "유화"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 과학",
+      "sub_category": "실험",
+      "difficulty": "보통",
+      "question": "실험에서 한 조건만 바꾼 집단과 비교하려고 원래 조건을 유지한 집단은?",
+      "answer": "대조군"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 과학",
+      "sub_category": "실험",
+      "difficulty": "어려움",
+      "question": "가늘고 긴 투명한 통의 표시를 읽어 액체의 부피를 재는 실험 기구는?",
+      "answer": "눈금실린더"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 과학",
+      "sub_category": "실험",
+      "difficulty": "쉬움",
+      "question": "시료를 빠르게 회전시켜 무거운 성분과 가벼운 성분을 나누는 장치는?",
+      "answer": "원심분리기"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "기계",
+      "difficulty": "보통",
+      "question": "회전하는 축과 받침 사이에서 마찰을 줄여 부드럽게 돌도록 돕는 부품은?",
+      "answer": "베어링"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "기계",
+      "difficulty": "보통",
+      "question": "높은 곳에 걸린 바퀴와 줄을 이용해 물건을 더 편하게 들어 올리는 장치는?",
+      "answer": "도르래"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "기계",
+      "difficulty": "쉬움",
+      "question": "한쪽 방향으로는 움직이지만 반대 방향으로는 쉽게 돌아가지 않도록 하는 톱니 장치는?",
+      "answer": "래칫"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "기계",
+      "difficulty": "어려움",
+      "question": "눌렀다 놓으면 원래 모양으로 돌아가려는 힘을 이용하는 탄성 부품은?",
+      "answer": "스프링"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "기계",
+      "difficulty": "보통",
+      "question": "빠르게 도는 축의 속도를 낮추는 대신 더 큰 회전 힘을 얻도록 하는 장치는?",
+      "answer": "감속기"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "기계",
+      "difficulty": "쉬움",
+      "question": "빙글빙글 돌면서 튀어나온 부분으로 다른 부품을 일정한 순서에 따라 밀어 주는 축은?",
+      "answer": "캠축"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "기계",
+      "difficulty": "보통",
+      "question": "무거운 원판에 회전 에너지를 저장해 기계가 고르게 움직이도록 돕는 부품은?",
+      "answer": "플라이휠"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "전자",
+      "difficulty": "보통",
+      "question": "전류가 주로 한 방향으로만 흐르도록 길을 정해 주는 작은 부품은?",
+      "answer": "다이오드"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "전자",
+      "difficulty": "어려움",
+      "question": "회로 안에서 전류가 지나가기 어렵게 만들어 흐름을 조절하는 부품은?",
+      "answer": "저항기"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "전자",
+      "difficulty": "보통",
+      "question": "전하를 잠시 모았다가 필요할 때 내보내는 두 전극 사이의 장치는?",
+      "answer": "콘덴서"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "전자",
+      "difficulty": "보통",
+      "question": "주변의 밝기 변화를 알아차려 가로등이나 자동 장치에 신호를 주는 부품은?",
+      "answer": "광센서"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "전자",
+      "difficulty": "쉬움",
+      "question": "기기가 얼마나 빠르게 움직임을 바꾸는지 감지해 화면 방향도 바꾸는 장치는?",
+      "answer": "가속도계"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "전자",
+      "difficulty": "보통",
+      "question": "기기가 어느 방향으로 얼마나 회전했는지 감지하는 작은 장치는?",
+      "answer": "자이로센서"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "정보",
+      "difficulty": "어려움",
+      "question": "파일을 옮긴 뒤 내용이 바뀌었는지 간단한 계산값을 비교해 확인하는 수단은?",
+      "answer": "체크섬"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "정보",
+      "difficulty": "쉬움",
+      "question": "원래 크기와 줄어든 크기를 비교해 얼마나 작아졌는지 나타내는 비율은?",
+      "answer": "압축률"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "정보",
+      "difficulty": "보통",
+      "question": "자주 쓰는 데이터를 가까운 곳에 잠시 두어 처리 속도를 높이는 저장 공간은?",
+      "answer": "캐시메모리"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "정보",
+      "difficulty": "보통",
+      "question": "사진 자체의 모습이 아니라 촬영 시각이나 크기처럼 그 자료를 설명하는 정보는?",
+      "answer": "메타데이터"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "정보",
+      "difficulty": "쉬움",
+      "question": "원래 자료가 사라져도 되살릴 수 있도록 다른 곳에 따로 보관한 복사 자료는?",
+      "answer": "백업본"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "정보",
+      "difficulty": "어려움",
+      "question": "통신망에 연결되지 않은 상태에서도 일부 작업을 할 수 있는 상태를 뜻하는 말은?",
+      "answer": "오프라인"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "정보",
+      "difficulty": "보통",
+      "question": "어떤 자료를 읽거나 바꿀 수 있는 사람의 범위를 정해 둔 허용 범위는?",
+      "answer": "접근권한"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "건축",
+      "difficulty": "쉬움",
+      "question": "집 안의 따뜻함이 밖으로 빠져나가는 속도를 늦추도록 벽 사이에 넣는 재료는?",
+      "answer": "단열재"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "건축",
+      "difficulty": "보통",
+      "question": "차량이 많은 길 옆에 세워 소리가 주거지로 퍼지는 것을 줄이는 구조물은?",
+      "answer": "방음벽"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "건축",
+      "difficulty": "보통",
+      "question": "비가 많이 올 때 물이 길 위에 고이지 않고 흘러가도록 파 놓은 통로는?",
+      "answer": "배수로"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "건축",
+      "difficulty": "어려움",
+      "question": "온도에 따라 길이가 변하는 다리나 건물의 부분들이 서로 밀어 부수지 않도록 남긴 틈은?",
+      "answer": "신축이음"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "건축",
+      "difficulty": "보통",
+      "question": "지붕 쪽에 내어 위에서 햇빛이 실내로 들어오도록 만든 유리창은?",
+      "answer": "채광창"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "건축",
+      "difficulty": "보통",
+      "question": "건물의 바깥문과 안쪽문 사이에서 찬 공기가 한꺼번에 들어오지 않게 하는 공간은?",
+      "answer": "방풍실"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "건축",
+      "difficulty": "쉬움",
+      "question": "높은 계단이나 발코니 가장자리에서 사람이 떨어지지 않도록 세운 보호 구조물은?",
+      "answer": "난간"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "건축",
+      "difficulty": "보통",
+      "question": "주변에서 흘러온 물을 한곳에 모아 배출하거나 퍼 올리기 위한 낮은 공간은?",
+      "answer": "집수정"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "공예",
+      "difficulty": "어려움",
+      "question": "가로실과 세로실을 번갈아 교차시켜 천을 짜는 데 쓰는 장치는?",
+      "answer": "직조기"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "공예",
+      "difficulty": "쉬움",
+      "question": "젖은 흙덩이를 회전판 위에서 돌리며 두 손으로 그릇 모양을 빚는 장치는?",
+      "answer": "도자기물레"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생활 기술",
+      "sub_category": "공예",
+      "difficulty": "보통",
+      "question": "못보다 작은 구멍을 먼저 내려고 끝이 뾰족한 금속을 눌러 사용하는 도구는?",
+      "answer": "송곳"
     }
   ],
   "kelime_ustasi": [
