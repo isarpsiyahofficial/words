@@ -10046,7 +10046,7 @@
     "locale": "en-US",
     "main_category": "Food",
     "sub_category": "Desserts and Baking",
-    "word": "Popsicle",
+    "word": "Ice pop",
     "forbidden_words": [
       "frozen",
       "stick",
@@ -10111,11 +10111,11 @@
     "locale": "en-US",
     "main_category": "Food",
     "sub_category": "Desserts and Baking",
-    "word": "Graham cracker",
+    "word": "Animal crackers",
     "forbidden_words": [
-      "crunchy",
-      "honey",
-      "square"
+      "cookies",
+      "shapes",
+      "snack"
     ]
   },
   {
@@ -12346,7 +12346,7 @@
     "language": "English",
     "locale": "en-US",
     "main_category": "Animals",
-    "sub_category": "Birds and Insects",
+    "sub_category": "Other Invertebrates",
     "word": "Earthworm",
     "forbidden_words": [
       "soil",
@@ -12359,7 +12359,7 @@
     "language": "English",
     "locale": "en-US",
     "main_category": "Animals",
-    "sub_category": "Birds and Insects",
+    "sub_category": "Other Invertebrates",
     "word": "Snail",
     "forbidden_words": [
       "shell",
@@ -12372,7 +12372,7 @@
     "language": "English",
     "locale": "en-US",
     "main_category": "Animals",
-    "sub_category": "Birds and Insects",
+    "sub_category": "Other Invertebrates",
     "word": "Slug",
     "forbidden_words": [
       "slime",
@@ -14284,11 +14284,11 @@
     "locale": "en-US",
     "main_category": "Sports",
     "sub_category": "Games and Recreation",
-    "word": "Pilates",
+    "word": "Calisthenics",
     "forbidden_words": [
-      "core",
+      "bodyweight",
       "exercise",
-      "mat"
+      "repetitions"
     ]
   },
   {
@@ -16858,11 +16858,11 @@
     "locale": "en-US",
     "main_category": "Community",
     "sub_category": "Gatherings and Events",
-    "word": "Garage sale",
+    "word": "Swap meet",
     "forbidden_words": [
-      "used items",
-      "weekend",
-      "shopping"
+      "vendors",
+      "secondhand",
+      "stalls"
     ]
   },
   {
@@ -18990,11 +18990,11 @@
     "locale": "en-US",
     "main_category": "Food",
     "sub_category": "Fruits and Nuts",
-    "word": "Boysenberry",
+    "word": "Gooseberry",
     "forbidden_words": [
-      "dark",
-      "hybrid",
-      "juicy"
+      "tart",
+      "green",
+      "shrub"
     ]
   },
   {
@@ -19120,11 +19120,11 @@
     "locale": "en-US",
     "main_category": "Food",
     "sub_category": "Fruits and Nuts",
-    "word": "Macadamia",
+    "word": "Brazil nut",
     "forbidden_words": [
-      "round",
-      "nut",
-      "buttery"
+      "large",
+      "tropical",
+      "shell"
     ]
   },
   {
@@ -24086,11 +24086,11 @@
     "locale": "en-US",
     "main_category": "Work",
     "sub_category": "Office Supplies",
-    "word": "Bubble wrap",
+    "word": "Packing air pillows",
     "forbidden_words": [
-      "packing",
-      "cushion",
-      "plastic"
+      "shipping",
+      "inflated",
+      "cushioning"
     ]
   },
   {
@@ -24606,11 +24606,11 @@
     "locale": "en-US",
     "main_category": "Outdoors",
     "sub_category": "Camping Equipment",
-    "word": "Thermos",
+    "word": "Vacuum bottle",
     "forbidden_words": [
       "insulated",
-      "hot",
-      "drink"
+      "temperature",
+      "portable"
     ]
   },
   {
@@ -26699,11 +26699,11 @@
     "locale": "en-US",
     "main_category": "Crafts",
     "sub_category": "Materials and Techniques",
-    "word": "Velcro",
+    "word": "Hook-and-loop fastener",
     "forbidden_words": [
-      "hook",
-      "loop",
-      "fasten"
+      "fabric",
+      "straps",
+      "reusable"
     ]
   },
   {
@@ -28688,11 +28688,11 @@
     "locale": "en-US",
     "main_category": "Food",
     "sub_category": "Meals and Dishes",
-    "word": "Alfredo sauce",
+    "word": "Mushroom gravy",
     "forbidden_words": [
-      "creamy",
-      "pasta",
-      "cheese"
+      "savory",
+      "skillet",
+      "sauce"
     ]
   },
   {
@@ -31041,11 +31041,11 @@
     "locale": "en-US",
     "main_category": "Wellness",
     "sub_category": "Healthy Routines",
-    "word": "Step counter",
+    "word": "Sleep tracker",
     "forbidden_words": [
-      "walking",
-      "device",
-      "daily"
+      "rest",
+      "nighttime",
+      "data"
     ]
   },
   {
@@ -31249,11 +31249,11 @@
     "locale": "en-US",
     "main_category": "Sports",
     "sub_category": "Games and Equipment",
-    "word": "Ultimate frisbee",
+    "word": "Disc golf basket",
     "forbidden_words": [
-      "teams",
-      "disc",
-      "field"
+      "chains",
+      "target",
+      "course"
     ]
   },
   {
@@ -31262,11 +31262,11 @@
     "locale": "en-US",
     "main_category": "Sports",
     "sub_category": "Games and Equipment",
-    "word": "Frisbee",
+    "word": "Flying disc",
     "forbidden_words": [
-      "flying",
-      "plastic",
-      "disc"
+      "throw",
+      "catch",
+      "plastic"
     ]
   },
   {
@@ -31301,11 +31301,11 @@
     "locale": "en-US",
     "main_category": "Sports",
     "sub_category": "Games and Equipment",
-    "word": "Hula hoop",
+    "word": "Fitness hoop",
     "forbidden_words": [
       "waist",
-      "circle",
-      "spin"
+      "spin",
+      "circle"
     ]
   },
   {
@@ -33420,11 +33420,11 @@
     "locale": "en-US",
     "main_category": "Learning",
     "sub_category": "Classroom and Reading",
-    "word": "Petri dish",
+    "word": "Culture dish",
     "forbidden_words": [
-      "lab",
-      "culture",
-      "round"
+      "shallow",
+      "laboratory",
+      "sample"
     ]
   },
   {
