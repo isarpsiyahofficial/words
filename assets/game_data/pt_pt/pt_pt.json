@@ -49442,11 +49442,11 @@
         "game_type": "kelime_ustasi",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Livros e impressão",
-        "sub_category": "Edição e composição",
+        "main_category": "Design gráfico",
+        "sub_category": "Composição editorial",
         "difficulty": "médio",
-        "answer": "Sangria de impressão",
-        "question": "Que margem adicional de imagem ultrapassa o limite de corte de uma página para evitar bordas brancas?"
+        "answer": "Grelha modular",
+        "question": "Que estrutura de linhas e colunas orienta o alinhamento de texto e imagens no desenho de uma página?"
       },
       {
         "game_type": "kelime_ustasi",
@@ -49902,21 +49902,21 @@
         "game_type": "kelime_ustasi",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Fotografia",
-        "sub_category": "Ótica e composição",
+        "main_category": "Fotografia digital",
+        "sub_category": "Edição de imagem",
         "difficulty": "médio",
-        "answer": "Histograma fotográfico",
-        "question": "Que gráfico mostra a distribuição dos níveis de luminosidade dos píxeis de uma imagem?"
+        "answer": "Máscara de luminosidade",
+        "question": "Que seleção numa aplicação de edição de imagem isola regiões com base nos seus valores de claro e escuro?"
       },
       {
         "game_type": "kelime_ustasi",
         "language": "Português",
         "locale": "pt-PT",
         "main_category": "Língua portuguesa",
-        "sub_category": "Transformações fonéticas",
-        "difficulty": "difícil",
-        "answer": "Síncope fonética",
-        "question": "Que transformação linguística elimina um som no interior de uma palavra?"
+        "sub_category": "Estruturas verbais",
+        "difficulty": "médio",
+        "answer": "Voz passiva analítica",
+        "question": "Que construção verbal usa uma forma de ser seguida de particípio para indicar que o sujeito recebe a ação?"
       },
       {
         "game_type": "kelime_ustasi",
@@ -50287,6 +50287,856 @@
         "difficulty": "médio",
         "answer": "Cobertura de duas águas",
         "question": "Que telhado é formado por dois planos inclinados que se encontram numa linha superior comum?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis e costura",
+        "sub_category": "Técnicas e materiais",
+        "difficulty": "difícil",
+        "question": "Que equipamento manual utiliza uma peça com ranhuras e orifícios para alternar a passagem dos fios durante a tecelagem?",
+        "answer": "Tear de pente liço"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis e costura",
+        "sub_category": "Técnicas e materiais",
+        "difficulty": "médio",
+        "question": "Que tira cortada na diagonal da trama se adapta facilmente a bordas curvas de uma peça de roupa?",
+        "answer": "Viés de tecido"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis e costura",
+        "sub_category": "Técnicas e materiais",
+        "difficulty": "difícil",
+        "question": "Que dobra de tecido se forma quando duas partes dobradas se encontram voltadas para o centro?",
+        "answer": "Prega fêmea"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis e costura",
+        "sub_category": "Técnicas e materiais",
+        "difficulty": "médio",
+        "question": "Que reparação de tecido recompõe uma zona gasta entrelaçando fios com uma agulha?",
+        "answer": "Cerzido"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis e costura",
+        "sub_category": "Técnicas e materiais",
+        "difficulty": "médio",
+        "question": "Que material de reforço adere ao avesso de uma peça de roupa por ação do calor?",
+        "answer": "Entretela termocolante"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis e costura",
+        "sub_category": "Técnicas e materiais",
+        "difficulty": "fácil",
+        "question": "Que pequeno cilindro colocado na parte inferior da máquina de costura fornece o fio de baixo?",
+        "answer": "Bobina de linha"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis e costura",
+        "sub_category": "Técnicas e materiais",
+        "difficulty": "fácil",
+        "question": "Que técnica de bordado forma pequenas figuras por meio de dois traços diagonais que se intersectam?",
+        "answer": "Ponto cruz"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis e costura",
+        "sub_category": "Técnicas e materiais",
+        "difficulty": "médio",
+        "question": "Que tipo de bordado faz cada novo movimento da agulha regressar ao fim do traço anterior?",
+        "answer": "Ponto atrás"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Têxteis e costura",
+        "sub_category": "Técnicas e materiais",
+        "difficulty": "difícil",
+        "question": "Que material de algodão recebe um tratamento que lhe aumenta o brilho e melhora a absorção da cor?",
+        "answer": "Fio mercerizado"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "médio",
+        "question": "Que organização rítmica agrupa habitualmente as pulsações em conjuntos de três?",
+        "answer": "Compasso ternário"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "médio",
+        "question": "Que símbolo de silêncio tem a mesma duração que uma nota correspondente a um quarto de uma figura inteira?",
+        "answer": "Pausa de semínima"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "médio",
+        "question": "Que sinal no início da pauta estabelece a posição da nota grave situada na quarta linha?",
+        "answer": "Clave de fá"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "médio",
+        "question": "Que execução musical apresenta sucessivamente as notas de um acorde em vez de as tocar ao mesmo tempo?",
+        "answer": "Arpejo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "fácil",
+        "question": "Que característica de uma peça musical indica a rapidez geral da sua pulsação?",
+        "answer": "Andamento"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "médio",
+        "question": "Que relação entre duas alturas musicais ocorre quando ambas soam simultaneamente?",
+        "answer": "Intervalo harmónico"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "médio",
+        "question": "Que padrão melódico ou rítmico se repete de forma persistente ao longo de uma passagem musical?",
+        "answer": "Ostinato"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "fácil",
+        "question": "Que indicação musical pede um aumento gradual da intensidade sonora?",
+        "answer": "Crescendo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "fácil",
+        "question": "Que indicação musical pede uma diminuição progressiva da intensidade sonora?",
+        "answer": "Diminuendo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "médio",
+        "question": "Que modo de execução une notas sucessivas sem interrupções audíveis entre elas?",
+        "answer": "Legato"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "médio",
+        "question": "Que modo de execução produz notas curtas e nitidamente separadas umas das outras?",
+        "answer": "Staccato"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "médio",
+        "question": "Que efeito rítmico acentua uma parte habitualmente fraca da pulsação?",
+        "answer": "Contratempo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "difícil",
+        "question": "Que conclusão harmónica faz um acorde dominante resolver para o acorde da tónica?",
+        "answer": "Cadência perfeita"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "médio",
+        "question": "Como se chama o conjunto de notas que antecede a primeira pulsação forte de uma frase musical?",
+        "answer": "Anacruse"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "fácil",
+        "question": "Que conjunto de cinco linhas paralelas serve para escrever as notas musicais?",
+        "answer": "Pentagrama"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "fácil",
+        "question": "Que sinal de notação eleva a altura de uma nota em meio tom?",
+        "answer": "Sustenido"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "fácil",
+        "question": "Que sinal de notação baixa a altura de uma nota em meio tom?",
+        "answer": "Bemol"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e teoria sonora",
+        "sub_category": "Ritmo e notação",
+        "difficulty": "médio",
+        "question": "Que divisão rítmica coloca três notas de igual duração no tempo normalmente ocupado por duas?",
+        "answer": "Tercina"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia",
+        "sub_category": "Observação do céu",
+        "difficulty": "médio",
+        "question": "Que fenómeno deixa visível um aro luminoso do Sol quando a Lua passa à sua frente sem o cobrir por completo?",
+        "answer": "Eclipse anular"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia",
+        "sub_category": "Observação do céu",
+        "difficulty": "difícil",
+        "question": "Que alinhamento ocorre quando um planeta exterior se encontra no céu no sentido contrário ao do Sol visto da Terra?",
+        "answer": "Oposição planetária"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia",
+        "sub_category": "Observação do céu",
+        "difficulty": "difícil",
+        "question": "Que fase após o pôr do Sol termina quando o seu centro fica doze graus abaixo do horizonte?",
+        "answer": "Crepúsculo náutico"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia",
+        "sub_category": "Observação do céu",
+        "difficulty": "difícil",
+        "question": "Que fase da transição para a noite termina quando o centro do Sol atinge dezoito graus abaixo do horizonte?",
+        "answer": "Crepúsculo astronómico"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia",
+        "sub_category": "Observação do céu",
+        "difficulty": "médio",
+        "question": "Que intervalo médio corresponde ao regresso do Sol à mesma posição aparente no céu de um observador?",
+        "answer": "Dia solar"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Astronomia",
+        "sub_category": "Observação do céu",
+        "difficulty": "difícil",
+        "question": "Que intervalo mede uma rotação da Terra em relação às estrelas distantes?",
+        "answer": "Dia sideral"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e relevo",
+        "difficulty": "difícil",
+        "question": "Que grande depressão fechada e de fundo relativamente plano se forma em terrenos calcários?",
+        "answer": "Polje"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e relevo",
+        "difficulty": "médio",
+        "question": "Que rocha calcária porosa se deposita a partir de águas ricas em carbonato de cálcio?",
+        "answer": "Travertino"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e relevo",
+        "difficulty": "médio",
+        "question": "Que rocha reúne fragmentos angulosos de outras rochas cimentados entre si?",
+        "answer": "Brecha sedimentar"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e relevo",
+        "difficulty": "difícil",
+        "question": "Que estrutura apresenta minerais orientados em planos paralelos devido a pressão durante a transformação de uma rocha?",
+        "answer": "Foliação metamórfica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e relevo",
+        "difficulty": "médio",
+        "question": "Que abertura poligonal aparece na superfície da lama quando esta perde água e encolhe?",
+        "answer": "Fenda de dessecação"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e relevo",
+        "difficulty": "difícil",
+        "question": "Que acumulação de sedimentos em forma de abanico surge quando uma corrente sai de um vale estreito para uma planície?",
+        "answer": "Leque aluvial"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e relevo",
+        "difficulty": "difícil",
+        "question": "Que monte de areia em forma de crescente tem as extremidades apontadas na direção do vento dominante?",
+        "answer": "Duna barcana"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e relevo",
+        "difficulty": "médio",
+        "question": "Que terreno baixo e plano junto de um rio pode ficar inundado nas cheias?",
+        "answer": "Várzea"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Zoologia e ecologia",
+        "sub_category": "Insetos e desenvolvimento",
+        "difficulty": "médio",
+        "question": "Que desenvolvimento de um inseto passa pelas fases de ovo, larva, pupa e adulto?",
+        "answer": "Metamorfose completa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Zoologia e ecologia",
+        "sub_category": "Insetos e desenvolvimento",
+        "difficulty": "médio",
+        "question": "Que desenvolvimento de um inseto inclui ovo, ninfa e adulto sem uma fase imóvel de transformação?",
+        "answer": "Metamorfose incompleta"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Zoologia e ecologia",
+        "sub_category": "Insetos e desenvolvimento",
+        "difficulty": "médio",
+        "question": "Que processo permite a um artrópode crescer ao abandonar o revestimento exterior antigo?",
+        "answer": "Muda"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Zoologia e ecologia",
+        "sub_category": "Insetos e desenvolvimento",
+        "difficulty": "médio",
+        "question": "Que fase jovem de certos insetos se parece com o adulto mas ainda não possui todas as suas estruturas desenvolvidas?",
+        "answer": "Ninfa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Zoologia e ecologia",
+        "sub_category": "Insetos e desenvolvimento",
+        "difficulty": "difícil",
+        "question": "Que pequena abertura lateral do corpo de muitos insetos permite a entrada de ar no sistema respiratório?",
+        "answer": "Espiráculo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Zoologia e ecologia",
+        "sub_category": "Insetos e desenvolvimento",
+        "difficulty": "difícil",
+        "question": "Que apêndice sensorial de um inseto é comprido, fino e formado por segmentos de largura semelhante?",
+        "answer": "Antena filiforme"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Zoologia e ecologia",
+        "sub_category": "Insetos e desenvolvimento",
+        "difficulty": "médio",
+        "question": "Que asa anterior endurecida protege as asas de voo em muitos escaravelhos?",
+        "answer": "Élitro"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Zoologia e ecologia",
+        "sub_category": "Insetos e desenvolvimento",
+        "difficulty": "difícil",
+        "question": "Que invólucro protetor reúne vários ovos de determinados insetos?",
+        "answer": "Ooteca"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e iluminação",
+        "sub_category": "Técnicas de imagem",
+        "difficulty": "médio",
+        "question": "Que defeito de uma objetiva faz linhas retas parecerem arqueadas para fora do centro da imagem?",
+        "answer": "Distorção de barril"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e iluminação",
+        "sub_category": "Técnicas de imagem",
+        "difficulty": "médio",
+        "question": "Que defeito de uma objetiva faz linhas retas parecerem curvadas para dentro em direção ao centro da imagem?",
+        "answer": "Distorção de almofada"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e iluminação",
+        "sub_category": "Técnicas de imagem",
+        "difficulty": "médio",
+        "question": "Que acessório colocado diante de uma objetiva ajuda a reduzir reflexos em água ou vidro?",
+        "answer": "Filtro polarizador"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e iluminação",
+        "sub_category": "Técnicas de imagem",
+        "difficulty": "médio",
+        "question": "Que técnica combina duas ou mais captações fotográficas no mesmo resultado visual?",
+        "answer": "Exposição múltipla"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e iluminação",
+        "sub_category": "Técnicas de imagem",
+        "difficulty": "difícil",
+        "question": "Que modo de medição de luz calcula a exposição com base numa área muito pequena da cena?",
+        "answer": "Fotometria pontual"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e iluminação",
+        "sub_category": "Técnicas de imagem",
+        "difficulty": "médio",
+        "question": "Que iluminação incide quase paralelamente a uma superfície e destaca as suas irregularidades?",
+        "answer": "Luz rasante"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e iluminação",
+        "sub_category": "Técnicas de imagem",
+        "difficulty": "médio",
+        "question": "Que acessório suaviza as sombras ao espalhar a iluminação de uma fonte por uma área maior?",
+        "answer": "Difusor de luz"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e iluminação",
+        "sub_category": "Técnicas de imagem",
+        "difficulty": "médio",
+        "question": "Que painel devolve parte da iluminação existente para clarear uma zona de sombra?",
+        "answer": "Refletor fotográfico"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e iluminação",
+        "sub_category": "Técnicas de imagem",
+        "difficulty": "médio",
+        "question": "Que fonte secundária de iluminação reduz sombras criadas pela fonte principal num retrato?",
+        "answer": "Luz de preenchimento"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e iluminação",
+        "sub_category": "Técnicas de imagem",
+        "difficulty": "médio",
+        "question": "Que fonte define a direção dominante da iluminação numa cena fotográfica?",
+        "answer": "Luz principal"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e iluminação",
+        "sub_category": "Técnicas de imagem",
+        "difficulty": "médio",
+        "question": "Que iluminação colocada atrás ou de lado cria um contorno brilhante que separa o motivo do fundo?",
+        "answer": "Luz de recorte"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "médio",
+        "question": "Que trabalho repetido de esticar e dobrar uma massa ajuda a desenvolver a sua rede elástica?",
+        "answer": "Sova"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "difícil",
+        "question": "Que fase de repouso da massa de pão decorre antes de ela ser dividida em porções individuais?",
+        "answer": "Fermentação em bloco"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "médio",
+        "question": "Que manobras periódicas esticam e sobrepõem partes de uma preparação de pão durante o repouso?",
+        "answer": "Dobras da massa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "médio",
+        "question": "Que teste estica uma pequena porção de massa até formar uma película fina sem rasgar?",
+        "answer": "Ponto de véu"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "médio",
+        "question": "Que recipiente entrançado ajuda uma porção de massa de pão a manter a forma durante o último repouso?",
+        "answer": "Cesto de fermentação"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "médio",
+        "question": "Que utensílio muito fino faz cortes superficiais no pão cru para orientar a sua expansão no forno?",
+        "answer": "Lâmina de padeiro"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "fácil",
+        "question": "Que microrganismo transforma açúcares e produz gás que ajuda uma massa de pão a crescer?",
+        "answer": "Levedura"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "médio",
+        "question": "Que proporção compara a quantidade de água com a de farinha numa receita de pão?",
+        "answer": "Hidratação da massa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "médio",
+        "question": "Que método de conservação aplica cristais de sal diretamente à superfície de um alimento?",
+        "answer": "Salga a seco"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "fácil",
+        "question": "Que mistura aromática líquida envolve um alimento durante algum tempo antes da preparação?",
+        "answer": "Marinada"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "difícil",
+        "question": "Que método de conservação congela o produto e remove a água por passagem direta do gelo a vapor sob baixa pressão?",
+        "answer": "Liofilização"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "médio",
+        "question": "Que tratamento aquece um alimento durante tempo controlado para reduzir microrganismos sem o tornar necessariamente estéril?",
+        "answer": "Pasteurização"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Panificação e conservação",
+        "sub_category": "Preparação de alimentos",
+        "difficulty": "médio",
+        "question": "Que método baixa muito depressa a temperatura de um alimento para formar cristais de gelo mais pequenos?",
+        "answer": "Congelação rápida"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "difícil",
+        "question": "Que fenómeno faz moléculas de um gás ou líquido ficarem retidas na superfície de um sólido?",
+        "answer": "Adsorção"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "médio",
+        "question": "Que fenómeno faz uma substância penetrar no volume interno de outro material em vez de permanecer só à superfície?",
+        "answer": "Absorção"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "difícil",
+        "question": "Que processo une partículas de pó sólido por aquecimento sem fundir completamente o material?",
+        "answer": "Sinterização"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "difícil",
+        "question": "Que tratamento aquece e arrefece lentamente um metal para reduzir tensões internas e alterar a sua dureza?",
+        "answer": "Recozimento"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "médio",
+        "question": "Que tratamento arrefece rapidamente um metal aquecido para modificar a sua estrutura e aumentar habitualmente a dureza?",
+        "answer": "Têmpera"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "difícil",
+        "question": "Que propriedade de um material quantifica a oposição intrínseca à passagem de corrente elétrica?",
+        "answer": "Resistividade"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "fácil",
+        "question": "Que propriedade permite ver com nitidez objetos através de um material?",
+        "answer": "Transparência"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "fácil",
+        "question": "Que propriedade impede a passagem visível de luz através de um material?",
+        "answer": "Opacidade"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "médio",
+        "question": "Que propriedade deixa passar luz mas não permite distinguir claramente os objetos do outro lado?",
+        "answer": "Translucidez"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "difícil",
+        "question": "Que característica indica que as propriedades de um material são iguais em todas as direções?",
+        "answer": "Isotropia"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "difícil",
+        "question": "Que característica indica que as propriedades de um material variam consoante a direção de medição?",
+        "answer": "Anisotropia"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e engenharia",
+        "sub_category": "Propriedades e processos",
+        "difficulty": "médio",
+        "question": "Que capacidade de um material mede o esforço suportado quando é puxado em sentidos opostos?",
+        "answer": "Resistência à tração"
       }
     ]
   }
