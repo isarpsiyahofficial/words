@@ -19566,6 +19566,446 @@
       "difficulty": "moyen",
       "answer": "stratification des graines",
       "question": "Quel traitement conserve des semences dans un milieu humide et frais pour favoriser leur germination ?"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Germination",
+      "difficulty": "moyen",
+      "question": "Quelle partie de l'embryon végétal apparaît la première à la germination et donnera naissance à la racine principale ?",
+      "answer": "radicule"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie",
+      "sub_category": "Relief aménagé",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on la pente de terre qui borde une route ou une voie ferrée ?",
+      "answer": "talus"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géomorphologie",
+      "sub_category": "Vallées et cours d'eau",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on la ligne reliant les points les plus bas d'une vallée ou du lit d'un cours d'eau ?",
+      "answer": "thalweg"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Cartes marines",
+      "difficulty": "difficile",
+      "question": "Sur une carte marine, quelle ligne relie les points situés à la même profondeur ?",
+      "answer": "isobathe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Navigation",
+      "sub_category": "Instruments de mesure",
+      "difficulty": "facile",
+      "question": "Quel instrument indique l'altitude d'un aéronef par rapport à un niveau de référence ?",
+      "answer": "altimètre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Graphisme numérique",
+      "difficulty": "moyen",
+      "question": "Quelle opération transforme une image composée de pixels en tracés géométriques modifiables ?",
+      "answer": "vectorisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Affichage",
+      "difficulty": "difficile",
+      "question": "Quel traitement graphique atténue l'effet d'escalier sur les contours obliques d'une image ?",
+      "answer": "anticrénelage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Réseaux",
+      "difficulty": "moyen",
+      "question": "Quelle unité structurée, munie d'informations d'acheminement, circule entre les machines d'un réseau ?",
+      "answer": "paquet de données"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Isolation",
+      "difficulty": "moyen",
+      "question": "Quel défaut local de l'enveloppe d'un bâtiment laisse la chaleur passer plus facilement à un endroit précis ?",
+      "answer": "pont thermique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Aération",
+      "difficulty": "moyen",
+      "question": "Quel mode d'aération naturelle utilise des ouvertures placées sur des façades opposées pour faire circuler l'air ?",
+      "answer": "ventilation croisée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Revêtements traditionnels",
+      "difficulty": "moyen",
+      "question": "Quel revêtement mural traditionnel, préparé avec un liant minéral issu du calcaire, laisse migrer la vapeur d'eau ?",
+      "answer": "enduit à la chaux"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Chimie",
+      "sub_category": "Transformations thermiques",
+      "difficulty": "difficile",
+      "question": "Quel traitement chauffe fortement un solide afin de provoquer sa décomposition sans le faire fondre ?",
+      "answer": "calcination"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Boulangerie",
+      "sub_category": "Préparation des pâtes",
+      "difficulty": "difficile",
+      "question": "En boulangerie, comment appelle-t-on le repos d'un mélange de farine et d'eau avant l'ajout du sel et le pétrissage final ?",
+      "answer": "autolyse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Bouillons",
+      "difficulty": "moyen",
+      "question": "Quelle opération rend un bouillon limpide, notamment en utilisant du blanc d'œuf pour retenir les particules en suspension ?",
+      "answer": "clarification"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Préparations végétales",
+      "difficulty": "moyen",
+      "question": "Quelle préparation extrait des substances d'écorces ou de racines en les faisant bouillir dans l'eau ?",
+      "answer": "décoction"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Travail des pâtes",
+      "difficulty": "moyen",
+      "question": "En pâtisserie, quelle opération consiste à garnir l'intérieur d'un moule avec une abaisse de pâte ?",
+      "answer": "fonçage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Pâtisserie",
+      "sub_category": "Finition des gâteaux",
+      "difficulty": "facile",
+      "question": "Quelle couche sucrée, lisse ou brillante, recouvre la surface d'un gâteau ?",
+      "answer": "glaçage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Cuissons",
+      "difficulty": "moyen",
+      "question": "Quelle opération retire la mousse et les impuretés qui remontent à la surface d'un liquide pendant sa cuisson ?",
+      "answer": "écumage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles",
+      "difficulty": "facile",
+      "question": "Quel duo d'ustensiles permet d'écraser des épices dans un récipient épais à l'aide d'un outil tenu à la main ?",
+      "answer": "mortier et pilon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Ustensiles",
+      "difficulty": "facile",
+      "question": "Quel ustensile souple sert à badigeonner une pâte de beurre fondu ou d'œuf battu ?",
+      "answer": "pinceau alimentaire"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Linge de maison",
+      "difficulty": "facile",
+      "question": "Quel carré de tissu absorbant utilise-t-on couramment pour essuyer la vaisselle ?",
+      "answer": "torchon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Outils manuels",
+      "difficulty": "moyen",
+      "question": "Quelle scie manuelle possède une lame rigide et large, avec une poignée fixée à l'une de ses extrémités ?",
+      "answer": "égoïne"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Finition",
+      "difficulty": "moyen",
+      "question": "Quel support rigide, entouré de papier abrasif, aide à égaliser une surface à la main ?",
+      "answer": "cale à poncer"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métallurgie",
+      "sub_category": "Finition",
+      "difficulty": "difficile",
+      "question": "Quelle opération de finition comprime et lisse la surface d'un métal sans en retirer de matière ?",
+      "answer": "brunissage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métallurgie",
+      "sub_category": "Mise en forme",
+      "difficulty": "moyen",
+      "question": "Quel procédé déforme une pièce métallique sous des coups ou une presse, souvent après chauffage ?",
+      "answer": "forgeage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métallurgie",
+      "sub_category": "Mise en forme",
+      "difficulty": "moyen",
+      "question": "Quel procédé réduit l'épaisseur d'une plaque métallique en la faisant passer entre des cylindres ?",
+      "answer": "laminage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Industrie",
+      "sub_category": "Mise en forme",
+      "difficulty": "moyen",
+      "question": "Quel procédé pousse une matière à travers une ouverture profilée afin d'obtenir une forme continue ?",
+      "answer": "extrusion"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métallurgie",
+      "sub_category": "Mise en forme",
+      "difficulty": "difficile",
+      "question": "Quel procédé comprime une pièce entre deux outils creusés à la forme souhaitée ?",
+      "answer": "matriçage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Métallurgie",
+      "sub_category": "Travail des feuilles",
+      "difficulty": "difficile",
+      "question": "Quel procédé imprime un relief sur une feuille métallique par la pression d'un outil gravé ?",
+      "answer": "estampage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Usinage",
+      "difficulty": "moyen",
+      "question": "Quel usinage enlève de la matière au moyen d'un outil rotatif possédant plusieurs arêtes coupantes ?",
+      "answer": "fraisage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Usinage",
+      "difficulty": "difficile",
+      "question": "Quelle opération crée un pas de vis à l'intérieur d'un trou ?",
+      "answer": "taraudage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Usinage",
+      "difficulty": "moyen",
+      "question": "Quelle opération réalise un pas de vis sur la surface extérieure d'une tige ?",
+      "answer": "filetage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Finition",
+      "difficulty": "difficile",
+      "question": "Quel procédé imprime de petites stries régulières sur une poignée cylindrique métallique afin d'améliorer la prise ?",
+      "answer": "moletage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Usinage",
+      "difficulty": "facile",
+      "question": "Quelle opération réalise un trou dans une pièce à l'aide d'un foret ?",
+      "answer": "perçage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mécanique",
+      "sub_category": "Usinage",
+      "difficulty": "difficile",
+      "question": "Quel usinage reprend avec précision le diamètre et l'état de surface d'un trou déjà existant ?",
+      "answer": "alésage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Bijouterie",
+      "sub_category": "Assemblage",
+      "difficulty": "moyen",
+      "question": "Quel procédé fixe une pierre sur un bijou en rabattant une bordure de métal autour d'elle ?",
+      "answer": "sertissage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture",
+      "sub_category": "Assemblage",
+      "difficulty": "moyen",
+      "question": "Comment nomme-t-on les petits replis souples obtenus en tirant sur un fil pour resserrer une étoffe ?",
+      "answer": "fronces"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Couture",
+      "sub_category": "Construction du vêtement",
+      "difficulty": "difficile",
+      "question": "En confection, quel agencement symétrique de tissu se rabat vers l'intérieur pour apporter de l'ampleur à un vêtement ?",
+      "answer": "plis creux"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Préparation au tissage",
+      "difficulty": "difficile",
+      "question": "Quelle machine prépare parallèlement les fils destinés à être montés dans la longueur d'un métier à tisser ?",
+      "answer": "ourdissoir"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Structures tissées",
+      "difficulty": "moyen",
+      "question": "Quel mode de tissage fait passer chaque fil transversal alternativement au-dessus et au-dessous des fils longitudinaux ?",
+      "answer": "armure toile"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Structures tissées",
+      "difficulty": "difficile",
+      "question": "Quel mode de tissage produit une surface très lisse grâce à de longs flottés et à des points de liaison espacés ?",
+      "answer": "armure satin"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Coloration",
+      "difficulty": "difficile",
+      "question": "Quelle technique colore un tissu tout en protégeant certaines zones afin qu'elles conservent leur couleur initiale ?",
+      "answer": "teinture en réserve"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Types de tissus",
+      "difficulty": "facile",
+      "question": "Quel tissu présente des rangées parallèles de reliefs doux au toucher, souvent utilisées pour confectionner des pantalons ?",
+      "answer": "velours côtelé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Fibres végétales",
+      "difficulty": "facile",
+      "question": "Quel tissu grossier issu d'une fibre végétale sert souvent à fabriquer des sacs pour transporter des denrées ?",
+      "answer": "toile de jute"
     }
   ],
   "tabu": [
