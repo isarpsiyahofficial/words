@@ -5,7 +5,832 @@
     "asset_file_name": "fr_fr.json"
   },
   "analysis": {},
-  "bilmece": [],
+  "bilmece": [
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Les pâtes restent dans mon ventre percé tandis que l'eau s'en échappe au-dessus de l'évier. Quel ustensile suis-je ?",
+      "answer": "passoire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mon manche plonge dans la marmite et ma coupe ronde remplit les bols de soupe. Qui suis-je ?",
+      "answer": "louche"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je repêche les aliments dans l'eau frémissante grâce à ma large tête trouée. Quel ustensile suis-je ?",
+      "answer": "écumoire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mes fils métalliques réunis autour d'un manche font mousser les blancs d'œufs. Qui suis-je ?",
+      "answer": "fouet"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "On me fait aller et venir sur une boule de pâte pour l'étaler en feuille régulière. Quel outil suis-je ?",
+      "answer": "rouleau à pâtisserie"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Ma toile très fine laisse tomber la farine légère et retient les petits grumeaux. Quel objet suis-je ?",
+      "answer": "tamis"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mon large cône se termine par un tube étroit pour remplir une bouteille sans éclabousser. Qui suis-je ?",
+      "answer": "entonnoir"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Entre mes deux poignées, une gousse devient une multitude de petits fragments. Quel outil suis-je ?",
+      "answer": "presse-ail"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Deux branches articulées serrent une coque dure jusqu'à libérer ce qu'elle contient. Quel objet suis-je ?",
+      "answer": "casse-noix"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je prélève de très fines lanières colorées à la surface des agrumes sans emporter leur chair. Qui suis-je ?",
+      "answer": "zesteur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mes petites dents transforment un morceau de fromage en fins copeaux. Quel ustensile suis-je ?",
+      "answer": "râpe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Mes poils souples étalent du jaune d'œuf sur une brioche avant sa cuisson. Quel outil suis-je ?",
+      "answer": "pinceau de cuisine"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je donne le poids précis de la farine avant qu'elle rejoigne le saladier. Quel appareil suis-je ?",
+      "answer": "balance de cuisine"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "On me règle avant d'enfourner le gâteau ; je sonne quand le temps prévu s'est écoulé. Quel appareil suis-je ?",
+      "answer": "minuteur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je sèche les assiettes propres et reste souvent suspendu près de l'évier. Qui suis-je ?",
+      "answer": "torchon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je protège la table de la chaleur d'une casserole tout juste sortie du feu. Quel objet suis-je ?",
+      "answer": "dessous-de-plat"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je donne sa forme à une pâte liquide pendant son passage au four. Quel récipient suis-je ?",
+      "answer": "moule à gâteau"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Ma lame triangulaire soulève une part sans la renverser dans l'assiette. Quel ustensile suis-je ?",
+      "answer": "pelle à tarte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "On tourne ma tête pour faire tomber des grains noirs fraîchement broyés sur le repas. Qui suis-je ?",
+      "answer": "moulin à poivre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Ma lame plate forme un angle avec le manche pour lisser la crème sur le dessus d'un gâteau. Quel outil suis-je ?",
+      "answer": "spatule coudée"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "J'ai une anse, un bec et parfois une pomme percée pour donner de l'eau aux plantes. Qui suis-je ?",
+      "answer": "arrosoir"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mes dents alignées rassemblent les feuilles mortes en tas dans le jardin. Quel outil suis-je ?",
+      "answer": "râteau"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Ma petite pelle étroite ouvre la terre pour installer une jeune pousse en pot. Quel outil suis-je ?",
+      "answer": "transplantoir"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Ma roue unique porte les sacs de terre pendant qu'on soulève mes deux poignées. Qui suis-je ?",
+      "answer": "brouette"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Planté près d'une tige fragile, je l'aide à rester droite pendant sa croissance. Quel support suis-je ?",
+      "answer": "tuteur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mes parois transparentes abritent les semis du froid tout en laissant entrer la lumière. Quel abri suis-je ?",
+      "answer": "serre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "J'accueille épluchures et feuilles sèches pour qu'elles deviennent une matière utile au jardin. Quel contenant suis-je ?",
+      "answer": "composteur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Avec ma lame fixée au bout d'un manche, je remue la surface de la terre entre les rangs. Quel outil suis-je ?",
+      "answer": "binette"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mes deux poignées actionnent des lames courtes pour tailler proprement une branche fine. Quel outil suis-je ?",
+      "answer": "sécateur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Ma pointe conique prépare dans la terre un trou pour un bulbe ou un jeune plant. Qui suis-je ?",
+      "answer": "plantoir"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je reste devant la porte et reçois les semelles pour éviter que la boue entre. Qui suis-je ?",
+      "answer": "paillasson"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Mes lattes croisées offrent un appui aux plantes grimpantes le long d'un mur. Quel support suis-je ?",
+      "answer": "treillis"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Au petit matin, je couvre l'herbe de gouttelettes sans qu'il ait plu. Quel phénomène suis-je ?",
+      "answer": "rosée"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je dessine de fins cristaux blancs sur l'herbe lorsque l'humidité rencontre le gel. Qui suis-je ?",
+      "answer": "givre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je réduis la visibilité près du sol quand de minuscules gouttes restent suspendues dans l'air. Quel phénomène suis-je ?",
+      "answer": "brouillard"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Après l'averse, mes bandes de couleurs forment parfois un grand arc face au soleil. Qui suis-je ?",
+      "answer": "arc-en-ciel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "À mon embouchure, l'eau d'un fleuve rencontre celle de la mer sous l'influence des marées. Quel lieu suis-je ?",
+      "answer": "estuaire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Un fleuve se divise en plusieurs bras avant la mer et dépose des alluvions dans mon territoire. Quelle forme suis-je ?",
+      "answer": "delta"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Le vent déplace les grains de sable qui composent mon relief ondulé. Qui suis-je ?",
+      "answer": "dune"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis une grande courbe dessinée par un cours d'eau dans une plaine. Quel tracé suis-je ?",
+      "answer": "méandre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je couvre le bout d'un doigt pour pousser une aiguille à travers un tissu épais. Quel objet suis-je ?",
+      "answer": "dé à coudre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Ma petite pointe passe sous un fil mal placé et ma lame le sectionne sans défaire tout l'ouvrage. Quel outil suis-je ?",
+      "answer": "découd-vite"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je suis une boule de fil que l'on déroule peu à peu pour tricoter une écharpe. Qui suis-je ?",
+      "answer": "pelote de laine"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je trace sur le tissu des repères provisoires que l'on peut ensuite effacer. Quel accessoire suis-je ?",
+      "answer": "craie de tailleur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Ma semelle chaude fait disparaître les plis d'une chemise posée bien à plat. Quel appareil suis-je ?",
+      "answer": "fer à repasser"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Mes deux cercles emboîtés tendent une toile pour faciliter les points décoratifs. Quel accessoire suis-je ?",
+      "answer": "tambour à broder"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Deux rangées de petites dents se rejoignent quand on fait monter mon curseur. Quel dispositif suis-je ?",
+      "answer": "fermeture à glissière"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Petite bobine cachée sous l'aiguille, je fournis le fil inférieur pendant la couture. Qui suis-je ?",
+      "answer": "canette de machine à coudre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je m'enroule après avoir mesuré un tour de taille et porte des graduations sur toute ma longueur. Qui suis-je ?",
+      "answer": "mètre ruban"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Mes contours sur papier indiquent les pièces à découper avant d'assembler un vêtement. Quel modèle suis-je ?",
+      "answer": "patron de couture"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Ma pointe se replie dans un petit fermoir pour maintenir deux épaisseurs de tissu sans rester exposée. Quel objet suis-je ?",
+      "answer": "épingle de sûreté"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Mes deux parties s'emboîtent d'un clic pour fermer une poche ou une veste. Quel système suis-je ?",
+      "answer": "bouton-pression"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Nous travaillons par deux pour former des mailles avec un fil de laine. Quels outils sommes-nous ?",
+      "answer": "aiguilles à tricoter"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je passe d'un bord à l'autre entre les fils tendus pour faire avancer l'étoffe. Quel outil suis-je ?",
+      "answer": "navette de tissage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Autour de mon petit cylindre s'enroule une longue réserve pour la couture. Qui suis-je ?",
+      "answer": "bobine de fil"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je replie et fixe le bord d'un pantalon pour qu'il ne s'effiloche pas. Quelle finition suis-je ?",
+      "answer": "ourlet"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mes pieds se déplient pour offrir une surface longue et rembourrée aux vêtements froissés. Quel meuble suis-je ?",
+      "answer": "planche à repasser"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Mon chas large accueille un fil épais et ma pointe arrondie traverse une toile à gros trous. Quel outil suis-je ?",
+      "answer": "aiguille à tapisserie"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mes deux épaules rigides soutiennent une veste dans l'armoire. Qui suis-je ?",
+      "answer": "cintre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je reste entre deux feuilles pour retrouver l'endroit où la lecture s'est arrêtée. Qui suis-je ?",
+      "answer": "marque-page"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "J'enfonce une petite pièce métallique repliée pour maintenir plusieurs feuilles ensemble. Quel objet suis-je ?",
+      "answer": "agrafeuse"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "J'ouvre deux trous bien alignés dans une liasse avant son rangement dans un classeur. Quel outil suis-je ?",
+      "answer": "perforatrice"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Ma petite lame retire le bois autour de la mine pour lui rendre une pointe nette. Qui suis-je ?",
+      "answer": "taille-crayon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Mon papier absorbe l'excès d'encre fraîche sans l'étaler sur la page. Quel objet suis-je ?",
+      "answer": "buvard"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je suis un fil métallique plié qui réunit des feuilles sans les trouer. Qui suis-je ?",
+      "answer": "trombone"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je tiens les volumes debout à l'extrémité d'une rangée sur une étagère. Quel objet suis-je ?",
+      "answer": "serre-livres"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Ma lentille agrandit les petites lettres lorsque l'on regarde à travers elle. Qui suis-je ?",
+      "answer": "loupe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Posé sur une pile de feuilles, mon poids les empêche de s'envoler au moindre courant d'air. Qui suis-je ?",
+      "answer": "presse-papiers"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Avec mon angle droit, je guide le tracé de deux droites perpendiculaires. Quel instrument suis-je ?",
+      "answer": "équerre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Mes graduations en degrés permettent de mesurer l'ouverture entre deux demi-droites. Quel instrument suis-je ?",
+      "answer": "rapporteur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Une de mes branches pique le papier, l'autre tourne pour tracer un cercle. Qui suis-je ?",
+      "answer": "compas de dessin"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Dans mon petit tube transparent, une poche d'air se centre quand la surface est horizontale. Quel outil suis-je ?",
+      "answer": "niveau à bulle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Une pression sur moi allume ou éteint la lampe de la pièce. Qui suis-je ?",
+      "answer": "interrupteur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je coiffe une lampe et adoucis la lumière qu'elle répand dans la pièce. Quel objet suis-je ?",
+      "answer": "abat-jour"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Fixée au mur, je tends un crochet pour recevoir manteaux et sacs. Qui suis-je ?",
+      "answer": "patère"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Deux pièces reliées par un axe me permettent de faire pivoter une porte. Quel mécanisme suis-je ?",
+      "answer": "charnière"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je traverse le haut d'une fenêtre et porte le tissu qu'on fait coulisser. Quel support suis-je ?",
+      "answer": "tringle à rideaux"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Mon petit œilleton permet de voir le palier sans ouvrir l'entrée. Quel dispositif suis-je ?",
+      "answer": "judas de porte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mes graduations indiquent combien l'air ou un liquide est chaud ou froid. Quel instrument suis-je ?",
+      "answer": "thermomètre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je mesure la pression de l'atmosphère et aide à observer les changements de temps. Quel instrument suis-je ?",
+      "answer": "baromètre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mon aiguille aimantée s'oriente vers le nord pour guider les promeneurs. Qui suis-je ?",
+      "answer": "boussole"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Une ombre se déplace sur mes graduations pour indiquer l'heure quand le ciel est dégagé. Quel objet suis-je ?",
+      "answer": "cadran solaire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Deux réservoirs transparents échangent lentement leurs grains quand on me retourne. Qui suis-je ?",
+      "answer": "sablier"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Après un léger choc, mes deux branches vibrent et produisent une note de référence. Quel objet suis-je ?",
+      "answer": "diapason"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je marque une pulsation régulière pour aider un musicien à garder le tempo. Quel appareil suis-je ?",
+      "answer": "métronome"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Mon plateau incliné soutient les partitions à hauteur des yeux pendant la répétition. Quel support suis-je ?",
+      "answer": "pupitre de musique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mes pieds soutiennent une toile à la verticale pendant que l'on peint. Quel équipement suis-je ?",
+      "answer": "chevalet"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Sur ma surface plate, plusieurs touches de couleur attendent d'être mélangées. Quel accessoire suis-je ?",
+      "answer": "palette de peintre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Mes pigments se diluent dans l'eau et laissent voir le blanc du papier sous les couches légères. Quelle technique suis-je ?",
+      "answer": "aquarelle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis un bâton noir issu de bois carbonisé, apprécié pour les esquisses aux ombres souples. Quel matériau suis-je ?",
+      "answer": "fusain"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "J'agrandis les objets très éloignés dans le ciel grâce à un système optique. Quel instrument suis-je ?",
+      "answer": "télescope"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Sous mon dôme, on projette les étoiles pour découvrir le ciel même en plein jour. Quel lieu suis-je ?",
+      "answer": "planétarium"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je suis une masse de glace durable qui se déplace lentement sous son propre poids. Quelle formation suis-je ?",
+      "answer": "glacier"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je grandis depuis le plafond d'une grotte grâce aux dépôts laissés par les gouttes. Quelle formation suis-je ?",
+      "answer": "stalactite"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je m'élève du sol d'une grotte à mesure que l'eau y dépose du calcaire. Quelle formation suis-je ?",
+      "answer": "stalagmite"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je suis la trace conservée dans la roche d'un organisme ayant vécu il y a très longtemps. Qui suis-je ?",
+      "answer": "fossile"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je résulte d'une association durable entre un champignon et un partenaire photosynthétique, souvent visible sur les rochers. Qui suis-je ?",
+      "answer": "lichen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je forme un réseau de filaments dans le sol et constitue la partie végétative de nombreux champignons. Qui suis-je ?",
+      "answer": "mycélium"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je suis une fine poussière produite par les fleurs et transportée notamment par le vent ou les insectes. Qui suis-je ?",
+      "answer": "pollen"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis une tige qui pousse sous terre et peut donner naissance à de nouvelles pousses. Quelle structure suis-je ?",
+      "answer": "rhizome"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Pendant mon passage, la Lune cache tout ou partie du disque du Soleil aux yeux des observateurs. Quel phénomène suis-je ?",
+      "answer": "éclipse solaire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Deux fois par an environ, je marque le moment où le Soleil franchit l'équateur céleste. Quel événement suis-je ?",
+      "answer": "équinoxe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je correspond au moment où la durée du jour atteint un extrême annuel dans un hémisphère. Quel événement suis-je ?",
+      "answer": "solstice"
+    }
+  ],
   "kelime_ustasi": [
     {
       "game_type": "kelime_ustasi",
