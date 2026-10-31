@@ -16576,6 +16576,776 @@
       "difficulty": "difficile",
       "question": "Quelle opération associe des coordonnées géographiques à une image ?",
       "answer": "géoréférencement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie",
+      "sub_category": "Composition",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on le réglage de l'espace entre les caractères d'une ligne ?",
+      "answer": "interlettrage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie",
+      "sub_category": "Composition",
+      "difficulty": "moyen",
+      "question": "Quel alignement répartit les espaces pour que les deux bords d'un paragraphe soient droits ?",
+      "answer": "justification"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Typographie",
+      "sub_category": "Composition",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on la partie imprimée d'un caractère typographique, par opposition à son support ?",
+      "answer": "œil"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Matériaux",
+      "sub_category": "Traitements",
+      "difficulty": "facile",
+      "question": "Quel traitement consiste à refroidir rapidement un métal après chauffage ?",
+      "answer": "trempe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Matériaux",
+      "sub_category": "Traitements",
+      "difficulty": "facile",
+      "question": "Quel traitement thermique peut assouplir un métal et réduire ses contraintes internes ?",
+      "answer": "recuit"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Matériaux",
+      "sub_category": "Traitements",
+      "difficulty": "facile",
+      "question": "Quel matériau métallique résulte du mélange d'au moins un métal avec un autre élément ?",
+      "answer": "alliage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Matériaux",
+      "sub_category": "Traitements",
+      "difficulty": "moyen",
+      "question": "Quel durcissement d'un métal résulte de sa déformation plastique à froid ?",
+      "answer": "écrouissage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Matériaux",
+      "sub_category": "Traitements",
+      "difficulty": "moyen",
+      "question": "Quel traitement forme une couche protectrice à la surface d'un métal ?",
+      "answer": "passivation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Matériaux",
+      "sub_category": "Traitements",
+      "difficulty": "moyen",
+      "question": "Quel traitement électrochimique épaissit la couche d'oxyde protectrice de l'aluminium ?",
+      "answer": "anodisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Matériaux",
+      "sub_category": "Traitements",
+      "difficulty": "moyen",
+      "question": "Quel procédé recouvre de zinc une pièce en acier pour la protéger de la corrosion ?",
+      "answer": "galvanisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Matériaux",
+      "sub_category": "Traitements",
+      "difficulty": "facile",
+      "question": "Quel procédé consolide une poudre par chauffage sans fusion complète ?",
+      "answer": "frittage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Techniques",
+      "difficulty": "facile",
+      "question": "Quelle méthode extrait les arômes d'un ingrédient en le laissant dans un liquide chaud ?",
+      "answer": "infusion"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Techniques",
+      "difficulty": "moyen",
+      "question": "Quel travail mécanique rend une pâte plus homogène et développe son réseau de gluten ?",
+      "answer": "pétrissage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Techniques",
+      "difficulty": "facile",
+      "question": "Quelle première opération mélange grossièrement farine et eau avant de travailler la pâte ?",
+      "answer": "frasage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Techniques",
+      "difficulty": "facile",
+      "question": "Quelle opération donne une forme ronde et tendue à un pâton ?",
+      "answer": "boulage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Techniques",
+      "difficulty": "facile",
+      "question": "Quel mélange initial de farine et de liquide sert de base à une pâte feuilletée ?",
+      "answer": "détrempe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Techniques",
+      "difficulty": "facile",
+      "question": "Quelle succession de pliages et d'étalages répartit la matière grasse en couches dans une pâte ?",
+      "answer": "tourage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage et couture",
+      "difficulty": "moyen",
+      "question": "Quel petit outil à pointe et lame permet de défaire une couture ?",
+      "answer": "découd-vite"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage et couture",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on un passage du fil transversal dans un tissu en cours de fabrication ?",
+      "answer": "duite"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage et couture",
+      "difficulty": "facile",
+      "question": "Quel cylindre d'un métier à tisser porte les fils longitudinaux ?",
+      "answer": "ensouple"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage et couture",
+      "difficulty": "facile",
+      "question": "Quel fil résulte de la torsion de plusieurs fils simples réunis ?",
+      "answer": "retors"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage et couture",
+      "difficulty": "facile",
+      "question": "Quel procédé agglomère des fibres grâce à l'humidité, au frottement et à la pression ?",
+      "answer": "feutrage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage et couture",
+      "difficulty": "facile",
+      "question": "Quelle petite pièce ajoutée dans un angle de couture améliore l'aisance d'un vêtement ?",
+      "answer": "gousset"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage et couture",
+      "difficulty": "moyen",
+      "question": "Quelle ouverture d'un vêtement reçoit la manche ou laisse passer le bras ?",
+      "answer": "emmanchure"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Représentation",
+      "difficulty": "difficile",
+      "question": "Quelle transformation représente la surface courbe de la Terre sur un plan ?",
+      "answer": "projection cartographique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Représentation",
+      "difficulty": "facile",
+      "question": "Quelle ligne d'une carte relie les lieux ayant reçu la même quantité de précipitations ?",
+      "answer": "isohyète"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Représentation",
+      "difficulty": "moyen",
+      "question": "Quelle méthode cartographique représente les différentes altitudes par des teintes ?",
+      "answer": "hypsométrie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Représentation",
+      "difficulty": "moyen",
+      "question": "Quelle opération associe des coordonnées à une adresse postale ?",
+      "answer": "géocodage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cartographie",
+      "sub_category": "Représentation",
+      "difficulty": "moyen",
+      "question": "Quel découpage régulier en cases facilite le repérage sur une carte ?",
+      "answer": "carroyage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Structures et roches",
+      "difficulty": "moyen",
+      "question": "Quelle grande masse de roche magmatique s'est solidifiée profondément dans la croûte terrestre ?",
+      "answer": "batholite"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Structures et roches",
+      "difficulty": "facile",
+      "question": "Quel corps de roche magmatique se forme par solidification en profondeur ?",
+      "answer": "pluton"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Structures et roches",
+      "difficulty": "facile",
+      "question": "Quel compartiment de terrain surélevé se trouve entre deux failles normales ?",
+      "answer": "horst"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Structures et roches",
+      "difficulty": "facile",
+      "question": "Quel compartiment de terrain affaissé est délimité par des failles normales ?",
+      "answer": "graben"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Structures et roches",
+      "difficulty": "facile",
+      "question": "Quelle roche métamorphique présente souvent une alternance de bandes claires et sombres ?",
+      "answer": "gneiss"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Structures et roches",
+      "difficulty": "facile",
+      "question": "Quelle cavité rocheuse est tapissée intérieurement de cristaux ?",
+      "answer": "géode"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géologie",
+      "sub_category": "Structures et roches",
+      "difficulty": "moyen",
+      "question": "Quel principe décrit l'équilibre gravitationnel des masses de la croûte terrestre sur le manteau ?",
+      "answer": "isostasie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Biologie végétale",
+      "sub_category": "Anatomie et cycles",
+      "difficulty": "facile",
+      "question": "Quel petit prolongement de l'épiderme végétal ressemble souvent à un poil ?",
+      "answer": "trichome"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Biologie végétale",
+      "sub_category": "Anatomie et cycles",
+      "difficulty": "facile",
+      "question": "Quelle fine couche cireuse limite la perte d'eau à la surface de nombreux végétaux ?",
+      "answer": "cuticule"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Biologie végétale",
+      "sub_category": "Anatomie et cycles",
+      "difficulty": "moyen",
+      "question": "Quel phénomène provoque le retrait du contenu d'une cellule végétale placée dans un milieu très concentré ?",
+      "answer": "plasmolyse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Biologie végétale",
+      "sub_category": "Anatomie et cycles",
+      "difficulty": "moyen",
+      "question": "Quelle orientation de croissance d'une racine ou d'une tige répond à la gravité ?",
+      "answer": "géotropisme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Entomologie",
+      "sub_category": "Anatomie",
+      "difficulty": "facile",
+      "question": "Quel appendice articulé proche de la bouche participe à l'exploration sensorielle ?",
+      "answer": "palpe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Entomologie",
+      "sub_category": "Anatomie",
+      "difficulty": "facile",
+      "question": "Quel petit orifice sur le corps d'un insecte permet l'entrée de l'air dans son système respiratoire ?",
+      "answer": "spiracle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Entomologie",
+      "sub_category": "Anatomie",
+      "difficulty": "moyen",
+      "question": "Quelle petite plaque triangulaire est visible sur le dos de nombreuses punaises ?",
+      "answer": "scutellum"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Techniques",
+      "difficulty": "facile",
+      "question": "Quelle technique réunit des pièces de bois bout à bout pour obtenir une plus grande longueur ?",
+      "answer": "aboutage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Techniques",
+      "difficulty": "facile",
+      "question": "Quel assemblage relie deux pièces de bois dans le prolongement l'une de l'autre ?",
+      "answer": "enture"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Techniques",
+      "difficulty": "facile",
+      "question": "Quelle petite baguette de bois sert de support ou de renfort ?",
+      "answer": "tasseau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "difficulty": "moyen",
+      "question": "Quel passage d'un astre au point le plus élevé de sa trajectoire quotidienne dans le ciel ?",
+      "answer": "culmination"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "difficulty": "moyen",
+      "question": "Quel mouvement apparent fait sembler une planète reculer parmi les étoiles ?",
+      "answer": "rétrogradation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "difficulty": "moyen",
+      "question": "Quelle limite mobile sépare la partie éclairée et la partie sombre d'un astre ?",
+      "answer": "terminateur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "difficulty": "difficile",
+      "question": "Quelle coordonnée céleste analogue à la longitude se mesure le long de l'équateur céleste ?",
+      "answer": "ascension droite"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "difficulty": "moyen",
+      "question": "Quelle coordonnée céleste indique la distance angulaire au nord ou au sud de l'équateur céleste ?",
+      "answer": "déclinaison"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et musique",
+      "sub_category": "Sons et rythmes",
+      "difficulty": "moyen",
+      "question": "Quelle composante de fréquence la plus basse définit généralement la hauteur d'un son périodique ?",
+      "answer": "fondamentale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et musique",
+      "sub_category": "Sons et rythmes",
+      "difficulty": "moyen",
+      "question": "Quelle superposition de plusieurs organisations rythmiques distinctes est jouée simultanément ?",
+      "answer": "polyrythmie"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et musique",
+      "sub_category": "Sons et rythmes",
+      "difficulty": "facile",
+      "question": "Quel intervalle musical correspond au doublement de la fréquence d'une note ?",
+      "answer": "octave"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Acoustique et musique",
+      "sub_category": "Sons et rythmes",
+      "difficulty": "facile",
+      "question": "Quel intervalle musical juste comprend sept demi-tons dans le tempérament égal ?",
+      "answer": "quinte"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Détails de construction",
+      "difficulty": "moyen",
+      "question": "Quel élargissement oblique des côtés d'une ouverture améliore la diffusion de la lumière ?",
+      "answer": "ébrasement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Détails de construction",
+      "difficulty": "facile",
+      "question": "Quelle surface intérieure forme le dessous d'une voûte ou d'un arc ?",
+      "answer": "intrados"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Détails de construction",
+      "difficulty": "facile",
+      "question": "Quelle surface extérieure constitue le dessus d'une voûte ou d'un arc ?",
+      "answer": "extrados"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Détails de construction",
+      "difficulty": "facile",
+      "question": "Quelle face visible et finie d'un mur ou d'un ouvrage de maçonnerie ?",
+      "answer": "parement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Détails de construction",
+      "difficulty": "facile",
+      "question": "Quelle opération applique un mortier fin pour rendre un support de sol régulier ?",
+      "answer": "ragréage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Détails de construction",
+      "difficulty": "facile",
+      "question": "Quel revêtement liquide à base de chaux colore et protège un mur ?",
+      "answer": "badigeon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Détails de construction",
+      "difficulty": "facile",
+      "question": "Quelle partie mobile d'une porte pivote ou coulisse pour ouvrir le passage ?",
+      "answer": "vantail"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Jardinage",
+      "sub_category": "Cultures",
+      "difficulty": "moyen",
+      "question": "Quelle technique de greffe insère un seul bourgeon sous l'écorce d'un porte-greffe ?",
+      "answer": "écussonnage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Traitement de l'eau",
+      "sub_category": "Procédés",
+      "difficulty": "moyen",
+      "question": "Quel procédé regroupe de petites particules en amas plus faciles à retirer de l'eau ?",
+      "answer": "floculation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Traitement de l'eau",
+      "sub_category": "Procédés",
+      "difficulty": "difficile",
+      "question": "Quelle technique utilise une membrane très fine pour retenir des particules et des macromolécules ?",
+      "answer": "ultrafiltration"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Traitement de l'eau",
+      "sub_category": "Procédés",
+      "difficulty": "moyen",
+      "question": "Quel procédé sous pression force l'eau à traverser une membrane qui retient la plupart des sels ?",
+      "answer": "osmose inverse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Traitement de l'eau",
+      "sub_category": "Procédés",
+      "difficulty": "moyen",
+      "question": "Quelle mesure décrit le trouble d'un liquide causé par des particules en suspension ?",
+      "answer": "turbidité"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Traitement de l'eau",
+      "sub_category": "Procédés",
+      "difficulty": "facile",
+      "question": "Quelle opération met l'eau en contact avec l'air pour favoriser les échanges de gaz ?",
+      "answer": "aération"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Fonctionnement",
+      "difficulty": "moyen",
+      "question": "Quelle zone de stockage rapide conserve temporairement des données souvent utilisées ?",
+      "answer": "mémoire cache"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Fonctionnement",
+      "difficulty": "moyen",
+      "question": "Quelle opération transforme une structure de données en format transmissible ou enregistrable ?",
+      "answer": "sérialisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Fonctionnement",
+      "difficulty": "facile",
+      "question": "Quelle variation du délai de transmission perturbe parfois les communications en temps réel ?",
+      "answer": "gigue"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Fonctionnement",
+      "difficulty": "facile",
+      "question": "Quelle zone mémoire conserve provisoirement des données entre deux opérations de vitesses différentes ?",
+      "answer": "tampon"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Fonctionnement",
+      "difficulty": "difficile",
+      "question": "Quelle technique regroupe une application et ses dépendances dans un environnement isolé et portable ?",
+      "answer": "conteneurisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Papier et impression",
+      "sub_category": "Finition",
+      "difficulty": "facile",
+      "question": "Quel type de papier présente de fines lignes parallèles visibles par transparence ?",
+      "answer": "vergé"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Propriétés",
+      "difficulty": "facile",
+      "question": "Quel segment relie le centre d'un polygone régulier au milieu de l'un de ses côtés ?",
+      "answer": "apotème"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Propriétés",
+      "difficulty": "moyen",
+      "question": "Quel point représente la moyenne pondérée des positions de plusieurs points ?",
+      "answer": "barycentre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géométrie",
+      "sub_category": "Propriétés",
+      "difficulty": "difficile",
+      "question": "Quelle opération entre deux vecteurs donne un nombre lié à leurs longueurs et à l'angle qui les sépare ?",
+      "answer": "produit scalaire"
     }
   ],
   "tabu": [
