@@ -14609,11 +14609,11 @@
     "locale": "en-US",
     "main_category": "Technology",
     "sub_category": "Devices and Digital Life",
-    "word": "Wi-Fi",
+    "word": "Wireless hotspot",
     "forbidden_words": [
-      "wireless",
-      "network",
-      "internet"
+      "phone",
+      "internet",
+      "sharing"
     ]
   },
   {
@@ -14622,11 +14622,11 @@
     "locale": "en-US",
     "main_category": "Technology",
     "sub_category": "Devices and Digital Life",
-    "word": "Bluetooth",
+    "word": "Device pairing",
     "forbidden_words": [
+      "connect",
       "wireless",
-      "pair",
-      "devices"
+      "link"
     ]
   },
   {
@@ -27388,11 +27388,11 @@
     "locale": "en-US",
     "main_category": "Life",
     "sub_category": "Feelings and Qualities",
-    "word": "Flexibility",
+    "word": "Open-mindedness",
     "forbidden_words": [
-      "adapt",
-      "change",
-      "adjust"
+      "perspectives",
+      "receptive",
+      "ideas"
     ]
   },
   {
@@ -30651,11 +30651,11 @@
     "locale": "en-US",
     "main_category": "Wellness",
     "sub_category": "Healthy Routines",
-    "word": "Stamina",
+    "word": "Interval training",
     "forbidden_words": [
-      "energy",
-      "lasting",
-      "activity"
+      "alternating",
+      "workout",
+      "rest periods"
     ]
   },
   {
@@ -33147,11 +33147,11 @@
     "locale": "en-US",
     "main_category": "Learning",
     "sub_category": "Classroom and Reading",
-    "word": "Book jacket",
+    "word": "Book blurb",
     "forbidden_words": [
-      "cover",
-      "title",
-      "paper"
+      "summary",
+      "back cover",
+      "description"
     ]
   },
   {
@@ -33758,11 +33758,11 @@
     "locale": "en-US",
     "main_category": "Technology",
     "sub_category": "Devices and Interfaces",
-    "word": "Wi-Fi extender",
+    "word": "Wireless range extender",
     "forbidden_words": [
-      "signal",
-      "wireless",
-      "range"
+      "repeater",
+      "coverage",
+      "dead zones"
     ]
   },
   {
