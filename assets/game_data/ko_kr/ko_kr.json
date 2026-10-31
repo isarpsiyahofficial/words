@@ -19746,6 +19746,266 @@
       "difficulty": "보통",
       "question": "특정 관측 위치에서 지형이나 장애물에 가리지 않고 볼 수 있는 공간의 범위는?",
       "answer": "가시권"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 운동",
+      "sub_category": "역학",
+      "difficulty": "보통",
+      "question": "공기 저항을 무시할 때 중력만의 영향으로 물체가 아래로 움직이는 운동은?",
+      "answer": "자유낙하"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물질과 화학",
+      "sub_category": "물질의 분류",
+      "difficulty": "쉬움",
+      "question": "둘 이상의 순수한 성분이 화학적으로 결합하지 않고 한데 섞여 있는 것은?",
+      "answer": "혼합물"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "컴퓨터와 정보",
+      "sub_category": "컴퓨터 기초",
+      "difficulty": "쉬움",
+      "question": "컴퓨터 전원을 켠 뒤 운영체제가 실행될 수 있도록 준비하는 과정은?",
+      "answer": "부팅"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "영상과 디자인",
+      "sub_category": "화면 표현",
+      "difficulty": "보통",
+      "question": "화면에서 가장 밝은 흰색과 가장 어두운 검은색의 상대적 차이를 나타내는 수치는?",
+      "answer": "명암비"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 도형",
+      "sub_category": "기하 변환",
+      "difficulty": "보통",
+      "question": "평면도형의 모든 점이 정해진 중심을 기준으로 같은 각도만큼 돌아 자리를 바꾸는 변환은?",
+      "answer": "회전이동"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 통계",
+      "sub_category": "통계의 원리",
+      "difficulty": "어려움",
+      "question": "같은 모집단에서 표본을 여러 번 뽑아 평균을 구할 때, 그 평균값의 변동 크기를 나타내는 통계량은?",
+      "answer": "표준오차"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어의 원리",
+      "sub_category": "한글 표기",
+      "difficulty": "보통",
+      "question": "한글에서 초성·중성·종성을 한 음절 단위의 네모꼴 안에 배치해 적는 방식은?",
+      "answer": "모아쓰기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "환경과 생태",
+      "sub_category": "생활환경",
+      "difficulty": "쉬움",
+      "question": "밤에 인공조명이 지나치게 많아 별 관측과 야생 생물의 생활을 방해하는 환경 문제는?",
+      "answer": "빛공해"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "환경과 생태",
+      "sub_category": "도시 물순환",
+      "difficulty": "어려움",
+      "question": "도시의 빗물 유출을 줄이기 위해 투수성 포장과 빗물정원 등을 활용하는 설계 접근법은?",
+      "answer": "저영향개발"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "소리와 영상",
+      "sub_category": "음향 분석",
+      "difficulty": "어려움",
+      "question": "소리의 주파수 성분이 시간에 따라 어떻게 변하는지 색이나 명암으로 표시한 그림은?",
+      "answer": "스펙트로그램"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물과 숲",
+      "sub_category": "산림 생태",
+      "difficulty": "보통",
+      "question": "숲에서 높은 나무의 잎과 가지가 서로 이어져 햇빛을 가장 먼저 받아들이는 윗부분은?",
+      "answer": "수관층"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우주와 천문",
+      "sub_category": "인공위성",
+      "difficulty": "어려움",
+      "question": "인공위성이 지구의 자전과 같은 주기로 적도 상공을 돌아 지상에서 늘 같은 위치에 있는 듯 보이는 경로는?",
+      "answer": "정지궤도"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다와 해양",
+      "sub_category": "해수의 움직임",
+      "difficulty": "어려움",
+      "question": "해수면 위로 일정하게 부는 바람이 물을 직접 밀어 만들어 내는 바닷물의 흐름은?",
+      "answer": "취송류"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 지질",
+      "sub_category": "지진의 원리",
+      "difficulty": "어려움",
+      "question": "지진 때 지구 내부가 아닌 땅의 겉을 따라 전달되는 흔들림은?",
+      "answer": "표면파"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 지질",
+      "sub_category": "암석의 형성",
+      "difficulty": "보통",
+      "question": "마그마가 지하 깊은 곳에서 오랜 시간 천천히 식어 굳은 돌의 종류는?",
+      "answer": "심성암"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "과학과 운동",
+      "sub_category": "항공 역학",
+      "difficulty": "보통",
+      "question": "비행기 날개 주변의 공기 흐름이 만들어 기체를 위로 떠받치는 힘은?",
+      "answer": "양력"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영 기술",
+      "difficulty": "보통",
+      "question": "카메라 촬영 중 작은 흔들림 때문에 사진이 흐려지는 현상을 줄이는 기능은?",
+      "answer": "손떨림보정"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "재료와 기술",
+      "sub_category": "금속 가공",
+      "difficulty": "어려움",
+      "question": "알루미늄 표면에 전기를 이용해 단단한 보호 피막을 형성하는 처리법은?",
+      "answer": "양극산화"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 지질",
+      "sub_category": "지반 공학",
+      "difficulty": "어려움",
+      "question": "무거운 하중을 받은 점토층에서 틈새의 물이 천천히 빠져나가며 부피가 줄어드는 현상은?",
+      "answer": "압밀"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생명과 인체",
+      "sub_category": "신경과 자극",
+      "difficulty": "보통",
+      "question": "빛이나 소리, 압력 같은 자극을 받아 신경 신호로 바꾸는 특수한 생체 단위는?",
+      "answer": "감각세포"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 지질",
+      "sub_category": "지각의 변화",
+      "difficulty": "보통",
+      "question": "지각 변동으로 지표의 일부가 주변보다 높아지는 변화는?",
+      "answer": "융기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 공간",
+      "sub_category": "위치 측정",
+      "difficulty": "어려움",
+      "question": "기준선 한 변의 길이와 양 끝에서 관측한 두 각도를 이용해 먼 지점의 위치를 구하는 방법은?",
+      "answer": "삼각측량"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학과 도형",
+      "sub_category": "곡선의 성질",
+      "difficulty": "어려움",
+      "question": "휘어진 선이 특정 지점에서 얼마나 급하게 방향을 바꾸는지 나타내는 수학적 양은?",
+      "answer": "곡률"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 대기",
+      "sub_category": "상층 대기",
+      "difficulty": "어려움",
+      "question": "지구 상공에서 태양 복사로 전하를 띤 입자가 많이 생겨 무선 통신에 영향을 주는 대기 영역은?",
+      "answer": "전리층"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우주와 천문",
+      "sub_category": "지구의 환경",
+      "difficulty": "어려움",
+      "question": "지구 주위에서 행성의 자성이 우주에서 날아오는 하전 입자의 경로를 좌우하는 공간은?",
+      "answer": "자기권"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생명과 인체",
+      "sub_category": "세포의 분열",
+      "difficulty": "어려움",
+      "question": "세포가 나뉠 때 염색체에 붙어 양쪽 끝으로 끌어당기는 가느다란 섬유 구조는?",
+      "answer": "방추사"
     }
   ],
   "tabu": [
