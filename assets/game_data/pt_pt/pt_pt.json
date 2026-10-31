@@ -43486,6 +43486,886 @@
         "difficulty": "difícil",
         "question": "A minha combinação de cores e marcas indica por que lado de um perigo se encontram águas seguras, segundo os pontos da bússola. Que baliza sou?",
         "answer": "Sinal cardinal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Estruturas",
+        "difficulty": "difícil",
+        "answer": "Verga",
+        "question": "Atravesso a parte superior de uma abertura na parede para suportar a alvenaria que fica acima."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Coberturas",
+        "difficulty": "difícil",
+        "answer": "Rufo",
+        "question": "Sou uma peça de chapa que impede infiltrações na união entre a cobertura e uma parede vertical."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Canalização",
+        "difficulty": "médio",
+        "answer": "Ralo sifonado",
+        "question": "Deixo escoar a água do pavimento, mas mantenho uma reserva líquida que impede a passagem de maus cheiros."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Infraestruturas",
+        "difficulty": "difícil",
+        "answer": "Caixa de visita",
+        "question": "Permito inspecionar e desobstruir uma canalização enterrada sem escavar todo o percurso."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Natureza e ecossistemas",
+        "sub_category": "Zonas húmidas",
+        "difficulty": "difícil",
+        "answer": "Turfeira",
+        "question": "Acumulo matéria vegetal pouco decomposta em terreno permanentemente encharcado."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Natureza e ecossistemas",
+        "sub_category": "Solos",
+        "difficulty": "médio",
+        "answer": "Húmus",
+        "question": "Sou a parte escura e fértil do solo formada pela decomposição de restos orgânicos."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Natureza e ecossistemas",
+        "sub_category": "Zonas húmidas",
+        "difficulty": "médio",
+        "answer": "Charco",
+        "question": "Sou uma pequena extensão de água parada, muitas vezes temporária, que serve de abrigo a anfíbios."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência e observação",
+        "sub_category": "Medição",
+        "difficulty": "difícil",
+        "answer": "Densímetro",
+        "question": "Flutuo num líquido a diferentes alturas conforme a sua massa por unidade de volume."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência e observação",
+        "sub_category": "Ótica",
+        "difficulty": "médio",
+        "answer": "Prisma óptico",
+        "question": "Desvio a luz ao atravessar as minhas faces transparentes e posso separar as suas cores."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência e observação",
+        "sub_category": "Ótica",
+        "difficulty": "médio",
+        "answer": "Lente convergente",
+        "question": "Sou mais espessa no centro e reúno raios luminosos paralelos num foco."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência e observação",
+        "sub_category": "Laboratório",
+        "difficulty": "difícil",
+        "answer": "Câmara de vácuo",
+        "question": "Sou um recipiente fechado do qual se retira o ar para realizar experiências a baixa pressão."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e utensílios",
+        "sub_category": "Preparação",
+        "difficulty": "fácil",
+        "answer": "Passador de rede",
+        "question": "Deixo passar líquidos por uma malha fina e retenho pequenos pedaços de alimento."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e utensílios",
+        "sub_category": "Preparação",
+        "difficulty": "fácil",
+        "answer": "Ralador fino",
+        "question": "Transformo queijo duro ou casca de citrinos em partículas pequenas por fricção."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e utensílios",
+        "sub_category": "Preparação",
+        "difficulty": "fácil",
+        "answer": "Funil de cozinha",
+        "question": "Ajudo a verter líquidos para garrafas de gargalo estreito sem os entornar."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e utensílios",
+        "sub_category": "Corte",
+        "difficulty": "médio",
+        "answer": "Mandolina de cozinha",
+        "question": "Faço fatias uniformes quando se desliza um legume sobre a minha lâmina fixa."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e utensílios",
+        "sub_category": "Filtragem",
+        "difficulty": "médio",
+        "answer": "Coador de pano",
+        "question": "Retenho partículas de uma bebida através de um tecido reutilizável."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e utensílios",
+        "sub_category": "Segurança alimentar",
+        "difficulty": "fácil",
+        "answer": "Tábua de corte",
+        "question": "Ofereço uma superfície plana para preparar ingredientes sem danificar a bancada."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Carpintaria",
+        "difficulty": "médio",
+        "answer": "Formão",
+        "question": "Tenho uma lâmina reta e afiada que retira pequenas aparas de madeira com golpes controlados."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Carpintaria",
+        "difficulty": "médio",
+        "answer": "Sargento de carpinteiro",
+        "question": "Aperto duas peças entre mordentes para as manter imóveis durante a colagem."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Tapeçaria",
+        "difficulty": "médio",
+        "answer": "Agulha de tapeçaria",
+        "question": "Tenho olho largo e ponta geralmente romba para passar fios espessos entre malhas."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Tecelagem",
+        "difficulty": "difícil",
+        "answer": "Tear vertical",
+        "question": "Mantenho os fios esticados de cima para baixo para formar um tecido entrelaçado."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Território e paisagem",
+        "sub_category": "Relevo costeiro",
+        "difficulty": "médio",
+        "answer": "Cabo geográfico",
+        "question": "Sou uma ponta de terra que avança pelo mar além da linha geral da costa."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Território e paisagem",
+        "sub_category": "Relevo glaciário",
+        "difficulty": "difícil",
+        "answer": "Vale glaciar",
+        "question": "Tenho frequentemente um perfil em U, esculpido pela passagem antiga de uma massa de gelo."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e escrita",
+        "sub_category": "Estilística",
+        "difficulty": "médio",
+        "answer": "Antítese",
+        "question": "Coloco ideias opostas lado a lado para criar contraste expressivo."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade e cidade",
+        "sub_category": "Estradas",
+        "difficulty": "médio",
+        "answer": "Berma",
+        "question": "Sou a faixa lateral da estrada que não se destina à circulação normal dos veículos."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade e cidade",
+        "sub_category": "Bicicletas",
+        "difficulty": "fácil",
+        "answer": "Ciclovia",
+        "question": "Sou uma via reservada ou especialmente destinada à circulação de bicicletas."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade e cidade",
+        "sub_category": "Peões",
+        "difficulty": "fácil",
+        "answer": "Ponte pedonal",
+        "question": "Permito atravessar um rio ou uma estrada elevada sem misturar peões com automóveis."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade e cidade",
+        "sub_category": "Ferrovia",
+        "difficulty": "médio",
+        "answer": "Apeadeiro",
+        "question": "Sou uma paragem ferroviária pequena, geralmente com menos instalações do que uma estação."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade e cidade",
+        "sub_category": "Sinalização",
+        "difficulty": "médio",
+        "answer": "Linha descontínua",
+        "question": "Na estrada, os meus segmentos separados permitem certas manobras quando a segurança o consente."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade e cidade",
+        "sub_category": "Moderação de velocidade",
+        "difficulty": "fácil",
+        "answer": "Lomba",
+        "question": "Sou uma elevação transversal do pavimento que obriga os condutores a abrandar."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardim e agricultura",
+        "sub_category": "Propagação",
+        "difficulty": "médio",
+        "answer": "Enxertia",
+        "question": "Uno partes de duas plantas compatíveis para que cresçam como um único exemplar."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardim e agricultura",
+        "sub_category": "Viveiros",
+        "difficulty": "difícil",
+        "answer": "Alfobre",
+        "question": "Sou um pequeno canteiro protegido onde germinam sementes antes de se transplantarem as plantas."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardim e agricultura",
+        "sub_category": "Sementeiras",
+        "difficulty": "médio",
+        "answer": "Sementeira direta",
+        "question": "Coloco as sementes logo no local definitivo, sem passar por tabuleiros de viveiro."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardim e agricultura",
+        "sub_category": "Vasos",
+        "difficulty": "médio",
+        "answer": "Vaso autoirrigável",
+        "question": "Guardo água num reservatório inferior e forneço-a gradualmente às raízes."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Controlo",
+        "difficulty": "médio",
+        "answer": "Temporizador mecânico",
+        "question": "Funciono com um mecanismo de relógio e desligo ou aviso quando termina o intervalo escolhido."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Eletricidade",
+        "difficulty": "fácil",
+        "answer": "Ficha tripla",
+        "question": "Permito ligar três aparelhos à mesma tomada através de um adaptador compacto."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Eletricidade",
+        "difficulty": "fácil",
+        "answer": "Extensão elétrica",
+        "question": "Levo a alimentação de uma tomada até aparelhos que estão mais longe, por meio de um cabo."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Filtragem",
+        "difficulty": "difícil",
+        "answer": "Filtro HEPA",
+        "question": "Retenho partículas muito pequenas do ar através de uma malha de fibras de elevada eficiência."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Conforto",
+        "difficulty": "fácil",
+        "answer": "Ventoinha de teto",
+        "question": "Faço circular o ar de uma divisão com pás que giram suspensas acima das pessoas."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Energia",
+        "difficulty": "médio",
+        "answer": "Carregador solar",
+        "question": "Transformo a luz do dia em energia elétrica para alimentar a bateria de um dispositivo."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Comandos",
+        "difficulty": "médio",
+        "answer": "Interruptor de pressão",
+        "question": "Só ativo o circuito enquanto mantenho o botão premido, regressando depois à posição inicial."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Iluminação",
+        "difficulty": "difícil",
+        "answer": "Sensor crepuscular",
+        "question": "Aciono automaticamente uma luz quando a claridade ambiente desce abaixo de certo nível."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Eletricidade",
+        "difficulty": "médio",
+        "answer": "Caixa de derivação",
+        "question": "Dentro de uma parede, protejo as ligações entre vários fios de uma instalação elétrica."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Casa de banho",
+        "difficulty": "fácil",
+        "answer": "Resguardo de duche",
+        "question": "Sou uma divisória transparente que evita salpicos fora da zona de banho."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Eletricidade",
+        "difficulty": "médio",
+        "answer": "Calha técnica",
+        "question": "Escondo e organizo cabos ao longo da parede, permitindo acesso para manutenção."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Isolamento",
+        "difficulty": "médio",
+        "answer": "Fita de vedação",
+        "question": "Aplico-me nas folgas de janelas para reduzir correntes de ar e entrada de pó."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Carpintaria",
+        "difficulty": "médio",
+        "answer": "Aro de porta",
+        "question": "Sou a estrutura fixa à parede onde se prende a folha móvel de uma entrada."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Coberturas",
+        "difficulty": "difícil",
+        "answer": "Subtelha",
+        "question": "Fico debaixo das peças exteriores da cobertura para criar uma proteção suplementar contra a água."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Fachadas",
+        "difficulty": "difícil",
+        "answer": "Capoto",
+        "question": "Sou um sistema de isolamento térmico aplicado pelo exterior das paredes e acabado com revestimento."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Construção e habitação",
+        "sub_category": "Ventilação",
+        "difficulty": "médio",
+        "answer": "Grelha de ventilação",
+        "question": "Tenho aberturas repetidas que permitem a circulação do ar através de uma parede ou porta."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e plantas",
+        "sub_category": "Reprodução",
+        "difficulty": "médio",
+        "answer": "Estigma floral",
+        "question": "Na ponta da estrutura feminina da flor, recebo os grãos de pólen durante a polinização."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e plantas",
+        "sub_category": "Ecologia",
+        "difficulty": "difícil",
+        "answer": "Planta epífita",
+        "question": "Cresço apoiada noutra planta sem retirar dela os nutrientes como um parasita."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e plantas",
+        "sub_category": "Crescimento",
+        "difficulty": "difícil",
+        "answer": "Dominância apical",
+        "question": "O rebento principal limita o desenvolvimento dos rebentos laterais graças a sinais hormonais."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia e céu",
+        "sub_category": "Fenómenos óticos",
+        "difficulty": "médio",
+        "answer": "Halo solar",
+        "question": "Formo um anel luminoso em redor do Sol quando a luz atravessa cristais de gelo nas nuvens altas."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia e céu",
+        "sub_category": "Nuvens",
+        "difficulty": "difícil",
+        "answer": "Nuvem lenticular",
+        "question": "Tenho frequentemente forma de lente e posso permanecer quase imóvel sobre uma montanha."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia e céu",
+        "sub_category": "Ventos",
+        "difficulty": "médio",
+        "answer": "Brisa marítima",
+        "question": "Sopro do mar para terra durante o dia, quando o continente aquece mais depressa."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia e céu",
+        "sub_category": "Visibilidade",
+        "difficulty": "médio",
+        "answer": "Nevoeiro de advecção",
+        "question": "Surjo quando ar húmido se desloca sobre uma superfície mais fria e perde visibilidade."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia e céu",
+        "sub_category": "Precipitação",
+        "difficulty": "médio",
+        "answer": "Chuvisco",
+        "question": "Caio em gotas muito pequenas e numerosas, molhando lentamente sem grandes pingos."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia e céu",
+        "sub_category": "Nuvens",
+        "difficulty": "médio",
+        "answer": "Cumulonimbo",
+        "question": "Sou uma nuvem de enorme desenvolvimento vertical, frequentemente com topo em forma de bigorna."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia e céu",
+        "sub_category": "Fenómenos óticos",
+        "difficulty": "difícil",
+        "answer": "Arco-íris secundário",
+        "question": "Apareço mais ténue e por fora do arco principal, com a ordem das cores invertida."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia e céu",
+        "sub_category": "Ventos",
+        "difficulty": "médio",
+        "answer": "Brisa terrestre",
+        "question": "Sopro de terra para o mar à noite, quando o continente arrefece mais depressa."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Meteorologia e céu",
+        "sub_category": "Temperatura",
+        "difficulty": "médio",
+        "answer": "Amplitude térmica diária",
+        "question": "Sou a diferença entre a temperatura máxima e a mínima registadas no mesmo dia."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e fabrico",
+        "sub_category": "Propriedades",
+        "difficulty": "difícil",
+        "answer": "Granulometria",
+        "question": "Descrevo a distribuição dos tamanhos dos grãos numa amostra de areia ou cascalho."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e fabrico",
+        "sub_category": "Vidro",
+        "difficulty": "médio",
+        "answer": "Vidro fosco",
+        "question": "Deixo entrar claridade, mas disperso a luz para dificultar a visão nítida através de mim."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e fabrico",
+        "sub_category": "Argamassas",
+        "difficulty": "difícil",
+        "answer": "Argamassa de cal",
+        "question": "Sou uma mistura tradicional usada em rebocos, com um ligante mineral que endurece gradualmente."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e fabrico",
+        "sub_category": "Plásticos",
+        "difficulty": "médio",
+        "answer": "Policarbonato",
+        "question": "Sou um plástico transparente e resistente a impactos, usado em coberturas leves e proteções."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e fabrico",
+        "sub_category": "Cerâmica",
+        "difficulty": "médio",
+        "answer": "Cerâmica vidrada",
+        "question": "Recebo uma camada vitrificada que torna a superfície brilhante e menos permeável."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e fabrico",
+        "sub_category": "Madeira",
+        "difficulty": "difícil",
+        "answer": "Contraplacado",
+        "question": "Sou formado por lâminas finas de madeira coladas com as fibras em direções alternadas."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e fabrico",
+        "sub_category": "Pavimentos",
+        "difficulty": "médio",
+        "answer": "Cortiça aglomerada",
+        "question": "Resulto de pequenos grânulos de casca de sobreiro unidos para criar placas isolantes."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e fabrico",
+        "sub_category": "Metais",
+        "difficulty": "difícil",
+        "answer": "Galvanização",
+        "question": "Protejo peças de ferro contra a corrosão ao revesti-las com uma camada de zinco."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais e fabrico",
+        "sub_category": "Vidro",
+        "difficulty": "difícil",
+        "answer": "Vidro laminado",
+        "question": "Tenho várias lâminas unidas por uma película que ajuda a reter os fragmentos em caso de quebra."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Costura e tecidos",
+        "sub_category": "Pontos",
+        "difficulty": "médio",
+        "answer": "Ponto de cadeia",
+        "question": "Formo uma sequência de laçadas ligadas que lembra os elos de uma corrente."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Costura e tecidos",
+        "sub_category": "Acabamentos",
+        "difficulty": "médio",
+        "answer": "Pesponto",
+        "question": "Sou uma costura visível junto à borda de uma peça, usada para reforçar ou decorar."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Costura e tecidos",
+        "sub_category": "Fechos",
+        "difficulty": "fácil",
+        "answer": "Casa de botão",
+        "question": "Sou uma abertura rematada no tecido por onde passa uma pequena peça de fecho."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Costura e tecidos",
+        "sub_category": "Acessórios",
+        "difficulty": "médio",
+        "answer": "Ilhó metálico",
+        "question": "Reforço um orifício no tecido para que passe um cordão sem o rasgar."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Costura e tecidos",
+        "sub_category": "Acabamentos",
+        "difficulty": "médio",
+        "answer": "Fita de viés",
+        "question": "Sou cortada na diagonal do tecido e adapto-me a curvas para rematar bordas."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Costura e tecidos",
+        "sub_category": "Montagem",
+        "difficulty": "médio",
+        "answer": "Alinhavo",
+        "question": "Sou uma costura provisória, feita com pontos largos antes da união definitiva."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e portos",
+        "sub_category": "Amarração",
+        "difficulty": "médio",
+        "answer": "Boia de amarração",
+        "question": "Flutuo presa ao fundo e ofereço um ponto fixo para prender uma embarcação."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e portos",
+        "sub_category": "Estruturas",
+        "difficulty": "difícil",
+        "answer": "Antepara",
+        "question": "Sou uma parede interior que divide compartimentos e pode impedir a passagem de água."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e pastelaria",
+        "sub_category": "Preparação",
+        "difficulty": "médio",
+        "answer": "Descaroçador",
+        "question": "Retiro a parte dura central de certas frutas sem as cortar em muitos pedaços."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e pastelaria",
+        "sub_category": "Pastelaria",
+        "difficulty": "médio",
+        "answer": "Pincel de pastelaria",
+        "question": "Espalho gema ou manteiga derretida sobre massas antes de irem ao forno."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e pastelaria",
+        "sub_category": "Pastelaria",
+        "difficulty": "médio",
+        "answer": "Forma de aro amovível",
+        "question": "Abro a minha parede lateral para libertar um bolo sem o virar ao contrário."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e pastelaria",
+        "sub_category": "Pastelaria",
+        "difficulty": "médio",
+        "answer": "Grelha de arrefecimento",
+        "question": "Deixo o ar circular por baixo de bolos acabados de sair do forno."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e pastelaria",
+        "sub_category": "Medição",
+        "difficulty": "médio",
+        "answer": "Termómetro de cozinha",
+        "question": "Indico a temperatura no interior de um alimento durante a preparação."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e pastelaria",
+        "sub_category": "Pastelaria",
+        "difficulty": "médio",
+        "answer": "Raspador de massa",
+        "question": "Sou uma lâmina larga, muitas vezes flexível, que recolhe e divide misturas sobre a bancada."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e pastelaria",
+        "sub_category": "Limpeza",
+        "difficulty": "fácil",
+        "answer": "Escorredor de louça",
+        "question": "Seguro pratos e copos depois de lavados para que a água escorra."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e pastelaria",
+        "sub_category": "Preparação",
+        "difficulty": "médio",
+        "answer": "Cortador de bolachas",
+        "question": "Pressiono uma forma sobre a massa estendida para obter figuras iguais."
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e pastelaria",
+        "sub_category": "Cozedura",
+        "difficulty": "médio",
+        "answer": "Cesto de vapor",
+        "question": "Mantenho os alimentos acima da água a ferver para os cozinhar pelo calor húmido."
       }
     ],
     "word_master": [
