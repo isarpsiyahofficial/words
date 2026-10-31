@@ -41172,11 +41172,11 @@
         "game_type": "kelime_ustasi",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Cerâmica e olaria",
-        "sub_category": "Materiais e técnicas",
-        "difficulty": "difícil",
-        "question": "Que granulado obtido de barro previamente cozido e triturado se junta à massa para reduzir deformações?",
-        "answer": "Chamote"
+        "main_category": "Navegação tradicional",
+        "sub_category": "Tipos de armação",
+        "difficulty": "médio",
+        "question": "Que pano triangular de propulsão náutica é sustentado por uma longa verga inclinada, típico de embarcações tradicionais do Mediterrâneo?",
+        "answer": "Vela latina"
       },
       {
         "game_type": "kelime_ustasi",
@@ -41212,11 +41212,11 @@
         "game_type": "kelime_ustasi",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Cerâmica e olaria",
-        "sub_category": "Processos",
-        "difficulty": "difícil",
-        "question": "Como se chama a primeira passagem de uma peça de barro pelo forno, antes da decoração final?",
-        "answer": "Biscoitagem"
+        "main_category": "Tecnologia e informação",
+        "sub_category": "Proteção de dados",
+        "difficulty": "médio",
+        "question": "Que modalidade de salvaguarda de dados guarda apenas o que mudou desde a salvaguarda anterior, seja ela completa ou parcial?",
+        "answer": "Cópia incremental"
       },
       {
         "game_type": "kelime_ustasi",
@@ -41413,10 +41413,10 @@
         "language": "Português",
         "locale": "pt-PT",
         "main_category": "Botânica",
-        "sub_category": "Reprodução",
+        "sub_category": "Desenvolvimento das sementes",
         "difficulty": "difícil",
-        "question": "Que forma de propagação das sementes utiliza correntes de ar como principal meio de transporte?",
-        "answer": "Dispersão anemocórica"
+        "question": "Que tipo de desenvolvimento inicial de uma planta mantém os cotilédones abaixo da superfície do solo enquanto surge o rebento?",
+        "answer": "Germinação hipógea"
       },
       {
         "game_type": "kelime_ustasi",
@@ -42872,11 +42872,11 @@
         "game_type": "kelime_ustasi",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Agricultura",
-        "sub_category": "Práticas agrícolas",
+        "main_category": "Física",
+        "sub_category": "Fluidos em repouso",
         "difficulty": "médio",
-        "answer": "Monda",
-        "question": "Como se chama a retirada de ervas indesejadas que competem com as plantas cultivadas?"
+        "answer": "Pressão hidrostática",
+        "question": "Que grandeza exercida por um líquido em repouso cresce com a profundidade devido ao peso da coluna de fluido?"
       },
       {
         "game_type": "kelime_ustasi",
@@ -44032,11 +44032,11 @@
         "game_type": "kelime_ustasi",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Matemática e dados",
-        "sub_category": "Estatística e transformações",
-        "difficulty": "fácil",
-        "question": "Que medida identifica o valor que aparece com maior frequência num conjunto de dados?",
-        "answer": "Moda estatística"
+        "main_category": "Tecnologia e informação",
+        "sub_category": "Segurança de documentos",
+        "difficulty": "médio",
+        "question": "Que mecanismo criptográfico permite verificar a autoria e a integridade de um documento eletrónico através de uma chave privada e outra pública?",
+        "answer": "Assinatura digital"
       },
       {
         "game_type": "kelime_ustasi",
@@ -44987,6 +44987,806 @@
         "difficulty": "difícil",
         "question": "Que transformação geométrica amplia ou reduz uma figura a partir de um centro, conservando as proporções?",
         "answer": "Homotetia"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas e crescimento",
+        "difficulty": "difícil",
+        "question": "Como se chama cada folha floral modificada que contém os óvulos e pode unir-se a outras para formar o pistilo?",
+        "answer": "Carpelo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas e crescimento",
+        "difficulty": "difícil",
+        "question": "Que camada de células entre tecidos condutores origina novos tecidos e aumenta a espessura dos caules lenhosos?",
+        "answer": "Câmbio vascular"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas e crescimento",
+        "difficulty": "difícil",
+        "question": "Que tecido vegetal de suporte, formado por células vivas com paredes espessadas de modo desigual, é comum nos caules jovens?",
+        "answer": "Colênquima"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas e crescimento",
+        "difficulty": "difícil",
+        "question": "Que tecido de sustentação vegetal é constituído por células geralmente mortas na maturidade, com paredes muito lignificadas?",
+        "answer": "Esclerênquima"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas e crescimento",
+        "difficulty": "difícil",
+        "question": "Como se chama a resposta de crescimento orientado de uma planta ao contacto com um suporte, como acontece nas gavinhas?",
+        "answer": "Tigmotropismo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas e crescimento",
+        "difficulty": "médio",
+        "question": "Que botão vegetativo localizado na ponta de um ramo dá origem ao prolongamento desse ramo?",
+        "answer": "Gema apical"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas e crescimento",
+        "difficulty": "médio",
+        "question": "Que botão vegetativo se forma no ângulo entre uma folha e o caule e pode originar um ramo lateral?",
+        "answer": "Gema axilar"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas e crescimento",
+        "difficulty": "médio",
+        "question": "Que camada de células reveste externamente a folha, protegendo os tecidos internos e contendo aberturas para trocas gasosas?",
+        "answer": "Epiderme foliar"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas e crescimento",
+        "difficulty": "difícil",
+        "question": "Que pequeno rebento do embrião de uma semente, formado por folhas rudimentares, dará origem à parte aérea?",
+        "answer": "Plúmula"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas e crescimento",
+        "difficulty": "médio",
+        "question": "Que parte embrionária da semente dá origem à primeira raiz durante o desenvolvimento inicial?",
+        "answer": "Radícula"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Técnicas de criação",
+        "difficulty": "difícil",
+        "question": "Que tipo de cozedura de cerâmica decorre com abundante entrada de ar no forno, ao contrário da realizada numa atmosfera pobre em ar?",
+        "answer": "Queima oxidante"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Técnicas de criação",
+        "difficulty": "difícil",
+        "question": "Que técnica de gravura usa uma matriz metálica incisa, cujas cavidades retêm tinta para a impressão?",
+        "answer": "Calcografia"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Técnicas de criação",
+        "difficulty": "difícil",
+        "question": "Que técnica de gravura em relevo utiliza uma placa de revestimento flexível habitualmente usado em pavimentos, em vez de madeira?",
+        "answer": "Linogravura"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Técnicas de criação",
+        "difficulty": "médio",
+        "question": "Que método de impressão faz passar tinta por uma malha esticada, deixando algumas áreas bloqueadas por um molde?",
+        "answer": "Serigrafia"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Técnicas de criação",
+        "difficulty": "difícil",
+        "question": "Que técnica de impressão produz uma prova única a partir de uma imagem pintada numa superfície lisa e transferida para papel?",
+        "answer": "Monotipia"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Técnicas de criação",
+        "difficulty": "médio",
+        "question": "Que recurso decorativo aplica várias cores a uma mesma escultura ou peça arquitetónica?",
+        "answer": "Policromia"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Técnicas de criação",
+        "difficulty": "médio",
+        "question": "Que acabamento reveste uma superfície com folhas muito finas de metal amarelo precioso?",
+        "answer": "Douramento"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Técnicas de criação",
+        "difficulty": "fácil",
+        "question": "Que técnica de pintura usa pigmentos diluídos em água e deixa transparecer o branco do papel?",
+        "answer": "Aguarela"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Técnicas de criação",
+        "difficulty": "médio",
+        "question": "Que folha muito absorvente se usa para retirar o excesso de tinta líquida de uma escrita sem a espalhar?",
+        "answer": "Papel mata-borrão"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes e ofícios",
+        "sub_category": "Técnicas de criação",
+        "difficulty": "difícil",
+        "question": "Que técnica de revestimento decorativo usa massas de gesso pigmentado e polido para imitar mármore?",
+        "answer": "Escaiola"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Navegação e embarcações",
+        "sub_category": "Estrutura e equipamentos",
+        "difficulty": "fácil",
+        "question": "Que volante circular, colocado na ponte de comando de certas embarcações, permite orientar o rumo?",
+        "answer": "Roda do leme"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Navegação e embarcações",
+        "sub_category": "Estrutura e equipamentos",
+        "difficulty": "médio",
+        "question": "Que peças almofadadas penduradas nos costados impedem o contacto direto entre barco e cais?",
+        "answer": "Defensas"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Navegação e embarcações",
+        "sub_category": "Estrutura e equipamentos",
+        "difficulty": "médio",
+        "question": "Que parede lateral acima do convés protege a borda de uma embarcação?",
+        "answer": "Amurada"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Navegação e embarcações",
+        "sub_category": "Estrutura e equipamentos",
+        "difficulty": "médio",
+        "question": "Que abertura no convés, normalmente fechada por uma tampa, permite o acesso ao interior do navio?",
+        "answer": "Escotilha"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Navegação e embarcações",
+        "sub_category": "Estrutura e equipamentos",
+        "difficulty": "fácil",
+        "question": "Que compartimento inferior de uma embarcação se destina sobretudo a guardar carga?",
+        "answer": "Porão"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Navegação e embarcações",
+        "sub_category": "Estrutura e equipamentos",
+        "difficulty": "difícil",
+        "question": "Que conjunto de peças curvas transversais forma o esqueleto que dá forma ao casco de uma embarcação?",
+        "answer": "Cavername"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Navegação e embarcações",
+        "sub_category": "Estrutura e equipamentos",
+        "difficulty": "difícil",
+        "question": "Que cabo fixo sustenta o mastro de um veleiro no sentido longitudinal, para a frente ou para trás?",
+        "answer": "Estai"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Navegação e embarcações",
+        "sub_category": "Estrutura e equipamentos",
+        "difficulty": "difícil",
+        "question": "Que peça horizontal articulada ao mastro sustenta a borda inferior da vela principal de um veleiro?",
+        "answer": "Retranca"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Navegação e embarcações",
+        "sub_category": "Estrutura e equipamentos",
+        "difficulty": "médio",
+        "question": "Que instrumento de bordo permite medir a profundidade da água sob uma embarcação?",
+        "answer": "Sonda náutica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Navegação e embarcações",
+        "sub_category": "Estrutura e equipamentos",
+        "difficulty": "médio",
+        "question": "Que objeto flutuante, ancorado num local, marca um canal ou transmite um aviso a quem navega?",
+        "answer": "Boia de sinalização"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Organização e acessibilidade",
+        "difficulty": "médio",
+        "question": "Que aplicação guarda credenciais de várias contas num cofre protegido por uma única chave principal?",
+        "answer": "Gestor de palavras-passe"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Organização e acessibilidade",
+        "difficulty": "difícil",
+        "question": "Que tipo de salvaguarda de ficheiros guarda todas as alterações feitas desde a última salvaguarda completa?",
+        "answer": "Cópia diferencial"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Organização e acessibilidade",
+        "difficulty": "médio",
+        "question": "Que estrutura lógica de um dispositivo organiza pastas, nomes e localizações dos dados guardados?",
+        "answer": "Sistema de ficheiros"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Organização e acessibilidade",
+        "difficulty": "fácil",
+        "question": "Que parte final de um nome informático, após o último ponto, costuma indicar o formato do documento?",
+        "answer": "Extensão de ficheiro"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Organização e acessibilidade",
+        "difficulty": "médio",
+        "question": "Que indicação da localização de um documento começa na raiz do dispositivo e não depende da pasta em que se está?",
+        "answer": "Caminho absoluto"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Organização e acessibilidade",
+        "difficulty": "médio",
+        "question": "Que tecnologia de apoio transforma os elementos e textos apresentados num dispositivo em fala ou saída tátil para pessoas com deficiência visual?",
+        "answer": "Leitor de ecrã"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Organização e acessibilidade",
+        "difficulty": "médio",
+        "question": "Que descrição escrita associada a uma imagem digital permite compreender o seu conteúdo sem a ver?",
+        "answer": "Texto alternativo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Organização e acessibilidade",
+        "difficulty": "médio",
+        "question": "Que forma de utilizar uma página permite percorrer ligações e comandos sem recorrer ao rato?",
+        "answer": "Navegação por teclado"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Organização e acessibilidade",
+        "difficulty": "médio",
+        "question": "Que caixa de diálogo numa aplicação exige atenção ou decisão antes de se voltar a interagir com a área por trás dela?",
+        "answer": "Janela modal"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia digital",
+        "sub_category": "Organização e acessibilidade",
+        "difficulty": "médio",
+        "question": "Que recurso de folha de cálculo muda automaticamente o aspeto das células conforme regras sobre os valores?",
+        "answer": "Formatação condicional"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e ambiente",
+        "sub_category": "Comunidades e paisagens",
+        "difficulty": "difícil",
+        "question": "Que taxa mede a produção de matéria orgânica pelos organismos que captam energia solar ou química num ecossistema?",
+        "answer": "Produtividade primária"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e ambiente",
+        "sub_category": "Comunidades e paisagens",
+        "difficulty": "difícil",
+        "question": "Que posição ocupa um organismo na transferência de energia de uma comunidade, consoante a forma como obtém alimento?",
+        "answer": "Nível trófico"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e ambiente",
+        "sub_category": "Comunidades e paisagens",
+        "difficulty": "médio",
+        "question": "Que processo divide uma área natural contínua em parcelas isoladas por estradas ou construções?",
+        "answer": "Fragmentação de habitat"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e ambiente",
+        "sub_category": "Comunidades e paisagens",
+        "difficulty": "médio",
+        "question": "Que intervenção procura recuperar funções e espécies de um ecossistema degradado, aproximando-o de uma condição saudável?",
+        "answer": "Restauração ecológica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e ambiente",
+        "sub_category": "Comunidades e paisagens",
+        "difficulty": "médio",
+        "question": "Que formação de árvores e arbustos acompanha as margens de rios e ribeiras?",
+        "answer": "Floresta ripícola"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e ambiente",
+        "sub_category": "Comunidades e paisagens",
+        "difficulty": "difícil",
+        "question": "Que tipo de plantas está adaptado a crescer em solos com elevada concentração de sais?",
+        "answer": "Vegetação halófila"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e ambiente",
+        "sub_category": "Comunidades e paisagens",
+        "difficulty": "difícil",
+        "question": "Que tipo de plantas apresenta adaptações para viver em locais muito secos e com pouca disponibilidade de água?",
+        "answer": "Vegetação xerófila"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e ambiente",
+        "sub_category": "Comunidades e paisagens",
+        "difficulty": "médio",
+        "question": "Que elevação de areia litoral se mantém relativamente estável graças à cobertura de plantas?",
+        "answer": "Duna fixa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e ambiente",
+        "sub_category": "Comunidades e paisagens",
+        "difficulty": "médio",
+        "question": "Que elevação arenosa da costa muda de posição por ação do vento, por ter pouca cobertura vegetal?",
+        "answer": "Duna móvel"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e ambiente",
+        "sub_category": "Comunidades e paisagens",
+        "difficulty": "médio",
+        "question": "Que área natural tem o solo coberto ou saturado de água durante parte significativa do ano?",
+        "answer": "Zona húmida"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e estatística",
+        "sub_category": "Conceitos e relações",
+        "difficulty": "médio",
+        "question": "Numa tabela estatística, que contagem indica quantas vezes um determinado valor ocorre, sem a dividir pelo total?",
+        "answer": "Frequência absoluta"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e estatística",
+        "sub_category": "Conceitos e relações",
+        "difficulty": "médio",
+        "question": "Numa tabela estatística, que proporção resulta de dividir o número de ocorrências de um valor pelo total observado?",
+        "answer": "Frequência relativa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e estatística",
+        "sub_category": "Conceitos e relações",
+        "difficulty": "difícil",
+        "question": "Que indicador compara o desvio-padrão com a média, permitindo avaliar a dispersão em termos proporcionais?",
+        "answer": "Coeficiente de variação"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e estatística",
+        "sub_category": "Conceitos e relações",
+        "difficulty": "difícil",
+        "question": "Que resultado matemático se deduz quase imediatamente de um teorema já demonstrado?",
+        "answer": "Corolário"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e estatística",
+        "sub_category": "Conceitos e relações",
+        "difficulty": "médio",
+        "question": "Que caso particular basta apresentar para mostrar que uma afirmação geral é falsa?",
+        "answer": "Contraexemplo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e estatística",
+        "sub_category": "Conceitos e relações",
+        "difficulty": "difícil",
+        "question": "Que correspondência entre dois conjuntos é simultaneamente um-para-um e cobre todos os elementos do conjunto de chegada?",
+        "answer": "Função bijetiva"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e estatística",
+        "sub_category": "Conceitos e relações",
+        "difficulty": "difícil",
+        "question": "Que tipo de correspondência associa elementos diferentes da origem a imagens sempre diferentes?",
+        "answer": "Função injetiva"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e estatística",
+        "sub_category": "Conceitos e relações",
+        "difficulty": "difícil",
+        "question": "Que tipo de correspondência garante que cada elemento do conjunto de chegada é imagem de pelo menos um elemento de partida?",
+        "answer": "Função sobrejetiva"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e estatística",
+        "sub_category": "Conceitos e relações",
+        "difficulty": "difícil",
+        "question": "Que reta paralela ao eixo das ordenadas é aproximada indefinidamente pelo gráfico de uma função perto de um certo valor de x?",
+        "answer": "Assíntota vertical"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e estatística",
+        "sub_category": "Conceitos e relações",
+        "difficulty": "difícil",
+        "question": "Que ponto de uma curva marca a mudança de concavidade, de voltada para cima para voltada para baixo ou vice-versa?",
+        "answer": "Ponto de inflexão"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Culinária e física",
+        "sub_category": "Preparações e fenómenos",
+        "difficulty": "médio",
+        "question": "Que preparação portuguesa de arroz se serve com bastante caldo, sem ficar seca nem solta?",
+        "answer": "Arroz malandrinho"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Culinária e física",
+        "sub_category": "Preparações e fenómenos",
+        "difficulty": "fácil",
+        "question": "Que tipo de queijo amadurece durante um período controlado para desenvolver sabor e textura mais intensos?",
+        "answer": "Queijo curado"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Culinária e física",
+        "sub_category": "Preparações e fenómenos",
+        "difficulty": "médio",
+        "question": "Que pão doce tradicional dos Açores se caracteriza por uma massa enriquecida, longamente trabalhada até ficar elástica?",
+        "answer": "Massa sovada"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Culinária e física",
+        "sub_category": "Preparações e fenómenos",
+        "difficulty": "médio",
+        "question": "Que preparação de pastelaria feita sobretudo com gemas e calda de açúcar serve para rechear e cobrir bolos?",
+        "answer": "Doce de ovos"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Culinária e física",
+        "sub_category": "Preparações e fenómenos",
+        "difficulty": "médio",
+        "question": "Que substância se adiciona ao leite para provocar a formação da parte sólida usada na produção de queijo?",
+        "answer": "Coalho"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Culinária e física",
+        "sub_category": "Preparações e fenómenos",
+        "difficulty": "médio",
+        "question": "Que fenómeno ocorre quando a luz incide numa superfície irregular e regressa em muitas direções?",
+        "answer": "Reflexão difusa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Culinária e física",
+        "sub_category": "Preparações e fenómenos",
+        "difficulty": "médio",
+        "question": "Que fenómeno separa a luz branca nas diferentes cores ao atravessar um prisma?",
+        "answer": "Dispersão da luz"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Culinária e física",
+        "sub_category": "Preparações e fenómenos",
+        "difficulty": "difícil",
+        "question": "Que emissão de luz por certos materiais termina quase de imediato quando se retira a fonte que os ilumina?",
+        "answer": "Fluorescência"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Culinária e física",
+        "sub_category": "Preparações e fenómenos",
+        "difficulty": "difícil",
+        "question": "Que emissão luminosa continua durante algum tempo depois de a fonte de excitação ser retirada?",
+        "answer": "Fosforescência"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Culinária e física",
+        "sub_category": "Preparações e fenómenos",
+        "difficulty": "difícil",
+        "question": "Que grandeza indica quanta energia é necessária para elevar em um grau a temperatura de uma unidade de massa de uma substância?",
+        "answer": "Calor específico"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e arquitetura",
+        "sub_category": "Gramática e construção",
+        "difficulty": "difícil",
+        "question": "Que combinação de sons vocálicos na mesma sílaba começa por uma semivogal e termina numa vogal?",
+        "answer": "Ditongo crescente"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e arquitetura",
+        "sub_category": "Gramática e construção",
+        "difficulty": "difícil",
+        "question": "Que combinação de sons vocálicos na mesma sílaba começa por uma vogal e termina numa semivogal?",
+        "answer": "Ditongo decrescente"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e arquitetura",
+        "sub_category": "Gramática e construção",
+        "difficulty": "difícil",
+        "question": "Que alteração fonética elimina um som no interior de uma palavra ao longo da evolução da língua?",
+        "answer": "Síncope"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e arquitetura",
+        "sub_category": "Gramática e construção",
+        "difficulty": "difícil",
+        "question": "Que tipo de oração dependente exprime a finalidade da ação principal, como em «para que tudo corra bem»?",
+        "answer": "Oração subordinada final"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e arquitetura",
+        "sub_category": "Gramática e construção",
+        "difficulty": "difícil",
+        "question": "Que cobertura arquitetónica nasce do cruzamento perpendicular de duas coberturas semicilíndricas?",
+        "answer": "Abóbada de aresta"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e arquitetura",
+        "sub_category": "Gramática e construção",
+        "difficulty": "médio",
+        "question": "Que pedra central colocada no topo de um arco de alvenaria trava as restantes peças?",
+        "answer": "Chave de arco"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e arquitetura",
+        "sub_category": "Gramática e construção",
+        "difficulty": "médio",
+        "question": "Que armação fixa as folhas e os vidros de uma janela ou porta?",
+        "answer": "Caixilho"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e arquitetura",
+        "sub_category": "Gramática e construção",
+        "difficulty": "difícil",
+        "question": "Que elemento de cantaria reforça e marca o encontro exterior de duas paredes de um edifício?",
+        "answer": "Cunhal"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e arquitetura",
+        "sub_category": "Gramática e construção",
+        "difficulty": "médio",
+        "question": "Que informações descrevem um ficheiro, como data de criação, autor e formato, sem serem o seu conteúdo principal?",
+        "answer": "Metadados"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e arquitetura",
+        "sub_category": "Gramática e construção",
+        "difficulty": "fácil",
+        "question": "Que elemento clicável num documento digital leva a outra página, secção ou recurso?",
+        "answer": "Hiperligação"
       }
     ]
   }
