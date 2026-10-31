@@ -16866,6 +16866,606 @@
       "difficulty": "보통",
       "question": "작은 나무 조각을 접착제와 함께 눌러 만든 판재는?",
       "answer": "파티클보드"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "측정과 계측",
+      "sub_category": "길이 측정",
+      "difficulty": "보통",
+      "question": "가느다란 틈의 너비를 여러 장의 얇은 금속판으로 확인하는 도구는?",
+      "answer": "필러게이지"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "측정과 계측",
+      "sub_category": "압력 측정",
+      "difficulty": "보통",
+      "question": "두 지점 사이의 압력 차이를 재는 장치는?",
+      "answer": "차압계"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "측정과 계측",
+      "sub_category": "회전 측정",
+      "difficulty": "보통",
+      "question": "축이 일정 시간에 몇 번 도는지 확인하는 기구는?",
+      "answer": "회전속도계"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "측정과 계측",
+      "sub_category": "각도 측정",
+      "difficulty": "보통",
+      "question": "기울어진 면의 각도를 중력 방향을 기준으로 재는 기구는?",
+      "answer": "경사계"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "측정과 계측",
+      "sub_category": "빛 측정",
+      "difficulty": "보통",
+      "question": "표면에 도달하는 빛의 양을 수치로 재는 기구는?",
+      "answer": "조도계"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "측정과 계측",
+      "sub_category": "공기 측정",
+      "difficulty": "어려움",
+      "question": "공기가 흐르는 통로에서 단위 시간에 지나가는 부피를 재는 장치는?",
+      "answer": "풍량계"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "건축구조",
+      "sub_category": "기초",
+      "difficulty": "보통",
+      "question": "건물의 무게를 여러 지점으로 나누어 지반에 전달하도록 만든 넓은 바닥 구조는?",
+      "answer": "매트기초"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "건축구조",
+      "sub_category": "기초",
+      "difficulty": "어려움",
+      "question": "지반 깊은 곳의 단단한 층까지 긴 부재를 박아 하중을 전달하는 방식은?",
+      "answer": "말뚝기초"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "건축구조",
+      "sub_category": "계단",
+      "difficulty": "보통",
+      "question": "계단에서 발을 디디는 수평 부분을 무엇이라 하나요?",
+      "answer": "디딤판"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "건축구조",
+      "sub_category": "외벽",
+      "difficulty": "어려움",
+      "question": "외부 마감재와 벽 사이에 공기가 흐르도록 빈 공간을 두는 외장 방식은?",
+      "answer": "통기층공법"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "재료과학",
+      "sub_category": "내구성",
+      "difficulty": "어려움",
+      "question": "작은 힘을 여러 번 반복해서 받아 결국 재료에 균열이 생기는 현상은?",
+      "answer": "피로파괴"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "재료과학",
+      "sub_category": "열적 성질",
+      "difficulty": "어려움",
+      "question": "온도가 한 단위 변할 때 재료의 길이가 얼마나 달라지는지를 나타내는 비율은?",
+      "answer": "선팽창계수"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "재료과학",
+      "sub_category": "고분자",
+      "difficulty": "어려움",
+      "question": "물질이 고체처럼 되돌아가면서도 액체처럼 천천히 흐르는 성질은?",
+      "answer": "점탄성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물생리",
+      "sub_category": "번식",
+      "difficulty": "어려움",
+      "question": "씨앗이 발아하기 전에 일정 기간 낮은 온도를 겪어야 하는 현상은?",
+      "answer": "저온요구성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물생리",
+      "sub_category": "영양",
+      "difficulty": "어려움",
+      "question": "빛이 부족할 때 줄기가 가늘고 길게 자라며 잎 색이 옅어지는 현상은?",
+      "answer": "도장"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "토양과 농업",
+      "sub_category": "토양 성질",
+      "difficulty": "어려움",
+      "question": "흙에 물을 충분히 준 뒤 중력으로 빠져나갈 물이 사라졌을 때 남는 수분량은?",
+      "answer": "포장용수량"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "해양과 수문",
+      "sub_category": "연안 지형",
+      "difficulty": "어려움",
+      "question": "육지와 섬 사이에 모래가 쌓여 두 지형을 연결한 좁은 땅은?",
+      "answer": "육계사주"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "해양과 수문",
+      "sub_category": "바다 생태",
+      "difficulty": "보통",
+      "question": "해안의 바위에 붙어 자라며 바닷속 숲처럼 여러 생물의 서식처가 되는 대형 갈조류는?",
+      "answer": "다시마"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "기상과 대기",
+      "sub_category": "구름",
+      "difficulty": "어려움",
+      "question": "하늘에 얇은 막처럼 펼쳐져 해나 달 주위에 무리가 나타나기도 하는 구름은?",
+      "answer": "권층운"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "기상과 대기",
+      "sub_category": "대기 광학",
+      "difficulty": "어려움",
+      "question": "차가운 공기층과 따뜻한 공기층의 굴절률 차이로 먼 물체가 떠 보이는 현상은?",
+      "answer": "신기루"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "달",
+      "difficulty": "보통",
+      "question": "달의 밝은 면이 절반만 보이고 매일 더 커져 가는 시기는?",
+      "answer": "상현달"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문과 우주",
+      "sub_category": "달",
+      "difficulty": "보통",
+      "question": "달의 밝은 면이 절반만 보이고 매일 더 작아져 가는 시기는?",
+      "answer": "하현달"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학",
+      "sub_category": "기하",
+      "difficulty": "보통",
+      "question": "삼각형의 한 꼭짓점에서 마주 보는 변에 수직으로 내린 선분은?",
+      "answer": "높이"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학",
+      "sub_category": "함수",
+      "difficulty": "어려움",
+      "question": "입력값이 조금 바뀔 때 출력값이 얼마나 민감하게 달라지는지를 나타내는 값은?",
+      "answer": "미분계수"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학",
+      "sub_category": "논리",
+      "difficulty": "보통",
+      "question": "어떤 명제가 참일 때 반드시 참이 되는 반대 방향의 조건 관계는?",
+      "answer": "대우"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "통계와 데이터",
+      "sub_category": "자료 분포",
+      "difficulty": "어려움",
+      "question": "자료를 작은 순서대로 나눌 때 전체의 4분의 1 지점을 나타내는 값은?",
+      "answer": "제일사분위수"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "통계와 데이터",
+      "sub_category": "검정",
+      "difficulty": "어려움",
+      "question": "실제로 차이가 없는데도 차이가 있다고 판단하는 잘못은?",
+      "answer": "제일종오류"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 정보",
+      "sub_category": "자료 구조",
+      "difficulty": "보통",
+      "question": "먼저 들어온 자료가 먼저 나오는 순서로 처리하는 구조는?",
+      "answer": "큐"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 정보",
+      "sub_category": "네트워크",
+      "difficulty": "보통",
+      "question": "한 네트워크 안에서 장치의 주소를 보고 자료를 적절한 포트로 보내는 장비는?",
+      "answer": "스위치"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 정보",
+      "sub_category": "자료 관리",
+      "difficulty": "어려움",
+      "question": "데이터베이스에서 여러 변경 작업을 하나의 묶음으로 처리하는 단위는?",
+      "answer": "트랜잭션"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전기전자",
+      "sub_category": "신호",
+      "difficulty": "어려움",
+      "question": "연속적인 전압 변화를 일정 간격으로 읽어 숫자 값으로 바꾸는 장치는?",
+      "answer": "아날로그디지털변환기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전기전자",
+      "sub_category": "신호",
+      "difficulty": "어려움",
+      "question": "숫자로 저장된 값을 연속적인 전압 형태로 바꾸는 장치는?",
+      "answer": "디지털아날로그변환기"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전기전자",
+      "sub_category": "센서",
+      "difficulty": "보통",
+      "question": "온도에 따라 전기 저항이 크게 달라지는 부품은?",
+      "answer": "서미스터"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "노출",
+      "difficulty": "보통",
+      "question": "빛이 이미지 센서에 도달하는 시간을 조절하는 장치는?",
+      "answer": "셔터"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "촬영",
+      "difficulty": "어려움",
+      "question": "카메라를 움직여도 영상이 덜 흔들리도록 기계적으로 자세를 잡아 주는 장치는?",
+      "answer": "짐벌"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학",
+      "difficulty": "어려움",
+      "question": "화면의 직선이 가장자리에서 바깥쪽으로 휘어 보이는 현상은?",
+      "answer": "배럴왜곡"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "영상",
+      "difficulty": "보통",
+      "question": "한 장면을 구성하는 정지 화면이 1초 동안 표시되는 횟수는?",
+      "answer": "프레임레이트"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "영상",
+      "difficulty": "어려움",
+      "question": "영상에서 밝은 부분과 어두운 부분의 표현 가능한 범위를 뜻하는 용어는?",
+      "answer": "다이내믹레인지"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "종이와 인쇄",
+      "sub_category": "인쇄 방식",
+      "difficulty": "보통",
+      "question": "잉크가 묻은 판의 돌출된 부분을 종이에 눌러 찍는 방식은?",
+      "answer": "볼록판인쇄"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "종이와 인쇄",
+      "sub_category": "인쇄 방식",
+      "difficulty": "어려움",
+      "question": "잉크를 얇은 망의 열린 부분으로 밀어 통과시키는 방식은?",
+      "answer": "실크스크린"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "종이와 인쇄",
+      "sub_category": "제본",
+      "difficulty": "보통",
+      "question": "여러 장의 종이를 접은 묶음을 실로 이어 책등을 만드는 방법은?",
+      "answer": "실제본"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "종이와 인쇄",
+      "sub_category": "종이 특성",
+      "difficulty": "어려움",
+      "question": "종이를 뒤에서 비췄을 때 빛이 얼마나 통과하는지 나타내는 성질은?",
+      "answer": "불투명도"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "종이와 인쇄",
+      "sub_category": "인쇄 색상",
+      "difficulty": "어려움",
+      "question": "인쇄에서 청록색, 자홍색, 노란색, 검은색을 조합하는 색 표현 방식은?",
+      "answer": "시엠와이케이"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "섬유와 직물",
+      "sub_category": "가공",
+      "difficulty": "보통",
+      "question": "천을 일정 온도에서 처리해 세탁 후 크기가 덜 변하게 하는 과정은?",
+      "answer": "열고정"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "섬유와 직물",
+      "sub_category": "염색",
+      "difficulty": "어려움",
+      "question": "실을 염색한 뒤 서로 다른 색의 실을 배치해 무늬를 만드는 방법은?",
+      "answer": "선염"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "섬유와 직물",
+      "sub_category": "섬유 성질",
+      "difficulty": "보통",
+      "question": "실이나 천이 당겨졌다가 힘을 빼면 원래 길이로 돌아가는 성질은?",
+      "answer": "신축성"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식품과 조리",
+      "sub_category": "발효",
+      "difficulty": "보통",
+      "question": "우유 속 당분을 미생물이 분해해 새콤한 맛을 내게 하는 과정은?",
+      "answer": "젖산발효"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 공예",
+      "sub_category": "도자",
+      "difficulty": "어려움",
+      "question": "그릇 표면에 바른 유리질 막이 식는 과정에서 잔금처럼 갈라지는 무늬는?",
+      "answer": "빙렬"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 공예",
+      "sub_category": "목공",
+      "difficulty": "보통",
+      "question": "나무 두 조각을 못 없이 홈과 돌기로 맞물리게 잇는 방식은?",
+      "answer": "짜맞춤"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 공예",
+      "sub_category": "목공",
+      "difficulty": "어려움",
+      "question": "나무의 결을 따라 얇게 깎아 만든 판을 표면에 붙이는 재료는?",
+      "answer": "무늬목"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 공예",
+      "sub_category": "금속",
+      "difficulty": "어려움",
+      "question": "금속 표면에 다른 금속의 가느다란 선을 박아 무늬를 만드는 기술은?",
+      "answer": "입사"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 공예",
+      "sub_category": "염색",
+      "difficulty": "보통",
+      "question": "천의 일부를 묶어 염료가 스며들지 않게 하여 무늬를 만드는 방법은?",
+      "answer": "홀치기염색"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 공예",
+      "sub_category": "종이",
+      "difficulty": "보통",
+      "question": "종이를 여러 겹 붙여 단단한 생활용품을 만드는 전통 기법은?",
+      "answer": "지호공예"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통 공예",
+      "sub_category": "장식",
+      "difficulty": "어려움",
+      "question": "조개껍데기의 빛나는 부분을 얇게 잘라 목재 표면에 붙이는 장식은?",
+      "answer": "나전"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생태와 환경",
+      "sub_category": "환경 관리",
+      "difficulty": "보통",
+      "question": "비가 올 때 물을 잠시 저장해 하천으로 흘러가는 속도를 늦추는 시설은?",
+      "answer": "저류지"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "생태와 환경",
+      "sub_category": "물질 순환",
+      "difficulty": "어려움",
+      "question": "산소가 거의 없는 환경에서 유기물이 분해되어 가연성 기체가 만들어지는 과정은?",
+      "answer": "혐기성소화"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "인체와 생리",
+      "sub_category": "순환",
+      "difficulty": "어려움",
+      "question": "혈액이 거꾸로 흐르지 않도록 심장 안에서 열리고 닫히는 구조는?",
+      "answer": "판막"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "인체와 생리",
+      "sub_category": "소화",
+      "difficulty": "어려움",
+      "question": "작은창자 안쪽에 돌출되어 영양소를 흡수하는 면적을 넓혀 주는 구조는?",
+      "answer": "융털"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "인체와 생리",
+      "sub_category": "신경",
+      "difficulty": "어려움",
+      "question": "신경세포에서 신호를 다른 세포로 전달하는 긴 돌기는?",
+      "answer": "축삭"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "인체와 생리",
+      "sub_category": "근육",
+      "difficulty": "보통",
+      "question": "힘줄을 통해 뼈에 붙어 의지대로 움직일 수 있는 근육은?",
+      "answer": "골격근"
     }
   ],
   "tabu": [
