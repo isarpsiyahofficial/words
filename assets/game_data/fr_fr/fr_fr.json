@@ -15246,6 +15246,606 @@
       "difficulty": "difficile",
       "question": "Quel mécanisme répartit des copies de données sur plusieurs supports pour améliorer la disponibilité ?",
       "answer": "réplication"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Toitures",
+      "difficulty": "moyen",
+      "question": "Quelle pièce inclinée forme la rencontre saillante de deux pans de toiture ?",
+      "answer": "arêtier"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Objectifs",
+      "difficulty": "moyen",
+      "question": "Quel type d'objectif permet de cadrer un sujet éloigné avec un champ étroit ?",
+      "answer": "téléobjectif"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Couture",
+      "difficulty": "moyen",
+      "question": "Quelle technique de couture permet de fermer une ouverture sans montrer les fils sur l'endroit ?",
+      "answer": "point invisible"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Préparation",
+      "difficulty": "moyen",
+      "question": "Quel procédé laisse des fruits au contact du sucre ou d'un liquide pour en extraire les arômes ?",
+      "answer": "macération"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Fruits",
+      "difficulty": "difficile",
+      "question": "Quel fruit sec ne s'ouvre pas à maturité et contient généralement une seule graine ?",
+      "answer": "akène"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie",
+      "sub_category": "Littoral",
+      "difficulty": "moyen",
+      "question": "Quelle portion de terre est presque entièrement entourée d'eau tout en restant rattachée au continent ?",
+      "answer": "presqu'île"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Chimie",
+      "sub_category": "Séparation",
+      "difficulty": "moyen",
+      "question": "Quelle méthode sépare des liquides grâce à leurs températures d'ébullition différentes ?",
+      "answer": "distillation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Linguistique",
+      "sub_category": "Grammaire",
+      "difficulty": "moyen",
+      "question": "Quelle construction place un groupe nominal près d'un autre pour apporter une précision ?",
+      "answer": "apposition"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Assemblages",
+      "difficulty": "moyen",
+      "question": "Quel creux long et étroit reçoit le bord d'une autre pièce dans un assemblage ?",
+      "answer": "rainure"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Relations biologiques",
+      "difficulty": "moyen",
+      "question": "Quel organisme se nourrit principalement de matière organique morte ?",
+      "answer": "détritivore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Données",
+      "difficulty": "moyen",
+      "question": "Quel champ identifie de manière unique chaque ligne d'une table de données ?",
+      "answer": "clé primaire"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Horticulture",
+      "sub_category": "Culture",
+      "difficulty": "moyen",
+      "question": "Quelle technique guide et fixe les rameaux sur un support selon une forme choisie ?",
+      "answer": "palissage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Toitures",
+      "difficulty": "difficile",
+      "question": "Quelle planche mince est fixée sur la charpente pour soutenir une couverture ?",
+      "answer": "volige"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Objectifs",
+      "difficulty": "moyen",
+      "question": "Quel objectif permet de photographier une scène très large depuis un espace réduit ?",
+      "answer": "grand-angle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Couture",
+      "difficulty": "moyen",
+      "question": "Quelle couture provisoire à grands points maintient les pièces avant leur assemblage définitif ?",
+      "answer": "point de bâti"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Boulangerie",
+      "difficulty": "moyen",
+      "question": "Quelle première période de repos permet à une pâte levée de développer ses arômes ?",
+      "answer": "pointage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Inflorescences",
+      "difficulty": "difficile",
+      "question": "Quelle disposition florale fait partir plusieurs pédoncules d'un même point ?",
+      "answer": "ombelle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie",
+      "sub_category": "Littoral",
+      "difficulty": "moyen",
+      "question": "Quel passage maritime resserré relie deux étendues d'eau plus larges ?",
+      "answer": "détroit"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Chimie",
+      "sub_category": "Mélanges",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on un liquide qui ne peut plus dissoudre davantage d'une substance à température donnée ?",
+      "answer": "solution saturée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Linguistique",
+      "sub_category": "Grammaire",
+      "difficulty": "moyen",
+      "question": "Quelle forme verbale associe « en » à un participe présent pour exprimer une circonstance ?",
+      "answer": "gérondif"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Assemblages",
+      "difficulty": "moyen",
+      "question": "Quelle partie mince et saillante s'insère dans une fente correspondante ?",
+      "answer": "languette"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Habitats",
+      "difficulty": "difficile",
+      "question": "Quel ensemble regroupe tous les êtres vivants partageant un même milieu ?",
+      "answer": "biocénose"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Données",
+      "difficulty": "moyen",
+      "question": "Quel champ d'une table renvoie à l'identifiant d'une autre table ?",
+      "answer": "clé étrangère"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Horticulture",
+      "sub_category": "Culture",
+      "difficulty": "moyen",
+      "question": "Quelle méthode place plusieurs graines dans de petits trous espacés ?",
+      "answer": "semis en poquets"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Isolation",
+      "difficulty": "difficile",
+      "question": "Quelle membrane limite la migration de l'humidité intérieure vers un isolant ?",
+      "answer": "pare-vapeur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Prise de vue",
+      "difficulty": "moyen",
+      "question": "Quelle technique utilise une durée d'exposition élevée pour rendre flou un mouvement ?",
+      "answer": "pose longue"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Confection",
+      "difficulty": "moyen",
+      "question": "Quelle pièce de tissu rapportée forme une section distincte d'un vêtement ?",
+      "answer": "empiècement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Boulangerie",
+      "difficulty": "moyen",
+      "question": "Quelle manipulation replie la pâte sur elle-même pendant la fermentation ?",
+      "answer": "rabattage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Inflorescences",
+      "difficulty": "difficile",
+      "question": "Quelle inflorescence ramifiée porte des fleurs sur plusieurs axes secondaires ?",
+      "answer": "panicule"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Chimie",
+      "sub_category": "Réactions",
+      "difficulty": "moyen",
+      "question": "Quelle substance accélère une transformation chimique sans être consommée globalement ?",
+      "answer": "catalyseur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Linguistique",
+      "sub_category": "Grammaire",
+      "difficulty": "moyen",
+      "question": "Quel mot introduit une proposition qui complète un nom tout en reprenant ce nom ?",
+      "answer": "pronom relatif"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Finitions",
+      "difficulty": "moyen",
+      "question": "Quelle feuille de bois mince recouvre un support pour lui donner un aspect différent ?",
+      "answer": "placage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Habitats",
+      "difficulty": "difficile",
+      "question": "Quel terme désigne les conditions physiques d'un milieu occupé par des organismes ?",
+      "answer": "biotope"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Données",
+      "difficulty": "moyen",
+      "question": "Quelle suite d'opérations sur des données est validée ou annulée comme un tout ?",
+      "answer": "transaction"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Horticulture",
+      "sub_category": "Entretien",
+      "difficulty": "moyen",
+      "question": "Quelle taille supprime l'extrémité d'une tige pour limiter sa croissance verticale ?",
+      "answer": "écimage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Aménagement",
+      "difficulty": "moyen",
+      "question": "Quelle paroi ajourée sépare deux espaces tout en laissant passer la lumière ?",
+      "answer": "claustra"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Photographie",
+      "sub_category": "Composition",
+      "difficulty": "moyen",
+      "question": "Quel tracé imaginaire semble converger vers un point éloigné dans une scène en perspective ?",
+      "answer": "ligne de fuite"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Tissage",
+      "difficulty": "difficile",
+      "question": "Comment appelle-t-on un fil enroulé en longues boucles avant sa mise en pelote ?",
+      "answer": "écheveau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Boulangerie",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on les incisions pratiquées sur le dessus d'un pain juste avant cuisson ?",
+      "answer": "grignage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Chimie",
+      "sub_category": "Réactions",
+      "difficulty": "moyen",
+      "question": "Quelle réaction entre un acide et une base tend à réduire leurs propriétés caractéristiques ?",
+      "answer": "neutralisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Linguistique",
+      "sub_category": "Grammaire",
+      "difficulty": "moyen",
+      "question": "Quelle classe de mots comprend « mon », « ton » et « leur » devant un nom ?",
+      "answer": "déterminant possessif"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Matériaux",
+      "difficulty": "moyen",
+      "question": "Quel panneau est constitué de fines couches de bois collées avec des fibres croisées ?",
+      "answer": "contreplaqué"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Relations biologiques",
+      "difficulty": "moyen",
+      "question": "Quel ensemble de relations alimentaires relie plusieurs chaînes entre elles ?",
+      "answer": "réseau trophique"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Systèmes",
+      "difficulty": "difficile",
+      "question": "Quelle technique permet de faire fonctionner plusieurs environnements isolés sur une même machine physique ?",
+      "answer": "virtualisation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Horticulture",
+      "sub_category": "Entretien",
+      "difficulty": "moyen",
+      "question": "Quelle opération améliore la circulation de l'air et de l'eau autour des racines ?",
+      "answer": "aération du sol"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Toitures",
+      "difficulty": "difficile",
+      "question": "Comment appelle-t-on l'angle rentrant où se rejoignent deux pans de couverture ?",
+      "answer": "noue de toiture"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Textile",
+      "sub_category": "Confection",
+      "difficulty": "moyen",
+      "question": "Quel modèle en papier sert à découper les différentes pièces d'un vêtement ?",
+      "answer": "patron de couture"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Linguistique",
+      "sub_category": "Grammaire",
+      "difficulty": "moyen",
+      "question": "Quelle fonction complète un verbe sans préposition et répond souvent à « qui » ou « quoi » ?",
+      "answer": "complément d'objet direct"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Matériaux",
+      "difficulty": "moyen",
+      "question": "Quelle surface apparaît lorsqu'une pièce de bois est coupée perpendiculairement à ses fibres ?",
+      "answer": "bois de bout"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Milieux aquatiques",
+      "difficulty": "moyen",
+      "question": "Quel milieu reste inondé ou gorgé d'eau de façon permanente ou saisonnière ?",
+      "answer": "zone humide"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Systèmes",
+      "difficulty": "moyen",
+      "question": "Quel environnement léger regroupe une application et ses dépendances sans émuler un ordinateur entier ?",
+      "answer": "conteneur logiciel"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Façades",
+      "difficulty": "difficile",
+      "question": "Quel terme désigne l'ensemble des reliefs décoratifs qui rythment une façade ?",
+      "answer": "modénature"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Linguistique",
+      "sub_category": "Phonétique",
+      "difficulty": "moyen",
+      "question": "Quelle suppression d'une voyelle finale est signalée à l'écrit par une apostrophe ?",
+      "answer": "élision"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Menuiserie",
+      "sub_category": "Finitions",
+      "difficulty": "moyen",
+      "question": "Quelle opération lisse une surface à l'aide d'un abrasif ?",
+      "answer": "ponçage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Écologie",
+      "sub_category": "Habitats",
+      "difficulty": "moyen",
+      "question": "Quel milieu herbacé reste régulièrement imbibé d'eau sans être entièrement boisé ?",
+      "answer": "prairie humide"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Développement",
+      "difficulty": "moyen",
+      "question": "Quel ensemble de règles permet à deux logiciels d'échanger des fonctions et des données ?",
+      "answer": "interface de programmation"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Construction",
+      "difficulty": "moyen",
+      "question": "Quelle couche de mortier permet d'obtenir une surface régulière avant la pose d'un revêtement ?",
+      "answer": "chape"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Linguistique",
+      "sub_category": "Rhétorique",
+      "difficulty": "moyen",
+      "question": "Quelle figure attribue à un objet ou à un phénomène des caractéristiques humaines ?",
+      "answer": "personnification"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Données",
+      "difficulty": "moyen",
+      "question": "Quelle information décrit une autre donnée, comme la date de création d'un fichier ?",
+      "answer": "métadonnée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Linguistique",
+      "sub_category": "Syntaxe",
+      "difficulty": "moyen",
+      "question": "Quel ensemble de règles harmonise les formes verbales entre une principale et une subordonnée ?",
+      "answer": "concordance des temps"
     }
   ],
   "tabu": [
