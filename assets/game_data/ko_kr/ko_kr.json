@@ -19246,6 +19246,506 @@
       "difficulty": "어려움",
       "question": "달의 둥근 밝은 면이 지구에서 거의 완전히 보이는 위상은?",
       "answer": "망"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "쉬움",
+      "question": "강철 겉부분에 탄소를 침투시켜 단단하게 만드는 처리는?",
+      "answer": "침탄"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "쉬움",
+      "question": "금속 표면에 질소를 확산시켜 단단한 층을 만드는 처리는?",
+      "answer": "질화"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "어려움",
+      "question": "알루미늄 표면에 전기화학적으로 산화막을 두껍게 만드는 처리는?",
+      "answer": "아노다이징"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "보통",
+      "question": "가루 도료를 표면에 붙인 뒤 열로 굳혀 마감하는 방식은?",
+      "answer": "분체도장"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "어려움",
+      "question": "빠르게 분사한 연마 입자로 표면의 녹과 오염을 제거하는 방법은?",
+      "answer": "샌드블라스팅"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "쉬움",
+      "question": "연마석을 회전·왕복시켜 원통 안쪽 면을 정밀하게 다듬는 가공은?",
+      "answer": "호닝"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "쉬움",
+      "question": "미세한 연마 입자로 두 면을 문질러 높은 평탄도를 얻는 가공은?",
+      "answer": "래핑"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "보통",
+      "question": "여러 절삭날이 배열된 긴 공구를 밀거나 당겨 단면을 만드는 가공은?",
+      "answer": "브로칭"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "쉬움",
+      "question": "얇은 판을 자르지 않고 일정한 각도로 구부리는 가공은?",
+      "answer": "절곡"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "쉬움",
+      "question": "금형과 압력을 이용해 판재에 구멍을 뚫는 공정은?",
+      "answer": "펀칭"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "쉬움",
+      "question": "판재의 구멍에 끼운 뒤 끝을 눌러 고정하는 금속 체결 부품은?",
+      "answer": "리벳"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "쉬움",
+      "question": "회전하는 공작물을 날로 깎아 원통 모양을 만드는 가공은?",
+      "answer": "선삭"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "제작 기술",
+      "sub_category": "재료 가공",
+      "difficulty": "쉬움",
+      "question": "회전하는 여러 날의 공구로 평면이나 홈을 깎는 가공은?",
+      "answer": "밀링"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "해양 과학",
+      "sub_category": "해수와 연안",
+      "difficulty": "보통",
+      "question": "온도나 염도가 다른 두 바닷물 덩어리가 맞닿는 경계는?",
+      "answer": "해양전선"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "해양 과학",
+      "sub_category": "해수와 연안",
+      "difficulty": "쉬움",
+      "question": "얕은 물로 들어온 파도의 꼭대기가 무너지며 부서지는 현상은?",
+      "answer": "쇄파"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물 생태",
+      "sub_category": "잎과 서식 환경",
+      "difficulty": "쉬움",
+      "question": "여러 잎이 줄기 밑동의 짧은 부분에 모여 달리는 배열은?",
+      "answer": "총생"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물 생태",
+      "sub_category": "잎과 서식 환경",
+      "difficulty": "쉬움",
+      "question": "잎 가장자리가 톱니처럼 잘게 파인 형태는?",
+      "answer": "거치"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물 생태",
+      "sub_category": "잎과 서식 환경",
+      "difficulty": "쉬움",
+      "question": "잎 가장자리에 톱니나 깊은 갈라짐이 없는 형태는?",
+      "answer": "전연"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물 생태",
+      "sub_category": "잎과 서식 환경",
+      "difficulty": "쉬움",
+      "question": "잎자루 하나에 잎몸 하나가 달리는 형태는?",
+      "answer": "단엽"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물 생태",
+      "sub_category": "잎과 서식 환경",
+      "difficulty": "보통",
+      "question": "작은 잎들이 중심축 양옆에 깃털처럼 배열된 형태는?",
+      "answer": "우상복엽"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물 생태",
+      "sub_category": "잎과 서식 환경",
+      "difficulty": "보통",
+      "question": "작은 잎들이 한 점에서 손가락처럼 퍼져 달리는 형태는?",
+      "answer": "장상복엽"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물 생태",
+      "sub_category": "잎과 서식 환경",
+      "difficulty": "보통",
+      "question": "시간이 지나면서 한 지역의 생물 군집 구성이 차례로 바뀌는 과정은?",
+      "answer": "생태천이"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물 생태",
+      "sub_category": "잎과 서식 환경",
+      "difficulty": "보통",
+      "question": "숲에서 나무 높이와 식생에 따라 여러 수직 층이 나타나는 모습은?",
+      "answer": "층위구조"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 문법",
+      "sub_category": "말과 문장의 기능",
+      "difficulty": "보통",
+      "question": "체언 뒤에 붙어 문장 속 문법적 역할을 나타내는 조사는?",
+      "answer": "격조사"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 문법",
+      "sub_category": "말과 문장의 기능",
+      "difficulty": "보통",
+      "question": "주어와 서술어의 관계가 한 번만 나타나는 문장은?",
+      "answer": "홑문장"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 문법",
+      "sub_category": "말과 문장의 기능",
+      "difficulty": "보통",
+      "question": "주어와 서술어의 관계가 두 번 이상 나타나는 문장은?",
+      "answer": "겹문장"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 문법",
+      "sub_category": "말과 문장의 기능",
+      "difficulty": "보통",
+      "question": "문장의 주어에 해당하는 사람을 높여 표현하는 방식은?",
+      "answer": "주체높임"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 문법",
+      "sub_category": "말과 문장의 기능",
+      "difficulty": "보통",
+      "question": "문장에서 목적어나 부사어로 나타나는 사람을 높이는 방식은?",
+      "answer": "객체높임"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국어 문법",
+      "sub_category": "말과 문장의 기능",
+      "difficulty": "보통",
+      "question": "말을 듣는 사람과의 관계에 따라 말끝을 달리하는 방식은?",
+      "answer": "상대높임"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학과 촬영",
+      "difficulty": "보통",
+      "question": "서로 직각인 두 방향의 초점 위치가 달라 점이 선처럼 번지는 광학 결함은?",
+      "answer": "비점수차"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학과 촬영",
+      "difficulty": "보통",
+      "question": "화면 가장자리의 점광원이 꼬리를 가진 혜성처럼 번지는 광학 결함은?",
+      "answer": "코마수차"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학과 촬영",
+      "difficulty": "보통",
+      "question": "광학계에서 직선이나 물체의 모양이 가장자리로 갈수록 휘어 보이는 결함은?",
+      "answer": "왜곡수차"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학과 촬영",
+      "difficulty": "보통",
+      "question": "촬영에서 밝기와 색 기준을 맞추기 위해 사용하는 일정한 반사율의 기준판은?",
+      "answer": "회색카드"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학과 촬영",
+      "difficulty": "보통",
+      "question": "특정 방향으로 진동하는 빛만 통과시켜 반사를 줄이는 촬영용 부품은?",
+      "answer": "편광필터"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학과 촬영",
+      "difficulty": "보통",
+      "question": "매우 가까운 물체를 크게 촬영하기 위해 사용하는 광학 부품은?",
+      "answer": "접사렌즈"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학과 촬영",
+      "difficulty": "보통",
+      "question": "멀리 있는 피사체를 화면에 크게 담도록 설계된 긴 초점거리의 광학 부품은?",
+      "answer": "망원렌즈"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학과 촬영",
+      "difficulty": "보통",
+      "question": "넓은 장면을 한 화면에 담도록 설계된 짧은 초점거리의 광학 부품은?",
+      "answer": "광각렌즈"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학과 촬영",
+      "difficulty": "보통",
+      "question": "강한 광원이 렌즈 내부에서 반사되어 사진에 밝은 얼룩을 만드는 현상은?",
+      "answer": "플레어"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학과 촬영",
+      "difficulty": "쉬움",
+      "question": "디스플레이나 인쇄 장치가 표현할 수 있는 색의 전체 범위는?",
+      "answer": "색역"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "사진과 영상",
+      "sub_category": "광학과 촬영",
+      "difficulty": "보통",
+      "question": "영상 신호의 입력 밝기와 출력 밝기 사이 비선형 관계를 조절하는 처리는?",
+      "answer": "감마보정"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 공간",
+      "sub_category": "측량과 지형 정보",
+      "difficulty": "어려움",
+      "question": "지표의 높이를 격자나 점 자료로 표현한 디지털 지형 자료는?",
+      "answer": "수치표고모델"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 공간",
+      "sub_category": "측량과 지형 정보",
+      "difficulty": "보통",
+      "question": "호수나 바다에서 수심이 같은 지점을 이어 그린 선은?",
+      "answer": "등심선"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 공간",
+      "sub_category": "측량과 지형 정보",
+      "difficulty": "보통",
+      "question": "관측 지점의 수평면에서 위쪽 물체까지 올려다본 각도는?",
+      "answer": "고도각"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 공간",
+      "sub_category": "측량과 지형 정보",
+      "difficulty": "쉬움",
+      "question": "측량 기기의 관측축을 목표물에 정확히 맞추는 작업은?",
+      "answer": "시준"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 공간",
+      "sub_category": "측량과 지형 정보",
+      "difficulty": "보통",
+      "question": "측량에서 위치나 높이가 정확히 알려져 다른 관측의 바탕이 되는 지점은?",
+      "answer": "기준점"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 공간",
+      "sub_category": "측량과 지형 정보",
+      "difficulty": "보통",
+      "question": "지구상의 위치를 위도와 경도로 나타내는 체계는?",
+      "answer": "지리좌표"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 공간",
+      "sub_category": "측량과 지형 정보",
+      "difficulty": "쉬움",
+      "question": "지도상의 북쪽과 나침반이 가리키는 북쪽 사이의 각도 차이는?",
+      "answer": "편각"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 공간",
+      "sub_category": "측량과 지형 정보",
+      "difficulty": "어려움",
+      "question": "지표를 일정한 선을 따라 잘랐다고 가정해 높낮이를 옆에서 그린 그림은?",
+      "answer": "지형단면도"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 공간",
+      "sub_category": "측량과 지형 정보",
+      "difficulty": "어려움",
+      "question": "빛이 비추는 방향을 가정해 지형의 높낮이를 명암으로 나타낸 지도는?",
+      "answer": "음영기복도"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지도와 공간",
+      "sub_category": "측량과 지형 정보",
+      "difficulty": "보통",
+      "question": "특정 관측 위치에서 지형이나 장애물에 가리지 않고 볼 수 있는 공간의 범위는?",
+      "answer": "가시권"
     }
   ],
   "tabu": [
