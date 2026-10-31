@@ -14294,7 +14294,7 @@
       "main_category": "Architecture",
       "sub_category": "Toiture",
       "difficulty": "moyen",
-      "question": "Quel élément incliné conduit l'eau recueillie en bordure d'un toit vers le sol ?",
+      "question": "Quel conduit vertical fixé à une façade évacue l'eau recueillie dans une gouttière ?",
       "answer": "descente pluviale"
     },
     {
@@ -14364,7 +14364,7 @@
       "main_category": "Géologie",
       "sub_category": "Sols",
       "difficulty": "moyen",
-      "question": "Quelle couche superficielle résulte de l'altération des roches et de l'activité biologique ?",
+      "question": "Comment appelle-t-on le milieu naturel de surface, formé de particules minérales, de matière organique, d'air et d'eau, où s'enracinent les plantes ?",
       "answer": "sol"
     },
     {
@@ -14886,6 +14886,366 @@
       "difficulty": "moyen",
       "question": "Quelle opération consiste à enlever les pousses indésirables autour des plantes cultivées ?",
       "answer": "désherbage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie",
+      "sub_category": "Relief",
+      "difficulty": "moyen",
+      "question": "Comment nomme-t-on le point le plus bas d'une vallée, suivi par l'écoulement naturel des eaux ?",
+      "answer": "talweg"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie",
+      "sub_category": "Relief",
+      "difficulty": "moyen",
+      "question": "Quelle portion de roche reste visible à la surface sans couverture de terre ?",
+      "answer": "affleurement"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie",
+      "sub_category": "Littoral",
+      "difficulty": "difficile",
+      "question": "Quelle avancée sableuse étroite se prolonge dans l'eau à partir de la côte ?",
+      "answer": "flèche littorale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie",
+      "sub_category": "Relief",
+      "difficulty": "difficile",
+      "question": "Quel passage très resserré relie deux étendues d'eau plus larges ?",
+      "answer": "goulet"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Géographie",
+      "sub_category": "Hydrologie",
+      "difficulty": "difficile",
+      "question": "Quelle surface plane en gradin, située au-dessus du lit actuel d'une rivière, témoigne d'un ancien niveau d'écoulement ?",
+      "answer": "terrasse alluviale"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Botanique",
+      "sub_category": "Morphologie",
+      "difficulty": "moyen",
+      "question": "Comment s'appelle la partie aplatie et généralement verte d'une feuille ?",
+      "answer": "limbe"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Escaliers",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on la profondeur horizontale disponible pour poser le pied sur une marche ?",
+      "answer": "giron"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Escaliers",
+      "difficulty": "moyen",
+      "question": "Quelle partie verticale ferme l'espace entre deux marches successives ?",
+      "answer": "contremarche"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Architecture",
+      "sub_category": "Maçonnerie",
+      "difficulty": "difficile",
+      "question": "Quel petit élément vertical saillant soutient une corniche ou une tablette ?",
+      "answer": "corbeau"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Statistiques",
+      "difficulty": "difficile",
+      "question": "Quel indicateur correspond à la différence entre le troisième et le premier quartile ?",
+      "answer": "écart interquartile"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Arithmétique",
+      "difficulty": "moyen",
+      "question": "Comment nomme-t-on le nombre qui divise exactement deux entiers et qui est le plus grand possible ?",
+      "answer": "plus grand commun diviseur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Mathématiques",
+      "sub_category": "Algèbre",
+      "difficulty": "moyen",
+      "question": "Quelle opération consiste à remplacer une expression par une autre de même valeur mais de forme plus simple ?",
+      "answer": "simplification"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Mesure",
+      "difficulty": "difficile",
+      "question": "Quelle grandeur exprime l'éclat d'un astre tel qu'il est perçu depuis la Terre ?",
+      "answer": "magnitude apparente"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Lune",
+      "difficulty": "moyen",
+      "question": "Quel adjectif qualifie la phase lunaire dont la surface visible éclairée dépasse la moitié sans être pleine ?",
+      "answer": "gibbeuse"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Astronomie",
+      "sub_category": "Observation",
+      "difficulty": "difficile",
+      "question": "Quelle zone circulaire du ciel est directement au-dessus de l'horizon et centrée sur l'observateur ?",
+      "answer": "hémisphère céleste"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Figures de style",
+      "difficulty": "moyen",
+      "question": "Quelle figure consiste à répéter un mot ou un groupe de mots au début de plusieurs propositions ?",
+      "answer": "anaphore"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Figures de style",
+      "difficulty": "difficile",
+      "question": "Quelle figure rapproche des mots aux sonorités voisines mais aux sens différents ?",
+      "answer": "paronomase"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Figures de style",
+      "difficulty": "moyen",
+      "question": "Quelle figure exagère une réalité pour produire un effet expressif ?",
+      "answer": "hyperbole"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Figures de style",
+      "difficulty": "difficile",
+      "question": "Quelle figure fait dépendre d'un même mot deux compléments de sens différent ?",
+      "answer": "zeugma"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Figures de style",
+      "difficulty": "moyen",
+      "question": "Quelle figure remplace une expression jugée brutale par une formulation plus douce ?",
+      "answer": "euphémisme"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Grammaire",
+      "difficulty": "difficile",
+      "question": "Quelle proposition dépend d'une autre et ne peut normalement pas former seule une phrase complète ?",
+      "answer": "subordonnée"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Langue française",
+      "sub_category": "Grammaire",
+      "difficulty": "moyen",
+      "question": "Quel signe sépare deux propositions étroitement liées sans terminer la phrase ?",
+      "answer": "point-virgule"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Menuiserie",
+      "difficulty": "difficile",
+      "question": "Quelle scie à lame très fine permet de découper des motifs courbes dans une planche mince ?",
+      "answer": "scie à chantourner"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Céramique",
+      "difficulty": "difficile",
+      "question": "Quelle première cuisson transforme une pièce d'argile séchée en objet poreux mais solide ?",
+      "answer": "biscuitage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Papier",
+      "difficulty": "difficile",
+      "question": "Quel outil cylindrique exerce une pression régulière pour appliquer de la colle sur une grande surface ?",
+      "answer": "rouleau encolleur"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Artisanat",
+      "sub_category": "Verrerie",
+      "difficulty": "difficile",
+      "question": "Quel tube creux sert à façonner une masse de verre ramollie par insufflation ?",
+      "answer": "canne de soufflage"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Sciences",
+      "sub_category": "Thermodynamique",
+      "difficulty": "moyen",
+      "question": "Quel mode de transfert de chaleur se produit de proche en proche dans un matériau immobile ?",
+      "answer": "conduction"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Pâtisserie",
+      "difficulty": "moyen",
+      "question": "Quel outil plat et souple sert à racler la pâte d'un plan de travail ?",
+      "answer": "corne"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Pâtisserie",
+      "difficulty": "difficile",
+      "question": "Quel bol métallique arrondi, sans angle au fond, facilite le mélange au fouet ?",
+      "answer": "cul-de-poule"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Préparation",
+      "difficulty": "difficile",
+      "question": "Quelle technique consiste à refroidir rapidement des légumes cuits dans de l'eau glacée ?",
+      "answer": "rafraîchir"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Boulangerie",
+      "difficulty": "difficile",
+      "question": "Quelle étape de repos après le façonnage permet à une pâte levée d'augmenter encore de volume ?",
+      "answer": "apprêt"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Cuisine",
+      "sub_category": "Pâtisserie",
+      "difficulty": "difficile",
+      "question": "Quel outil à plusieurs fils tendus découpe une préparation souple en tranches régulières ?",
+      "answer": "lyre"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Programmation",
+      "difficulty": "difficile",
+      "question": "Quelle structure répète une suite d'instructions tant qu'une condition est remplie ?",
+      "answer": "boucle"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Interfaces",
+      "difficulty": "moyen",
+      "question": "Quel élément d'une interface permet de choisir une valeur parmi plusieurs options déroulantes ?",
+      "answer": "liste déroulante"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Images",
+      "difficulty": "difficile",
+      "question": "Quelle propriété d'une image numérique indique le nombre de points qui la composent en largeur et en hauteur ?",
+      "answer": "définition"
+    },
+    {
+      "game_type": "kelime_ustasi",
+      "language": "Français",
+      "locale": "fr-FR",
+      "main_category": "Informatique",
+      "sub_category": "Stockage",
+      "difficulty": "difficile",
+      "question": "Quel mécanisme répartit des copies de données sur plusieurs supports pour améliorer la disponibilité ?",
+      "answer": "réplication"
     }
   ],
   "tabu": [
