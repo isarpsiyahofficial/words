@@ -16713,7 +16713,7 @@
       "main_category": "음악과 미술",
       "sub_category": "소리의 원리",
       "difficulty": "보통",
-      "question": "서로 높이가 같은 음표를 연결해 하나의 긴 소리로 연주하게 하는 곡선은?",
+      "question": "높이가 다른 여러 음을 끊지 않고 부드럽게 이어 연주하라는 곡선 기호는?",
       "answer": "이음줄"
     },
     {
@@ -16723,7 +16723,7 @@
       "main_category": "음악과 미술",
       "sub_category": "소리의 원리",
       "difficulty": "보통",
-      "question": "서로 높이가 다른 여러 음을 끊지 않고 부드럽게 이어 연주하라는 곡선은?",
+      "question": "높이가 같은 두 음표를 곡선으로 연결해 하나의 길어진 소리로 내게 하는 기호는?",
       "answer": "붙임줄"
     },
     {
@@ -16785,6 +16785,696 @@
       "difficulty": "보통",
       "question": "가루 안료를 막대처럼 굳혀 종이에 문지르며 부드러운 색을 내는 그림 재료는?",
       "answer": "파스텔"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통생활",
+      "sub_category": "명절 소품",
+      "difficulty": "보통",
+      "question": "설날에 좋은 일이 가득하길 바라며 허리춤에 차거나 선물하는 작은 천 소품은?",
+      "answer": "복주머니"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통생활",
+      "sub_category": "과자 도구",
+      "difficulty": "보통",
+      "question": "곡물가루와 꿀로 만든 반죽을 눌러 꽃무늬 같은 모양을 찍어 내는 나무 틀은?",
+      "answer": "다식판"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통생활",
+      "sub_category": "곡식 손질",
+      "difficulty": "보통",
+      "question": "쌀을 일어 작은 돌이나 겨를 골라낼 때 쓰던 대나무로 엮은 바구니 모양 도구는?",
+      "answer": "조리"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통생활",
+      "sub_category": "복식",
+      "difficulty": "보통",
+      "question": "옛날 남성의 검은 전통 모자가 바람에 날아가지 않도록 턱 아래로 매던 것은?",
+      "answer": "갓끈"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통생활",
+      "sub_category": "옛집 구조",
+      "difficulty": "어려움",
+      "question": "흙벽에 아주 작게 뚫어 방 안으로 빛과 바람이 들어오게 한 구멍은?",
+      "answer": "봉창"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통생활",
+      "sub_category": "실내 구조",
+      "difficulty": "어려움",
+      "question": "넓은 실내를 나누기 위해 종이를 바른 나무틀을 미닫이로 설치한 칸막이는?",
+      "answer": "장지문"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "전통생활",
+      "sub_category": "옛 조명",
+      "difficulty": "보통",
+      "question": "전기가 없던 시절 기름 담은 작은 그릇의 심지를 켜 밤을 밝히던 조명은?",
+      "answer": "호롱불"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식문화",
+      "sub_category": "밥 짓기",
+      "difficulty": "쉬움",
+      "question": "밥을 다 지은 뒤 뚜껑을 닫은 채 잠시 두어 수분과 열이 고르게 퍼지게 하는 과정은?",
+      "answer": "뜸들이기"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식문화",
+      "sub_category": "음식 꾸미기",
+      "difficulty": "보통",
+      "question": "국수나 떡국 위에 달걀지단과 채소를 얹어 색과 맛을 더하는 장식 재료는?",
+      "answer": "고명"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식문화",
+      "sub_category": "양념",
+      "difficulty": "쉬움",
+      "question": "상추에 밥을 싸 먹을 때 된장에 고추와 여러 양념을 더해 곁들이는 걸쭉한 소스는?",
+      "answer": "쌈장"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물세계",
+      "sub_category": "균류 구조",
+      "difficulty": "보통",
+      "question": "비 온 뒤 숲에서 자라는 균류의 자루 위쪽에 우산처럼 펼쳐진 부분은?",
+      "answer": "버섯갓"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물세계",
+      "sub_category": "새싹",
+      "difficulty": "어려움",
+      "question": "나무가 잘리거나 손상된 뒤 줄기 밑동이나 뿌리 근처에서 다시 돋아나는 싹은?",
+      "answer": "맹아"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물세계",
+      "sub_category": "줄기 구조",
+      "difficulty": "보통",
+      "question": "식물의 몸통에서 잎이나 곁가지가 나오는 일정한 지점을 무엇이라 할까요?",
+      "answer": "줄기마디"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물세계",
+      "sub_category": "특수 뿌리",
+      "difficulty": "어려움",
+      "question": "옥수수처럼 몸통 아래쪽에서 땅을 향해 뻗어 식물체가 쓰러지지 않게 받쳐 주는 기관은?",
+      "answer": "지주뿌리"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물세계",
+      "sub_category": "특수 뿌리",
+      "difficulty": "어려움",
+      "question": "겨우살이처럼 다른 식물에 붙어 그 안에서 물과 양분을 얻는 데 쓰는 기관은?",
+      "answer": "기생뿌리"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구지리",
+      "sub_category": "강의 침식",
+      "difficulty": "어려움",
+      "question": "흐르는 강물이 기슭의 암석을 오랫동안 깎아 만들어 낸 가파른 벼랑은?",
+      "answer": "하식애"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구지리",
+      "sub_category": "물길의 경계",
+      "difficulty": "어려움",
+      "question": "비가 내렸을 때 물이 서로 다른 강 유역으로 흘러가도록 나누는 산등성이의 경계는?",
+      "answer": "분수계"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문우주",
+      "sub_category": "별의 무리",
+      "difficulty": "어려움",
+      "question": "아주 오래된 별 수만 개 이상이 중력으로 뭉쳐 공처럼 둥근 모양을 이루는 집단은?",
+      "answer": "구상성단"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문우주",
+      "sub_category": "별의 무리",
+      "difficulty": "어려움",
+      "question": "비교적 젊은 별 수십 개에서 수천 개가 느슨하게 모여 있는 집단은?",
+      "answer": "산개성단"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문우주",
+      "sub_category": "지구의 움직임",
+      "difficulty": "어려움",
+      "question": "팽이가 도는 축이 천천히 방향을 바꾸듯 지구의 회전축 방향도 긴 시간에 걸쳐 변하는 현상은?",
+      "answer": "세차운동"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문우주",
+      "sub_category": "행성의 길",
+      "difficulty": "보통",
+      "question": "행성이 별 주위를 일정한 주기로 돌 때 우주 공간에 그리는 길은?",
+      "answer": "공전궤도"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문우주",
+      "sub_category": "하늘의 기준",
+      "difficulty": "어려움",
+      "question": "관측자의 머리 위와 남북 방향의 지평점을 지나는 하늘의 큰 원은?",
+      "answer": "자오선"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "천문우주",
+      "sub_category": "빛 가림",
+      "difficulty": "보통",
+      "question": "한 천체가 다른 천체의 빛을 일부 또는 전부 가려 관측되는 일을 통틀어 부르는 말은?",
+      "answer": "식현상"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물리과학",
+      "sub_category": "전자 부품",
+      "difficulty": "어려움",
+      "question": "도선을 여러 번 감아 자기장에 에너지를 저장하고 전류 변화에 저항하는 회로 부품은?",
+      "answer": "인덕터"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물리과학",
+      "sub_category": "전자 재료",
+      "difficulty": "보통",
+      "question": "전기가 잘 통하는 금속과 거의 통하지 않는 절연체의 중간 성질을 지닌 재료는?",
+      "answer": "반도체"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물리과학",
+      "sub_category": "극저온 현상",
+      "difficulty": "어려움",
+      "question": "어떤 물질을 매우 낮은 온도로 냉각했을 때 전기저항이 갑자기 사라지는 현상은?",
+      "answer": "초전도"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물리과학",
+      "sub_category": "빛의 종류",
+      "difficulty": "보통",
+      "question": "사람 눈에는 보이지 않지만 열화상 카메라가 물체의 온도를 알아내는 데 활용하는 빛은?",
+      "answer": "적외선"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물리과학",
+      "sub_category": "빛의 종류",
+      "difficulty": "보통",
+      "question": "가시광선의 보라색보다 파장이 짧으며 피부를 오래 노출하면 손상될 수 있는 빛은?",
+      "answer": "자외선"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물리과학",
+      "sub_category": "분자 사이 힘",
+      "difficulty": "어려움",
+      "question": "같은 물질의 분자들이 서로 끌어당겨 물방울이 뭉치게 하는 힘은?",
+      "answer": "응집력"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "물리과학",
+      "sub_category": "분자 사이 힘",
+      "difficulty": "어려움",
+      "question": "물방울이 유리 표면에 달라붙듯 서로 다른 물질의 분자 사이에 작용하는 끌림은?",
+      "answer": "부착력"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학개념",
+      "sub_category": "도형의 선",
+      "difficulty": "보통",
+      "question": "한 각을 크기가 같은 두 각으로 나누도록 꼭짓점에서 그은 반직선은?",
+      "answer": "이등분선"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학개념",
+      "sub_category": "원의 직선",
+      "difficulty": "어려움",
+      "question": "원을 서로 다른 두 점에서 만나며 원 바깥까지 뻗어 나가는 직선은?",
+      "answer": "할선"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학개념",
+      "sub_category": "원의 영역",
+      "difficulty": "어려움",
+      "question": "원 안에서 하나의 곡선 호와 그 양 끝을 잇는 선분으로 둘러싸인 부분은?",
+      "answer": "활꼴"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학개념",
+      "sub_category": "자료 분석",
+      "difficulty": "보통",
+      "question": "자료에서 가장 큰 값과 가장 작은 값의 차이를 뜻하는 통계량은?",
+      "answer": "범위"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학개념",
+      "sub_category": "좌표",
+      "difficulty": "보통",
+      "question": "가로축과 세로축이 평면을 네 부분으로 나눌 때 각각의 영역은?",
+      "answer": "사분면"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학개념",
+      "sub_category": "입체도형",
+      "difficulty": "어려움",
+      "question": "모든 면이 서로 합동인 같은 종류의 다각형이고 각 꼭짓점에 모이는 면의 수도 같은 볼록 입체는?",
+      "answer": "정다면체"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학개념",
+      "sub_category": "입체도형",
+      "difficulty": "보통",
+      "question": "서로 평행하고 합동인 두 다각형을 밑면으로 가지며 옆면은 평행사변형인 입체는?",
+      "answer": "각기둥"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학개념",
+      "sub_category": "공간 표현",
+      "difficulty": "어려움",
+      "question": "삼차원 물체의 점들을 일정한 방향으로 평면 위에 옮겨 그 모양을 나타내는 방법은?",
+      "answer": "투영"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털생활",
+      "sub_category": "빠른 실행",
+      "difficulty": "쉬움",
+      "question": "원본 파일을 옮기지 않고 다른 위치에서 두 번 눌러 열 수 있게 만든 연결 아이콘은?",
+      "answer": "바로가기"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털생활",
+      "sub_category": "문서 디자인",
+      "difficulty": "쉬움",
+      "question": "문서에서 바탕체나 고딕체처럼 활자의 생김새를 결정하는 디자인 묶음은?",
+      "answer": "글꼴"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털생활",
+      "sub_category": "문서 디자인",
+      "difficulty": "보통",
+      "question": "문장에서 이웃한 문자 사이의 거리를 조절하는 편집 설정은?",
+      "answer": "자간"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털생활",
+      "sub_category": "문서 디자인",
+      "difficulty": "보통",
+      "question": "여러 줄로 된 문장에서 위아래 줄 사이의 간격을 조절하는 설정은?",
+      "answer": "행간"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털생활",
+      "sub_category": "문서 편집",
+      "difficulty": "쉬움",
+      "question": "표의 숫자를 작은 것부터 큰 것까지 차례로 배열하는 기능은?",
+      "answer": "정렬"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털생활",
+      "sub_category": "문단 편집",
+      "difficulty": "보통",
+      "question": "문단 첫머리를 왼쪽 기준선보다 안쪽으로 밀어 시작하게 하는 편집 방식은?",
+      "answer": "들여쓰기"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털생활",
+      "sub_category": "문단 편집",
+      "difficulty": "어려움",
+      "question": "문단의 첫 줄은 왼쪽에 두고 그 아래 줄들만 안쪽으로 밀어 배치하는 방식은?",
+      "answer": "내어쓰기"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털생활",
+      "sub_category": "페이지 구성",
+      "difficulty": "보통",
+      "question": "문서의 각 페이지 위쪽에 반복해서 넣는 제목이나 장 이름은?",
+      "answer": "머리말"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털생활",
+      "sub_category": "페이지 구성",
+      "difficulty": "보통",
+      "question": "문서의 각 페이지 아래쪽에 반복해서 넣는 날짜나 안내 문구는?",
+      "answer": "꼬리말"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털생활",
+      "sub_category": "웹 탐색",
+      "difficulty": "쉬움",
+      "question": "웹 문서에서 색이 다른 글자를 누르면 다른 페이지나 자료로 이동하게 해 주는 연결 요소는?",
+      "answer": "하이퍼링크"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털생활",
+      "sub_category": "네트워크",
+      "difficulty": "어려움",
+      "question": "한 컴퓨터에서 여러 프로그램의 통신을 구별하기 위해 번호를 붙이는 논리적 통로는?",
+      "answer": "포트"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물생태",
+      "sub_category": "야행성 곤충",
+      "difficulty": "보통",
+      "question": "나비와 가까운 곤충이지만 많은 종류가 밤에 활동하고 더듬이 모양도 다양한 무리는?",
+      "answer": "나방"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물생태",
+      "sub_category": "곤충의 생활",
+      "difficulty": "어려움",
+      "question": "바퀴벌레와 가까운 무리이며 목재 속 셀룰로스를 먹고 여왕과 일개체로 집단생활을 하는 곤충은?",
+      "answer": "흰개미"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물생태",
+      "sub_category": "숲속 곤충",
+      "difficulty": "보통",
+      "question": "수컷 머리에 큰 뿔이 솟아 있고 여름 숲에서 수액을 즐겨 먹는 딱정벌레는?",
+      "answer": "장수풍뎅이"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물생태",
+      "sub_category": "물가의 곤충",
+      "difficulty": "어려움",
+      "question": "매우 가느다란 몸을 가졌고 쉬는 동안 네 장의 날개를 등 위로 가지런히 모으는 곤충은?",
+      "answer": "실잠자리"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물생태",
+      "sub_category": "곤충의 생김새",
+      "difficulty": "어려움",
+      "question": "배 끝에 두 갈래의 굽은 돌기가 있어 이를 벌리거나 오므릴 수 있는 작은 곤충은?",
+      "answer": "집게벌레"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물생태",
+      "sub_category": "성장 단계",
+      "difficulty": "쉬움",
+      "question": "알에서 나온 곤충이 성충이 되기 전 먹이를 먹으며 자라는 어린 시기는?",
+      "answer": "애벌레"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물생태",
+      "sub_category": "감각 기관",
+      "difficulty": "보통",
+      "question": "수많은 작은 시각 단위가 모여 모자이크처럼 주변을 보는 곤충의 감각 기관은?",
+      "answer": "겹눈"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물생태",
+      "sub_category": "물고기의 몸",
+      "difficulty": "쉬움",
+      "question": "물속에서 균형을 잡거나 방향을 바꿀 때 쓰는 물고기 몸 바깥의 납작한 기관은?",
+      "answer": "지느러미"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물생태",
+      "sub_category": "동물 분류",
+      "difficulty": "보통",
+      "question": "새우와 게처럼 단단한 바깥 골격을 지니고 다리가 마디로 나뉜 동물 무리는?",
+      "answer": "갑각류"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물생태",
+      "sub_category": "동물 분류",
+      "difficulty": "보통",
+      "question": "문어와 달팽이처럼 몸이 부드럽고 척추가 없는 생물의 분류 무리는?",
+      "answer": "연체동물"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다생태",
+      "sub_category": "해저 지형",
+      "difficulty": "보통",
+      "question": "따뜻하고 얕은 바다에서 작은 자포동물이 남긴 석회질 골격이 오랫동안 쌓여 만들어진 구조는?",
+      "answer": "산호초"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다생태",
+      "sub_category": "붙어 사는 생물",
+      "difficulty": "보통",
+      "question": "바위에 붙어 살며 두꺼운 주황빛 몸에 물이 드나드는 구멍이 두 개 있는 해산물은?",
+      "answer": "멍게"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다생태",
+      "sub_category": "붙어 사는 생물",
+      "difficulty": "어려움",
+      "question": "해안 바위에 하얗게 달라붙어 단단한 껍질판 사이로 작은 다리를 내밀어 먹이를 거르는 생물은?",
+      "answer": "따개비"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다생태",
+      "sub_category": "붙어 사는 생물",
+      "difficulty": "어려움",
+      "question": "파도가 치는 바위 틈에 무리 지어 살며 기다란 자루 끝에 여러 장의 딱딱한 판이 붙어 있는 생물은?",
+      "answer": "거북손"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다생태",
+      "sub_category": "조개류",
+      "difficulty": "쉬움",
+      "question": "검푸른 타원형 껍데기를 지녔으며 실 같은 섬유로 바위에 몸을 고정하는 조개는?",
+      "answer": "홍합"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "바다생태",
+      "sub_category": "해산물 부위",
+      "difficulty": "보통",
+      "question": "두 장의 단단한 껍질을 여닫는 데 쓰이는 둥근 근육으로 구워 먹기도 하는 부위는?",
+      "answer": "조개관자"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "기상현상",
+      "sub_category": "구름 관측",
+      "difficulty": "어려움",
+      "question": "하늘에 떠 있는 구름의 아랫면이 지표에서 얼마나 높은지 나타내는 값은?",
+      "answer": "운고"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "기상현상",
+      "sub_category": "산속 풍경",
+      "difficulty": "어려움",
+      "question": "산기슭이나 골짜기에 걸려 안개와 구름이 뒤섞인 듯 보이는 현상은?",
+      "answer": "운무"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "기상현상",
+      "sub_category": "수증기 측정",
+      "difficulty": "보통",
+      "question": "현재 공기 속 수증기량을 같은 온도에서 담을 수 있는 최대치와 비교해 백분율로 나타낸 값은?",
+      "answer": "상대습도"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "기상현상",
+      "sub_category": "수증기 측정",
+      "difficulty": "어려움",
+      "question": "공기 1세제곱미터에 실제로 들어 있는 수증기의 질량을 나타낸 값은?",
+      "answer": "절대습도"
     }
   ],
   "kelime_ustasi": [
