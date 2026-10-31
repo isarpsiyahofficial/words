@@ -42686,6 +42686,806 @@
         "difficulty": "difícil",
         "question": "Sou o ponto da esfera celeste exatamente oposto à direção vertical superior.",
         "answer": "Nadir"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica e vidro",
+        "sub_category": "Revestimentos",
+        "difficulty": "médio",
+        "question": "Antes de ir ao forno, uma peça de barro recebe-me em forma de suspensão fina de argila, para ganhar uma superfície de cor uniforme. Que camada sou?",
+        "answer": "Engobe"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica e vidro",
+        "sub_category": "Cozedura",
+        "difficulty": "difícil",
+        "question": "Qual é o nome dado à primeira passagem de uma peça de barro seco pelo forno, quando ainda fica porosa e pronta para ser decorada?",
+        "answer": "Chacota"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica e vidro",
+        "sub_category": "Materiais",
+        "difficulty": "difícil",
+        "question": "Já fui argila cozida; depois de moída, volto à massa fresca para diminuir a retração e as fissuras durante a secagem. Quem sou?",
+        "answer": "Chamote"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica e vidro",
+        "sub_category": "Ferramentas",
+        "difficulty": "médio",
+        "question": "Por mim passa o ar do artesão que faz crescer uma bolha de vidro quente na extremidade de um tubo metálico. Que ferramenta sou?",
+        "answer": "Cana de sopro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica e vidro",
+        "sub_category": "Ferramentas",
+        "difficulty": "difícil",
+        "question": "Quando o vidro ainda está quente, seguro a peça pela base para permitir que o artesão acabe a abertura. Que haste sou?",
+        "answer": "Pontil"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica e vidro",
+        "sub_category": "Materiais",
+        "difficulty": "difícil",
+        "question": "Nasço da fusão e arrefecimento de ingredientes vítreos; depois sou moída para integrar revestimentos de loiça. Que material sou?",
+        "answer": "Frita cerâmica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica e vidro",
+        "sub_category": "Moldagem",
+        "difficulty": "médio",
+        "question": "Absorvo água da argila líquida encostada às minhas paredes, deixando formar uma casca com a forma pretendida. Que peça auxiliar sou?",
+        "answer": "Molde de gesso"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica e vidro",
+        "sub_category": "Cozedura",
+        "difficulty": "difícil",
+        "question": "Dentro do forno falta oxigénio de propósito, e essa atmosfera altera as cores dos óxidos na superfície das peças. Que processo é este?",
+        "answer": "Queima redutora"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica e vidro",
+        "sub_category": "Materiais",
+        "difficulty": "médio",
+        "question": "Resisto a temperaturas muito elevadas e sirvo para fabricar peças que ficam próximas da chama num forno. Que tipo de argila sou?",
+        "answer": "Barro refratário"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cerâmica e vidro",
+        "sub_category": "Decoração",
+        "difficulty": "médio",
+        "question": "Transporto um desenho impresso para a superfície de uma chávena, antes de uma nova passagem pelo forno. Que técnica decorativa sou?",
+        "answer": "Decalque cerâmico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horta e cultivo",
+        "sub_category": "Ciclos",
+        "difficulty": "difícil",
+        "question": "Algumas plantas só iniciam a floração depois de passarem por um período de frio. Como se chama esse estímulo?",
+        "answer": "Vernalização"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horta e cultivo",
+        "sub_category": "Planeamento",
+        "difficulty": "médio",
+        "question": "Em vez de ocupar o terreno com uma só espécie, ponho duas ou mais a crescer lado a lado para aproveitarem recursos diferentes. Que prática sou?",
+        "answer": "Consociação de culturas"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horta e cultivo",
+        "sub_category": "Planeamento",
+        "difficulty": "médio",
+        "question": "A cada época, troco a espécie semeada no mesmo talhão para ajudar a preservar o solo e reduzir pragas. Que método sou?",
+        "answer": "Rotação de culturas"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horta e cultivo",
+        "sub_category": "Manutenção",
+        "difficulty": "fácil",
+        "question": "Retiro à mão as ervas indesejadas que disputam luz, água e nutrientes com as plantas cultivadas. Como se chama esta tarefa?",
+        "answer": "Monda"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horta e cultivo",
+        "sub_category": "Propagação",
+        "difficulty": "médio",
+        "question": "Quando nascem demasiados rebentos juntos, retiro alguns para que os restantes tenham espaço para crescer. Que operação é esta?",
+        "answer": "Desbaste de plântulas"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horta e cultivo",
+        "sub_category": "Propagação",
+        "difficulty": "médio",
+        "question": "Sou um pedaço de ramo já endurecido que se enterra parcialmente para obter uma nova planta sem usar sementes. Que material de propagação sou?",
+        "answer": "Estaca lenhosa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horta e cultivo",
+        "sub_category": "Nutrição",
+        "difficulty": "médio",
+        "question": "Em vez de alimentar a planta apenas pelo solo, aplico uma solução nutritiva diretamente sobre as folhas. Que prática é esta?",
+        "answer": "Adubação foliar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horta e cultivo",
+        "sub_category": "Solo",
+        "difficulty": "difícil",
+        "question": "Espalho um corretivo rico em cálcio num terreno demasiado ácido para melhorar as condições de cultivo. Como se chama a operação?",
+        "answer": "Calagem"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horta e cultivo",
+        "sub_category": "Solo",
+        "difficulty": "médio",
+        "question": "Junto terra à base de certas plantas em crescimento, formando uma pequena elevação que protege e sustenta os caules. Que trabalho sou?",
+        "answer": "Amontoa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Horta e cultivo",
+        "sub_category": "Pomar",
+        "difficulty": "médio",
+        "question": "Retiro parte dos pequenos exemplares de uma árvore para que os restantes cresçam com melhor tamanho e qualidade. Que prática sou?",
+        "answer": "Raleio de frutos"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e medições",
+        "sub_category": "Representação",
+        "difficulty": "médio",
+        "question": "Para desenhar num plano a superfície curva da Terra, preciso de uma transformação matemática que introduz deformações. Que método sou?",
+        "answer": "Projeção cartográfica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e medições",
+        "sub_category": "Relevo",
+        "difficulty": "médio",
+        "question": "Num desenho lateral, mostro as subidas e descidas do terreno ao longo de uma linha escolhida no mapa. Que representação sou?",
+        "answer": "Perfil topográfico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e medições",
+        "sub_category": "Imagens",
+        "difficulty": "médio",
+        "question": "Pareço uma fotografia aérea, mas fui corrigido geometricamente para permitir medir distâncias como numa carta. O que sou?",
+        "answer": "Ortofotomapa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e medições",
+        "sub_category": "Localização",
+        "difficulty": "difícil",
+        "question": "Associo coordenadas reais a uma imagem ou planta antiga para que cada ponto fique colocado no lugar certo sobre a Terra. Que operação sou?",
+        "answer": "Georreferenciação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e medições",
+        "sub_category": "Relevo",
+        "difficulty": "difícil",
+        "question": "Uso faixas de cores para distinguir intervalos de altitude do terreno, desde as zonas baixas às montanhas. Que representação sou?",
+        "answer": "Carta hipsométrica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e medições",
+        "sub_category": "Referências",
+        "difficulty": "médio",
+        "question": "Sou uma marca física estável, com posição rigorosamente determinada, usada como referência em levantamentos do território. Que marco sou?",
+        "answer": "Ponto geodésico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e medições",
+        "sub_category": "Referências",
+        "difficulty": "difícil",
+        "question": "Defino a origem, a orientação e a superfície de referência que permitem interpretar corretamente coordenadas terrestres. Que sistema de referência sou?",
+        "answer": "Datum geodésico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e medições",
+        "sub_category": "Mapas temáticos",
+        "difficulty": "difícil",
+        "question": "Pinto regiões inteiras com tonalidades diferentes segundo o valor de um indicador estatístico. Que tipo de representação sou?",
+        "answer": "Mapa coroplético"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e medições",
+        "sub_category": "Profundidade",
+        "difficulty": "médio",
+        "question": "Em vez de mostrar a altitude de montanhas, desenho as profundidades do fundo de um lago ou do mar. Que documento sou?",
+        "answer": "Carta batimétrica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e medições",
+        "sub_category": "Medição",
+        "difficulty": "difícil",
+        "question": "Partindo de uma distância conhecida e medindo ângulos entre pontos visíveis, determino posições numa rede de levantamento. Que método sou?",
+        "answer": "Triangulação geodésica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e audição",
+        "sub_category": "Qualidades do som",
+        "difficulty": "fácil",
+        "question": "Dois instrumentos tocam a mesma nota com a mesma intensidade, mas consigo distingui-los pela qualidade própria do som. Que característica sou?",
+        "answer": "Timbre"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e audição",
+        "sub_category": "Ritmo",
+        "difficulty": "médio",
+        "question": "Volto repetidamente com o mesmo desenho rítmico ou melódico enquanto a peça musical avança. Que recurso sou?",
+        "answer": "Ostinato"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e audição",
+        "sub_category": "Notação",
+        "difficulty": "médio",
+        "question": "Colocam-me sobre uma nota ou pausa para indicar que a sua duração pode ser prolongada livremente. Que sinal sou?",
+        "answer": "Fermata"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e audição",
+        "sub_category": "Notação",
+        "difficulty": "médio",
+        "question": "No início da pauta, indico onde fica a nota grave que dá nome ao meu símbolo, muito usado na escrita para violoncelo. Qual sou?",
+        "answer": "Clave de fá"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e audição",
+        "sub_category": "Notação",
+        "difficulty": "fácil",
+        "question": "Sou uma figura oval sem haste e, na notação corrente, valho quatro tempos quando a unidade é a semínima. Que figura sou?",
+        "answer": "Semibreve"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e audição",
+        "sub_category": "Notação",
+        "difficulty": "fácil",
+        "question": "Tenho haste com uma bandeirola e duro metade de uma semínima no mesmo andamento. Que figura sou?",
+        "answer": "Colcheia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e audição",
+        "sub_category": "Vozes",
+        "difficulty": "médio",
+        "question": "Quando duas vozes produzem exatamente a mesma altura sonora ao mesmo tempo, encontram-se em mim. Que relação musical sou?",
+        "answer": "Uníssono"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e audição",
+        "sub_category": "Composição",
+        "difficulty": "difícil",
+        "question": "Combino linhas melódicas independentes que soam em simultâneo e mantêm uma relação harmoniosa. Que técnica sou?",
+        "answer": "Contraponto"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e audição",
+        "sub_category": "Composição",
+        "difficulty": "médio",
+        "question": "Uma voz começa uma melodia e outra entra mais tarde repetindo-a segundo uma regra de imitação. Que forma sou?",
+        "answer": "Cânone musical"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e audição",
+        "sub_category": "Teoria",
+        "difficulty": "médio",
+        "question": "Sou a distância entre a altura de duas notas, que pode ser ouvida em sequência ou ao mesmo tempo. Que relação sou?",
+        "answer": "Intervalo musical"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e gramática",
+        "sub_category": "Sintaxe",
+        "difficulty": "fácil",
+        "question": "Numa frase como «Ó amigos, escutem!», sou a expressão usada para chamar diretamente quem ouve. Que função exerço?",
+        "answer": "Vocativo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e gramática",
+        "sub_category": "Sintaxe",
+        "difficulty": "médio",
+        "question": "Em «A Ana abriu a janela», sou a função desempenhada por «a janela», sem preposição exigida pelo verbo. Que função sou?",
+        "answer": "Complemento direto"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e gramática",
+        "sub_category": "Sintaxe",
+        "difficulty": "difícil",
+        "question": "Em «O céu está limpo», sou a função de «limpo», que atribui uma propriedade ao elemento de que se fala. Que função sou?",
+        "answer": "Predicativo do sujeito"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e gramática",
+        "sub_category": "Sintaxe",
+        "difficulty": "médio",
+        "question": "Em «Chegámos cedo», não apareço escrito, mas a terminação do verbo permite saber quem praticou a ação. Que tipo de elemento sou?",
+        "answer": "Sujeito subentendido"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e gramática",
+        "sub_category": "Discurso",
+        "difficulty": "médio",
+        "question": "Em vez de reproduzir literalmente «Estou cansado», conto que alguém disse que estava cansado. Que forma de relato uso?",
+        "answer": "Discurso indireto"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e gramática",
+        "sub_category": "Formação de palavras",
+        "difficulty": "difícil",
+        "question": "De um verbo como «pescar» obtenho o nome «pesca» por redução da forma, sem acrescentar um sufixo. Que processo sou?",
+        "answer": "Derivação regressiva"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e gramática",
+        "sub_category": "Formação de palavras",
+        "difficulty": "médio",
+        "question": "Duas palavras juntam-se e perdem parte da sua forma original, como aconteceu com «planalto». Que processo é este?",
+        "answer": "Aglutinação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e gramática",
+        "sub_category": "Formação de palavras",
+        "difficulty": "médio",
+        "question": "Uno duas palavras sem alterar significativamente os seus sons ou formas, como em «guarda-chuva». Que processo sou?",
+        "answer": "Justaposição"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e gramática",
+        "sub_category": "Formação de palavras",
+        "difficulty": "difícil",
+        "question": "Uma palavra nasce quando se acrescentam ao mesmo tempo um elemento antes e outro depois da base, sem que as formas intermédias existam. Que processo sou?",
+        "answer": "Parassíntese"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e gramática",
+        "sub_category": "Sintaxe",
+        "difficulty": "médio",
+        "question": "Em «O livro que comprei é novo», começo por «que» e acrescento informação ao nome «livro». Que tipo de estrutura sou?",
+        "answer": "Oração relativa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Cozedura",
+        "difficulty": "fácil",
+        "question": "Aqueço delicadamente uma preparação dentro de um recipiente colocado sobre água quente, evitando o contacto direto com a chama. Que método sou?",
+        "answer": "Banho-maria"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Cortes",
+        "difficulty": "médio",
+        "question": "Transformo legumes em tiras compridas, muito finas e de espessura semelhante. Que corte sou?",
+        "answer": "Juliana"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Cortes",
+        "difficulty": "difícil",
+        "question": "Depois de cortar os legumes em tiras finas, transformo-os em cubinhos muito pequenos e regulares. Que corte sou?",
+        "answer": "Brunesa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Preparação",
+        "difficulty": "fácil",
+        "question": "Antes de cozinhar, deixo um alimento repousar numa mistura aromática líquida para lhe dar sabor. Que preparação sou?",
+        "answer": "Marinada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Misturas",
+        "difficulty": "médio",
+        "question": "Uno dois líquidos que normalmente se separam, dispersando gotículas de um no outro, como acontece numa maionese. Que mistura sou?",
+        "answer": "Emulsão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Molhos",
+        "difficulty": "médio",
+        "question": "Deixo um líquido cozinhar sem tampa para evaporar água, concentrar sabores e ganhar consistência. Que operação sou?",
+        "answer": "Redução de molho"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Caldo",
+        "difficulty": "difícil",
+        "question": "Retiro partículas suspensas de um líquido culinário para o tornar transparente e límpido. Que processo sou?",
+        "answer": "Clarificação de caldo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Chocolate",
+        "difficulty": "difícil",
+        "question": "Controlo cuidadosamente o aquecimento e arrefecimento do cacau trabalhado para obter brilho e uma quebra firme. Que técnica sou?",
+        "answer": "Temperagem de chocolate"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Panificação",
+        "difficulty": "médio",
+        "question": "Sou uma cultura viva de microrganismos alimentada com farinha e água, usada para fazer crescer a massa do pão. Que ingrediente sou?",
+        "answer": "Fermento natural"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Bases",
+        "difficulty": "médio",
+        "question": "Sou uma mistura de farinha e gordura cozinhadas juntas que serve de base para engrossar certos molhos. Como me chamam os cozinheiros?",
+        "answer": "Roux"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes gráficas",
+        "sub_category": "Papel",
+        "difficulty": "médio",
+        "question": "Expresso em gramas por metro quadrado a massa de uma folha e ajudo a comparar papéis de espessuras diferentes. Que medida sou?",
+        "answer": "Gramagem"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes gráficas",
+        "sub_category": "Papel",
+        "difficulty": "médio",
+        "question": "Tenho uma superfície revestida e lisa, muito usada em revistas ilustradas porque reproduzo imagens com nitidez. Que tipo de folha sou?",
+        "answer": "Papel couché"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes gráficas",
+        "sub_category": "Técnicas",
+        "difficulty": "médio",
+        "question": "A tinta atravessa apenas as zonas livres de uma malha esticada num quadro, formando a imagem sobre o suporte. Que técnica sou?",
+        "answer": "Serigrafia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes gráficas",
+        "sub_category": "Técnicas",
+        "difficulty": "difícil",
+        "question": "Nasci da incompatibilidade entre água e gordura, permitindo transferir desenhos feitos numa superfície plana. Que processo de impressão sou?",
+        "answer": "Litografia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes gráficas",
+        "sub_category": "Técnicas",
+        "difficulty": "difícil",
+        "question": "A tinta fica nos sulcos de uma chapa metálica gravada e passa ao papel sob forte pressão. Que técnica sou?",
+        "answer": "Calcogravura"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes gráficas",
+        "sub_category": "Técnicas",
+        "difficulty": "médio",
+        "question": "Retiro partes de uma placa macia usada para pavimentos, deixando em relevo as zonas que receberão tinta. Que técnica sou?",
+        "answer": "Linogravura"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes gráficas",
+        "sub_category": "Alinhamento",
+        "difficulty": "difícil",
+        "question": "Faço coincidir exatamente as várias cores aplicadas em passagens sucessivas, evitando contornos desencontrados. Que ajuste sou?",
+        "answer": "Registo de impressão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes gráficas",
+        "sub_category": "Preparação",
+        "difficulty": "difícil",
+        "question": "Distribuo páginas numa folha grande de modo que, depois de dobrada e cortada, fiquem na ordem correta. Que operação sou?",
+        "answer": "Imposição gráfica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes gráficas",
+        "sub_category": "Ferramentas",
+        "difficulty": "médio",
+        "question": "Sou a superfície preparada com a imagem original que permite reproduzir várias cópias em papel ou tecido. Que elemento sou?",
+        "answer": "Matriz de impressão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Artes gráficas",
+        "sub_category": "História técnica",
+        "difficulty": "médio",
+        "question": "Cada letra é uma pequena peça independente que pode ser reorganizada para compor novas páginas. Que conjunto de peças sou?",
+        "answer": "Tipos móveis"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Embarcações",
+        "difficulty": "médio",
+        "question": "Meço a distância vertical entre a linha de água e a parte mais baixa do casco; por mim se sabe se um barco pode entrar num porto pouco fundo. Que medida sou?",
+        "answer": "Calado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Embarcações",
+        "difficulty": "difícil",
+        "question": "Sou a distância vertical entre a superfície da água e o limite superior do casco, medida na zona apropriada da embarcação. Que medida sou?",
+        "answer": "Bordo livre"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Orientação",
+        "difficulty": "médio",
+        "question": "Com espelhos e um arco graduado, meço o ângulo entre um astro e o horizonte para ajudar a encontrar a posição no mar. Que instrumento sou?",
+        "answer": "Sextante"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Planeamento",
+        "difficulty": "difícil",
+        "question": "Sou o percurso planeado ou efetivamente seguido por uma embarcação, traçado sobre a carta de navegação. Que caminho sou?",
+        "answer": "Derrota náutica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Movimento",
+        "difficulty": "difícil",
+        "question": "O vento empurra a embarcação lateralmente, desviando-a da direção para onde aponta a proa. Como se chama esse desvio?",
+        "answer": "Abatimento"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Ventos",
+        "difficulty": "médio",
+        "question": "Durante o dia, o solo aquece mais depressa do que a água e posso soprar do mar para terra. Que brisa costeira sou?",
+        "answer": "Viração"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Velame",
+        "difficulty": "difícil",
+        "question": "Sou um cabo firme que ajuda a sustentar o mastro no sentido longitudinal da embarcação. Que elemento sou?",
+        "answer": "Estai"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Velame",
+        "difficulty": "médio",
+        "question": "Puxam-me para içar uma vela ou uma bandeira ao longo do mastro. Que cabo sou?",
+        "answer": "Adriça"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Velame",
+        "difficulty": "médio",
+        "question": "Sou o cabo que se ajusta para orientar uma vela em relação ao vento. Como me chamam a bordo?",
+        "answer": "Escota"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Sinalização",
+        "difficulty": "difícil",
+        "question": "A minha combinação de cores e marcas indica por que lado de um perigo se encontram águas seguras, segundo os pontos da bússola. Que baliza sou?",
+        "answer": "Sinal cardinal"
       }
     ],
     "word_master": [
