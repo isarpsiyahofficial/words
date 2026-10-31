@@ -36517,11 +36517,11 @@
       "locale": "tr-TR",
       "main_category": "Mutfak",
       "sub_category": "Saklama ve Taşıma",
-      "word": "Termos",
+      "word": "Vakumlu içecek şişesi",
       "forbidden_words": [
+        "yalıtım",
         "sıcak",
-        "içecek",
-        "yalıtım"
+        "soğuk"
       ]
     },
     {
@@ -37079,7 +37079,7 @@
       "word": "Kablosuz hoparlör",
       "forbidden_words": [
         "ses",
-        "bluetooth",
+        "eşleştirme",
         "taşınabilir"
       ]
     },
@@ -39429,11 +39429,11 @@
       "locale": "tr-TR",
       "main_category": "Spor",
       "sub_category": "Egzersiz ve Esneme",
-      "word": "Pilates",
+      "word": "Vücut ağırlığı antrenmanı",
       "forbidden_words": [
-        "mat",
-        "egzersiz",
-        "denge"
+        "şınav",
+        "ekipmansız",
+        "kas"
       ]
     },
     {
@@ -41262,7 +41262,7 @@
       "locale": "tr-TR",
       "main_category": "Teknoloji",
       "sub_category": "İnternet",
-      "word": "Wi-Fi",
+      "word": "Ağ kapsama alanı",
       "forbidden_words": [
         "kablosuz",
         "modem",
@@ -43849,11 +43849,11 @@
       "locale": "tr-TR",
       "main_category": "Spor",
       "sub_category": "Ekipman",
-      "word": "Pilates topu",
+      "word": "Egzersiz topu",
       "forbidden_words": [
-        "egzersiz",
+        "şişirmek",
         "denge",
-        "şişirmek"
+        "antrenman"
       ]
     },
     {
@@ -44642,7 +44642,7 @@
       "locale": "tr-TR",
       "main_category": "Mutfak",
       "sub_category": "Saklama",
-      "word": "Termos çanta",
+      "word": "Isı yalıtımlı çanta",
       "forbidden_words": [
         "soğuk",
         "taşımak",
@@ -45188,7 +45188,7 @@
       "locale": "tr-TR",
       "main_category": "Spor",
       "sub_category": "Aksesuar",
-      "word": "Pilates çemberi",
+      "word": "Direnç çemberi",
       "forbidden_words": [
         "esneme",
         "egzersiz",
@@ -45201,11 +45201,11 @@
       "locale": "tr-TR",
       "main_category": "Spor",
       "sub_category": "Aksesuar",
-      "word": "Hulahop",
+      "word": "Bilek ağırlığı",
       "forbidden_words": [
-        "bel",
-        "çember",
-        "döndürmek"
+        "spor",
+        "takmak",
+        "kilogram"
       ]
     },
     {
@@ -46306,11 +46306,11 @@
       "locale": "tr-TR",
       "main_category": "Teknoloji",
       "sub_category": "Donanım",
-      "word": "Bluetooth adaptörü",
+      "word": "Kablosuz ses alıcısı",
       "forbidden_words": [
-        "kablosuz",
-        "bağlantı",
-        "bilgisayar"
+        "hoparlör",
+        "eşleştirme",
+        "müzik"
       ]
     },
     {
@@ -48997,11 +48997,11 @@
       "locale": "tr-TR",
       "main_category": "Spor",
       "sub_category": "Ekipman",
-      "word": "Frizbi",
+      "word": "Uçan disk",
       "forbidden_words": [
-        "disk",
         "atmak",
-        "yakalamak"
+        "yakalamak",
+        "park"
       ]
     },
     {
@@ -57863,11 +57863,11 @@
       "locale": "tr-TR",
       "main_category": "Ulaşım",
       "sub_category": "Hava",
-      "word": "Zeplin",
+      "word": "Hava gemisi",
       "forbidden_words": [
-        "hava",
-        "balon",
-        "uzun"
+        "uçmak",
+        "gaz",
+        "gövde"
       ]
     },
     {
@@ -61000,7 +61000,7 @@
       "forbidden_words": [
         "kaynatmak",
         "elektrik",
-        "kettle"
+        "rezistans"
       ]
     },
     {
