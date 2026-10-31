@@ -46737,6 +46737,926 @@
         "difficulty": "médio",
         "question": "Que tipo de divisão reduz para metade o número de cromossomas nas células destinadas à reprodução?",
         "answer": "Meiose"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia e orientação",
+        "sub_category": "Leitura de mapas",
+        "difficulty": "médio",
+        "question": "Que elemento de um mapa apresenta uma barra graduada que permite medir distâncias reais com uma régua?",
+        "answer": "Escala gráfica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia e orientação",
+        "sub_category": "Leitura de mapas",
+        "difficulty": "difícil",
+        "question": "Onde se explica o significado dos símbolos e das cores utilizados numa carta geográfica?",
+        "answer": "Legenda cartográfica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia e orientação",
+        "sub_category": "Leitura de mapas",
+        "difficulty": "difícil",
+        "question": "Que ângulo separa a direção indicada pela bússola do norte geográfico num determinado local?",
+        "answer": "Declinação magnética"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia e orientação",
+        "sub_category": "Leitura de mapas",
+        "difficulty": "difícil",
+        "question": "Como se chama a diferença de altitude, constante, entre duas linhas consecutivas que representam o relevo?",
+        "answer": "Equidistância"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia e orientação",
+        "sub_category": "Leitura de mapas",
+        "difficulty": "difícil",
+        "question": "Que rede de linhas numeradas permite localizar um ponto numa carta por coordenadas?",
+        "answer": "Quadrícula cartográfica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia e orientação",
+        "sub_category": "Leitura de mapas",
+        "difficulty": "difícil",
+        "question": "Que método de representar a superfície terrestre num plano imagina um cilindro envolvendo o globo?",
+        "answer": "Projeção cilíndrica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia e orientação",
+        "sub_category": "Leitura de mapas",
+        "difficulty": "médio",
+        "question": "Que representação detalhada de uma região mostra altitudes, caminhos e elementos do terreno?",
+        "answer": "Carta topográfica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia e orientação",
+        "sub_category": "Leitura de mapas",
+        "difficulty": "difícil",
+        "question": "Que imagem aérea, corrigida geometricamente, permite medir posições como num mapa?",
+        "answer": "Ortofotomapa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade",
+        "sub_category": "Transportes públicos",
+        "difficulty": "médio",
+        "question": "Que título de transporte permite usar vários operadores ou meios numa mesma rede de deslocações?",
+        "answer": "Passe intermodal"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade",
+        "sub_category": "Transportes públicos",
+        "difficulty": "difícil",
+        "question": "Que título de viagem inclui tanto o percurso até ao destino como o regresso ao ponto de partida?",
+        "answer": "Bilhete de ida e volta"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade",
+        "sub_category": "Transportes públicos",
+        "difficulty": "difícil",
+        "question": "Que operação se faz ao aproximar o cartão do leitor antes de entrar no transporte?",
+        "answer": "Validação de título"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade",
+        "sub_category": "Transportes públicos",
+        "difficulty": "fácil",
+        "question": "Que corredor de trânsito, identificado por letras no pavimento, é reservado sobretudo aos autocarros?",
+        "answer": "Faixa BUS"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade",
+        "sub_category": "Transportes públicos",
+        "difficulty": "médio",
+        "question": "Em que tipo de ponto de embarque o veículo só imobiliza quando alguém sinaliza essa intenção?",
+        "answer": "Paragem a pedido"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade",
+        "sub_category": "Transportes públicos",
+        "difficulty": "fácil",
+        "question": "Como se chama a passagem de um veículo para outro durante uma viagem com ligação?",
+        "answer": "Transbordo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade",
+        "sub_category": "Transportes públicos",
+        "difficulty": "difícil",
+        "question": "Em que zona elevada e delimitada de uma estação os passageiros aguardam para entrar no comboio?",
+        "answer": "Plataforma de embarque"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade",
+        "sub_category": "Transportes públicos",
+        "difficulty": "médio",
+        "question": "Que parte da estrada é destinada exclusivamente a determinados tipos de veículos?",
+        "answer": "Via reservada"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mobilidade",
+        "sub_category": "Transportes públicos",
+        "difficulty": "médio",
+        "question": "Que atravessamento pedonal fica acima do nível habitual da faixa de rodagem, ajudando a moderar a velocidade?",
+        "answer": "Passadeira elevada"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e fibras",
+        "sub_category": "Materiais e tecelagem",
+        "difficulty": "fácil",
+        "question": "Que tecido de fibra vegetal, ainda sem branqueamento ou tingimento, conserva uma tonalidade natural?",
+        "answer": "Linho cru"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e fibras",
+        "sub_category": "Materiais e tecelagem",
+        "difficulty": "fácil",
+        "question": "Que material têxtil se obtém compactando fibras sem as entrelaçar por fios de urdidura e trama?",
+        "answer": "Feltro"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e fibras",
+        "sub_category": "Materiais e tecelagem",
+        "difficulty": "fácil",
+        "question": "Que tipo de tecido apresenta nervuras diagonais formadas pelo modo como os fios se cruzam?",
+        "answer": "Sarja"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e fibras",
+        "sub_category": "Materiais e tecelagem",
+        "difficulty": "fácil",
+        "question": "Que tecido tem superfície lisa e lustrosa graças a uma estrutura com poucos pontos de ligação visíveis?",
+        "answer": "Cetim"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e fibras",
+        "sub_category": "Materiais e tecelagem",
+        "difficulty": "fácil",
+        "question": "Que tecido de ligamento simples costuma ser firme, leve e produzir um ruído seco quando se movimenta?",
+        "answer": "Tafetá"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e fibras",
+        "sub_category": "Materiais e tecelagem",
+        "difficulty": "fácil",
+        "question": "Que tecido resistente, geralmente azul, é muito usado no fabrico de calças de uso quotidiano?",
+        "answer": "Ganga"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e fibras",
+        "sub_category": "Materiais e tecelagem",
+        "difficulty": "fácil",
+        "question": "Que estrutura acionada diretamente por uma pessoa entrelaça fios para produzir pano?",
+        "answer": "Tear manual"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e fibras",
+        "sub_category": "Materiais e tecelagem",
+        "difficulty": "médio",
+        "question": "Que pequeno suporte cilíndrico transporta linha no interior da lançadeira de tecelagem?",
+        "answer": "Canela de fio"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e fibras",
+        "sub_category": "Materiais e tecelagem",
+        "difficulty": "fácil",
+        "question": "Que peça cilíndrica permite enrolar e desenrolar fio de forma organizada?",
+        "answer": "Bobina"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e vinhas",
+        "sub_category": "Cultivo e gestão do terreno",
+        "difficulty": "fácil",
+        "question": "Como se chama o ramo comprido e flexível que nasce da videira e pode ser usado para a sua propagação?",
+        "answer": "Sarmento"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e vinhas",
+        "sub_category": "Cultivo e gestão do terreno",
+        "difficulty": "difícil",
+        "question": "Que técnica de multiplicação vegetal insere uma única gema de uma planta no caule de outra?",
+        "answer": "Enxertia de borbulha"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e vinhas",
+        "sub_category": "Cultivo e gestão do terreno",
+        "difficulty": "fácil",
+        "question": "Como se chama cada parcela delimitada em que se divide uma exploração agrícola para organizar as culturas?",
+        "answer": "Talhão"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e vinhas",
+        "sub_category": "Cultivo e gestão do terreno",
+        "difficulty": "difícil",
+        "question": "Que medida define a distância entre plantas e entre linhas numa cultura instalada de forma regular?",
+        "answer": "Compasso de plantação"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e vinhas",
+        "sub_category": "Cultivo e gestão do terreno",
+        "difficulty": "médio",
+        "question": "Que patamar horizontal, construído numa encosta, permite cultivar e reduzir o arrastamento do solo?",
+        "answer": "Terraço agrícola"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e vinhas",
+        "sub_category": "Cultivo e gestão do terreno",
+        "difficulty": "fácil",
+        "question": "Que método fornece nutrientes dissolvidos na água utilizada para alimentar as plantas?",
+        "answer": "Fertirrega"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e vinhas",
+        "sub_category": "Cultivo e gestão do terreno",
+        "difficulty": "médio",
+        "question": "Que sistema distribui água em pequenas gotas lançadas por dispositivos que imitam a chuva?",
+        "answer": "Rega por aspersão"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e vinhas",
+        "sub_category": "Cultivo e gestão do terreno",
+        "difficulty": "médio",
+        "question": "Que espaço de cultivo é construído acima do nível do terreno, frequentemente delimitado por tábuas ou pedra?",
+        "answer": "Canteiro elevado"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ferramentas e ofícios",
+        "sub_category": "Trabalho de oficina",
+        "difficulty": "fácil",
+        "question": "Que ferramenta de cabeça larga, muitas vezes de madeira, serve para golpear um formão sem danificar o cabo?",
+        "answer": "Maceta"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ferramentas e ofícios",
+        "sub_category": "Trabalho de oficina",
+        "difficulty": "difícil",
+        "question": "Que qualidade de uma peça indica que os seus cantos e alinhamentos respeitam ângulos retos?",
+        "answer": "Esquadria"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ferramentas e ofícios",
+        "sub_category": "Trabalho de oficina",
+        "difficulty": "médio",
+        "question": "Que dispositivo mantém duas peças imóveis e pressionadas enquanto a cola seca?",
+        "answer": "Grampo de aperto"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ferramentas e ofícios",
+        "sub_category": "Trabalho de oficina",
+        "difficulty": "fácil",
+        "question": "Que ferramenta de lâmina robusta permite abrir entalhes em madeira com auxílio de um maço?",
+        "answer": "Escopro"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ferramentas e ofícios",
+        "sub_category": "Trabalho de oficina",
+        "difficulty": "médio",
+        "question": "Que ferramenta abrasiva de mão tem uma face plana e outra curva para ajustar superfícies diferentes?",
+        "answer": "Lima meia-cana"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ferramentas e ofícios",
+        "sub_category": "Trabalho de oficina",
+        "difficulty": "médio",
+        "question": "Que acessório de corte, montado num berbequim, perfura tábuas e outras peças lenhosas?",
+        "answer": "Broca de madeira"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ferramentas e ofícios",
+        "sub_category": "Trabalho de oficina",
+        "difficulty": "difícil",
+        "question": "Que máquina de oficina faz furos verticais com o motor e a ferramenta guiados por um suporte fixo?",
+        "answer": "Berbequim de coluna"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Casa e construção",
+        "sub_category": "Elementos de edifícios",
+        "difficulty": "médio",
+        "question": "Que compartimento situado acima da janela guarda o enrolamento da proteção exterior?",
+        "answer": "Caixa de estore"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Casa e construção",
+        "sub_category": "Elementos de edifícios",
+        "difficulty": "médio",
+        "question": "Que tira flexível se puxa no interior de uma divisão para subir ou descer a proteção da janela?",
+        "answer": "Fita de estore"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Casa e construção",
+        "sub_category": "Elementos de edifícios",
+        "difficulty": "fácil",
+        "question": "Que pequena roda com sulco orienta um cabo ou corda num mecanismo de elevação?",
+        "answer": "Roldana"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Casa e construção",
+        "sub_category": "Elementos de edifícios",
+        "difficulty": "fácil",
+        "question": "Que remate saliente ou reentrante faz a transição decorativa entre a parede e o teto?",
+        "answer": "Sanca"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Casa e construção",
+        "sub_category": "Elementos de edifícios",
+        "difficulty": "médio",
+        "question": "Que face vertical de um elemento de escada fica entre duas superfícies onde se apoiam os pés?",
+        "answer": "Espelho de degrau"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e estilo",
+        "difficulty": "fácil",
+        "question": "Como se designam palavras de forma semelhante, mas com significados distintos, como 'comprimento' e 'cumprimento'?",
+        "answer": "Parónimos"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e estilo",
+        "difficulty": "fácil",
+        "question": "Como se classificam palavras pronunciadas de modo igual, embora possam escrever-se de maneira diferente?",
+        "answer": "Homófonos"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e estilo",
+        "difficulty": "difícil",
+        "question": "Que modo de organizar frases coloca orações lado a lado sem estabelecer subordinação entre elas?",
+        "answer": "Parataxe"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e estilo",
+        "difficulty": "difícil",
+        "question": "Que organização sintática estabelece dependência de uma oração em relação a outra?",
+        "answer": "Hipotaxe"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e estilo",
+        "difficulty": "difícil",
+        "question": "Que recurso textual anuncia um elemento que só será identificado mais adiante na frase?",
+        "answer": "Catáfora"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e estilo",
+        "difficulty": "fácil",
+        "question": "Que expressão acrescenta uma explicação ou identificação a um nome, frequentemente entre vírgulas?",
+        "answer": "Aposto"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Infraestruturas e orientação",
+        "difficulty": "médio",
+        "question": "Que faixa de água, assinalada e com profundidade adequada, orienta a passagem segura de embarcações?",
+        "answer": "Canal de navegação"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Infraestruturas e orientação",
+        "difficulty": "médio",
+        "question": "Que objeto flutuante fixo ao fundo permite prender temporariamente uma embarcação sem lançar âncora?",
+        "answer": "Boia de amarração"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Infraestruturas e orientação",
+        "difficulty": "fácil",
+        "question": "Que pequeno sinal luminoso instalado num cais ou molhe orienta os barcos na aproximação?",
+        "answer": "Farolim"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Infraestruturas e orientação",
+        "difficulty": "difícil",
+        "question": "Que alinhamento visual de duas marcas fixas ajuda a manter a direção correta de uma embarcação?",
+        "answer": "Enfiamento"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Infraestruturas e orientação",
+        "difficulty": "fácil",
+        "question": "Que distância vertical separa a superfície da água do limite superior do casco de uma embarcação?",
+        "answer": "Borda livre"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Infraestruturas e orientação",
+        "difficulty": "fácil",
+        "question": "Que dispositivo de direção de um barco é manobrado por uma barra ligada diretamente à peça submersa?",
+        "answer": "Leme de cana"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Física quotidiana",
+        "sub_category": "Forças e propriedades",
+        "difficulty": "médio",
+        "question": "Que forma de transferência de calor ocorre quando um fluido se movimenta devido a diferenças de densidade, sem ventoinha?",
+        "answer": "Convecção natural"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Física quotidiana",
+        "sub_category": "Forças e propriedades",
+        "difficulty": "médio",
+        "question": "Que resistência impede o início do deslizamento entre duas superfícies em contacto?",
+        "answer": "Atrito estático"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Física quotidiana",
+        "sub_category": "Forças e propriedades",
+        "difficulty": "médio",
+        "question": "Em que estado ficam dois corpos em contacto quando deixam de trocar calor por diferença de temperatura?",
+        "answer": "Equilíbrio térmico"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Física quotidiana",
+        "sub_category": "Forças e propriedades",
+        "difficulty": "médio",
+        "question": "Que grandeza compara a massa por unidade de volume de uma substância com a de uma referência?",
+        "answer": "Densidade relativa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Física quotidiana",
+        "sub_category": "Forças e propriedades",
+        "difficulty": "médio",
+        "question": "Que ponto representa a posição média ponderada da matéria de um corpo para estudar o seu movimento?",
+        "answer": "Centro de massa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Física quotidiana",
+        "sub_category": "Forças e propriedades",
+        "difficulty": "médio",
+        "question": "Que grandeza mede a tendência de uma força para fazer rodar um objeto em torno de um eixo?",
+        "answer": "Momento de força"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Costura",
+        "sub_category": "Acabamentos de vestuário",
+        "difficulty": "médio",
+        "question": "Que abertura reforçada numa peça de roupa permite passar o pequeno fecho circular que a prende?",
+        "answer": "Casa de botão"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Costura",
+        "sub_category": "Acabamentos de vestuário",
+        "difficulty": "médio",
+        "question": "Que tecido elástico apresenta nervuras verticais e é comum em punhos e golas?",
+        "answer": "Malha canelada"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Costura",
+        "sub_category": "Acabamentos de vestuário",
+        "difficulty": "fácil",
+        "question": "Que dobra de tecido se forma com duas partes voltadas uma para a outra, criando volume sem franzir?",
+        "answer": "Prega macho"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Costura",
+        "sub_category": "Acabamentos de vestuário",
+        "difficulty": "fácil",
+        "question": "Que efeito de costura reúne tecido em pequenas ondulações ao puxar uma linha?",
+        "answer": "Franzido"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardinagem",
+        "sub_category": "Organização da horta",
+        "difficulty": "fácil",
+        "question": "Que suporte se coloca junto de uma planta jovem para orientar o seu crescimento vertical?",
+        "answer": "Tutor"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardinagem",
+        "sub_category": "Organização da horta",
+        "difficulty": "difícil",
+        "question": "Que método de iniciar uma cultura usa um recipiente com várias pequenas células preenchidas com substrato?",
+        "answer": "Sementeira em tabuleiro"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardinagem",
+        "sub_category": "Organização da horta",
+        "difficulty": "médio",
+        "question": "Que depressão circular feita na terra junto ao tronco ajuda a reter água durante a irrigação?",
+        "answer": "Caldeira de rega"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Jardinagem",
+        "sub_category": "Organização da horta",
+        "difficulty": "médio",
+        "question": "Que camada de plantas vivas protege o solo agrícola da erosão e reduz a exposição direta?",
+        "answer": "Cobertura vegetal"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha",
+        "sub_category": "Utensílios e preparação",
+        "difficulty": "médio",
+        "question": "Que utensílio com malha metálica fina permite separar pequenos sólidos de líquidos na cozinha?",
+        "answer": "Passador de rede"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha",
+        "sub_category": "Utensílios e preparação",
+        "difficulty": "médio",
+        "question": "Que utensílio cónico de metal, geralmente perfurado, serve para filtrar molhos e caldos?",
+        "answer": "Coador chinês"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha",
+        "sub_category": "Utensílios e preparação",
+        "difficulty": "médio",
+        "question": "Que utensílio de lâmina plana e dobrada junto ao cabo ajuda a espalhar coberturas em bolos?",
+        "answer": "Espátula angular"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha",
+        "sub_category": "Utensílios e preparação",
+        "difficulty": "difícil",
+        "question": "Em que estrutura de arame se colocam bolos acabados de sair do forno para o ar circular por baixo?",
+        "answer": "Grelha de arrefecimento"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geografia física",
+        "sub_category": "Relevo e paisagem",
+        "difficulty": "médio",
+        "question": "Que linha de relevo separa terrenos cujas chuvas escoam para bacias hidrográficas diferentes?",
+        "answer": "Divisor de águas"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geografia física",
+        "sub_category": "Relevo e paisagem",
+        "difficulty": "médio",
+        "question": "Que traçado acompanha a sucessão dos pontos mais altos de uma elevação ou serra?",
+        "answer": "Linha de cumeada"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geografia física",
+        "sub_category": "Relevo e paisagem",
+        "difficulty": "difícil",
+        "question": "Que depósito de fragmentos e terra se acumula no sopé de uma vertente por ação da gravidade?",
+        "answer": "Colúvio"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geografia física",
+        "sub_category": "Relevo e paisagem",
+        "difficulty": "difícil",
+        "question": "Que superfície de relevo muito suavizado resulta de um longo processo de desgaste de antigas elevações?",
+        "answer": "Peneplanície"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geografia física",
+        "sub_category": "Relevo e paisagem",
+        "difficulty": "médio",
+        "question": "Como se chama o lado de uma encosta que recebe mais luz solar direta ao longo do dia?",
+        "answer": "Vertente soalheira"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geografia física",
+        "sub_category": "Relevo e paisagem",
+        "difficulty": "médio",
+        "question": "Como se chama o lado de uma encosta que permanece mais tempo à sombra e tende a ser mais fresco?",
+        "answer": "Vertente umbrosa"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciências e materiais",
+        "sub_category": "Transformações e medidas",
+        "difficulty": "médio",
+        "question": "Que processo forma sólidos de estrutura ordenada a partir de uma solução ou de material fundido?",
+        "answer": "Cristalização"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciências e materiais",
+        "sub_category": "Transformações e medidas",
+        "difficulty": "médio",
+        "question": "Que aumento de comprimento sofre uma barra quando a sua temperatura sobe?",
+        "answer": "Dilatação linear"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciências e materiais",
+        "sub_category": "Transformações e medidas",
+        "difficulty": "difícil",
+        "question": "Que propriedade indica a facilidade com que um material deixa passar energia sob a forma de calor?",
+        "answer": "Condutividade térmica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Luz e imagem",
+        "difficulty": "médio",
+        "question": "Que tipo de reflexão ocorre numa superfície lisa, enviando a luz predominantemente numa direção?",
+        "answer": "Reflexo especular"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Luz e imagem",
+        "difficulty": "médio",
+        "question": "Que recurso fotográfico destaca apenas uma zona nítida e deixa o restante enquadramento desfocado?",
+        "answer": "Foco seletivo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia",
+        "sub_category": "Relações e habitats",
+        "difficulty": "difícil",
+        "question": "Que transporte de pólen entre flores é realizado por insetos que as visitam?",
+        "answer": "Polinização entomófila"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia",
+        "sub_category": "Relações e habitats",
+        "difficulty": "médio",
+        "question": "Que ambiente natural se desenvolve nas margens de rios e ribeiras, influenciado pela presença de água?",
+        "answer": "Habitat ripícola"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e arquitetura",
+        "sub_category": "Espaços e ornamentos",
+        "difficulty": "médio",
+        "question": "Que peça cerâmica decorativa repete um desenho geométrico ou floral para revestir superfícies?",
+        "answer": "Azulejo de padrão"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e arquitetura",
+        "sub_category": "Espaços e ornamentos",
+        "difficulty": "médio",
+        "question": "Que conjunto decorativo apresenta uma cena reconhecível, em vez de um motivo apenas geométrico?",
+        "answer": "Painel figurativo"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e arquitetura",
+        "sub_category": "Espaços e ornamentos",
+        "difficulty": "fácil",
+        "question": "Que pequena construção aberta, geralmente em jardins ou praças, possui cobertura e espaço elevado para apresentações?",
+        "answer": "Coreto"
       }
     ]
   }
