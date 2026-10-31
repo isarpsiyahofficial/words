@@ -39976,6 +39976,806 @@
         "difficulty": "difícil",
         "question": "Na festa de janeiro, tenho formato de torre e sou levado em procissão como pão doce tradicional.",
         "answer": "Fogaça da Feira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e orientação",
+        "sub_category": "Leitura do território",
+        "difficulty": "médio",
+        "question": "No papel, uno pontos da mesma altitude; quanto mais juntas fico, mais íngreme é a encosta.",
+        "answer": "Curvas de nível"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e orientação",
+        "sub_category": "Leitura do território",
+        "difficulty": "médio",
+        "question": "Faço caber quilómetros num pequeno segmento desenhado e revelo a distância real no terreno.",
+        "answer": "Escala cartográfica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e orientação",
+        "sub_category": "Leitura do território",
+        "difficulty": "fácil",
+        "question": "Sou um desenho de pontas que indica norte, sul, nascente e poente numa carta.",
+        "answer": "Rosa dos ventos"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e orientação",
+        "sub_category": "Leitura do território",
+        "difficulty": "fácil",
+        "question": "Sou a chave que traduz as cores e os símbolos de uma carta sem acrescentar estradas.",
+        "answer": "Legenda"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e orientação",
+        "sub_category": "Leitura do território",
+        "difficulty": "médio",
+        "question": "Ligo os dois polos por uma linha imaginária que ajuda a medir a longitude.",
+        "answer": "Meridiano"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e orientação",
+        "sub_category": "Leitura do território",
+        "difficulty": "médio",
+        "question": "Contorno o globo sem tocar nos polos e ajudo a indicar a latitude.",
+        "answer": "Paralelo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e orientação",
+        "sub_category": "Leitura do território",
+        "difficulty": "médio",
+        "question": "Acompanho quem sobe uma montanha e indico a altura acima do mar sem usar fita métrica.",
+        "answer": "Altímetro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mapas e orientação",
+        "sub_category": "Leitura do território",
+        "difficulty": "médio",
+        "question": "Para localizar um lugar com precisão, dou dois valores: um de latitude e outro de longitude.",
+        "answer": "Coordenadas geográficas"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e infraestruturas",
+        "sub_category": "Distribuição e drenagem",
+        "difficulty": "médio",
+        "question": "Atravesso vales em arcos ou canais para levar água de longe até uma povoação.",
+        "answer": "Aqueduto"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e infraestruturas",
+        "sub_category": "Distribuição e drenagem",
+        "difficulty": "fácil",
+        "question": "Fico junto ao lancil e recebo a chuva da rua antes de ela formar poças.",
+        "answer": "Sarjeta"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e infraestruturas",
+        "sub_category": "Distribuição e drenagem",
+        "difficulty": "difícil",
+        "question": "Numa tubagem, deixo o líquido seguir em frente mas impeço que regresse pelo mesmo caminho.",
+        "answer": "Válvula de retenção"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e infraestruturas",
+        "sub_category": "Distribuição e drenagem",
+        "difficulty": "médio",
+        "question": "Com um único comando, combino caudais quente e frio até obter a temperatura desejada.",
+        "answer": "Torneira misturadora"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e infraestruturas",
+        "sub_category": "Distribuição e drenagem",
+        "difficulty": "fácil",
+        "question": "Guardo uma reserva para abastecer uma casa quando a rede não fornece de imediato.",
+        "answer": "Depósito de água"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e infraestruturas",
+        "sub_category": "Distribuição e drenagem",
+        "difficulty": "médio",
+        "question": "Percorro os campos numa vala construída para distribuir água às culturas.",
+        "answer": "Canal de rega"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e infraestruturas",
+        "sub_category": "Distribuição e drenagem",
+        "difficulty": "médio",
+        "question": "Faço a água atravessar uma camada de grãos finos para reter partículas suspensas.",
+        "answer": "Filtro de areia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e infraestruturas",
+        "sub_category": "Distribuição e drenagem",
+        "difficulty": "médio",
+        "question": "Recebo águas usadas onde não há rede pública e separo sólidos antes da drenagem.",
+        "answer": "Fossa séptica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e artes gráficas",
+        "sub_category": "Preparação de páginas",
+        "difficulty": "médio",
+        "question": "Sou uma marca estreita feita numa folha grossa para que a dobra fique limpa e certa.",
+        "answer": "Vinco"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e artes gráficas",
+        "sub_category": "Preparação de páginas",
+        "difficulty": "médio",
+        "question": "Sou o conjunto de folhas impressas que fica entre as capas e contém a leitura.",
+        "answer": "Miolo do livro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e artes gráficas",
+        "sub_category": "Preparação de páginas",
+        "difficulty": "fácil",
+        "question": "Protejo uma edição com duas faces rígidas que não se curvam como cartolina fina.",
+        "answer": "Capa dura"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e artes gráficas",
+        "sub_category": "Preparação de páginas",
+        "difficulty": "médio",
+        "question": "Dou uma ordem numérica às páginas para que o leitor encontre o seu lugar.",
+        "answer": "Paginação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e artes gráficas",
+        "sub_category": "Preparação de páginas",
+        "difficulty": "fácil",
+        "question": "Deixo uma faixa livre entre as letras e o limite da página.",
+        "answer": "Margem"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e artes gráficas",
+        "sub_category": "Preparação de páginas",
+        "difficulty": "difícil",
+        "question": "Sou uma amostra em papel revista antes de se autorizar toda a tiragem de uma gráfica.",
+        "answer": "Prova de impressão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e artes gráficas",
+        "sub_category": "Preparação de páginas",
+        "difficulty": "fácil",
+        "question": "Nasço de fibras recuperadas de folhas já usadas, poupando matéria-prima nova.",
+        "answer": "Papel reciclado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e artes gráficas",
+        "sub_category": "Preparação de páginas",
+        "difficulty": "difícil",
+        "question": "Na gráfica, faço sucessivas dobras alinhadas para transformar folhas grandes em cadernos.",
+        "answer": "Dobradeira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Campo e agricultura",
+        "sub_category": "Cultivo tradicional e moderno",
+        "difficulty": "médio",
+        "question": "Ergo-me sobre pilares, deixo circular o ar e protejo espigas guardadas da humidade.",
+        "answer": "Espigueiro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Campo e agricultura",
+        "sub_category": "Cultivo tradicional e moderno",
+        "difficulty": "médio",
+        "question": "Sou o chão largo e preparado onde antigamente se separava o grão das espigas.",
+        "answer": "Eira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Campo e agricultura",
+        "sub_category": "Cultivo tradicional e moderno",
+        "difficulty": "fácil",
+        "question": "Sou uma vala estreita e comprida aberta na terra para receber sementes ou conduzir água.",
+        "answer": "Sulco"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Campo e agricultura",
+        "sub_category": "Cultivo tradicional e moderno",
+        "difficulty": "médio",
+        "question": "Transformo uma encosta inclinada em degraus cultiváveis, muitas vezes seguros por muros.",
+        "answer": "Socalco"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Campo e agricultura",
+        "sub_category": "Cultivo tradicional e moderno",
+        "difficulty": "médio",
+        "question": "Sou uma parcela delimitada dentro de um campo, reservada a uma cultura.",
+        "answer": "Talhão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Campo e agricultura",
+        "sub_category": "Cultivo tradicional e moderno",
+        "difficulty": "médio",
+        "question": "Lanço pequenas gotas sobre as plantas por bicos elevados, como se imitasse a chuva.",
+        "answer": "Rega por aspersão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Campo e agricultura",
+        "sub_category": "Cultivo tradicional e moderno",
+        "difficulty": "médio",
+        "question": "Recolho palha solta e comprimo-a em blocos fáceis de empilhar e transportar.",
+        "answer": "Enfardadeira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Campo e agricultura",
+        "sub_category": "Cultivo tradicional e moderno",
+        "difficulty": "difícil",
+        "question": "Nos primeiros anos de uma árvore, seleciono ramos para definir a estrutura da copa futura.",
+        "answer": "Poda de formação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e criação",
+        "sub_category": "Materiais e técnicas",
+        "difficulty": "fácil",
+        "question": "Venho do caule de uma planta de flores azuis e torno-me tecido fresco e resistente.",
+        "answer": "Linho"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e criação",
+        "sub_category": "Materiais e técnicas",
+        "difficulty": "fácil",
+        "question": "Tenho pelo curto e macio; o meu brilho muda conforme a direção em que passas a mão.",
+        "answer": "Veludo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e criação",
+        "sub_category": "Materiais e técnicas",
+        "difficulty": "médio",
+        "question": "O meu entrelaçado mostra riscas diagonais discretas, frequentes em calças resistentes.",
+        "answer": "Sarja"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e criação",
+        "sub_category": "Materiais e técnicas",
+        "difficulty": "médio",
+        "question": "Brilho de um lado graças aos fios longos à superfície, mesmo quando não sou feito de seda.",
+        "answer": "Cetim"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e criação",
+        "sub_category": "Materiais e técnicas",
+        "difficulty": "fácil",
+        "question": "Sou uma rede de tecido muito fina e leve, frequente em saias rodadas e véus.",
+        "answer": "Tule"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e criação",
+        "sub_category": "Materiais e técnicas",
+        "difficulty": "fácil",
+        "question": "Sou tecido robusto de algodão, muitas vezes azul, usado nas calças de cinco bolsos.",
+        "answer": "Ganga"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e criação",
+        "sub_category": "Materiais e técnicas",
+        "difficulty": "fácil",
+        "question": "Faço aparecer desenhos e flores sobre pano com pontos de agulha e linha.",
+        "answer": "Bordado"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecidos e criação",
+        "sub_category": "Materiais e técnicas",
+        "difficulty": "médio",
+        "question": "Posso decorar uma parede com figuras criadas por fios entrelaçados, não por tinta.",
+        "answer": "Tapeçaria"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "médio",
+        "question": "Cozinho um ovo sem casca em água que mal borbulha, deixando a gema macia.",
+        "answer": "Escalfar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "fácil",
+        "question": "Dou a um prato uma crosta dourada com calor forte vindo de cima.",
+        "answer": "Gratinar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "médio",
+        "question": "Faço pequenos pedaços de alimento saltarem rapidamente numa frigideira quente com pouca gordura.",
+        "answer": "Saltear"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "fácil",
+        "question": "Trabalho farinha e líquido até a mistura ficar unida, lisa e elástica.",
+        "answer": "Amassar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "médio",
+        "question": "Com calor, transformo cristais doces e claros num líquido âmbar de aroma tostado.",
+        "answer": "Caramelização"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "fácil",
+        "question": "Deixo folhas aromáticas repousar em água quente para libertarem sabor sem longa fervura.",
+        "answer": "Infusão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "médio",
+        "question": "Preparo legumes num cesto acima de água a ferver, sem os mergulhar no líquido.",
+        "answer": "Cozedura a vapor"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e técnicas",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "médio",
+        "question": "Mergulho por instantes um alimento em água a ferver, muitas vezes para lhe retirar a pele.",
+        "answer": "Escaldar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tempo e atmosfera",
+        "sub_category": "Fenómenos meteorológicos",
+        "difficulty": "difícil",
+        "question": "Sou a temperatura a que o ar saturado começa a transformar o vapor em gotículas.",
+        "answer": "Ponto de orvalho"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tempo e atmosfera",
+        "sub_category": "Fenómenos meteorológicos",
+        "difficulty": "médio",
+        "question": "Chego quando uma massa de ar mais gelada avança por baixo de outra e altera o tempo.",
+        "answer": "Frente fria"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tempo e atmosfera",
+        "sub_category": "Fenómenos meteorológicos",
+        "difficulty": "difícil",
+        "question": "Contrario o habitual: junto ao solo fica uma camada fria e, acima dela, o ar está mais quente.",
+        "answer": "Inversão térmica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tempo e atmosfera",
+        "sub_category": "Fenómenos meteorológicos",
+        "difficulty": "médio",
+        "question": "Sou a diferença entre a temperatura máxima e a mínima observadas num período.",
+        "answer": "Amplitude térmica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tempo e atmosfera",
+        "sub_category": "Fenómenos meteorológicos",
+        "difficulty": "fácil",
+        "question": "Indico a parte do céu que está tapada por nuvens e posso variar ao longo do dia.",
+        "answer": "Nebulosidade"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tempo e atmosfera",
+        "sub_category": "Fenómenos meteorológicos",
+        "difficulty": "fácil",
+        "question": "Sou um aumento súbito e breve da velocidade do vento.",
+        "answer": "Rajada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tempo e atmosfera",
+        "sub_category": "Fenómenos meteorológicos",
+        "difficulty": "difícil",
+        "question": "Em percentagem, comparo o vapor presente no ar com o máximo possível à mesma temperatura.",
+        "answer": "Humidade relativa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tempo e atmosfera",
+        "sub_category": "Fenómenos meteorológicos",
+        "difficulty": "fácil",
+        "question": "Desço das nuvens em cristais gelados que se juntam em flocos brancos.",
+        "answer": "Neve"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Edifícios e construção",
+        "sub_category": "Elementos arquitetónicos",
+        "difficulty": "médio",
+        "question": "Fico na parte inferior do vão de entrada, onde os pés passam ao atravessar a porta.",
+        "answer": "Soleira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Edifícios e construção",
+        "sub_category": "Elementos arquitetónicos",
+        "difficulty": "fácil",
+        "question": "Acompanho degraus e rampas para dar apoio à mão de quem sobe ou desce.",
+        "answer": "Corrimão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Edifícios e construção",
+        "sub_category": "Elementos arquitetónicos",
+        "difficulty": "médio",
+        "question": "Sou a zona plana que interrompe uma escada e permite descansar ou mudar de direção.",
+        "answer": "Patamar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Edifícios e construção",
+        "sub_category": "Elementos arquitetónicos",
+        "difficulty": "difícil",
+        "question": "Percorro o bordo do telhado e encaminho a chuva para um tubo de descida.",
+        "answer": "Algeroz"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Edifícios e construção",
+        "sub_category": "Elementos arquitetónicos",
+        "difficulty": "médio",
+        "question": "Sou a linha mais alta de um telhado de duas águas, onde se encontram os planos inclinados.",
+        "answer": "Cumeeira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Edifícios e construção",
+        "sub_category": "Elementos arquitetónicos",
+        "difficulty": "médio",
+        "question": "Avanço além da parede para fazer a chuva cair afastada da fachada.",
+        "answer": "Beiral"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Edifícios e construção",
+        "sub_category": "Elementos arquitetónicos",
+        "difficulty": "fácil",
+        "question": "Sou uma pequena abertura com grelha no chão por onde a água se escoa.",
+        "answer": "Ralo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Edifícios e construção",
+        "sub_category": "Elementos arquitetónicos",
+        "difficulty": "médio",
+        "question": "Sou feito de réguas encaixadas que assentam sobre uma base sem ficarem coladas à laje.",
+        "answer": "Pavimento flutuante"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e fungos",
+        "sub_category": "Estruturas e reprodução",
+        "difficulty": "difícil",
+        "question": "Sob a terra, espalho uma rede de filamentos que alimenta a parte visível de muitos fungos.",
+        "answer": "Micélio"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e fungos",
+        "sub_category": "Estruturas e reprodução",
+        "difficulty": "médio",
+        "question": "Sou uma célula minúscula capaz de originar um novo fungo ou feto sem ser semente.",
+        "answer": "Esporo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e fungos",
+        "sub_category": "Estruturas e reprodução",
+        "difficulty": "difícil",
+        "question": "Dentro da planta, levo água e sais minerais desde as raízes até às folhas.",
+        "answer": "Xilema"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e fungos",
+        "sub_category": "Estruturas e reprodução",
+        "difficulty": "difícil",
+        "question": "Dentro da planta, distribuo os açúcares fabricados nas folhas por outros órgãos.",
+        "answer": "Floema"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e fungos",
+        "sub_category": "Estruturas e reprodução",
+        "difficulty": "difícil",
+        "question": "Cresço horizontalmente sobre o solo e crio raízes mais adiante, formando outra planta.",
+        "answer": "Estolho"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e fungos",
+        "sub_category": "Estruturas e reprodução",
+        "difficulty": "fácil",
+        "question": "Sou o traço ramificado visível numa folha, por onde passam os vasos que a sustentam.",
+        "answer": "Nervura"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e fungos",
+        "sub_category": "Estruturas e reprodução",
+        "difficulty": "difícil",
+        "question": "No tronco, sou a madeira interior mais antiga, geralmente escura e resistente.",
+        "answer": "Cerne"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e fungos",
+        "sub_category": "Estruturas e reprodução",
+        "difficulty": "difícil",
+        "question": "Na flor, sou a superfície pegajosa que recebe grãos transportados pelo vento ou por insetos.",
+        "answer": "Estigma"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria e formas",
+        "sub_category": "Relações no plano",
+        "difficulty": "médio",
+        "question": "Divido um ângulo em duas partes com a mesma abertura.",
+        "answer": "Bissetriz"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria e formas",
+        "sub_category": "Relações no plano",
+        "difficulty": "difícil",
+        "question": "Corto um segmento ao meio em ângulo reto, ficando à mesma distância das suas extremidades.",
+        "answer": "Mediatriz"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria e formas",
+        "sub_category": "Relações no plano",
+        "difficulty": "fácil",
+        "question": "Para me medir, somas os comprimentos de todos os lados de uma figura fechada.",
+        "answer": "Perímetro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria e formas",
+        "sub_category": "Relações no plano",
+        "difficulty": "médio",
+        "question": "Se dobrares uma figura sobre certa linha, as duas metades coincidem exatamente.",
+        "answer": "Simetria axial"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria e formas",
+        "sub_category": "Relações no plano",
+        "difficulty": "fácil",
+        "question": "Uno dois vértices de um polígono que não são vizinhos.",
+        "answer": "Diagonal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria e formas",
+        "sub_category": "Relações no plano",
+        "difficulty": "médio",
+        "question": "Sou apenas o contorno formado por pontos do plano à mesma distância de um centro.",
+        "answer": "Circunferência"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria e formas",
+        "sub_category": "Relações no plano",
+        "difficulty": "difícil",
+        "question": "Toco uma curva num ponto e partilho a sua direção nesse lugar.",
+        "answer": "Tangente"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria e formas",
+        "sub_category": "Relações no plano",
+        "difficulty": "médio",
+        "question": "Todos os meus lados têm o mesmo comprimento e todos os ângulos a mesma abertura.",
+        "answer": "Polígono regular"
       }
     ],
     "word_master": [
