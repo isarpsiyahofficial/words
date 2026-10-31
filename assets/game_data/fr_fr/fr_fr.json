@@ -5965,6 +5965,974 @@
       "difficulty": "facile",
       "question": "Petit insecte, j'émets une lumière naturelle visible surtout à la tombée de la nuit. Que suis-je ?",
       "answer": "luciole"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "En poterie, je suis une argile délayée dans l'eau qui sert notamment à assembler deux pièces encore humides. Que suis-je ?",
+      "answer": "barbotine"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis une fine couche de terre liquide colorée appliquée sur une pièce en céramique avant sa cuisson. Que suis-je ?",
+      "answer": "engobe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Avec mon manche et ma boucle métallique, je retire de petits copeaux d'argile pendant le modelage. Quel outil suis-je ?",
+      "answer": "mirette"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis de la terre déjà cuite puis broyée, mélangée à l'argile pour limiter son retrait. Que suis-je ?",
+      "answer": "chamotte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Sur une pièce de poterie à moitié sèche, j'enlève l'excès de matière en la faisant tourner. Quelle opération suis-je ?",
+      "answer": "tournassage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Pour monter un vase sans tour, le potier superpose mes longs boudins d'argile. Que suis-je ?",
+      "answer": "colombin"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Après la cuisson, je forme sur une céramique une couche vitrifiée parfois brillante et colorée. Que suis-je ?",
+      "answer": "glaçure"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis une céramique poreuse généralement recouverte d'un revêtement vitrifié. Que suis-je ?",
+      "answer": "faïence"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Cuit à très haute température, je suis un matériau céramique dense et très peu poreux utilisé pour les sols. Que suis-je ?",
+      "answer": "grès cérame"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Avant la cuisson finale, on recouvre la pièce d'une préparation qui formera une surface vitrifiée. Quelle opération réalise-t-on ?",
+      "answer": "émaillage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "En modelage, ma lame plate et souple lisse les parois d'une forme en argile. Quel outil suis-je ?",
+      "answer": "estèque"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Sculpté dans le bois, mon bout profilé permet de façonner les détails d'une pièce en terre. Quel outil suis-je ?",
+      "answer": "ébauchoir"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis une pièce de poterie ayant subi sa première cuisson mais pas encore sa finition vitrifiée. Que suis-je ?",
+      "answer": "biscuit de céramique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis une pièce de tissu cousue à l'intérieur pour finir proprement une encolure ou une ouverture. Que suis-je ?",
+      "answer": "parementure"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "En une seule opération, je coupe le bord du tissu et l'entoure de plusieurs fils pour le finir. Quelle machine suis-je ?",
+      "answer": "surjeteuse"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Dans un vêtement, je suis l'ouverture où vient se fixer la manche. Que suis-je ?",
+      "answer": "emmanchure"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis une couture provisoire à grands points qui maintient les tissus avant la couture définitive. Que suis-je ?",
+      "answer": "faufil"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "À la main, je ferme discrètement un ourlet en laissant très peu de fil apparent sur l'endroit. Quel point suis-je ?",
+      "answer": "point invisible"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je cache les bords bruts du tissu entre deux lignes de piqûre pour obtenir une finition nette. Quelle technique suis-je ?",
+      "answer": "couture anglaise"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis une couture décorative très proche d'un pli ou d'un bord, destinée à le souligner. Que suis-je ?",
+      "answer": "piqûre nervure"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Pièce rapportée sur un vêtement, je relie plusieurs parties et peux en modifier la forme. Que suis-je ?",
+      "answer": "empiècement"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Bande textile étroite, je décore ou renforce le bord d'un habit, d'un coussin ou d'un rideau. Que suis-je ?",
+      "answer": "galon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Sur une orbite autour du Soleil, je suis le point où l'astre voyageur s'en approche le plus. Quel point suis-je ?",
+      "answer": "périhélie"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Sur une orbite autour du Soleil, je suis le point où l'astre voyageur s'en éloigne le plus. Quel point suis-je ?",
+      "answer": "aphélie"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Mesuré horizontalement depuis le nord, je donne la direction d'un objet observé. Quel angle suis-je ?",
+      "answer": "azimut"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis le point imaginaire directement opposé à celui situé au-dessus de la tête de l'observateur. Que suis-je ?",
+      "answer": "nadir"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis une échelle numérique décrivant la luminosité d'un astre telle qu'on la voit depuis la Terre. Que suis-je ?",
+      "answer": "magnitude apparente"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "La Lune montre alors plus de la moitié de son disque éclairé, sans être encore entièrement ronde. Quelle phase est-ce ?",
+      "answer": "phase gibbeuse"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Au fil des nuits, la Lune semble se balancer légèrement et nous laisse apercevoir un peu plus que la moitié de sa surface. Quel mouvement apparent est-ce ?",
+      "answer": "libration"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis la trajectoire apparente suivie par le Soleil sur la sphère céleste au cours d'une année. Que suis-je ?",
+      "answer": "écliptique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Petit corps rocheux voyageant dans l'espace, je peux produire une traînée lumineuse si j'entre dans l'atmosphère. Que suis-je ?",
+      "answer": "météoroïde"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Un satellite met autant de temps à tourner sur lui-même qu'à faire le tour de son astre. Quel état de mouvement est-ce ?",
+      "answer": "rotation synchrone"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Un objet proche semble changer de position par rapport au fond lointain quand on déplace son point d'observation. Quel effet est-ce ?",
+      "answer": "parallaxe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis une vaste dépression volcanique souvent formée par l'effondrement du sommet après une grande éruption. Que suis-je ?",
+      "answer": "caldeira"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Sur une surface calcaire, l'eau a creusé de longues rainures et des fissures qui me caractérisent. Quel relief suis-je ?",
+      "answer": "lapiaz"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Déposé par le vent, je suis un sédiment fin jaunâtre qui peut former d'épaisses couches fertiles. Que suis-je ?",
+      "answer": "loess"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Transporté par un cours d'eau, je me dépose sur ses berges ou dans son lit lorsque le courant ralentit. Que suis-je ?",
+      "answer": "alluvion"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Après de fortes pluies, des rigoles profondes se creusent sur une pente par l'action de l'eau. Quel phénomène est-ce ?",
+      "answer": "ravinement"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Deux ensembles de couches rocheuses se rencontrent après une interruption de dépôt ou une phase d'érosion. Quelle surface est-ce ?",
+      "answer": "discordance géologique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Sous de fortes contraintes, des couches de roche se courbent sans nécessairement se rompre. Quelle structure suis-je ?",
+      "answer": "pli géologique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis une roche métamorphique dont les minéraux dessinent souvent des bandes claires et sombres. Que suis-je ?",
+      "answer": "gneiss"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis une roche qui se débite facilement en feuillets grâce à l'orientation de ses minéraux. Que suis-je ?",
+      "answer": "schiste"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Des minéraux précipitent peu à peu et me font grandir en masse solide dans une cavité ou un sol. Que suis-je ?",
+      "answer": "concrétion"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Plus on descend dans un liquide au repos, plus je deviens importante à cause du poids de la colonne au-dessus. Que suis-je ?",
+      "answer": "pression hydrostatique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Un ressort étiré reprend sa forme lorsque la force cesse, tant qu'on ne dépasse pas sa limite. Quelle propriété montre-t-il ?",
+      "answer": "élasticité"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Un champ magnétique variable peut faire apparaître une tension dans un circuit conducteur. Quel phénomène suis-je ?",
+      "answer": "induction électromagnétique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis la distance séparant deux crêtes successives d'une onde périodique. Quelle grandeur suis-je ?",
+      "answer": "longueur d'onde"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Sur une oscillation, je mesure l'écart maximal par rapport à la position d'équilibre. Quelle grandeur suis-je ?",
+      "answer": "amplitude"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Au feu rouge, je suis l'espace réservé aux cyclistes devant la ligne d'arrêt des voitures. Quel aménagement suis-je ?",
+      "answer": "sas vélo"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Au milieu d'une chaussée, je permets aux piétons de s'arrêter en sécurité entre deux traversées. Que suis-je ?",
+      "answer": "îlot refuge"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Dans cet espace urbain, les piétons ont la priorité et les véhicules circulent à allure très réduite. Quel aménagement suis-je ?",
+      "answer": "zone de rencontre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Suspendu au-dessus des rails, mon câble fournit l'électricité aux trains par contact. Que suis-je ?",
+      "answer": "caténaire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Sur le toit d'un train électrique, je me lève pour capter le courant du fil aérien. Que suis-je ?",
+      "answer": "pantographe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis une couche de pierres concassées sous les voies ferrées qui stabilise les traverses et facilite le drainage. Que suis-je ?",
+      "answer": "ballast ferroviaire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Deux extrémités de rails peuvent être assemblées par mes plaques métalliques boulonnées. Quelle pièce suis-je ?",
+      "answer": "éclisse ferroviaire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Dans un train, je suis le véhicule équipé du moteur qui fournit la traction. Que suis-je ?",
+      "answer": "motrice"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je m'avance depuis la côte dans la mer et offre un passage aux promeneurs ou aux bateaux. Que suis-je ?",
+      "answer": "jetée"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je forme une longue protection construite pour empêcher l'eau d'envahir certaines terres. Que suis-je ?",
+      "answer": "digue"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Devant un port, j'affaiblis la force des vagues avant qu'elles n'atteignent les embarcations. Que suis-je ?",
+      "answer": "brise-lames"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis le passage navigable balisé qui permet aux embarcations d'éviter les zones peu profondes. Que suis-je ?",
+      "answer": "chenal"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Installé près du littoral, j'enregistre au fil du temps les variations du niveau de la mer. Quel appareil suis-je ?",
+      "answer": "marégraphe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "À bord d'un bateau, j'utilise des ondes sonores pour mesurer la profondeur sous la coque. Quel instrument suis-je ?",
+      "answer": "sonde bathymétrique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis une succession de longues vagues régulières qui peuvent voyager loin du vent qui les a créées. Que suis-je ?",
+      "answer": "houle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Près de la côte, le vent emporte mes fines gouttelettes salées au-dessus des vagues. Que suis-je ?",
+      "answer": "embruns"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Fixé sur un ponton, je retiens les cordages d'un bateau grâce à mes deux bras. Quelle pièce suis-je ?",
+      "answer": "taquet d'amarrage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis la partie avant de la coque d'un bateau qui fend l'eau pendant sa progression. Que suis-je ?",
+      "answer": "étrave"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Sous la coque, je suis une pièce longitudinale qui contribue à la solidité et à la stabilité d'un bateau. Que suis-je ?",
+      "answer": "quille"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je conserve localement des éléments de sites déjà visités afin de les afficher plus vite lors d'une prochaine visite. Que suis-je ?",
+      "answer": "cache du navigateur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Après le dernier point d'un nom de document, je renseigne souvent sur son format. Que suis-je ?",
+      "answer": "extension de fichier"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je présente des données dans des cellules disposées en lignes et en colonnes, avec des formules de calcul. Quel logiciel suis-je ?",
+      "answer": "tableur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Un clic droit me fait apparaître avec des commandes adaptées à l'élément sélectionné. Que suis-je ?",
+      "answer": "menu contextuel"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je rassemble des icônes permettant d'accéder rapidement aux fonctions d'un logiciel. Que suis-je ?",
+      "answer": "barre d'outils"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Deux appareils échangent leurs modifications pour conserver des données identiques. Quel processus suis-je ?",
+      "answer": "synchronisation"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Pour ouvrir un compte, un mot de passe ne suffit pas : une seconde preuve est également demandée. Quelle méthode est-ce ?",
+      "answer": "authentification à deux facteurs"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je transforme des informations lisibles en données incompréhensibles sans la clé appropriée. Quel procédé suis-je ?",
+      "answer": "chiffrement"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Sur un emballage, mes lignes noires de largeurs variées peuvent être lues par un scanner. Que suis-je ?",
+      "answer": "code-barres"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Grâce à moi, certaines fonctions d'une application restent utilisables sans connexion à Internet. Que suis-je ?",
+      "answer": "mode hors ligne"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Les aliments cuisent lentement à couvert dans très peu de liquide, principalement grâce à leur propre vapeur. Quelle méthode est-ce ?",
+      "answer": "cuisson à l'étouffée"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Après une cuisson, on verse un liquide dans la poêle chaude pour dissoudre les sucs attachés au fond. Quelle opération est-ce ?",
+      "answer": "déglaçage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "On laisse mijoter une sauce pour que l'eau s'en échappe et que les saveurs se concentrent. Quelle technique est-ce ?",
+      "answer": "réduction culinaire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Des graines ou des fruits secs sont chauffés sans eau pour développer leur arôme. Quelle opération est-ce ?",
+      "answer": "torréfaction"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Un aliment cuit doucement dans un liquide maintenu juste sous l'ébullition. Quelle technique est-ce ?",
+      "answer": "pochage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "En cuisine, je suis une découpe régulière de légumes en tout petits cubes. Quelle découpe suis-je ?",
+      "answer": "brunoise"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Des légumes taillés en fins bâtonnets réguliers portent mon nom. Quelle découpe suis-je ?",
+      "answer": "julienne"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "On retire les particules en suspension d'un bouillon pour le rendre limpide. Quelle opération est-ce ?",
+      "answer": "clarification culinaire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Avant le service, le cuisinier dispose soigneusement les éléments d'un plat pour sa présentation. Quelle étape est-ce ?",
+      "answer": "dressage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis une ou plusieurs notes placées avant le premier temps fort d'un morceau. Que suis-je ?",
+      "answer": "anacrouse"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Une note commencée sur un temps faible se prolonge sur un temps fort, déplaçant ainsi l'accent. Quel procédé est-ce ?",
+      "answer": "syncope musicale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Dans un rythme, l'accent tombe sur une partie habituellement faible du temps. Quel effet est-ce ?",
+      "answer": "contretemps musical"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Trois notes de même valeur occupent ensemble la durée normalement réservée à deux. Quel groupe rythmique suis-je ?",
+      "answer": "triolet"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis une suite musicale construite avec cinq notes différentes par octave. Quelle gamme suis-je ?",
+      "answer": "gamme pentatonique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "On déplace toutes les notes d'une mélodie du même intervalle sans changer leurs rapports. Quelle opération est-ce ?",
+      "answer": "transposition musicale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Fixée sur certains instruments, je diminue ou transforme le son produit sans interrompre le jeu. Que suis-je ?",
+      "answer": "sourdine"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Dans un polygone régulier, je relie son centre au milieu d'un côté en lui étant perpendiculaire. Quel segment suis-je ?",
+      "answer": "apothème"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Tous mes côtés ont la même longueur et tous mes angles sont égaux. Quelle figure suis-je ?",
+      "answer": "polygone régulier"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Dans une série de nombres ordonnés, je partage les valeurs en deux groupes de même effectif. Quelle mesure suis-je ?",
+      "answer": "médiane statistique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "On me calcule en soustrayant la plus petite valeur d'une série à la plus grande. Quelle mesure suis-je ?",
+      "answer": "étendue statistique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis une partie d'une population étudiée pour en tirer des informations sur l'ensemble. Que suis-je ?",
+      "answer": "échantillon statistique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Insérée dans un trou, je me dilate pour permettre à une vis de tenir dans un mur. Que suis-je ?",
+      "answer": "cheville murale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Fixée au sol ou au mur, j'empêche une porte ouverte de cogner contre une surface. Que suis-je ?",
+      "answer": "butée de porte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Autour d'une ouverture, je limite les courants d'air qui passent par les interstices. Que suis-je ?",
+      "answer": "coupe-froid"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je retiens le tissu sur le côté d'une fenêtre afin de laisser passer la lumière. Quel accessoire suis-je ?",
+      "answer": "embrasse de rideau"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Sous un lavabo, ma courbe garde un peu d'eau pour empêcher les odeurs des canalisations de remonter. Que suis-je ?",
+      "answer": "siphon"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Au fond d'un lavabo ou d'une baignoire, je commande l'ouverture par laquelle l'eau s'évacue. Que suis-je ?",
+      "answer": "bonde"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Dans un lavabo, mon ouverture secondaire évite que l'eau déborde si le niveau monte trop haut. Que suis-je ?",
+      "answer": "trop-plein"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je laisse passer un fluide dans un sens mais je bloque sa circulation en sens inverse. Que suis-je ?",
+      "answer": "clapet antiretour"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "À la sortie du bec, je mélange de l'air au jet pour le rendre plus doux et réduire les éclaboussures. Que suis-je ?",
+      "answer": "mousseur de robinet"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis un petit anneau souple placé dans un raccord pour empêcher les fuites. Que suis-je ?",
+      "answer": "joint torique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Construit contre un mur, je l'aide à résister à une poussée latérale. Quel renfort architectural suis-je ?",
+      "answer": "contrefort"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis la partie élargie et souvent décorée au sommet d'une colonne. Que suis-je ?",
+      "answer": "chapiteau"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Au-dessus d'une entrée ou d'une façade, je forme souvent un couronnement triangulaire. Quel élément suis-je ?",
+      "answer": "fronton"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je suis une paroi ajourée qui sépare des espaces tout en laissant passer l'air et la lumière. Que suis-je ?",
+      "answer": "claustra"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis l'ouverture pratiquée dans un plancher pour laisser passer un escalier. Que suis-je ?",
+      "answer": "trémie d'escalier"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Je suis la pièce inclinée qui soutient les marches le long d'un escalier. Que suis-je ?",
+      "answer": "limon d'escalier"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Dans une cellule végétale, je renferme la chlorophylle et capte l'énergie lumineuse. Quel organite suis-je ?",
+      "answer": "chloroplaste"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Deux organismes d'espèces différentes vivent durablement en association étroite. Quel type de relation est-ce ?",
+      "answer": "symbiose"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Une espèce tire avantage d'une autre sans lui procurer de bénéfice ni lui causer de préjudice notable. Quelle relation est-ce ?",
+      "answer": "commensalisme"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Une tige se courbe progressivement vers une fenêtre parce que sa croissance répond à la direction de la lumière. Quel phénomène est-ce ?",
+      "answer": "phototropisme"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Je peux vivre plusieurs années et repousser au retour des saisons favorables. Quel type de plante suis-je ?",
+      "answer": "plante vivace"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Contrairement à la situation habituelle, l'air devient plus chaud avec l'altitude sur une certaine couche. Quel phénomène est-ce ?",
+      "answer": "inversion thermique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Je mesure la proportion du ciel occupée par les nuages à un moment donné. Quelle caractéristique suis-je ?",
+      "answer": "nébulosité"
     }
   ],
   "kelime_ustasi": [
