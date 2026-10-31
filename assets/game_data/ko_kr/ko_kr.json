@@ -13451,10 +13451,10 @@
       "language": "한국어",
       "locale": "ko-KR",
       "main_category": "식물의 성장",
-      "sub_category": "구조와 번식",
+      "sub_category": "뿌리 구조",
       "difficulty": "보통",
-      "question": "흙을 밀고 나아가는 어린 뿌리 끝을 모자처럼 감싸 보호하는 조직은?",
-      "answer": "근관"
+      "question": "민들레처럼 중심에서 굵게 아래로 뻗고 옆으로 작은 뿌리들이 갈라지는 기본 뿌리는?",
+      "answer": "주근"
     },
     {
       "game_type": "bilmece",
@@ -13561,10 +13561,10 @@
       "language": "한국어",
       "locale": "ko-KR",
       "main_category": "동물의 생존",
-      "sub_category": "성장과 신호",
+      "sub_category": "곤충의 성장",
       "difficulty": "보통",
-      "question": "추운 계절에 체온과 활동을 크게 낮춰 에너지를 아끼며 긴 휴식에 들어가는 생존 방식은?",
-      "answer": "동면"
+      "question": "곤충이 번데기나 약충 상태를 지나 날개 달린 어른벌레가 되는 과정은?",
+      "answer": "우화"
     },
     {
       "game_type": "bilmece",
@@ -13661,20 +13661,20 @@
       "language": "한국어",
       "locale": "ko-KR",
       "main_category": "물리와 물질",
-      "sub_category": "소리와 상태 변화",
+      "sub_category": "상태와 움직임",
       "difficulty": "보통",
-      "question": "젖은 옷의 물이 공기 중으로 사라지듯 액체가 기체로 바뀌는 변화는?",
-      "answer": "기화"
+      "question": "물이 가열될 때 표면뿐 아니라 내부에서도 기체 방울이 생기며 끓는 현상은?",
+      "answer": "비등"
     },
     {
       "game_type": "bilmece",
       "language": "한국어",
       "locale": "ko-KR",
       "main_category": "물리와 물질",
-      "sub_category": "소리와 상태 변화",
+      "sub_category": "상태와 움직임",
       "difficulty": "보통",
-      "question": "차가운 컵 바깥에 공기 속 수증기가 물방울로 맺히는 변화는?",
-      "answer": "응축"
+      "question": "끓는 물속에서 기체가 작고 둥근 방울 모양으로 생겨 올라오는 것은?",
+      "answer": "기포"
     },
     {
       "game_type": "bilmece",
@@ -13710,21 +13710,21 @@
       "game_type": "bilmece",
       "language": "한국어",
       "locale": "ko-KR",
-      "main_category": "물리와 물질",
-      "sub_category": "소리와 상태 변화",
+      "main_category": "생활 속 기술",
+      "sub_category": "전기 안전",
       "difficulty": "보통",
-      "question": "구리처럼 열이나 전기가 잘 지나가는 물질을 무엇이라 하나요?",
-      "answer": "전도체"
+      "question": "전기 기구의 금속 부분을 땅과 연결해 새어 나온 전류가 안전한 길로 흐르게 하는 조치는?",
+      "answer": "접지"
     },
     {
       "game_type": "bilmece",
       "language": "한국어",
       "locale": "ko-KR",
-      "main_category": "물리와 물질",
-      "sub_category": "소리와 상태 변화",
+      "main_category": "생활 속 기술",
+      "sub_category": "전기 안전",
       "difficulty": "보통",
-      "question": "고무처럼 전기가 거의 흐르지 않아 전선을 감싸는 데 쓰이는 물질은?",
-      "answer": "부도체"
+      "question": "전기가 정상 회로 밖으로 새는 상황을 감지해 전원을 자동으로 끊는 장치는?",
+      "answer": "누전차단기"
     },
     {
       "game_type": "bilmece",
@@ -13981,10 +13981,10 @@
       "language": "한국어",
       "locale": "ko-KR",
       "main_category": "디지털 일상과 기술",
-      "sub_category": "화면과 정보",
+      "sub_category": "웹 탐색",
       "difficulty": "보통",
-      "question": "나중에 다시 열고 싶은 웹주소를 브라우저에 따로 저장하는 기능은?",
-      "answer": "북마크"
+      "question": "인터넷 탐색 프로그램 윗부분에서 방문할 웹사이트의 위치를 입력하거나 확인하는 긴 칸은?",
+      "answer": "주소표시줄"
     },
     {
       "game_type": "bilmece",
@@ -14165,6 +14165,1006 @@
       "difficulty": "보통",
       "question": "한자어 첫머리의 일부 ㄴ·ㄹ 소리가 조건에 따라 다른 소리로 바뀌는 규칙은?",
       "answer": "두음법칙"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통 생활",
+      "sub_category": "집과 옛 도구",
+      "difficulty": "어려움",
+      "question": "전통 가옥의 창 아래에 낮게 짜 넣어 바깥을 가리는 목재 판벽 부분은?",
+      "answer": "머름"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통 생활",
+      "sub_category": "집과 옛 도구",
+      "difficulty": "어려움",
+      "question": "출입구나 창 위에 가로질러 놓아 위쪽 벽의 무게를 받는 부재는?",
+      "answer": "인방"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통 생활",
+      "sub_category": "집과 옛 도구",
+      "difficulty": "어려움",
+      "question": "전통 목조건축에서 기둥머리 옆으로 짧게 내밀어 들보를 받치는 나무는?",
+      "answer": "보아지"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통 생활",
+      "sub_category": "집과 옛 도구",
+      "difficulty": "어려움",
+      "question": "건물을 습한 땅에서 띄우기 위해 바닥 아래에 돌이나 흙을 높여 쌓은 부분은?",
+      "answer": "기단"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통 생활",
+      "sub_category": "집과 옛 도구",
+      "difficulty": "어려움",
+      "question": "소나 말이 둥근 돌을 끌고 돌며 곡식을 찧던 옛 농기구는?",
+      "answer": "연자방아"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통 생활",
+      "sub_category": "집과 옛 도구",
+      "difficulty": "어려움",
+      "question": "큰 출입구 옆에 사람 한 명이 오가기 좋게 작게 따로 낸 여닫이는?",
+      "answer": "쪽문"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통 생활",
+      "sub_category": "집과 옛 도구",
+      "difficulty": "어려움",
+      "question": "출입구 양옆에 세워 여닫이 판짝을 지탱하는 세로 기둥은?",
+      "answer": "문설주"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통 생활",
+      "sub_category": "집과 옛 도구",
+      "difficulty": "어려움",
+      "question": "나뭇가지나 대나무로 엮은 바탕에 진흙을 발라 만든 집의 벽체는?",
+      "answer": "흙벽"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통 생활",
+      "sub_category": "집과 옛 도구",
+      "difficulty": "어려움",
+      "question": "살이나 종이를 쓰지 않고 널빤지를 이어 붙여 만든 전통 여닫이 판짝은?",
+      "answer": "판문"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "한국의 전통 생활",
+      "sub_category": "집과 옛 도구",
+      "difficulty": "어려움",
+      "question": "나뭇가지를 엮어 시골집 마당 입구에 세운 소박한 출입 시설은?",
+      "answer": "사립문"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "손으로 만드는 기술",
+      "sub_category": "직물과 장식",
+      "difficulty": "어려움",
+      "question": "베틀에서 세로실의 간격을 고르게 맞추고 짠 천을 촘촘하게 밀어 주는 빗 모양 도구는?",
+      "answer": "바디"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "손으로 만드는 기술",
+      "sub_category": "직물과 장식",
+      "difficulty": "어려움",
+      "question": "베틀에서 세로실을 위아래로 갈라 가로실이 지날 길을 만드는 장치는?",
+      "answer": "잉아"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "손으로 만드는 기술",
+      "sub_category": "직물과 장식",
+      "difficulty": "어려움",
+      "question": "물이나 기름에 잘 녹지 않으면서 표면에 색을 입히는 고운 고체 가루는?",
+      "answer": "안료"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "손으로 만드는 기술",
+      "sub_category": "직물과 장식",
+      "difficulty": "어려움",
+      "question": "얇은 그림이나 글씨 종이의 뒷면에 다른 종이를 덧붙여 튼튼하게 만드는 작업은?",
+      "answer": "배접"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "손으로 만드는 기술",
+      "sub_category": "직물과 장식",
+      "difficulty": "어려움",
+      "question": "섬유 속으로 스며들어 색을 남기도록 물에 풀어 쓰는 착색 물질은?",
+      "answer": "염료"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "손으로 만드는 기술",
+      "sub_category": "직물과 장식",
+      "difficulty": "어려움",
+      "question": "천을 짜기 전에 실 상태에서 먼저 색을 입히는 직물 제작 방식은?",
+      "answer": "선염"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "손으로 만드는 기술",
+      "sub_category": "직물과 장식",
+      "difficulty": "어려움",
+      "question": "가구 겉면에 붙여 원목처럼 자연스러운 결을 보여 주는 매우 얇은 판재는?",
+      "answer": "무늬목"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "손으로 만드는 기술",
+      "sub_category": "직물과 장식",
+      "difficulty": "어려움",
+      "question": "전통 목기에 광택과 방수막을 입힐 때 쓰는 진한 수액을 얻는 식물은?",
+      "answer": "옻나무"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "손으로 만드는 기술",
+      "sub_category": "직물과 장식",
+      "difficulty": "어려움",
+      "question": "옷감이나 그릇에 장식하기 전에 모양과 위치를 미리 정해 그린 밑그림은?",
+      "answer": "도안"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "손으로 만드는 기술",
+      "sub_category": "직물과 장식",
+      "difficulty": "어려움",
+      "question": "촘촘한 망의 열린 부분으로 잉크를 밀어 넣어 천이나 종이에 그림을 찍는 기법은?",
+      "answer": "실크스크린"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식의 과학",
+      "sub_category": "재료와 조리 원리",
+      "difficulty": "보통",
+      "question": "미생물이 식품 속 당분 등을 분해해 향과 맛, 성질을 바꾸는 과정은?",
+      "answer": "발효"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식의 과학",
+      "sub_category": "재료와 조리 원리",
+      "difficulty": "보통",
+      "question": "치즈를 알맞은 온도와 습도에서 일정 기간 두어 풍미를 깊게 만드는 과정은?",
+      "answer": "숙성"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식의 과학",
+      "sub_category": "재료와 조리 원리",
+      "difficulty": "보통",
+      "question": "쌀이나 감자의 녹말을 물과 함께 가열할 때 알갱이가 물을 머금고 부풀어 풀어지는 변화는?",
+      "answer": "호화"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식의 과학",
+      "sub_category": "재료와 조리 원리",
+      "difficulty": "보통",
+      "question": "갓 지은 밥이 식고 시간이 지나면서 다시 딱딱해지는 녹말의 구조 변화는?",
+      "answer": "전분노화"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식의 과학",
+      "sub_category": "재료와 조리 원리",
+      "difficulty": "보통",
+      "question": "우유를 굳힌 덩어리를 건져 낸 뒤 남는 연한 빛의 액체는?",
+      "answer": "유청"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식의 과학",
+      "sub_category": "재료와 조리 원리",
+      "difficulty": "보통",
+      "question": "불린 콩을 갈아 물과 함께 끓여 걸러 낸 식물성 음료는?",
+      "answer": "두유"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식의 과학",
+      "sub_category": "재료와 조리 원리",
+      "difficulty": "보통",
+      "question": "붉은 해조류에서 얻으며 끓인 뒤 식히면 젤리처럼 굳는 식품 재료는?",
+      "answer": "한천"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식의 과학",
+      "sub_category": "재료와 조리 원리",
+      "difficulty": "보통",
+      "question": "다시마나 버섯 국물에서 느껴지는 깊고 풍부한 느낌으로 구별되는 기본 맛은?",
+      "answer": "감칠맛"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식의 과학",
+      "sub_category": "재료와 조리 원리",
+      "difficulty": "보통",
+      "question": "기름이 공기와 반응해 오래 보관할수록 불쾌한 냄새와 맛이 생기는 변화는?",
+      "answer": "산패"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "음식의 과학",
+      "sub_category": "재료와 조리 원리",
+      "difficulty": "보통",
+      "question": "내용물이 든 그릇을 뜨거운 물이 담긴 냄비에 넣어 천천히 데우는 조리법은?",
+      "answer": "중탕"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 작은 구조",
+      "sub_category": "생장과 생식",
+      "difficulty": "어려움",
+      "question": "잎의 미세한 숨구멍 양옆에서 물의 양에 따라 열림과 닫힘을 조절하는 세포는?",
+      "answer": "공변세포"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 작은 구조",
+      "sub_category": "생장과 생식",
+      "difficulty": "어려움",
+      "question": "식물 뿌리의 겉조직과 중심 조직 사이에서 물과 양분을 저장하는 층은?",
+      "answer": "피층"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 작은 구조",
+      "sub_category": "생장과 생식",
+      "difficulty": "어려움",
+      "question": "식물 뿌리의 중심부 바로 바깥에서 물질 이동을 선택적으로 조절하는 세포층은?",
+      "answer": "내피"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 작은 구조",
+      "sub_category": "생장과 생식",
+      "difficulty": "어려움",
+      "question": "수술에서 온 가루가 암술머리에 닿은 뒤 밑으로 길게 뻗어 정세포를 운반하는 통로는?",
+      "answer": "꽃가루관"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 작은 구조",
+      "sub_category": "생장과 생식",
+      "difficulty": "어려움",
+      "question": "같은 종의 서로 다른 개체 사이에서 생식 가루가 옮겨져 암술에 닿는 방식은?",
+      "answer": "타가수분"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 작은 구조",
+      "sub_category": "생장과 생식",
+      "difficulty": "어려움",
+      "question": "줄기 맨 끝의 눈이 옆눈의 성장을 억제해 위로 길게 자라는 현상은?",
+      "answer": "정단우세"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 작은 구조",
+      "sub_category": "생장과 생식",
+      "difficulty": "어려움",
+      "question": "낙엽과 생물의 잔해가 충분히 분해되어 흙에 남은 검고 안정된 유기물은?",
+      "answer": "부식질"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 작은 구조",
+      "sub_category": "생장과 생식",
+      "difficulty": "어려움",
+      "question": "콩과 식물의 뿌리에 생긴 혹 속에서 공기 중 질소를 이용 가능한 형태로 바꾸는 세균은?",
+      "answer": "근류균"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 작은 구조",
+      "sub_category": "생장과 생식",
+      "difficulty": "어려움",
+      "question": "식물의 지하 기관에서 흡수한 물을 줄기 쪽으로 밀어 올리는 압력은?",
+      "answer": "근압"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "식물의 작은 구조",
+      "sub_category": "생장과 생식",
+      "difficulty": "어려움",
+      "question": "벼의 잎 아랫부분이 원통처럼 줄기를 감싸는 구조는?",
+      "answer": "엽초"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물의 생태",
+      "sub_category": "행동과 분류",
+      "difficulty": "보통",
+      "question": "소가 한 번 삼킨 먹이를 다시 입으로 올려 여러 차례 씹는 행동은?",
+      "answer": "되새김질"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물의 생태",
+      "sub_category": "행동과 분류",
+      "difficulty": "보통",
+      "question": "먼 곳으로 이동한 동물이 자신이 태어난 곳이나 살던 곳으로 돌아가는 타고난 성향은?",
+      "answer": "귀소본능"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물의 생태",
+      "sub_category": "행동과 분류",
+      "difficulty": "보통",
+      "question": "동물이 냄새나 소리로 자기 활동 구역을 다른 개체에게 알리는 행동은?",
+      "answer": "영역표시"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물의 생태",
+      "sub_category": "행동과 분류",
+      "difficulty": "보통",
+      "question": "해가 뜨고 지는 주기에 맞춰 잠과 활동 시간을 조절하는 몸속 시간 조절 장치는?",
+      "answer": "생체시계"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물의 생태",
+      "sub_category": "행동과 분류",
+      "difficulty": "보통",
+      "question": "독성이 있거나 맛이 나쁜 동물이 선명한 무늬로 천적에게 접근하지 말라는 신호를 보내는 색채는?",
+      "answer": "경고색"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물의 생태",
+      "sub_category": "행동과 분류",
+      "difficulty": "보통",
+      "question": "한 생물만 이익을 얻고 다른 생물에는 뚜렷한 이익이나 손해가 없는 관계는?",
+      "answer": "편리공생"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물의 생태",
+      "sub_category": "행동과 분류",
+      "difficulty": "보통",
+      "question": "해가 떠 있는 동안 주로 먹이를 찾고 움직이는 생활 방식은?",
+      "answer": "주행성"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물의 생태",
+      "sub_category": "행동과 분류",
+      "difficulty": "보통",
+      "question": "꿀벌이 먹이가 있는 방향과 거리를 동료에게 알리려고 숫자 8 모양으로 움직이는 행동은?",
+      "answer": "팔자춤"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물의 생태",
+      "sub_category": "행동과 분류",
+      "difficulty": "보통",
+      "question": "박쥐가 높은 주파수의 소리를 내보내고 돌아온 울림으로 장애물의 위치를 알아내는 능력은?",
+      "answer": "반향정위"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "동물의 생태",
+      "sub_category": "행동과 분류",
+      "difficulty": "보통",
+      "question": "불가사리와 성게처럼 성체가 방사대칭이고 피부에 작은 가시가 있는 바다 생물 무리는?",
+      "answer": "극피동물"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "대기와 지형",
+      "difficulty": "어려움",
+      "question": "여름과 겨울에 대륙과 바다의 온도 차이로 주된 방향이 바뀌는 바람은?",
+      "answer": "계절풍"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "대기와 지형",
+      "difficulty": "어려움",
+      "question": "습한 공기가 산을 넘으려고 올라가며 식어 바람받이 쪽에 내리는 비나 눈은?",
+      "answer": "지형성강수"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "대기와 지형",
+      "difficulty": "어려움",
+      "question": "높은 구름 속에서 수증기가 바로 얼어 만들어진 작은 얼음 결정은?",
+      "answer": "빙정"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "대기와 지형",
+      "difficulty": "어려움",
+      "question": "태양의 윗부분이 동쪽 지평선 위로 처음 나타나는 순간은?",
+      "answer": "일출"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "대기와 지형",
+      "difficulty": "어려움",
+      "question": "태양이 지평선 아래에 있지만 하늘이 희미하게 밝아지는 시간대는?",
+      "answer": "박명"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "대기와 지형",
+      "difficulty": "어려움",
+      "question": "하늘 전체 면적 중 구름이 덮고 있는 비율을 나타내는 기상 요소는?",
+      "answer": "운량"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "대기와 지형",
+      "difficulty": "어려움",
+      "question": "공기의 압력이 높은 곳과 낮은 곳 사이의 차이 때문에 바람을 움직이는 힘은?",
+      "answer": "기압경도력"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "대기와 지형",
+      "difficulty": "어려움",
+      "question": "석회암이 약산성 물에 천천히 녹아 동굴과 움푹한 지형을 만드는 작용은?",
+      "answer": "용식"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "대기와 지형",
+      "difficulty": "어려움",
+      "question": "높은 산이나 극지방에서 여러 해 동안 여름에도 녹지 않고 쌓여 있는 눈은?",
+      "answer": "만년설"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "지구와 날씨",
+      "sub_category": "대기와 지형",
+      "difficulty": "어려움",
+      "question": "공기가 바람을 타고 수평으로 이동하면서 열과 습기를 다른 지역으로 옮기는 현상은?",
+      "answer": "이류"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "별과 우주의 관측",
+      "sub_category": "빛과 천체",
+      "difficulty": "어려움",
+      "question": "서로 도는 두 별이 번갈아 앞을 가리면서 밝기가 주기적으로 줄어드는 별의 짝은?",
+      "answer": "식쌍성"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "별과 우주의 관측",
+      "sub_category": "빛과 천체",
+      "difficulty": "어려움",
+      "question": "멀어지는 은하에서 온 빛의 파장이 길어져 스펙트럼이 긴 파장 쪽으로 이동하는 현상은?",
+      "answer": "적색편이"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "별과 우주의 관측",
+      "sub_category": "빛과 천체",
+      "difficulty": "어려움",
+      "question": "빛이 유한한 속도로 오는 동안 관측자가 움직여 별의 보이는 방향이 조금 달라지는 현상은?",
+      "answer": "광행차"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "별과 우주의 관측",
+      "sub_category": "빛과 천체",
+      "difficulty": "어려움",
+      "question": "거대한 천체들이 빠르게 움직일 때 시공간의 굴곡이 물결처럼 퍼져 나가는 현상은?",
+      "answer": "중력파"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "별과 우주의 관측",
+      "sub_category": "빛과 천체",
+      "difficulty": "어려움",
+      "question": "한 별을 중심으로 여러 행성과 작은 천체가 중력으로 묶여 도는 체계는?",
+      "answer": "행성계"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "별과 우주의 관측",
+      "sub_category": "빛과 천체",
+      "difficulty": "어려움",
+      "question": "태양이 하늘에서 지나는 길 주변에 펼쳐진 열두 별자리의 띠 모양 구역은?",
+      "answer": "황도대"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "별과 우주의 관측",
+      "sub_category": "빛과 천체",
+      "difficulty": "어려움",
+      "question": "태양에서 우리가 눈으로 밝게 보게 되는 겉표면 층은?",
+      "answer": "광구"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "별과 우주의 관측",
+      "sub_category": "빛과 천체",
+      "difficulty": "어려움",
+      "question": "태양의 밝은 표면 바로 위에 놓여 개기일식 때 붉게 드러나는 대기층은?",
+      "answer": "채층"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "별과 우주의 관측",
+      "sub_category": "빛과 천체",
+      "difficulty": "어려움",
+      "question": "태양 대신 멀리 있는 별을 기준으로 지구의 한 바퀴 자전을 재는 시간 체계는?",
+      "answer": "항성시"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "별과 우주의 관측",
+      "sub_category": "빛과 천체",
+      "difficulty": "어려움",
+      "question": "별에서 온 빛의 흡수선과 온도 특징을 기준으로 O·B·A·F 등으로 구분하는 분류는?",
+      "answer": "분광형"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학의 언어",
+      "sub_category": "수와 논리",
+      "difficulty": "보통",
+      "question": "두 정수의 비로 나타낼 수 없으며 소수 전개가 끝나지도 반복되지도 않는 수는?",
+      "answer": "무리수"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학의 언어",
+      "sub_category": "수와 논리",
+      "difficulty": "보통",
+      "question": "하나, 둘, 셋처럼 물건의 개수를 셀 때 기본적으로 쓰는 수의 집합은?",
+      "answer": "자연수"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학의 언어",
+      "sub_category": "수와 논리",
+      "difficulty": "보통",
+      "question": "참인지 거짓인지 분명히 판단할 수 있는 문장은 수학에서 무엇이라 부르나요?",
+      "answer": "명제"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학의 언어",
+      "sub_category": "수와 논리",
+      "difficulty": "보통",
+      "question": "‘A이면 B’라는 문장에서 B가 아니면 A도 아니라는 형태로 바꾼 문장은?",
+      "answer": "대우"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학의 언어",
+      "sub_category": "수와 논리",
+      "difficulty": "보통",
+      "question": "입체의 각 점을 한 평면에 직각으로 내려 그려 얻은 모습은?",
+      "answer": "정사영"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학의 언어",
+      "sub_category": "수와 논리",
+      "difficulty": "보통",
+      "question": "수나 식을 가로줄과 세로줄에 맞춰 직사각형으로 배열한 것은?",
+      "answer": "행렬"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학의 언어",
+      "sub_category": "수와 논리",
+      "difficulty": "보통",
+      "question": "크기와 방향을 함께 나타내며 화살표로 그릴 수 있는 수학적 양은?",
+      "answer": "벡터"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학의 언어",
+      "sub_category": "수와 논리",
+      "difficulty": "보통",
+      "question": "방향 없이 크기만으로 나타낼 수 있는 물리량은?",
+      "answer": "스칼라"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학의 언어",
+      "sub_category": "수와 논리",
+      "difficulty": "보통",
+      "question": "원소를 하나도 갖지 않는 집합은?",
+      "answer": "공집합"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "수학의 언어",
+      "sub_category": "수와 논리",
+      "difficulty": "보통",
+      "question": "두 자연수의 공통 약수가 1뿐일 때 두 수의 관계는?",
+      "answer": "서로소"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 기술의 원리",
+      "sub_category": "프로그램과 데이터",
+      "difficulty": "보통",
+      "question": "프로그램을 만드는 코드를 공개해 정해진 조건에 따라 누구나 살펴보고 수정할 수 있게 하는 방식은?",
+      "answer": "오픈소스"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 기술의 원리",
+      "sub_category": "프로그램과 데이터",
+      "difficulty": "보통",
+      "question": "한 대의 컴퓨터 자원을 나눠 여러 독립된 실행 환경처럼 사용하는 기술은?",
+      "answer": "가상화"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 기술의 원리",
+      "sub_category": "프로그램과 데이터",
+      "difficulty": "보통",
+      "question": "프로그램과 필요한 라이브러리를 하나로 묶어 격리된 환경에서 실행하게 하는 배포 단위는?",
+      "answer": "컨테이너"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 기술의 원리",
+      "sub_category": "프로그램과 데이터",
+      "difficulty": "보통",
+      "question": "하나의 인터넷 탐색 창에서 여러 웹페이지를 작은 제목 칸으로 나눠 전환하는 기능은?",
+      "answer": "브라우저탭"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 기술의 원리",
+      "sub_category": "프로그램과 데이터",
+      "difficulty": "보통",
+      "question": "웹사이트에 로그인한 이용자의 접속 상태를 서버가 일정 기간 구별해 유지하는 단위는?",
+      "answer": "세션"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 기술의 원리",
+      "sub_category": "프로그램과 데이터",
+      "difficulty": "보통",
+      "question": "문자열에서 특정 글자 패턴을 찾거나 검사하기 위해 기호로 규칙을 표현한 문법은?",
+      "answer": "정규표현식"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 기술의 원리",
+      "sub_category": "프로그램과 데이터",
+      "difficulty": "보통",
+      "question": "글자·도형·조명 정보를 계산해 실제 화면에 보이는 영상으로 만드는 과정은?",
+      "answer": "렌더링"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 기술의 원리",
+      "sub_category": "프로그램과 데이터",
+      "difficulty": "보통",
+      "question": "네트워크가 일정 시간 동안 실제로 전달한 데이터의 양을 나타내는 성능 지표는?",
+      "answer": "처리량"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 기술의 원리",
+      "sub_category": "프로그램과 데이터",
+      "difficulty": "보통",
+      "question": "프로그램이 더 이상 사용하지 않는 메모리를 자동으로 찾아 되돌려주는 기능은?",
+      "answer": "가비지컬렉션"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "디지털 기술의 원리",
+      "sub_category": "프로그램과 데이터",
+      "difficulty": "보통",
+      "question": "사람이 작성한 소스 코드를 실행 파일이나 기계어로 바꾸는 프로그램은?",
+      "answer": "컴파일러"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우리말의 구조",
+      "sub_category": "문장과 발음",
+      "difficulty": "보통",
+      "question": "‘읽어 보다’에서 ‘보다’처럼 앞말 뒤에 붙어 의미를 보태는 말의 종류는?",
+      "answer": "보조용언"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우리말의 구조",
+      "sub_category": "문장과 발음",
+      "difficulty": "보통",
+      "question": "‘먹고 가다’의 ‘-고’처럼 두 동작이나 절을 이어 주는 말끝 요소는?",
+      "answer": "연결어미"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우리말의 구조",
+      "sub_category": "문장과 발음",
+      "difficulty": "보통",
+      "question": "‘갑니다’, ‘가니?’에서 문장을 마무리하며 말하는 방식까지 나타내는 말끝 요소는?",
+      "answer": "종결어미"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우리말의 구조",
+      "sub_category": "문장과 발음",
+      "difficulty": "보통",
+      "question": "‘할머니께서 오십니다’처럼 상대나 주체를 존중하는 뜻을 문법적으로 드러내는 체계는?",
+      "answer": "높임법"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우리말의 구조",
+      "sub_category": "문장과 발음",
+      "difficulty": "보통",
+      "question": "‘어제 읽은 책’에서 ‘어제 읽은’처럼 뒤에 오는 이름씨를 꾸며 주는 절은?",
+      "answer": "관형절"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우리말의 구조",
+      "sub_category": "문장과 발음",
+      "difficulty": "보통",
+      "question": "‘그가 온다고 말했다’에서 다른 이의 말이나 생각을 문장 안에 담은 부분은?",
+      "answer": "인용절"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우리말의 구조",
+      "sub_category": "문장과 발음",
+      "difficulty": "보통",
+      "question": "띄어쓰기를 기준으로 문장을 나눌 때 생기는 각각의 말 덩어리는?",
+      "answer": "어절"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우리말의 구조",
+      "sub_category": "문장과 발음",
+      "difficulty": "보통",
+      "question": "뜻을 지닌 말의 요소 가운데 더 작게 나누면 뜻이 사라지는 최소 단위는?",
+      "answer": "형태소"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우리말의 구조",
+      "sub_category": "문장과 발음",
+      "difficulty": "보통",
+      "question": "‘국물’이 [궁물]처럼 앞 자음이 뒤의 코소리에 영향을 받아 바뀌는 현상은?",
+      "answer": "비음화"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "한국어",
+      "locale": "ko-KR",
+      "main_category": "우리말의 구조",
+      "sub_category": "문장과 발음",
+      "difficulty": "보통",
+      "question": "‘신라’가 [실라]처럼 ㄴ이 ㄹ의 영향을 받아 바뀌는 현상은?",
+      "answer": "유음화"
     }
   ],
   "kelime_ustasi": [
