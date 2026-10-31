@@ -49387,6 +49387,906 @@
         "difficulty": "médio",
         "question": "Que saída natural de água subterrânea surge numa paisagem de rochas calcárias dissolvidas?",
         "answer": "Nascente cársica"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia",
+        "sub_category": "Representação e orientação",
+        "difficulty": "médio",
+        "answer": "Norte verdadeiro",
+        "question": "Que direção aponta para o polo geográfico do hemisfério setentrional, independentemente do campo terrestre?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia",
+        "sub_category": "Representação e orientação",
+        "difficulty": "médio",
+        "answer": "Norte magnético",
+        "question": "Que direção é indicada pela agulha de uma bússola quando não há interferências locais?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia",
+        "sub_category": "Representação e orientação",
+        "difficulty": "médio",
+        "answer": "Projeção azimutal",
+        "question": "Que representação cartográfica transfere a superfície terrestre para um plano tangente ou secante a um ponto de referência?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia",
+        "sub_category": "Representação e orientação",
+        "difficulty": "médio",
+        "answer": "Projeção equivalente",
+        "question": "Que representação cartográfica preserva as proporções das áreas, mesmo que altere formas ou ângulos?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e impressão",
+        "sub_category": "Edição e composição",
+        "difficulty": "médio",
+        "answer": "Caderno tipográfico",
+        "question": "Que conjunto de folhas impressas e dobradas constitui uma unidade que será reunida com outras na encadernação?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e impressão",
+        "sub_category": "Edição e composição",
+        "difficulty": "médio",
+        "answer": "Sangria de impressão",
+        "question": "Que margem adicional de imagem ultrapassa o limite de corte de uma página para evitar bordas brancas?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e impressão",
+        "sub_category": "Edição e composição",
+        "difficulty": "médio",
+        "answer": "Marca de corte",
+        "question": "Que pequeno traço impresso fora da área final indica onde uma folha deve ser aparada?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e impressão",
+        "sub_category": "Edição e composição",
+        "difficulty": "médio",
+        "answer": "Corpo de letra",
+        "question": "Que medida tipográfica define o tamanho nominal dos caracteres de um texto?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e impressão",
+        "sub_category": "Edição e composição",
+        "difficulty": "médio",
+        "answer": "Espaçamento entre caracteres",
+        "question": "Que ajuste altera a distância horizontal entre letras numa palavra ou linha de texto?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e impressão",
+        "sub_category": "Edição e composição",
+        "difficulty": "médio",
+        "answer": "Viúva tipográfica",
+        "question": "Que última linha de um parágrafo fica isolada no início de uma página ou coluna?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e impressão",
+        "sub_category": "Edição e composição",
+        "difficulty": "médio",
+        "answer": "Órfã tipográfica",
+        "question": "Que primeira linha de um parágrafo fica isolada no fim de uma página ou coluna?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Estruturas e processos",
+        "difficulty": "difícil",
+        "answer": "Rocha intrusiva",
+        "question": "Que material magmático solidifica lentamente no interior da crosta terrestre, formando frequentemente cristais visíveis?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Estruturas e processos",
+        "difficulty": "difícil",
+        "answer": "Rocha extrusiva",
+        "question": "Que material magmático solidifica à superfície terrestre após a saída de lava?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Estruturas e processos",
+        "difficulty": "difícil",
+        "answer": "Xistosidade",
+        "question": "Que estrutura planar de certas rochas metamórficas resulta do alinhamento de minerais sob pressão?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Estruturas e processos",
+        "difficulty": "difícil",
+        "answer": "Clivagem ardosiana",
+        "question": "Que propriedade permite a determinadas rochas metamórficas partirem-se em lâminas finas e paralelas?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Estruturas e processos",
+        "difficulty": "difícil",
+        "answer": "Discordância angular",
+        "question": "Que superfície geológica separa séries de camadas com inclinações diferentes, revelando deformação e erosão anteriores?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Estruturas e processos",
+        "difficulty": "difícil",
+        "answer": "Meteorização física",
+        "question": "Que alteração fragmenta as rochas sem modificar a composição química dos seus minerais?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Estruturas e processos",
+        "difficulty": "difícil",
+        "answer": "Meteorização química",
+        "question": "Que alteração transforma os minerais das rochas através de reações com água, gases ou outras substâncias?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Estruturas e processos",
+        "difficulty": "difícil",
+        "answer": "Solifluxão",
+        "question": "Que movimento lento faz descer solo saturado de água sobre uma camada inferior pouco permeável?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia",
+        "sub_category": "Estruturas e processos",
+        "difficulty": "difícil",
+        "answer": "Crioturbação",
+        "question": "Que deformação e mistura dos materiais do solo resulta de ciclos repetidos de congelação e descongelação?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Biologia aquática",
+        "sub_category": "Organismos e zonas",
+        "difficulty": "médio",
+        "answer": "Plâncton",
+        "question": "Que conjunto de organismos vive suspenso na água e é transportado principalmente pelas correntes?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Biologia aquática",
+        "sub_category": "Organismos e zonas",
+        "difficulty": "médio",
+        "answer": "Nécton",
+        "question": "Que conjunto de animais aquáticos consegue deslocar-se ativamente contra as correntes?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Biologia aquática",
+        "sub_category": "Organismos e zonas",
+        "difficulty": "médio",
+        "answer": "Bentos",
+        "question": "Que comunidade de organismos vive associada ao fundo de rios, lagos ou mares?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Biologia aquática",
+        "sub_category": "Organismos e zonas",
+        "difficulty": "médio",
+        "answer": "Perifíton",
+        "question": "Que comunidade de algas e microrganismos cresce aderida a superfícies submersas?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Biologia aquática",
+        "sub_category": "Organismos e zonas",
+        "difficulty": "médio",
+        "answer": "Macrófitas aquáticas",
+        "question": "Que plantas de dimensão visível vivem total ou parcialmente dentro de massas de água?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Biologia aquática",
+        "sub_category": "Organismos e zonas",
+        "difficulty": "médio",
+        "answer": "Zona fótica",
+        "question": "Que camada de uma massa de água recebe luz suficiente para permitir atividade fotossintética?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Biologia aquática",
+        "sub_category": "Organismos e zonas",
+        "difficulty": "médio",
+        "answer": "Zona afótica",
+        "question": "Que camada profunda de uma massa de água não recebe luz suficiente para a fotossíntese?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Biologia aquática",
+        "sub_category": "Organismos e zonas",
+        "difficulty": "médio",
+        "answer": "Termoclina",
+        "question": "Que camada de água apresenta uma mudança acentuada de temperatura com a profundidade?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Biologia aquática",
+        "sub_category": "Organismos e zonas",
+        "difficulty": "médio",
+        "answer": "Haloclina",
+        "question": "Que camada de água apresenta uma mudança acentuada de salinidade com a profundidade?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Biologia aquática",
+        "sub_category": "Organismos e zonas",
+        "difficulty": "médio",
+        "answer": "Picnoclina",
+        "question": "Que camada de água apresenta uma mudança acentuada de densidade com a profundidade?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Hidrologia",
+        "sub_category": "Bacias e águas subterrâneas",
+        "difficulty": "difícil",
+        "answer": "Bacia endorreica",
+        "question": "Que área de drenagem conduz a água para um lago ou depressão interior, sem saída superficial para o oceano?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Hidrologia",
+        "sub_category": "Bacias e águas subterrâneas",
+        "difficulty": "difícil",
+        "answer": "Bacia exorreica",
+        "question": "Que área de drenagem conduz as águas dos seus cursos até ao oceano?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Hidrologia",
+        "sub_category": "Bacias e águas subterrâneas",
+        "difficulty": "difícil",
+        "answer": "Curso de água intermitente",
+        "question": "Que linha de drenagem natural transporta água apenas em determinadas épocas do ano?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Hidrologia",
+        "sub_category": "Bacias e águas subterrâneas",
+        "difficulty": "difícil",
+        "answer": "Tempo de concentração",
+        "question": "Que intervalo decorre até a água proveniente do ponto hidrologicamente mais distante chegar à saída de uma bacia?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Hidrologia",
+        "sub_category": "Bacias e águas subterrâneas",
+        "difficulty": "difícil",
+        "answer": "Aquífero confinado",
+        "question": "Que reserva subterrânea de água se encontra entre camadas pouco permeáveis e pode estar sob pressão?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Hidrologia",
+        "sub_category": "Bacias e águas subterrâneas",
+        "difficulty": "difícil",
+        "answer": "Aquífero livre",
+        "question": "Que reserva subterrânea de água possui uma superfície superior em contacto com a pressão atmosférica através do solo?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Hidrologia",
+        "sub_category": "Bacias e águas subterrâneas",
+        "difficulty": "difícil",
+        "answer": "Permeabilidade do solo",
+        "question": "Que propriedade de um terreno expressa a facilidade com que a água atravessa os seus poros?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Hidrologia",
+        "sub_category": "Bacias e águas subterrâneas",
+        "difficulty": "difícil",
+        "answer": "Ascensão capilar",
+        "question": "Que movimento faz a água subir por espaços muito estreitos do solo, contrariando parcialmente a gravidade?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Hidrologia",
+        "sub_category": "Bacias e águas subterrâneas",
+        "difficulty": "difícil",
+        "answer": "Escoamento subsuperficial",
+        "question": "Que deslocação de água ocorre abaixo da superfície do terreno, mas acima das reservas subterrâneas mais profundas?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas vegetais",
+        "difficulty": "médio",
+        "answer": "Limbo foliar",
+        "question": "Que parte achatada e geralmente larga de uma folha recebe a maior parte da luz?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas vegetais",
+        "difficulty": "médio",
+        "answer": "Umbela",
+        "question": "Que tipo de conjunto floral apresenta pedúnculos que partem aproximadamente do mesmo ponto?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas vegetais",
+        "difficulty": "médio",
+        "answer": "Capítulo floral",
+        "question": "Que conjunto de pequenas flores se reúne numa base comum, podendo parecer uma única flor?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica",
+        "sub_category": "Estruturas vegetais",
+        "difficulty": "médio",
+        "answer": "Cormo",
+        "question": "Que órgão subterrâneo de reserva corresponde a uma base caulinar curta, engrossada e sólida?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Energia e edifícios",
+        "sub_category": "Conforto e eficiência",
+        "difficulty": "médio",
+        "answer": "Inércia térmica",
+        "question": "Que capacidade dos materiais de um edifício permite armazenar calor e libertá-lo lentamente?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Energia e edifícios",
+        "sub_category": "Conforto e eficiência",
+        "difficulty": "médio",
+        "answer": "Isolamento térmico exterior",
+        "question": "Que solução construtiva coloca uma camada protetora contra trocas de calor na face de fora das paredes?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Energia e edifícios",
+        "sub_category": "Conforto e eficiência",
+        "difficulty": "médio",
+        "answer": "Fachada ventilada",
+        "question": "Que sistema de revestimento de um edifício inclui uma caixa de ar com circulação entre a parede e a camada exterior?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Energia e edifícios",
+        "sub_category": "Conforto e eficiência",
+        "difficulty": "médio",
+        "answer": "Vidro duplo",
+        "question": "Que envidraçado reúne duas chapas transparentes separadas por uma caixa de ar ou gás?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Energia e edifícios",
+        "sub_category": "Conforto e eficiência",
+        "difficulty": "médio",
+        "answer": "Fator solar",
+        "question": "Que grandeza indica a fração de energia solar que atravessa um envidraçado, incluindo a parcela reemitida?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Energia e edifícios",
+        "sub_category": "Conforto e eficiência",
+        "difficulty": "médio",
+        "answer": "Sombreamento passivo",
+        "question": "Que estratégia reduz a entrada de radiação solar através de palas, estores ou elementos fixos, sem consumir energia?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Energia e edifícios",
+        "sub_category": "Conforto e eficiência",
+        "difficulty": "médio",
+        "answer": "Ponte acústica",
+        "question": "Que ligação rígida entre elementos construtivos facilita a transmissão indesejada de vibrações sonoras?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Energia e edifícios",
+        "sub_category": "Conforto e eficiência",
+        "difficulty": "médio",
+        "answer": "Transmitância térmica",
+        "question": "Que grandeza expressa a quantidade de calor que atravessa um elemento construtivo por unidade de área e de diferença de temperatura?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia",
+        "sub_category": "Ótica e composição",
+        "difficulty": "médio",
+        "answer": "Histograma fotográfico",
+        "question": "Que gráfico mostra a distribuição dos níveis de luminosidade dos píxeis de uma imagem?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Transformações fonéticas",
+        "difficulty": "difícil",
+        "answer": "Síncope fonética",
+        "question": "Que transformação linguística elimina um som no interior de uma palavra?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Transformações fonéticas",
+        "difficulty": "difícil",
+        "answer": "Prótese fonética",
+        "question": "Que transformação linguística acrescenta um som no início de uma palavra?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Transformações fonéticas",
+        "difficulty": "difícil",
+        "answer": "Elisão",
+        "question": "Que fenómeno fonético suprime uma vogal final perante outra vogal no início da palavra seguinte?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Transformações fonéticas",
+        "difficulty": "difícil",
+        "answer": "Crase",
+        "question": "Que fenómeno linguístico funde duas vogais contíguas num único som?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura",
+        "sub_category": "Técnicas de cultivo",
+        "difficulty": "médio",
+        "answer": "Cama de sementeira",
+        "question": "Que camada superficial de terra é preparada fina e uniforme para favorecer o nascimento de novas plantas?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura",
+        "sub_category": "Técnicas de cultivo",
+        "difficulty": "médio",
+        "answer": "Amanho do solo",
+        "question": "Que conjunto de operações agrícolas prepara a terra, soltando-a e melhorando as condições para o cultivo?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura",
+        "sub_category": "Técnicas de cultivo",
+        "difficulty": "médio",
+        "answer": "Escarda mecânica",
+        "question": "Que controlo de plantas indesejadas utiliza ferramentas ou máquinas, em vez de produtos químicos?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura",
+        "sub_category": "Técnicas de cultivo",
+        "difficulty": "médio",
+        "answer": "Cobertura orgânica",
+        "question": "Que camada de palha, folhas ou restos vegetais protege a terra, conserva a humidade e reduz plantas espontâneas?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura",
+        "sub_category": "Técnicas de cultivo",
+        "difficulty": "médio",
+        "answer": "Aquaponia",
+        "question": "Que sistema integra criação de animais aquáticos e cultivo de plantas, aproveitando os nutrientes da água em circulação?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura",
+        "sub_category": "Técnicas de cultivo",
+        "difficulty": "médio",
+        "answer": "Drenagem subterrânea",
+        "question": "Que sistema remove o excesso de água do terreno através de condutas ou valas abaixo da superfície?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura",
+        "sub_category": "Técnicas de cultivo",
+        "difficulty": "médio",
+        "answer": "Cultivo em consociação",
+        "question": "Que prática agrícola mantém duas ou mais espécies no mesmo terreno e no mesmo período para aproveitar interações favoráveis?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Instrumentos",
+        "sub_category": "Medição e oficina",
+        "difficulty": "fácil",
+        "answer": "Sonómetro",
+        "question": "Que instrumento mede níveis de pressão sonora num ambiente?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais",
+        "sub_category": "Propriedades físicas",
+        "difficulty": "médio",
+        "answer": "Ductilidade",
+        "question": "Que propriedade de um material permite esticá-lo em fios sem se partir?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais",
+        "sub_category": "Propriedades físicas",
+        "difficulty": "médio",
+        "answer": "Maleabilidade",
+        "question": "Que propriedade permite deformar um metal em lâminas finas sem provocar a sua rutura?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais",
+        "sub_category": "Propriedades físicas",
+        "difficulty": "médio",
+        "answer": "Tenacidade",
+        "question": "Que propriedade expressa a capacidade de um material absorver energia antes de fraturar?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais",
+        "sub_category": "Propriedades físicas",
+        "difficulty": "médio",
+        "answer": "Dureza",
+        "question": "Que propriedade indica a resistência de um material a ser riscado ou penetrado?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais",
+        "sub_category": "Propriedades físicas",
+        "difficulty": "médio",
+        "answer": "Resiliência mecânica",
+        "question": "Que capacidade permite a um material absorver energia durante uma deformação elástica e recuperá-la?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais",
+        "sub_category": "Propriedades físicas",
+        "difficulty": "médio",
+        "answer": "Fragilidade",
+        "question": "Que comportamento faz um material partir-se com pouca deformação antes da rutura?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais",
+        "sub_category": "Propriedades físicas",
+        "difficulty": "médio",
+        "answer": "Higroscopicidade",
+        "question": "Que propriedade permite a uma substância absorver humidade do ar circundante?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Materiais",
+        "sub_category": "Propriedades físicas",
+        "difficulty": "médio",
+        "answer": "Porosidade",
+        "question": "Que característica indica a proporção de espaços vazios existentes no volume de um material?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria",
+        "sub_category": "Transformações e formas",
+        "difficulty": "médio",
+        "answer": "Tesselação",
+        "question": "Que revestimento de uma superfície utiliza figuras que encaixam sem deixar espaços nem sobreposições?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria",
+        "sub_category": "Transformações e formas",
+        "difficulty": "médio",
+        "answer": "Fractal",
+        "question": "Que figura apresenta padrões de estrutura semelhante em diferentes escalas de observação?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria",
+        "sub_category": "Transformações e formas",
+        "difficulty": "médio",
+        "answer": "Isometria",
+        "question": "Que transformação geométrica conserva as distâncias entre todos os pares de pontos?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria",
+        "sub_category": "Transformações e formas",
+        "difficulty": "médio",
+        "answer": "Translação geométrica",
+        "question": "Que transformação desloca todos os pontos de uma figura segundo o mesmo vetor?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria",
+        "sub_category": "Transformações e formas",
+        "difficulty": "médio",
+        "answer": "Rotação geométrica",
+        "question": "Que transformação faz girar uma figura em torno de um ponto fixo por um ângulo definido?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria",
+        "sub_category": "Transformações e formas",
+        "difficulty": "médio",
+        "answer": "Reflexão axial",
+        "question": "Que transformação obtém uma imagem espelhada de uma figura relativamente a uma reta?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria",
+        "sub_category": "Transformações e formas",
+        "difficulty": "médio",
+        "answer": "Semelhança de triângulos",
+        "question": "Que relação entre duas figuras de três lados exige ângulos correspondentes iguais e lados proporcionais?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria",
+        "sub_category": "Transformações e formas",
+        "difficulty": "médio",
+        "answer": "Circunferência inscrita",
+        "question": "Que linha curva fechada toca todos os lados de um polígono a partir do seu interior?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geometria",
+        "sub_category": "Transformações e formas",
+        "difficulty": "médio",
+        "answer": "Circunferência circunscrita",
+        "question": "Que linha curva fechada passa por todos os vértices de um polígono?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "médio",
+        "answer": "Cristalização do açúcar",
+        "question": "Que processo faz surgir estruturas sólidas ordenadas a partir de uma solução doce concentrada?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "médio",
+        "answer": "Coagulação proteica",
+        "question": "Que alteração faz moléculas presentes em ovos ou leite agregarem-se devido a calor ou mudanças de acidez?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "médio",
+        "answer": "Peneirar",
+        "question": "Que operação passa ingredientes secos por uma malha para separar grumos e partículas maiores?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "médio",
+        "answer": "Fermento químico",
+        "question": "Que ingrediente liberta gás por reação durante a preparação de massas, tornando-as mais leves?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência dos alimentos",
+        "sub_category": "Transformações culinárias",
+        "difficulty": "médio",
+        "answer": "Banho de gelo",
+        "question": "Que técnica coloca um recipiente numa mistura muito fria para baixar rapidamente a temperatura do seu conteúdo?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e construção",
+        "sub_category": "Detalhes arquitetónicos",
+        "difficulty": "médio",
+        "answer": "Gárgula",
+        "question": "Que elemento saliente de um edifício conduz para longe das paredes a água recolhida no telhado?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e construção",
+        "sub_category": "Detalhes arquitetónicos",
+        "difficulty": "médio",
+        "answer": "Silhar",
+        "question": "Que bloco de pedra talhado com faces regulares é usado em paredes e outras estruturas?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e construção",
+        "sub_category": "Detalhes arquitetónicos",
+        "difficulty": "médio",
+        "answer": "Alvenaria seca",
+        "question": "Que técnica construtiva empilha pedras ajustadas entre si sem argamassa de ligação?"
+      },
+      {
+        "game_type": "kelime_ustasi",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e construção",
+        "sub_category": "Detalhes arquitetónicos",
+        "difficulty": "médio",
+        "answer": "Cobertura de duas águas",
+        "question": "Que telhado é formado por dois planos inclinados que se encontram numa linha superior comum?"
       }
     ]
   }
