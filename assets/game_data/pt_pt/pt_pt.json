@@ -52622,10 +52622,10 @@
         "language": "Português",
         "locale": "pt-PT",
         "main_category": "Cozinha e utensílios",
-        "sub_category": "Preparação de alimentos",
+        "sub_category": "Preparação de legumes",
         "difficulty": "médio",
-        "question": "Seguro as folhas numa pequena rede enquanto a bebida quente passa para a chávena. Que utensílio sou?",
-        "answer": "Passador de chá"
+        "question": "Faço cenouras e curgetes passar por uma lâmina para obter tiras compridas e enroladas. Que utensílio sou?",
+        "answer": "Espiralizador de legumes"
       },
       {
         "game_type": "bilmece",
@@ -52671,11 +52671,11 @@
         "game_type": "bilmece",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Cozinha e utensílios",
-        "sub_category": "Preparação de alimentos",
+        "main_category": "Ecologia e habitats",
+        "sub_category": "Zonas húmidas",
         "difficulty": "médio",
-        "question": "Sou um cilindro que se faz avançar sobre uma mistura de farinha e água para a deixar numa camada uniforme. Que utensílio sou?",
-        "answer": "Rolo de massa"
+        "question": "Formo um povoamento denso de plantas altas junto a águas pouco profundas, com caules que balançam ao vento. Que habitat sou?",
+        "answer": "Caniçal"
       },
       {
         "game_type": "bilmece",
@@ -53021,11 +53021,11 @@
         "game_type": "bilmece",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Ecologia e campo",
-        "sub_category": "Relações e habitats",
+        "main_category": "Mar e navegação",
+        "sub_category": "Equipamento de convés",
         "difficulty": "médio",
-        "question": "Acompanho as margens de um curso de água, formando uma faixa de árvores que se destaca da paisagem envolvente. Que formação sou?",
-        "answer": "Bosque de galeria"
+        "question": "Sou uma passagem reforçada na borda de uma embarcação por onde se guia o cabo que segue para o cais. Que peça sou?",
+        "answer": "Buzina de amarração"
       },
       {
         "game_type": "bilmece",
@@ -53082,20 +53082,20 @@
         "language": "Português",
         "locale": "pt-PT",
         "main_category": "Mar e navegação",
-        "sub_category": "Embarcações e portos",
+        "sub_category": "Cabos e velas",
         "difficulty": "médio",
-        "question": "Sou uma peça fixa no convés, com duas extremidades, à volta da qual se prende um cabo de amarração. Que peça sou?",
-        "answer": "Cunho náutico"
+        "question": "Sustento a retranca de um veleiro para impedir que desça quando a vela deixa de a suportar. Que cabo sou?",
+        "answer": "Amantilho"
       },
       {
         "game_type": "bilmece",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Mar e navegação",
-        "sub_category": "Embarcações e portos",
+        "main_category": "Ofícios e ferramentas",
+        "sub_category": "Trabalho da pedra",
         "difficulty": "médio",
-        "question": "Fico pendurada na lateral de um barco para amortecer o contacto com o cais ou outra embarcação. Que proteção sou?",
-        "answer": "Defensas"
+        "question": "Tenho uma ponta de aço que recebe pancadas de um martelo para abrir pequenas ranhuras em pedra. Que ferramenta sou?",
+        "answer": "Ponteiro de pedreiro"
       },
       {
         "game_type": "bilmece",
@@ -53344,7 +53344,7 @@
         "main_category": "Ciência e medições",
         "sub_category": "Fenómenos do quotidiano",
         "difficulty": "médio",
-        "question": "Em espaços muito estreitos, o vapor de água transforma-se em pequenas gotas sobre superfícies frias. Que fenómeno sou?",
+        "question": "Nos poros muito estreitos de um material, o vapor pode passar a líquido antes de o ar ambiente atingir a saturação, devido à curvatura do menisco. Que fenómeno sou?",
         "answer": "Condensação capilar"
       },
       {
@@ -53356,6 +53356,656 @@
         "difficulty": "médio",
         "question": "Ao atravessar camadas de ar com densidades diferentes, a luz muda de direção e altera a posição aparente dos astros. Que fenómeno sou?",
         "answer": "Refração atmosférica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura e património",
+        "sub_category": "Elementos e construções",
+        "difficulty": "médio",
+        "question": "Ocupo uma superfície semicircular entre uma abertura arqueada e a parede que a envolve, por vezes com pintura ou relevo. Que elemento arquitetónico sou?",
+        "answer": "Luneta"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e formas do terreno",
+        "difficulty": "médio",
+        "question": "Sou uma rocha calcária porosa que se forma quando minerais se depositam junto a certas nascentes. Que material sou?",
+        "answer": "Travertino"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "Sou um caule verde e achatado que realiza a fotossíntese quando as folhas são reduzidas ou ausentes. Que estrutura sou?",
+        "answer": "Cladódio"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência do quotidiano",
+        "sub_category": "Propriedades e fenómenos",
+        "difficulty": "médio",
+        "question": "Sou a capacidade de certas substâncias captarem vapor de água do ar à sua volta. Que propriedade sou?",
+        "answer": "Higroscopia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e expressão",
+        "difficulty": "difícil",
+        "question": "Faço o sentido de palavras como eu, aqui e agora depender da situação em que alguém fala. Que fenómeno sou?",
+        "answer": "Deixis"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Números, dados e geometria",
+        "difficulty": "médio",
+        "question": "Quando uma grandeza duplica, a outra passa para metade, mantendo constante o produto das duas. Que relação sou?",
+        "answer": "Proporcionalidade inversa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Sensores e equipamentos",
+        "difficulty": "médio",
+        "question": "Meço a quantidade de líquido que atravessa uma tubagem por unidade de tempo. Que instrumento sou?",
+        "answer": "Caudalímetro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura e património",
+        "sub_category": "Elementos e construções",
+        "difficulty": "médio",
+        "question": "Cruzo a nave principal de certas igrejas em ângulo reto, dando à planta a forma de uma cruz. Que parte do edifício sou?",
+        "answer": "Transepto"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e formas do terreno",
+        "difficulty": "médio",
+        "question": "Resulto da compactação de partículas muito finas de barro, formando uma rocha sedimentar sem lâminas evidentes. Que rocha sou?",
+        "answer": "Argilito"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "Sou uma prolongação microscópica de uma célula da raiz que amplia a superfície disponível para captar água. Que estrutura sou?",
+        "answer": "Pêlo radicular"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência do quotidiano",
+        "sub_category": "Propriedades e fenómenos",
+        "difficulty": "médio",
+        "question": "Absorvo tanta humidade do ambiente que um sólido acaba por se dissolver no líquido que ele próprio captou. Que fenómeno sou?",
+        "answer": "Deliquescência"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e expressão",
+        "difficulty": "difícil",
+        "question": "Coloco um pronome átono antes do verbo, como acontece em não me digas. Que posição gramatical sou?",
+        "answer": "Próclise"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Números, dados e geometria",
+        "difficulty": "médio",
+        "question": "Resumo a dispersão dos valores em torno da média usando a raiz quadrada da variância. Que medida sou?",
+        "answer": "Desvio-padrão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Sensores e equipamentos",
+        "difficulty": "médio",
+        "question": "Meço a iluminação recebida por uma superfície, expressa numa unidade usada em projetos de luz. Que instrumento sou?",
+        "answer": "Luxímetro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura e património",
+        "sub_category": "Elementos e construções",
+        "difficulty": "médio",
+        "question": "A corrente de um rio faz girar a minha roda e, por meio de engrenagens, ponho mós a trabalhar. Que construção tradicional sou?",
+        "answer": "Azenha"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e formas do terreno",
+        "difficulty": "médio",
+        "question": "Fui uma camada de terra exposta à superfície há muito tempo e fiquei preservada entre depósitos geológicos posteriores. Que vestígio sou?",
+        "answer": "Paleossolo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "Sou uma fina camada de células que produz tecidos condutores e permite o engrossamento de troncos e ramos. Que tecido sou?",
+        "answer": "Câmbio vascular"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência do quotidiano",
+        "sub_category": "Propriedades e fenómenos",
+        "difficulty": "médio",
+        "question": "Deixo uma camada esbranquiçada numa parede quando a água transporta sais para a superfície e depois evapora. Que fenómeno sou?",
+        "answer": "Eflorescência salina"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e expressão",
+        "difficulty": "difícil",
+        "question": "Coloco um pronome átono depois do verbo e ligo-o por hífen, como em conta-me. Que posição gramatical sou?",
+        "answer": "Ênclise"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Números, dados e geometria",
+        "difficulty": "médio",
+        "question": "Sou um dos valores que dividem dados ordenados em quatro partes com aproximadamente o mesmo número de observações. Que medida sou?",
+        "answer": "Quartil"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Sensores e equipamentos",
+        "difficulty": "médio",
+        "question": "Meço o nível de pressão sonora de um ambiente e apresento o resultado em decibéis. Que instrumento sou?",
+        "answer": "Sonómetro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura e património",
+        "sub_category": "Elementos e construções",
+        "difficulty": "médio",
+        "question": "A subida e descida periódica da água do estuário fornecem a energia que faz trabalhar as minhas mós. Que instalação tradicional sou?",
+        "answer": "Moinho de maré"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e formas do terreno",
+        "difficulty": "médio",
+        "question": "Sou rocha profundamente alterada no próprio local, ainda com vestígios da estrutura original, mas já muito friável. Que material sou?",
+        "answer": "Saprolito"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "Acabei de sair de uma semente germinada e ainda apresento as primeiras folhas do meu desenvolvimento. Que fase sou?",
+        "answer": "Plântula"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência do quotidiano",
+        "sub_category": "Propriedades e fenómenos",
+        "difficulty": "médio",
+        "question": "Descrevo a tendência de um corpo para se manter à superfície de um fluido em vez de se afundar. Que propriedade sou?",
+        "answer": "Flutuabilidade"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e expressão",
+        "difficulty": "difícil",
+        "question": "Insiro um pronome átono no interior de uma forma verbal do futuro ou do condicional, como em dir-te-ei. Que posição sou?",
+        "answer": "Mesóclise"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Números, dados e geometria",
+        "difficulty": "médio",
+        "question": "Mostro a mediana, os extremos e a distribuição central dos dados com um retângulo e prolongamentos. Que gráfico sou?",
+        "answer": "Diagrama de caixa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Sensores e equipamentos",
+        "difficulty": "médio",
+        "question": "Sou um componente semicondutor que produz ou altera corrente elétrica quando recebe luz. Que componente sou?",
+        "answer": "Fotodíodo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e formas do terreno",
+        "difficulty": "médio",
+        "question": "Formo a cobertura solta de fragmentos e partículas que assenta sobre a rocha sólida de um terreno. Que camada sou?",
+        "answer": "Rególito"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "Quando a água enche os vacúolos, a pressão contra a parede celular mantém as partes tenras de uma planta firmes. Que estado sou?",
+        "answer": "Turgência"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência do quotidiano",
+        "sub_category": "Propriedades e fenómenos",
+        "difficulty": "médio",
+        "question": "Indico a facilidade com que a água atravessa os espaços interligados de um solo ou material. Que propriedade sou?",
+        "answer": "Permeabilidade"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e expressão",
+        "difficulty": "difícil",
+        "question": "Reformulo uma mensagem por outras palavras, procurando conservar o seu significado essencial. Que operação textual sou?",
+        "answer": "Paráfrase"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Sensores e equipamentos",
+        "difficulty": "médio",
+        "question": "Uso uma bobina e contactos móveis para abrir ou fechar um circuito por comando elétrico. Que dispositivo sou?",
+        "answer": "Relé eletromecânico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e formas do terreno",
+        "difficulty": "médio",
+        "question": "Desgasto mais depressa as partes frágeis de uma formação rochosa do que as resistentes, criando relevos contrastantes. Que processo sou?",
+        "answer": "Erosão diferencial"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "A minha presença, abundância ou ausência permite avaliar condições ambientais, como a qualidade do ar ou da água. Que função tenho?",
+        "answer": "Bioindicador"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ciência do quotidiano",
+        "sub_category": "Propriedades e fenómenos",
+        "difficulty": "médio",
+        "question": "Retenho moléculas na superfície de um sólido, em vez de as incorporar no seu interior. Que processo sou?",
+        "answer": "Adsorção"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e expressão",
+        "difficulty": "difícil",
+        "question": "Elimino um som ou uma sílaba no início de uma palavra ao longo da sua evolução ou num uso informal. Que alteração sou?",
+        "answer": "Aférese"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Números, dados e geometria",
+        "difficulty": "médio",
+        "question": "Sou um conjunto de elementos escolhido por um processo de sorteio, para reduzir preferências na seleção. Que conjunto sou?",
+        "answer": "Amostra aleatória"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Sensores e equipamentos",
+        "difficulty": "médio",
+        "question": "A minha resistência elétrica varia muito com a temperatura, permitindo detetar aquecimento ou arrefecimento. Que componente sou?",
+        "answer": "Termístor"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e formas do terreno",
+        "difficulty": "médio",
+        "question": "Sou o traçado preservado de um antigo curso de água, reconhecível nos sedimentos mesmo depois de o rio mudar de lugar. Que vestígio sou?",
+        "answer": "Paleocanal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "Dependo de madeira morta ou em decomposição para completar o meu ciclo de vida, como certos insetos. Que tipo de organismo sou?",
+        "answer": "Saproxílico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e expressão",
+        "difficulty": "difícil",
+        "question": "Introduzo um som no interior de uma palavra, sem que ele existisse na forma anterior. Que processo fonético sou?",
+        "answer": "Epêntese"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Números, dados e geometria",
+        "difficulty": "médio",
+        "question": "Quando uma variável tende a aumentar, a outra tende a diminuir, embora isso não prove uma relação de causa. Que associação sou?",
+        "answer": "Correlação negativa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Sensores e equipamentos",
+        "difficulty": "médio",
+        "question": "Sou uma peça metálica com aletas que espalha a energia térmica de um componente eletrónico para o ar. Que peça sou?",
+        "answer": "Dissipador de calor"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e formas do terreno",
+        "difficulty": "médio",
+        "question": "Sou uma faixa alongada de areia ou cascalho depositada pelas ondas e correntes, paralela ou próxima da costa. Que formação sou?",
+        "answer": "Cordão litoral"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "Numa interação entre duas espécies, uma sofre prejuízo enquanto a outra não é afetada de forma relevante. Que relação sou?",
+        "answer": "Amensalismo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e expressão",
+        "difficulty": "difícil",
+        "question": "Faço um som consonântico passar a ser articulado com a língua mais próxima do palato duro. Que mudança sou?",
+        "answer": "Palatalização"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Números, dados e geometria",
+        "difficulty": "médio",
+        "question": "Conto as maneiras de ordenar todos os elementos distintos de um conjunto, sem deixar nenhum de fora. Que operação combinatória sou?",
+        "answer": "Permutação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Sensores e equipamentos",
+        "difficulty": "médio",
+        "question": "Empurro ar aproximadamente na mesma direção do eixo em torno do qual as minhas pás rodam. Que tipo de ventilador sou?",
+        "answer": "Ventoinha axial"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e formas do terreno",
+        "difficulty": "médio",
+        "question": "Surjo quando o teto de uma cavidade subterrânea cede e deixa uma depressão fechada à superfície. Que forma do relevo sou?",
+        "answer": "Dolina de colapso"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "Numa mesma planta, apresento folhas de formas bastante diferentes conforme a idade ou as condições de crescimento. Que característica sou?",
+        "answer": "Heterofilia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e expressão",
+        "difficulty": "difícil",
+        "question": "Surjo entre o radical de muitos verbos e as terminações, ajudando a identificar a conjugação. Que elemento sou?",
+        "answer": "Vogal temática"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Números, dados e geometria",
+        "difficulty": "médio",
+        "question": "Escolho um grupo de elementos sem que a ordem em que os seleciono altere o resultado. Que operação combinatória sou?",
+        "answer": "Combinação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Sensores e equipamentos",
+        "difficulty": "médio",
+        "question": "Ligo a iluminação exterior quando a luz ambiente diminui e desligo-a quando o dia clareia. Que comando sou?",
+        "answer": "Interruptor crepuscular"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e formas do terreno",
+        "difficulty": "médio",
+        "question": "Sou um depósito espesso de poeira fina transportada pelo vento, frequentemente de cor amarelada. Que sedimento sou?",
+        "answer": "Loesse"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "Estou adaptada a ambientes muito secos, com estruturas que limitam a perda de água. Que tipo de planta sou?",
+        "answer": "Planta xerófita"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e expressão",
+        "difficulty": "difícil",
+        "question": "Sou uma das formas alternativas que o mesmo elemento mínimo de significado pode assumir em contextos diferentes. Que variante sou?",
+        "answer": "Alomorfe"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Números, dados e geometria",
+        "difficulty": "médio",
+        "question": "Multiplico todos os inteiros positivos desde um valor natural até à unidade. Que operação sou?",
+        "answer": "Fatorial"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Sensores e equipamentos",
+        "difficulty": "médio",
+        "question": "Tenho enrolamentos em volta de um núcleo magnético em forma de anel e altero a tensão alternada. Que equipamento sou?",
+        "answer": "Transformador toroidal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geologia e paisagem",
+        "sub_category": "Rochas e formas do terreno",
+        "difficulty": "médio",
+        "question": "Acumulo areia, limo e cascalho deixados pela corrente de um rio nas margens ou no vale. Que formação sou?",
+        "answer": "Depósito aluvial"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "Consigo crescer em solos ou águas com elevada concentração de sais, onde muitas outras espécies não sobrevivem. Que tipo de planta sou?",
+        "answer": "Planta halófita"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua portuguesa",
+        "sub_category": "Gramática e expressão",
+        "difficulty": "difícil",
+        "question": "Transformo a classe gramatical de uma palavra sem lhe acrescentar afixos, como quando um adjetivo passa a nome. Que processo sou?",
+        "answer": "Derivação imprópria"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Números, dados e geometria",
+        "difficulty": "médio",
+        "question": "Sou um inteiro positivo maior do que um que só pode ser dividido exatamente por um e por si próprio. Que tipo de número sou?",
+        "answer": "Número primo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Tecnologia do quotidiano",
+        "sub_category": "Sensores e equipamentos",
+        "difficulty": "médio",
+        "question": "Retiro energia térmica do ar exterior e transfiro-a para água usada no aquecimento de uma casa. Que sistema sou?",
+        "answer": "Bomba de calor ar-água"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Botânica e ecologia",
+        "sub_category": "Estruturas e relações naturais",
+        "difficulty": "médio",
+        "question": "Sou um conjunto de peças da flor inseridas aproximadamente à mesma altura em torno do seu eixo. Que disposição sou?",
+        "answer": "Verticilo floral"
       }
     ],
     "word_master": [
