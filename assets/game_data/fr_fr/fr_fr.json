@@ -12891,8 +12891,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Je lisse visuellement les contours obliques d'une image pour éviter un aspect en escalier. Quelle technique suis-je ?",
-      "answer": "anti-crénelage"
+      "question": "Dans un logiciel de dessin, quelle fonction limite la visibilité d'une image à la forme d'un autre calque ?",
+      "answer": "masque d'écrêtage"
     },
     {
       "game_type": "bilmece",
@@ -14573,6 +14573,694 @@
       "difficulty": "moyen",
       "question": "Quel processus des mitochondries libère de l'énergie à partir du glucose grâce à des réactions chimiques ?",
       "answer": "respiration cellulaire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel dispositif mural permet de régler progressivement l'intensité d'une lampe ?",
+      "answer": "variateur de lumière"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quand deux fenêtres opposées font circuler naturellement l'air dans une pièce, quel principe utilise-t-on ?",
+      "answer": "ventilation traversante"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Dans un sèche-linge, quelle pièce amovible retient les petites fibres libérées par les vêtements ?",
+      "answer": "filtre à peluches"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Sur un évier, quel robinet à commande unique règle à la fois le débit et la température ?",
+      "answer": "mitigeur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle petite pièce vissée au bout d'un bec mélange de l'air au jet pour limiter les éclaboussures ?",
+      "answer": "aérateur de robinet"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Dans le réservoir des toilettes, quel mécanisme ferme l'arrivée d'eau quand le niveau est atteint ?",
+      "answer": "robinet flotteur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel trouble végétal rend les feuilles jaunes alors que leurs nervures restent parfois vertes ?",
+      "answer": "chlorose"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Quel processus fissure les roches lorsque l'eau emprisonnée dans leurs pores se transforme en glace ?",
+      "answer": "gélifraction"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Quel passage prolongé par le froid est nécessaire à certaines plantes avant leur floraison ?",
+      "answer": "vernalisation"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Chez les légumineuses, quelle petite excroissance abrite des bactéries capables de fixer l'azote ?",
+      "answer": "nodule racinaire"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Après de fortes pluies, quel phénomène entraîne les éléments solubles vers les couches profondes de la terre ?",
+      "answer": "lessivage des sols"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Comment nomme-t-on la croûte compacte qui se forme à la surface d'une terre fine après une forte averse ?",
+      "answer": "battance"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle propriété d'une roche indique la proportion de son volume occupée par des espaces vides ?",
+      "answer": "porosité"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Quel seuil d'humidité de la terre marque le moment où une plante ne peut plus prélever assez d'eau ?",
+      "answer": "point de flétrissement"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle mouche rayée, souvent prise pour une abeille, sait rester immobile en vol près des fleurs ?",
+      "answer": "syrphe"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Quel insecte aux ailes transparentes finement nervurées pond ses œufs au bout de longs filaments ?",
+      "answer": "chrysope"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Quel minuscule habitant du sol peut bondir grâce à une fourche repliée sous son abdomen ?",
+      "answer": "collembole"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel petit crustacé terrestre se cache sous les pierres humides et peut parfois se rouler en boule ?",
+      "answer": "cloporte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel insecte garde souvent ses pattes antérieures repliées dans une posture évoquant la prière ?",
+      "answer": "mante religieuse"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel insecte ressemble tellement à une brindille qu'il passe inaperçu sur une branche ?",
+      "answer": "phasme"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel coléoptère façonne et déplace des boules de matière organique provenant des animaux ?",
+      "answer": "bousier"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel insecte fait entendre un chant puissant durant les journées chaudes grâce à des membranes abdominales ?",
+      "answer": "cigale"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle finition au four forme une croûte dorée sur le dessus d'un plat ?",
+      "answer": "gratinage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Pendant la cuisson d'un bouillon, quelle opération retire la mousse qui remonte à la surface ?",
+      "answer": "écumage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Avant de préparer des fraises, comment appelle-t-on le retrait de leur petite partie verte ?",
+      "answer": "équeutage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Pour préparer des cerises, quelle opération consiste à retirer leur partie centrale dure ?",
+      "answer": "noyautage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle agitation prolongée transforme la crème en beurre en rassemblant ses matières grasses ?",
+      "answer": "barattage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Comment nomme-t-on la transformation du lait liquide en une masse coagulée pour fabriquer du fromage ?",
+      "answer": "caillage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle étape en cave développe progressivement la texture et les arômes d'un fromage ?",
+      "answer": "affinage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel réseau de protéines rend une pâte de blé élastique lorsqu'on la travaille ?",
+      "answer": "gluten"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Après le pétrissage, quelle pause permet au réseau élastique de se détendre avant le façonnage ?",
+      "answer": "repos de pâte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Pendant la levée du pain, quelle manipulation replie la masse sur elle-même pour renforcer sa structure ?",
+      "answer": "rabattage de pâte"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel mélange de farine et de matière grasse est chauffé brièvement sans coloration avant d'épaissir une sauce ?",
+      "answer": "roux blanc"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel procédé refroidit très rapidement un aliment pour former de minuscules cristaux de glace ?",
+      "answer": "surgélation"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle technique entrelace des brins végétaux pour former l'assise ajourée d'une chaise ?",
+      "answer": "cannage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on la réfection de l'assise d'un siège avec des brins végétaux serrés ?",
+      "answer": "rempaillage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Sur une planche, quelle face montre les extrémités des fibres et les cernes de croissance ?",
+      "answer": "bois de bout"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quelle étape lisse une surface à l'aide de grains abrasifs avant l'application d'une finition ?",
+      "answer": "ponçage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel réseau de fines fissures peut apparaître dans la glaçure d'une céramique ?",
+      "answer": "craquelure"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Dans un four de céramiste, quel phénomène rend une pâte moins poreuse en formant une phase semblable au verre ?",
+      "answer": "vitrification"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle technique imprime un motif en relief sur du papier sans ajouter d'encre ?",
+      "answer": "gaufrage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "En imprimerie, quelle zone d'image dépasse le format final pour éviter un bord blanc après la coupe ?",
+      "answer": "fond perdu"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Sur un écran, quel petit message apparaît lorsqu'on laisse le pointeur sur une icône ?",
+      "answer": "infobulle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel élément d'interface affiche une liste d'options lorsqu'on l'ouvre ?",
+      "answer": "menu déroulant"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle fonction propose la suite d'un mot pendant que l'on tape ?",
+      "answer": "autocomplétion"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quelle manipulation déplace un fichier en le maintenant sous le pointeur jusqu'à son nouvel emplacement ?",
+      "answer": "glisser-déposer"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on une portion logique d'un support de stockage que le système traite séparément ?",
+      "answer": "partition de disque"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel équipement crée un réseau sans fil local à partir d'une connexion câblée existante ?",
+      "answer": "point d'accès"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel appareil reçoit un signal sans fil existant pour le retransmettre plus loin ?",
+      "answer": "répéteur réseau"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle mesure en hertz indique combien de fois un écran actualise son image chaque seconde ?",
+      "answer": "taux de rafraîchissement"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle technologie d'affichage conserve une page visible sans alimentation continue, comme sur de nombreuses liseuses ?",
+      "answer": "encre électronique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel capteur d'un téléphone détecte les variations de vitesse et aide à orienter l'affichage ?",
+      "answer": "accéléromètre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel capteur mesure la rotation d'un appareil autour de ses axes ?",
+      "answer": "gyroscope"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel composant éteint souvent l'écran d'un téléphone lorsqu'on l'approche de l'oreille ?",
+      "answer": "capteur de proximité"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel composant semi-conducteur sert notamment à amplifier un signal ou à commuter un courant ?",
+      "answer": "transistor"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Quel petit circuit programmable réunit processeur, mémoire et entrées-sorties pour piloter un objet ?",
+      "answer": "microcontrôleur"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel accessoire se fixe en travers du manche d'une guitare pour raccourcir toutes les cordes jouées ?",
+      "answer": "capodastre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel petit accessoire plat tenu entre les doigts sert à pincer les cordes d'une guitare ?",
+      "answer": "médiator"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle barrette métallique sur le manche d'une guitare délimite les hauteurs des notes ?",
+      "answer": "frette"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "En composition musicale, quel art fait coexister plusieurs lignes mélodiques indépendantes ?",
+      "answer": "contrepoint"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Quel procédé musical superpose plusieurs motifs de durées différentes ?",
+      "answer": "polyrythmie"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Comment qualifie-t-on un chant interprété sans accompagnement instrumental ?",
+      "answer": "a cappella"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Avant un concert, quelle opération ajuste la hauteur des notes produites par un instrument ?",
+      "answer": "accordage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Dans un morceau, quel changement fait passer la musique d'une tonalité à une autre ?",
+      "answer": "modulation"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on le fait de créer une mélodie au moment même où on la joue ?",
+      "answer": "improvisation"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel défaut optique assombrit les coins d'une photographie par rapport à son centre ?",
+      "answer": "vignettage"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quelle lentille photographique permet de cadrer de près un sujet éloigné sans s'en approcher ?",
+      "answer": "téléobjectif"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle lentille photographique permet de saisir un champ de vision particulièrement large ?",
+      "answer": "objectif grand-angle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quelle technique photographique superpose plusieurs prises de vue sur une seule image ?",
+      "answer": "surimpression"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel système d'un appareil compense les petits mouvements de la main pour réduire le flou ?",
+      "answer": "stabilisation optique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel bref retour du soleil survient quand les nuages s'ouvrent dans un ciel couvert ?",
+      "answer": "éclaircie"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on le déplacement spontané de particules d'une zone concentrée vers une zone moins concentrée ?",
+      "answer": "diffusion"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Quelle courbure prend la surface d'un liquide au contact des parois d'un récipient étroit ?",
+      "answer": "ménisque"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quelle bande souple transmet le mouvement entre deux poulies dans une machine ?",
+      "answer": "courroie"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel mécanisme fait rouler de petites sphères entre deux bagues pour limiter les frottements ?",
+      "answer": "roulement à billes"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Dans une horloge ancienne, quel élément oscille régulièrement et rythme le mécanisme ?",
+      "answer": "balancier"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "En géométrie, comment appelle-t-on une droite qui coupe un cercle en deux points distincts ?",
+      "answer": "sécante"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Dans une série de données, quelle valeur apparaît le plus souvent ?",
+      "answer": "mode statistique"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Quel dessin à plat réunit toutes les faces d'un volume et permet de le reconstituer par pliage ?",
+      "answer": "développement d'un solide"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel solide possède une base polygonale et des faces latérales triangulaires réunies en un sommet ?",
+      "answer": "pyramide"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel solide possède deux bases circulaires parallèles reliées par une surface courbe ?",
+      "answer": "cylindre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Quel solide possède une base circulaire et se termine en une seule pointe ?",
+      "answer": "cône"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "moyen",
+      "question": "Quel solide géométrique ressemble à une bouée circulaire avec un trou central ?",
+      "answer": "tore"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "difficile",
+      "question": "Quelle figure régulière de l'espace possède vingt faces triangulaires ?",
+      "answer": "icosaèdre"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Parmi les figures à trois côtés, laquelle en possède deux de même longueur, sans que le troisième soit nécessairement égal ?",
+      "answer": "triangle isocèle"
+    },
+    {
+      "game_type": "bilmece",
+      "language": "Français",
+      "locale": "fr-FR",
+      "difficulty": "facile",
+      "question": "Parmi les figures à trois côtés, laquelle a trois côtés de même longueur et trois angles identiques ?",
+      "answer": "triangle équilatéral"
     }
   ],
   "kelime_ustasi": [
