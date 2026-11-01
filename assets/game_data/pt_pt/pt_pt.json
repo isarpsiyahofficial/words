@@ -51892,10 +51892,10 @@
         "language": "Português",
         "locale": "pt-PT",
         "main_category": "Cozinha e alimentos",
-        "sub_category": "Preparação e conservação",
+        "sub_category": "Preparação de frutos",
         "difficulty": "médio",
-        "question": "Na cozinha, mergulho rapidamente um alimento em líquido muito quente para facilitar a remoção da pele ou iniciar a preparação. Que operação sou?",
-        "answer": "Escaldão"
+        "question": "Retiro a parte dura que fica no interior de certos frutos, deixando a polpa pronta para cozinhar. Que operação sou?",
+        "answer": "Descaroçamento"
       },
       {
         "game_type": "bilmece",
@@ -52244,7 +52244,7 @@
         "main_category": "Energia e habitação",
         "sub_category": "Soluções e equipamentos",
         "difficulty": "fácil",
-        "question": "Cubram-me de vegetação sobre camadas impermeáveis e ajudo a reter a chuva e a moderar o calor do edifício. Que cobertura sou?",
+        "question": "Tenho vegetação plantada sobre camadas próprias no topo de um edifício; retenho parte da chuva e ajudo a reduzir o calor. Que solução de construção sou?",
         "answer": "Telhado verde"
       },
       {
@@ -52396,6 +52396,226 @@
         "difficulty": "médio",
         "question": "Rodo sobre o meu eixo e ajudo a torcer fibras soltas para formar um fio contínuo. Que utensílio tradicional sou?",
         "answer": "Fuso de fiar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cozinha e alimentos",
+        "sub_category": "Técnicas e utensílios",
+        "difficulty": "médio",
+        "question": "Sou um coador cónico de malha fina, usado para tornar molhos e cremes mais lisos. Que utensílio sou?",
+        "answer": "Passador chinês"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Natureza e ambiente",
+        "sub_category": "Ecossistemas e fenómenos",
+        "difficulty": "médio",
+        "question": "Formo uma faixa de árvores e arbustos ao longo de uma linha de água, dando sombra e abrigo a muitos seres vivos. Que vegetação sou?",
+        "answer": "Galeria ripícola"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Natureza e ambiente",
+        "sub_category": "Ecossistemas e fenómenos",
+        "difficulty": "médio",
+        "question": "Sou a camada escura e superficial do terreno, enriquecida por restos orgânicos decompostos. Que camada sou?",
+        "answer": "Horizonte húmico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Natureza e ambiente",
+        "sub_category": "Ecossistemas e fenómenos",
+        "difficulty": "médio",
+        "question": "Tenho uma extensão fina que me permite ser transportada pelo vento para longe da planta de origem. Que estrutura sou?",
+        "answer": "Semente alada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Natureza e ambiente",
+        "sub_category": "Ecossistemas e fenómenos",
+        "difficulty": "médio",
+        "question": "Sou um líquido açucarado produzido por certas flores para atrair visitantes que transportam pólen. Que substância sou?",
+        "answer": "Néctar"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Arquitetura e construção",
+        "sub_category": "Estruturas e acabamentos",
+        "difficulty": "médio",
+        "question": "Impeço que a água atravesse uma superfície de construção, recorrendo a membranas ou revestimentos apropriados. Que proteção sou?",
+        "answer": "Impermeabilização"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ofícios e artesanato",
+        "sub_category": "Ferramentas e técnicas",
+        "difficulty": "médio",
+        "question": "Tenho uma lâmina ajustável e deslizo sobre a madeira para retirar aparas finas e regularizar a superfície. Que ferramenta sou?",
+        "answer": "Plaina manual"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geografia e paisagem",
+        "sub_category": "Relevo e cartografia",
+        "difficulty": "médio",
+        "question": "Sou uma faixa alongada de areia formada por correntes e ondas, por vezes separando uma laguna do mar. Que depósito sou?",
+        "answer": "Barra arenosa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Geografia e paisagem",
+        "sub_category": "Relevo e cartografia",
+        "difficulty": "médio",
+        "question": "Indico a posição dos pontos cardeais num mapa, frequentemente através de uma seta para norte. Que informação sou?",
+        "answer": "Orientação cartográfica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e comunicação",
+        "sub_category": "Gramática e escrita",
+        "difficulty": "médio",
+        "question": "Sou uma parte da frase que apresenta a razão do que é afirmado na principal, frequentemente introduzida por «porque». Que estrutura sou?",
+        "answer": "Oração subordinada causal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e comunicação",
+        "sub_category": "Gramática e escrita",
+        "difficulty": "médio",
+        "question": "Apresento um obstáculo que não impede o facto da frase principal, muitas vezes com «embora». Que estrutura sou?",
+        "answer": "Oração concessiva"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e comunicação",
+        "sub_category": "Gramática e escrita",
+        "difficulty": "médio",
+        "question": "Ligo duas ideias que se opõem ou contrastam, como acontece com «mas» e «porém». Que elemento sou?",
+        "answer": "Conector adversativo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Língua e comunicação",
+        "sub_category": "Gramática e escrita",
+        "difficulty": "médio",
+        "question": "Numa frase, ponho em destaque o elemento que recebe a ação, muitas vezes com o verbo «ser» e um particípio. Que construção sou?",
+        "answer": "Voz passiva"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Campo e agricultura",
+        "sub_category": "Cultivo e recursos",
+        "difficulty": "médio",
+        "question": "Sou um recipiente ventilado onde restos vegetais se transformam gradualmente em material útil para o jardim. Que equipamento sou?",
+        "answer": "Compostor doméstico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Campo e agricultura",
+        "sub_category": "Cultivo e recursos",
+        "difficulty": "médio",
+        "question": "Sou um espaço onde se criam árvores jovens em condições controladas antes de serem plantadas no terreno. Que instalação sou?",
+        "answer": "Viveiro florestal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Embarcações e litoral",
+        "difficulty": "médio",
+        "question": "Sou um cabo que liga a parte dianteira de uma embarcação ao cais para a manter segura. Que elemento sou?",
+        "answer": "Amarra de proa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Embarcações e litoral",
+        "difficulty": "médio",
+        "question": "Emito luz com cor e posição regulamentadas para indicar a orientação de uma embarcação durante a noite. Que equipamento sou?",
+        "answer": "Farolim de navegação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Mar e navegação",
+        "sub_category": "Embarcações e litoral",
+        "difficulty": "médio",
+        "question": "Ocorro quando a atração do Sol e da Lua se combina e a diferença entre a água alta e baixa tende a ser maior. Que fenómeno sou?",
+        "answer": "Maré de sizígia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Formas e medidas",
+        "difficulty": "médio",
+        "question": "Num sólido como um cubo, ligo dois vértices opostos atravessando o interior em vez de uma face. Que segmento sou?",
+        "answer": "Diagonal espacial"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Formas e medidas",
+        "difficulty": "médio",
+        "question": "Aconteço quando uma figura coincide consigo mesma após uma rotação de meia-volta em torno de um ponto. Que propriedade sou?",
+        "answer": "Simetria central"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Formas e medidas",
+        "difficulty": "médio",
+        "question": "Sou o valor central de um conjunto de dados ordenados, ou a média dos dois centrais quando a quantidade é par. Que medida sou?",
+        "answer": "Mediana estatística"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e raciocínio",
+        "sub_category": "Formas e medidas",
+        "difficulty": "médio",
+        "question": "Calculo-me subtraindo o menor valor observado ao maior valor do conjunto. Que medida sou?",
+        "answer": "Amplitude estatística"
       }
     ],
     "word_master": [
