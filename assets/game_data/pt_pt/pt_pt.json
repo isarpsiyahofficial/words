@@ -47881,11 +47881,11 @@
         "game_type": "bilmece",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Livros e edição",
-        "sub_category": "Acabamento gráfico",
-        "difficulty": "médio",
-        "question": "Uma linha previamente marcada ajuda a folha espessa a fechar sem criar fissuras. Que marca é esta?",
-        "answer": "Vinco de dobra"
+        "main_category": "Geologia e materiais",
+        "sub_category": "Rochas e minerais",
+        "difficulty": "difícil",
+        "question": "As camadas exteriores de uma rocha alterada soltam-se como cascas curvas em torno de um núcleo. Que processo é este?",
+        "answer": "Esfoliação esferoidal"
       },
       {
         "game_type": "bilmece",
@@ -48021,11 +48021,11 @@
         "game_type": "bilmece",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Mapas e território",
-        "sub_category": "Cartografia",
+        "main_category": "Geologia e materiais",
+        "sub_category": "Rochas e minerais",
         "difficulty": "difícil",
-        "question": "Sou um sinal fixo no terreno cuja altitude é conhecida e serve de referência às medições. Que marco sou?",
-        "answer": "Marco de nivelamento"
+        "question": "Camadas antigas inclinadas são cortadas por erosão e cobertas por outras com orientação diferente. Que contacto geológico é este?",
+        "answer": "Discordância angular"
       },
       {
         "game_type": "bilmece",
@@ -48081,11 +48081,11 @@
         "game_type": "bilmece",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Ciência quotidiana",
-        "sub_category": "Fluidos",
+        "main_category": "Geologia e materiais",
+        "sub_category": "Rochas e minerais",
         "difficulty": "difícil",
-        "question": "Uma gota de corante espalha-se lentamente pela água parada sem ser mexida. Que processo ocorre?",
-        "answer": "Difusão molecular"
+        "question": "Descrevo a forma exterior característica que um mineral tende a apresentar ao crescer. Que característica sou?",
+        "answer": "Hábito cristalino"
       },
       {
         "game_type": "bilmece",
@@ -48221,11 +48221,11 @@
         "game_type": "bilmece",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Têxteis e costura",
-        "sub_category": "Pontos de costura",
-        "difficulty": "médio",
-        "question": "Faço uma união provisória com passagens largas de linha, retirada após a costura definitiva. Que ponto sou?",
-        "answer": "Ponto de alinhavo"
+        "main_category": "Geologia e materiais",
+        "sub_category": "Rochas e minerais",
+        "difficulty": "difícil",
+        "question": "Rodeio uma massa mineralizada ou uma intrusão, sendo o material geológico que já lá estava. Que formação sou?",
+        "answer": "Rocha encaixante"
       },
       {
         "game_type": "bilmece",
@@ -48241,11 +48241,11 @@
         "game_type": "bilmece",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Têxteis e costura",
-        "sub_category": "Utensílios",
-        "difficulty": "fácil",
-        "question": "Protejo a ponta de um dedo enquanto empurra uma agulha através de tecido grosso. Que objeto sou?",
-        "answer": "Dedal de costura"
+        "main_category": "Geologia e materiais",
+        "sub_category": "Rochas e minerais",
+        "difficulty": "difícil",
+        "question": "Cresço dentro de sedimentos quando compostos de ferro cimentam partículas numa massa localizada. Que formação sou?",
+        "answer": "Concreção ferruginosa"
       },
       {
         "game_type": "bilmece",
@@ -48291,11 +48291,11 @@
         "game_type": "bilmece",
         "language": "Português",
         "locale": "pt-PT",
-        "main_category": "Mar e navegação",
-        "sub_category": "Medições marítimas",
+        "main_category": "Agricultura e horticultura",
+        "sub_category": "Cuidados com culturas",
         "difficulty": "médio",
-        "question": "Meço a distância vertical entre a linha de água e a parte mais baixa do casco. Que medida sou?",
-        "answer": "Calado de embarcação"
+        "question": "Retiro ramos de uma árvore para melhorar o fuste ou reduzir a competição entre partes da copa. Que operação sou?",
+        "answer": "Desrama"
       },
       {
         "game_type": "bilmece",
@@ -48476,6 +48476,526 @@
         "difficulty": "difícil",
         "question": "Num terreno calcário, recebo a água de superfície e conduzo-a para galerias subterrâneas. Que abertura sou?",
         "answer": "Sumidouro cársico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e horticultura",
+        "sub_category": "Cuidados com culturas",
+        "difficulty": "médio",
+        "question": "Retiro parte dos pequenos frutos ainda em crescimento para que os restantes se desenvolvam melhor. Que prática sou?",
+        "answer": "Desbaste de frutos"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e horticultura",
+        "sub_category": "Cuidados com culturas",
+        "difficulty": "médio",
+        "question": "Durante uma época, deixo a terra agrícola sem cultura para recuperar antes de voltar a produzir. Que período sou?",
+        "answer": "Pousio"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e horticultura",
+        "sub_category": "Cuidados com culturas",
+        "difficulty": "difícil",
+        "question": "Preparo a terra, espero que nasçam plantas espontâneas e elimino-as antes de instalar a cultura verdadeira. Que técnica sou?",
+        "answer": "Falsa sementeira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Agricultura e horticultura",
+        "sub_category": "Cuidados com culturas",
+        "difficulty": "médio",
+        "question": "Ajudo plantas frágeis a crescer na vertical, prendendo-as a estacas ou estruturas de apoio. Que prática sou?",
+        "answer": "Tutoragem"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e artes gráficas",
+        "sub_category": "Encadernação e acabamento",
+        "difficulty": "difícil",
+        "question": "Sou a borda das páginas oposta à lombada e posso apresentar uma concavidade característica em volumes encadernados. Que parte sou?",
+        "answer": "Goteira do livro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Livros e artes gráficas",
+        "sub_category": "Encadernação e acabamento",
+        "difficulty": "médio",
+        "question": "Duas peças metálicas correm uma dentro da outra e permitem extrair uma gaveta quase até ao fim. Que ferragem sou?",
+        "answer": "Calha telescópica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e instalações",
+        "sub_category": "Canalização e controlo",
+        "difficulty": "médio",
+        "question": "Abro automaticamente quando a pressão ultrapassa um limite para proteger um circuito fechado. Que dispositivo sou?",
+        "answer": "Válvula de segurança"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e instalações",
+        "sub_category": "Canalização e controlo",
+        "difficulty": "médio",
+        "question": "Trabalho debaixo de água para a elevar de um poço ou tanque até uma saída. Que equipamento sou?",
+        "answer": "Bomba submersível"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e instalações",
+        "sub_category": "Canalização e controlo",
+        "difficulty": "difícil",
+        "question": "Ligo ou desligo um equipamento quando a pressão atinge valores definidos. Que componente sou?",
+        "answer": "Pressóstato"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e instalações",
+        "sub_category": "Canalização e controlo",
+        "difficulty": "médio",
+        "question": "Numa instalação de águas residuais, retenho óleos e matérias flutuantes antes de seguirem pela tubagem. Que equipamento sou?",
+        "answer": "Separador de gorduras"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Água e instalações",
+        "sub_category": "Canalização e controlo",
+        "difficulty": "fácil",
+        "question": "Registo o volume que passa numa canalização para medir o consumo de uma casa. Que aparelho sou?",
+        "answer": "Contador de água"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e instrumentos",
+        "sub_category": "Acústica e execução",
+        "difficulty": "médio",
+        "question": "Prendo todas as cordas de um instrumento de braço numa mesma posição para mudar a altura das notas. Que acessório sou?",
+        "answer": "Pestana móvel"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e instrumentos",
+        "sub_category": "Acústica e execução",
+        "difficulty": "médio",
+        "question": "Sou uma pequena peça que se roda para aumentar ou diminuir a tensão de uma corda. Que componente sou?",
+        "answer": "Cravelha"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e instrumentos",
+        "sub_category": "Acústica e execução",
+        "difficulty": "médio",
+        "question": "Sou a peça onde os lábios se apoiam para iniciar o som em certos instrumentos de sopro. Que componente sou?",
+        "answer": "Bocal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e instrumentos",
+        "sub_category": "Acústica e execução",
+        "difficulty": "médio",
+        "question": "Na extremidade alargada de muitos instrumentos de sopro, ajudo a projetar o som para o exterior. Que parte sou?",
+        "answer": "Campânula"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e instrumentos",
+        "sub_category": "Acústica e execução",
+        "difficulty": "fácil",
+        "question": "Sou a vareta leve que torna visíveis os gestos de quem dirige um conjunto instrumental. Que objeto sou?",
+        "answer": "Batuta"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e instrumentos",
+        "sub_category": "Acústica e execução",
+        "difficulty": "médio",
+        "question": "Organizo cinco notas diferentes dentro de uma oitava e apareço em muitas tradições musicais. Que sequência sou?",
+        "answer": "Escala pentatónica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Música e instrumentos",
+        "sub_category": "Acústica e execução",
+        "difficulty": "difícil",
+        "question": "Uma progressão da dominante para a tónica cria em mim uma sensação forte de conclusão musical. Que sequência sou?",
+        "answer": "Cadência perfeita"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e geometria",
+        "sub_category": "Formas e estatística",
+        "difficulty": "fácil",
+        "question": "Sou a parte de uma linha direita limitada por dois extremos definidos. Que objeto geométrico sou?",
+        "answer": "Segmento de reta"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e geometria",
+        "sub_category": "Formas e estatística",
+        "difficulty": "médio",
+        "question": "Tenho um par de lados paralelos e os dois lados não paralelos com o mesmo comprimento. Que quadrilátero sou?",
+        "answer": "Trapézio isósceles"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e geometria",
+        "sub_category": "Formas e estatística",
+        "difficulty": "difícil",
+        "question": "Num polígono regular, ligo o centro ao ponto médio de um lado formando um ângulo reto. Que distância sou?",
+        "answer": "Apotema"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e geometria",
+        "sub_category": "Formas e estatística",
+        "difficulty": "médio",
+        "question": "Qualquer linha que una dois dos meus pontos interiores permanece dentro de mim. Que figura sou?",
+        "answer": "Polígono convexo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e geometria",
+        "sub_category": "Formas e estatística",
+        "difficulty": "médio",
+        "question": "Ao calcular um valor central, dou importâncias diferentes às observações por meio de pesos. Que medida sou?",
+        "answer": "Média ponderada"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e geometria",
+        "sub_category": "Formas e estatística",
+        "difficulty": "médio",
+        "question": "Indico a proporção de observações que pertencem a uma categoria em relação ao total. Que medida sou?",
+        "answer": "Frequência relativa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e geometria",
+        "sub_category": "Formas e estatística",
+        "difficulty": "difícil",
+        "question": "Meço a distância entre os valores que delimitam a metade central de um conjunto de dados ordenados. Que amplitude sou?",
+        "answer": "Intervalo interquartil"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Matemática e geometria",
+        "sub_category": "Formas e estatística",
+        "difficulty": "fácil",
+        "question": "Depois de ordenar os valores, fico no centro da distribuição, dividindo-a em duas metades. Que medida sou?",
+        "answer": "Mediana"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e imagem",
+        "sub_category": "Composição e exposição",
+        "difficulty": "médio",
+        "question": "Num objetivo fotográfico, regulo a passagem de luz através de um orifício de tamanho variável. Que ajuste sou?",
+        "answer": "Abertura do diafragma"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e imagem",
+        "sub_category": "Composição e exposição",
+        "difficulty": "fácil",
+        "question": "Divido a imagem em nove áreas iguais e sugiro colocar elementos importantes perto das interseções. Que princípio sou?",
+        "answer": "Regra dos terços"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e imagem",
+        "sub_category": "Composição e exposição",
+        "difficulty": "médio",
+        "question": "Deixo o sensor receber luz durante vários segundos para registar rastos de movimento. Que técnica sou?",
+        "answer": "Exposição longa"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e imagem",
+        "sub_category": "Composição e exposição",
+        "difficulty": "médio",
+        "question": "Ajusto as cores de uma imagem para que uma superfície neutra não pareça azulada ou amarelada. Que correção sou?",
+        "answer": "Balanço de brancos"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e imagem",
+        "sub_category": "Composição e exposição",
+        "difficulty": "médio",
+        "question": "Escureço progressivamente os cantos de uma fotografia em relação ao centro. Que efeito sou?",
+        "answer": "Vinhetagem"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Fotografia e imagem",
+        "sub_category": "Composição e exposição",
+        "difficulty": "médio",
+        "question": "Mostro num gráfico quantos píxeis de uma imagem ocupam cada nível de luminosidade. Que representação sou?",
+        "answer": "Histograma"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e vida rural",
+        "sub_category": "Construções e práticas",
+        "difficulty": "médio",
+        "question": "Sou um compartimento seco onde se armazenavam cereais a granel nas casas agrícolas. Que espaço sou?",
+        "answer": "Tulha"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e vida rural",
+        "sub_category": "Construções e práticas",
+        "difficulty": "difícil",
+        "question": "Movido tradicionalmente por força hidráulica, bato repetidamente em tecido para o tornar mais compacto. Que engenho sou?",
+        "answer": "Pisão"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e vida rural",
+        "sub_category": "Construções e práticas",
+        "difficulty": "médio",
+        "question": "Sou um terraço plano no topo de certas casas do sul português, usado para apanhar sol ou secar produtos. Que espaço sou?",
+        "answer": "Açoteia"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e vida rural",
+        "sub_category": "Construções e práticas",
+        "difficulty": "médio",
+        "question": "Em vez de areia fina, o meu chão é coberto por pedras arredondadas pelo movimento das ondas. Que tipo de praia sou?",
+        "answer": "Praia de calhaus"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e vida rural",
+        "sub_category": "Construções e práticas",
+        "difficulty": "médio",
+        "question": "Sou uma elevação de terra que avança sobre o mar e pode servir de referência aos navegantes. Que forma sou?",
+        "answer": "Promontório"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e vida rural",
+        "sub_category": "Construções e práticas",
+        "difficulty": "difícil",
+        "question": "Sou um fruto pequeno, seco e com uma única semente, cuja parede não se abre na maturação. Que fruto sou?",
+        "answer": "Aquénio"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Património e vida rural",
+        "sub_category": "Construções e práticas",
+        "difficulty": "difícil",
+        "question": "Sou a camada mais interna da parede de um fruto, por vezes endurecida em redor da semente. Que parte sou?",
+        "answer": "Endocarpo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e habitats",
+        "sub_category": "Relações e dinâmica",
+        "difficulty": "difícil",
+        "question": "Animais escavadores misturam sedimentos e alteram a sua estrutura ao movimentarem-se. Que processo sou?",
+        "answer": "Bioturbação"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e habitats",
+        "sub_category": "Relações e dinâmica",
+        "difficulty": "médio",
+        "question": "Ligo áreas naturais separadas para permitir a circulação de organismos entre elas. Que estrutura da paisagem sou?",
+        "answer": "Corredor ecológico"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e habitats",
+        "sub_category": "Relações e dinâmica",
+        "difficulty": "médio",
+        "question": "Sou uma das primeiras a colonizar um terreno recém-exposto e ajudo a preparar condições para outras. Que tipo de organismo sou?",
+        "answer": "Espécie pioneira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e habitats",
+        "sub_category": "Relações e dinâmica",
+        "difficulty": "difícil",
+        "question": "Sou uma faixa de transição entre duas comunidades naturais distintas, com características de ambas. Que zona sou?",
+        "answer": "Ecótono"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e habitats",
+        "sub_category": "Relações e dinâmica",
+        "difficulty": "médio",
+        "question": "Formo uma camada de folhas, pequenos ramos e restos orgânicos sobre o solo da floresta. Que cobertura sou?",
+        "answer": "Serapilheira"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e habitats",
+        "sub_category": "Relações e dinâmica",
+        "difficulty": "médio",
+        "question": "Numa comunidade vegetal, ocupo a altura intermédia entre as ervas e as árvores. Que camada sou?",
+        "answer": "Estrato arbustivo"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e habitats",
+        "sub_category": "Relações e dinâmica",
+        "difficulty": "médio",
+        "question": "Fico armazenado no solo, com unidades de propagação que podem germinar em épocas futuras. Que reserva sou?",
+        "answer": "Banco de sementes"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e habitats",
+        "sub_category": "Relações e dinâmica",
+        "difficulty": "médio",
+        "question": "Sou um pequeno espaço dentro de um ambiente maior com condições próprias para certos seres vivos. Que local sou?",
+        "answer": "Micro-habitat"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e habitats",
+        "sub_category": "Relações e dinâmica",
+        "difficulty": "médio",
+        "question": "Organizo a vegetação de uma comunidade em camadas de alturas diferentes. Que disposição sou?",
+        "answer": "Estratificação vegetal"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Ecologia e habitats",
+        "sub_category": "Relações e dinâmica",
+        "difficulty": "difícil",
+        "question": "As estruturas reprodutivas de uma planta viajam graças ao vento. Que forma de propagação sou?",
+        "answer": "Dispersão anemocórica"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia e astronomia",
+        "sub_category": "Observação e representação",
+        "difficulty": "difícil",
+        "question": "Sou uma linha de altitude mais espessa e numerada que ajuda a interpretar o relevo num mapa. Que elemento sou?",
+        "answer": "Curva mestra"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia e astronomia",
+        "sub_category": "Observação e representação",
+        "difficulty": "médio",
+        "question": "Indico a direção do polo geográfico, que não coincide necessariamente com a agulha da bússola. Que referência sou?",
+        "answer": "Norte verdadeiro"
+      },
+      {
+        "game_type": "bilmece",
+        "language": "Português",
+        "locale": "pt-PT",
+        "main_category": "Cartografia e astronomia",
+        "sub_category": "Observação e representação",
+        "difficulty": "difícil",
+        "question": "Sou um brilho ténue e triangular no céu escuro causado pela luz solar espalhada por poeiras interplanetárias. Que fenómeno sou?",
+        "answer": "Luz zodiacal"
       }
     ],
     "word_master": [
