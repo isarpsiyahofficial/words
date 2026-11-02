@@ -41834,11 +41834,11 @@
       "locale": "tr-TR",
       "main_category": "Giyim",
       "sub_category": "Aksesuar",
-      "word": "Saç tokası",
+      "word": "Broş",
       "forbidden_words": [
-        "renkli",
-        "tutturmak",
-        "aksesuar"
+        "iğne",
+        "yaka",
+        "süs"
       ]
     },
     {
@@ -42900,11 +42900,11 @@
       "locale": "tr-TR",
       "main_category": "Ev",
       "sub_category": "Düzen",
-      "word": "Kapı paspası",
+      "word": "Kapı zinciri",
       "forbidden_words": [
         "giriş",
-        "ayakkabı",
-        "temizlik"
+        "metal",
+        "güvenlik"
       ]
     },
     {
@@ -45032,11 +45032,11 @@
       "locale": "tr-TR",
       "main_category": "Hobi",
       "sub_category": "Resim",
-      "word": "Eskiz defteri",
+      "word": "Şablon cetveli",
       "forbidden_words": [
         "çizmek",
-        "kâğıt",
-        "taslak"
+        "şekil",
+        "kalıp"
       ]
     },
     {
@@ -48735,8 +48735,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Ev",
-      "sub_category": "Yapı Malzemeleri",
+      "main_category": "Mutfak",
+      "sub_category": "Sofra Gereçleri",
       "word": "Porselen",
       "forbidden_words": [
         "tabak",
@@ -57785,11 +57785,11 @@
       "locale": "tr-TR",
       "main_category": "Ulaşım",
       "sub_category": "Deniz ve Hava",
-      "word": "Sandal",
+      "word": "Deniz bisikleti",
       "forbidden_words": [
-        "kürek",
-        "küçük",
-        "su"
+        "pedal",
+        "su",
+        "kiralamak"
       ]
     },
     {
@@ -58668,7 +58668,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Çizim ve Baskı",
+      "sub_category": "El Sanatları",
       "word": "Seramik sır",
       "forbidden_words": [
         "parlak",
@@ -58681,7 +58681,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Çizim ve Baskı",
+      "sub_category": "El Sanatları",
       "word": "Çömlekçi çarkı",
       "forbidden_words": [
         "kil",
@@ -58694,7 +58694,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Çizim ve Baskı",
+      "sub_category": "Heykel ve Mozaik",
       "word": "Modelaj",
       "forbidden_words": [
         "biçim",
@@ -58707,7 +58707,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Sanat",
-      "sub_category": "Çizim ve Baskı",
+      "sub_category": "Heykel ve Mozaik",
       "word": "Kabartma",
       "forbidden_words": [
         "yüzey",
@@ -59070,8 +59070,8 @@
       "game_type": "tabu",
       "language": "Türkçe",
       "locale": "tr-TR",
-      "main_category": "Sanat",
-      "sub_category": "El Sanatları",
+      "main_category": "Teknoloji",
+      "sub_category": "İşlem",
       "word": "Üç boyutlu modelleme",
       "forbidden_words": [
         "bilgisayar",
