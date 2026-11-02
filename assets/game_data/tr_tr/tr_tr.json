@@ -37504,7 +37504,7 @@
       "language": "Türkçe",
       "locale": "tr-TR",
       "main_category": "Ulaşım",
-      "sub_category": "Demiryolu",
+      "sub_category": "Toplu Taşıma",
       "word": "Durak",
       "forbidden_words": [
         "otobüs",
@@ -49686,11 +49686,11 @@
       "locale": "tr-TR",
       "main_category": "Günlük Yaşam",
       "sub_category": "Sosyal",
-      "word": "Arkadaşlık",
+      "word": "Komşuluk",
       "forbidden_words": [
-        "paylaşmak",
-        "birlikte",
-        "dost"
+        "mahalle",
+        "yakınlık",
+        "yardımlaşma"
       ]
     },
     {
@@ -50973,10 +50973,10 @@
       "locale": "tr-TR",
       "main_category": "Teknoloji",
       "sub_category": "Dijital Kodlar",
-      "word": "QR kod",
+      "word": "Tek kullanımlık kod",
       "forbidden_words": [
-        "kare",
-        "taratmak",
+        "giriş",
+        "onay",
         "telefon"
       ]
     },
@@ -61464,11 +61464,11 @@
       "locale": "tr-TR",
       "main_category": "Ulaşım",
       "sub_category": "Yolculuk ve Trafik",
-      "word": "Rota",
+      "word": "Yol yardımı",
       "forbidden_words": [
-        "güzergâh",
-        "yol",
-        "harita"
+        "arıza",
+        "çekici",
+        "servis"
       ]
     },
     {
