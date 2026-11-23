@@ -4403,7 +4403,7 @@
       "main_category": "의생활",
       "sub_category": "바느질과 옷",
       "difficulty": "쉬움",
-      "question": "윗옷에서 양팔이 들어가는 길쭉한 부분은?",
+      "question": "옷을 입으면 팔을 따라 길게 뻗어 손목 가까이에서 끝나고, 팔을 들면 함께 따라 움직이는 곳은?",
       "answer": "소매"
     },
     {
@@ -6311,9 +6311,9 @@
       "language": "한국어",
       "locale": "ko-KR",
       "main_category": "인체 과학",
-      "sub_category": "감각과 기관",
+      "sub_category": "호흡 기관",
       "difficulty": "보통",
-      "question": "숨을 들이마신 공기와 혈액 사이에서 산소와 이산화탄소를 교환하는 아주 작은 공기주머니는?",
+      "question": "폐 안쪽에 포도송이처럼 모여 있고, 숨을 들이마실 때와 내쉴 때 기체가 오가는 아주 작은 주머니는?",
       "answer": "폐포"
     },
     {
@@ -6503,7 +6503,7 @@
       "main_category": "측정 도구",
       "sub_category": "생활 속 계측",
       "difficulty": "보통",
-      "question": "팔을 감싼 띠에 공기를 넣었다 빼며 혈관 속 압력을 두 숫자로 보여 주는 기구는?",
+      "question": "팔에 감는 띠를 부풀렸다가 천천히 풀며, 심장이 밀어내는 압력의 두 수치를 재는 기구는?",
       "answer": "혈압계"
     },
     {
@@ -8511,10 +8511,10 @@
       "language": "한국어",
       "locale": "ko-KR",
       "main_category": "인체와 감각",
-      "sub_category": "혈액",
+      "sub_category": "눈과 눈물",
       "difficulty": "어려움",
-      "question": "작은 상처가 나면 한곳에 모여 피가 굳는 일을 돕는 혈액 속 조각은?",
-      "answer": "혈소판"
+      "question": "눈에 먼지가 들어오거나 눈이 마르면 맑은 물을 내보내 표면을 씻고 적시는 기관은?",
+      "answer": "눈물샘"
     },
     {
       "game_type": "bilmece",
@@ -9671,10 +9671,10 @@
       "language": "한국어",
       "locale": "ko-KR",
       "main_category": "인체의 신비",
-      "sub_category": "순환",
+      "sub_category": "체액의 이동",
       "difficulty": "어려움",
-      "question": "온몸의 조직 사이에서 산소와 영양분을 주고받는 아주 가느다란 통로는?",
-      "answer": "모세혈관"
+      "question": "조직 사이에 남은 액체를 모아 림프절 쪽으로 운반하는 가느다란 통로는?",
+      "answer": "림프관"
     },
     {
       "game_type": "bilmece",
@@ -9703,7 +9703,7 @@
       "main_category": "인체의 신비",
       "sub_category": "치아",
       "difficulty": "어려움",
-      "question": "치아의 겉면 아래에 있으며 안쪽의 신경과 혈관을 감싸는 단단한 층은?",
+      "question": "치아의 겉면을 감싼 법랑질 아래에 있고, 치아 대부분을 이루며 뿌리까지 이어지는 단단한 층은?",
       "answer": "상아질"
     },
     {
@@ -9991,10 +9991,10 @@
       "language": "한국어",
       "locale": "ko-KR",
       "main_category": "한국의 생활문화",
-      "sub_category": "발효",
+      "sub_category": "발효와 식재료",
       "difficulty": "어려움",
-      "question": "곡물로 만든 술이나 장을 발효시킬 때 미생물이 자라도록 넣는 전통 발효 재료는?",
-      "answer": "누룩"
+      "question": "콩을 삶아 띄운 메주를 소금물에 담가 숙성한 뒤, 건더기를 으깨어 구수한 양념으로 만든 장은?",
+      "answer": "된장"
     },
     {
       "game_type": "bilmece",
@@ -10651,10 +10651,10 @@
       "language": "한국어",
       "locale": "ko-KR",
       "main_category": "우리 몸",
-      "sub_category": "혈액",
+      "sub_category": "림프계",
       "difficulty": "보통",
-      "question": "혈액에서 세포를 제외한 액체 부분으로 영양분과 호르몬을 운반하는 것은?",
-      "answer": "혈장"
+      "question": "조직 사이에서 모인 물과 단백질 등을 실어 림프관을 따라 흐르는 옅은 액체는?",
+      "answer": "림프액"
     },
     {
       "game_type": "bilmece",
@@ -10673,7 +10673,7 @@
       "main_category": "우리 몸",
       "sub_category": "치아",
       "difficulty": "어려움",
-      "question": "치아 안쪽의 부드러운 부분으로 신경과 혈관이 들어 있는 조직은?",
+      "question": "치아 한가운데에 자리해 감각을 전달하고 치아의 생명 활동을 돕는 부드러운 조직은?",
       "answer": "치수"
     },
     {
@@ -12443,7 +12443,7 @@
       "main_category": "수학의 발견",
       "sub_category": "삼각형의 중심",
       "difficulty": "보통",
-      "question": "삼각형의 세 중선이 한곳에 만나는 점은?",
+      "question": "세모 모양 종이를 손끝 하나로 받쳐 균형을 잡아 봐요. 꼭짓점에서 맞은편 변의 가운데로 그은 세 선이 만나는 자리는?",
       "answer": "무게중심"
     },
     {
@@ -12473,7 +12473,7 @@
       "main_category": "수학의 발견",
       "sub_category": "수와 비율",
       "difficulty": "보통",
-      "question": "두 비가 같음을 등호로 나타낸 식은?",
+      "question": "작은 접시에는 사과 2개와 배 3개, 큰 접시에는 사과 4개와 배 6개가 있어요. 두 접시의 과일 비율이 같음을 식으로 나타내면?",
       "answer": "비례식"
     },
     {
@@ -12923,7 +12923,7 @@
       "main_category": "지구의 구조",
       "sub_category": "지진 관측",
       "difficulty": "보통",
-      "question": "땅속에서 흔들림이 처음 시작된 지점은?",
+      "question": "땅속 깊은 곳에서 흔들림이 시작되고, 그 바로 위 지표에는 진앙이 있어요. 지진이 처음 출발한 속의 지점은?",
       "answer": "진원"
     },
     {
@@ -14953,7 +14953,7 @@
       "main_category": "수학의 언어",
       "sub_category": "수와 논리",
       "difficulty": "보통",
-      "question": "원소를 하나도 갖지 않는 집합은?",
+      "question": "빈 바구니를 수학의 모임으로 생각해요. 사과도 배도, 어떤 원소도 담지 않은 그 집합은?",
       "answer": "공집합"
     },
     {
@@ -15823,7 +15823,7 @@
       "main_category": "수학의 개념",
       "sub_category": "수와 도형",
       "difficulty": "어려움",
-      "question": "삼각형의 세 꼭짓점을 모두 지나는 원은?",
+      "question": "삼각형의 세 꼭짓점에 핀을 꽂고 실을 팽팽히 둘러 원을 그리면, 세 점을 모두 지나는 그 원은?",
       "answer": "외접원"
     },
     {
