@@ -8,7 +8,7 @@
       "sub_category": "Zubereitung",
       "word": "Schneebesen",
       "forbidden_words": [
-        "Eischnee",
+        "Eier",
         "Rührschüssel",
         "Handgriff"
       ]
@@ -113,7 +113,7 @@
       "word": "Dampfgarer",
       "forbidden_words": [
         "Gemüse",
-        "Wasserdampf",
+        "Garzeit",
         "schonend"
       ]
     },
@@ -2063,7 +2063,7 @@
       "word": "Zebrastreifen",
       "forbidden_words": [
         "Fußgänger",
-        "weiße Streifen",
+        "Überquerung",
         "Straße"
       ]
     },
@@ -2791,7 +2791,7 @@
       "word": "Zahnbürste",
       "forbidden_words": [
         "Borsten",
-        "Zähne",
+        "Mundpflege",
         "morgens"
       ]
     },
@@ -3752,7 +3752,7 @@
       "sub_category": "Ordnung",
       "word": "Wäschenetz",
       "forbidden_words": [
-        "Waschmaschine",
+        "Kleinteile",
         "empfindlich",
         "Beutel"
       ]
@@ -3961,7 +3961,7 @@
       "word": "Dämpfeinsatz",
       "forbidden_words": [
         "Gemüse",
-        "Wasserdampf",
+        "Dünsten",
         "Topf"
       ]
     },
@@ -6535,7 +6535,7 @@
       "word": "Schraubendreher",
       "forbidden_words": [
         "Griff",
-        "drehen",
+        "Befestigung",
         "Kreuzschlitz"
       ]
     },
@@ -7353,7 +7353,7 @@
       "sub_category": "Flur",
       "word": "Schirmständer",
       "forbidden_words": [
-        "Regenschirme",
+        "Flur",
         "Eingang",
         "abstellen"
       ]
@@ -7393,7 +7393,7 @@
       "word": "Bettwäsche",
       "forbidden_words": [
         "Bezug",
-        "waschen",
+        "Wechseln",
         "Schlafzimmer"
       ]
     },
@@ -7419,7 +7419,7 @@
       "word": "Luftbefeuchter",
       "forbidden_words": [
         "Raumklima",
-        "trockene Luft",
+        "Heizperiode",
         "Gerät"
       ]
     },
@@ -7471,8 +7471,8 @@
       "word": "Tischdecke",
       "forbidden_words": [
         "Stoff",
-        "Esstisch",
-        "abdecken"
+        "Festtafel",
+        "Flecken"
       ]
     },
     {
@@ -8083,7 +8083,7 @@
       "forbidden_words": [
         "Tinte",
         "austauschen",
-        "Ausdruck"
+        "Füllstand"
       ]
     },
     {
@@ -8187,7 +8187,7 @@
       "forbidden_words": [
         "Gleis",
         "warten",
-        "Bahnhof"
+        "Ansage"
       ]
     },
     {
@@ -8211,7 +8211,7 @@
       "sub_category": "Bahn",
       "word": "Fahrplananzeige",
       "forbidden_words": [
-        "Abfahrten",
+        "Gleiswechsel",
         "Zeiten",
         "Bahnhof"
       ]
@@ -9096,7 +9096,7 @@
       "word": "Wasserfilter",
       "forbidden_words": [
         "reinigen",
-        "Trinkwasser",
+        "Partikel",
         "Kartusche"
       ]
     },
@@ -9851,7 +9851,7 @@
       "forbidden_words": [
         "Motiv",
         "Farbe",
-        "Abdruck"
+        "Relief"
       ]
     },
     {
@@ -10083,7 +10083,7 @@
       "sub_category": "Bahn",
       "word": "Zugverspätung",
       "forbidden_words": [
-        "später",
+        "Anschluss",
         "Fahrplan",
         "warten"
       ]
@@ -10175,7 +10175,7 @@
       "word": "Muskatreibe",
       "forbidden_words": [
         "Gewürz",
-        "feinreiben",
+        "Aroma",
         "Metallfläche"
       ]
     },
@@ -11619,7 +11619,7 @@
       "forbidden_words": [
         "Wasservogel",
         "Federschopf",
-        "tauchen"
+        "Fischfang"
       ]
     },
     {
@@ -12501,7 +12501,7 @@
       "sub_category": "Säugetiere",
       "word": "Siebenschläfer",
       "forbidden_words": [
-        "Winterschlaf",
+        "Baumhöhle",
         "Buschschwanz",
         "Dachboden"
       ]
@@ -12867,7 +12867,7 @@
       "forbidden_words": [
         "Vordergrund",
         "Hintergrund",
-        "unscharf"
+        "Bildebene"
       ]
     },
     {
@@ -13515,7 +13515,7 @@
       "sub_category": "Bewegung",
       "word": "Radtour",
       "forbidden_words": [
-        "Fahrrad",
+        "Etappe",
         "Ausflug",
         "Strecke"
       ]
@@ -13866,7 +13866,7 @@
       "sub_category": "Drucktechnik",
       "word": "Buchdruck",
       "forbidden_words": [
-        "Druckfarbe",
+        "Setzkasten",
         "Lettern",
         "Papier"
       ]
@@ -15323,7 +15323,7 @@
       "word": "Mondfinsternis",
       "forbidden_words": [
         "Erdschatten",
-        "Vollmond",
+        "Halbschatten",
         "verdunkeln"
       ]
     },
@@ -16038,7 +16038,7 @@
       "word": "Ofenkartoffel",
       "forbidden_words": [
         "Schale",
-        "Backofen",
+        "Beilage",
         "weich"
       ]
     },
@@ -19014,7 +19014,7 @@
       "sub_category": "Organisation",
       "word": "Karteikasten",
       "forbidden_words": [
-        "Lernkarten",
+        "Stichworte",
         "Schublade",
         "Ordnung"
       ]
@@ -19328,7 +19328,7 @@
       "forbidden_words": [
         "Präzision",
         "Durchmesser",
-        "Schiebelehre"
+        "Innenmaß"
       ]
     },
     {
@@ -19742,7 +19742,7 @@
       "sub_category": "Bauteile",
       "word": "Lichtkuppel",
       "forbidden_words": [
-        "Tageslicht",
+        "Helligkeit",
         "Dach",
         "Rundung"
       ]
@@ -22525,7 +22525,7 @@
       "word": "Schwebfliege",
       "forbidden_words": [
         "Blüte",
-        "Schweben",
+        "Nektar",
         "Streifen"
       ]
     },
@@ -23032,7 +23032,7 @@
       "word": "Buchbindeleim",
       "forbidden_words": [
         "Kleben",
-        "Buchrücken",
+        "Einband",
         "Seiten"
       ]
     },
@@ -23552,7 +23552,7 @@
       "word": "Hangschutt",
       "forbidden_words": [
         "Geröll",
-        "Abhang",
+        "Böschung",
         "Verwitterung"
       ]
     },
@@ -23929,7 +23929,7 @@
       "word": "Fadenspannung",
       "forbidden_words": [
         "Nähmaschine",
-        "Oberfaden",
+        "Stichbild",
         "einstellen"
       ]
     },
@@ -24163,7 +24163,7 @@
       "word": "Ringwurfspiel",
       "forbidden_words": [
         "Ziel",
-        "Ringe",
+        "Geschicklichkeit",
         "Treffer"
       ]
     },
@@ -24593,7 +24593,7 @@
       "forbidden_words": [
         "Fahrrad",
         "Rahmen",
-        "Schaltung"
+        "Befestigung"
       ]
     },
     {
@@ -24735,7 +24735,7 @@
       "word": "Farbfilter",
       "forbidden_words": [
         "Licht",
-        "Farbe",
+        "Spektrum",
         "durchlassen"
       ]
     },
@@ -25099,7 +25099,7 @@
       "word": "Papierfalz",
       "forbidden_words": [
         "Kante",
-        "falten",
+        "Büroarbeit",
         "Blatt"
       ]
     },
@@ -25555,7 +25555,7 @@
       "forbidden_words": [
         "Knick",
         "Basteln",
-        "Falte"
+        "Klebearbeit"
       ]
     },
     {
@@ -25696,7 +25696,7 @@
       "sub_category": "Schneiderei",
       "word": "Schneiderrad",
       "forbidden_words": [
-        "Schnittmuster",
+        "Stoff",
         "Markierung",
         "Rädchen"
       ]
