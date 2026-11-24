@@ -17455,8 +17455,8 @@
       "main_category": "Langue française",
       "sub_category": "Vocabulaire",
       "difficulty": "moyen",
-      "question": "Comment appelle-t-on deux mots de sens différents qui se prononcent ou s'écrivent de la même façon ?",
-      "answer": "homonyme"
+      "question": "Quel terme désigne chacun de deux mots qui s'écrivent de la même façon mais ont des sens différents ?",
+      "answer": "homographe"
     },
     {
       "game_type": "kelime_ustasi",
@@ -30143,10 +30143,10 @@
       "language": "Français",
       "locale": "fr-FR",
       "main_category": "Informatique",
-      "sub_category": "Intégrité des données",
+      "sub_category": "Stockage et données",
       "difficulty": "moyen",
-      "question": "Quelle valeur calculée à partir d'un fichier permet de détecter une modification accidentelle de ses données ?",
-      "answer": "somme de contrôle"
+      "question": "Quel procédé repère les blocs de données identiques afin de n'en conserver qu'une seule copie dans un système de stockage ?",
+      "answer": "déduplication"
     },
     {
       "game_type": "kelime_ustasi",
@@ -31235,8 +31235,8 @@
       "main_category": "Informatique",
       "sub_category": "Images",
       "difficulty": "difficile",
-      "question": "Quelle propriété d'une image numérique indique le nombre de points qui la composent en largeur et en hauteur ?",
-      "answer": "définition"
+      "question": "Quel rapport numérique décrit la proportion entre la largeur et la hauteur d'une image numérique, indépendamment de sa résolution en pixels ?",
+      "answer": "rapport d'aspect"
     },
     {
       "game_type": "kelime_ustasi",
@@ -32994,9 +32994,9 @@
       "locale": "fr-FR",
       "main_category": "Entomologie",
       "sub_category": "Anatomie",
-      "difficulty": "facile",
-      "question": "Quel petit orifice sur le corps d'un insecte permet l'entrée de l'air dans son système respiratoire ?",
-      "answer": "spiracle"
+      "difficulty": "moyen",
+      "question": "Quels organes en forme de massue, situés derrière les ailes chez les mouches, contribuent à stabiliser leur vol ?",
+      "answer": "haltères"
     },
     {
       "game_type": "kelime_ustasi",
