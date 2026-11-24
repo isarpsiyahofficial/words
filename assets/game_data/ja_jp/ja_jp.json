@@ -63205,10 +63205,10 @@
         "language": "日本語",
         "locale": "ja-JP",
         "main_category": "デジタル通信",
-        "sub_category": "信号とデータ",
+        "sub_category": "誤り検出",
         "difficulty": "普通",
-        "question": "情報を決められた規則に従って別の形式へ変換する処理は何ですか。",
-        "answer": "エンコーディング"
+        "question": "送信データに一つ加え、ビット列に含まれる1の個数が偶数または奇数になるよう整えて誤りを検出するビットは何ですか。",
+        "answer": "パリティビット"
       },
       {
         "game_type": "kelime_ustasi",
@@ -67395,10 +67395,10 @@
         "language": "日本語",
         "locale": "ja-JP",
         "main_category": "情報技術の用語",
-        "sub_category": "データの表現",
+        "sub_category": "データ処理",
         "difficulty": "普通",
-        "question": "文字や画像などの情報を、決められた規則に従って別の表現へ変換する操作は何ですか。",
-        "answer": "エンコード"
+        "question": "処理装置と入出力機器の速度差を埋めるため、データを一時的にためておく記憶領域は何ですか。",
+        "answer": "バッファ"
       },
       {
         "game_type": "kelime_ustasi",
