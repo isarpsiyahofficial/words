@@ -25265,8 +25265,8 @@
       "main_category": "Géologie",
       "sub_category": "Roches",
       "difficulty": "difficile",
-      "question": "Quelle roche sédimentaire contient des galets arrondis cimentés ensemble ?",
-      "answer": "poudingue"
+      "question": "Quelle roche détritique se distingue d'un conglomérat par ses fragments anguleux cimentés entre eux ?",
+      "answer": "brèche"
     },
     {
       "game_type": "kelime_ustasi",
@@ -27595,8 +27595,8 @@
       "main_category": "Optique",
       "sub_category": "Prismes",
       "difficulty": "difficile",
-      "question": "Quel phénomène sépare la lumière blanche en couleurs lorsqu'elle traverse un prisme ?",
-      "answer": "dispersion chromatique"
+      "question": "Quel phénomène optique survient lorsqu'un rayon passe d'un milieu plus réfringent vers un milieu moins réfringent avec un angle supérieur à l'angle critique ?",
+      "answer": "réflexion totale"
     },
     {
       "game_type": "kelime_ustasi",
@@ -28253,10 +28253,10 @@
       "language": "Français",
       "locale": "fr-FR",
       "main_category": "Statistiques et calcul",
-      "sub_category": "Valeur centrale",
-      "difficulty": "facile",
-      "question": "Quel résultat obtient-on en divisant la somme des valeurs par leur nombre ?",
-      "answer": "moyenne arithmétique"
+      "sub_category": "Dispersion",
+      "difficulty": "difficile",
+      "question": "Quel indicateur statistique rapporte l'écart-type à la moyenne afin de comparer la dispersion relative de deux séries ?",
+      "answer": "coefficient de variation"
     },
     {
       "game_type": "kelime_ustasi",
@@ -29504,9 +29504,9 @@
       "locale": "fr-FR",
       "main_category": "Informatique et données",
       "sub_category": "Fonctionnement numérique",
-      "difficulty": "moyen",
-      "question": "Quel espace de stockage temporaire conserve des ressources de sites déjà visités pour accélérer leur affichage ?",
-      "answer": "cache du navigateur"
+      "difficulty": "difficile",
+      "question": "Quelle base de données intégrée aux navigateurs permet de conserver localement de grands ensembles d'enregistrements structurés ?",
+      "answer": "IndexedDB"
     },
     {
       "game_type": "kelime_ustasi",
@@ -29575,8 +29575,8 @@
       "main_category": "Informatique et données",
       "sub_category": "Fonctionnement numérique",
       "difficulty": "facile",
-      "question": "Quel délai sépare l'envoi d'une requête informatique de la réception de sa réponse ?",
-      "answer": "latence réseau"
+      "question": "Quel identifiant matériel propre à une interface réseau permet de la reconnaître sur un réseau local, indépendamment de la configuration logicielle ?",
+      "answer": "adresse MAC"
     },
     {
       "game_type": "kelime_ustasi",
@@ -29654,9 +29654,9 @@
       "locale": "fr-FR",
       "main_category": "Agriculture et paysages",
       "sub_category": "Sols et cultures",
-      "difficulty": "facile",
-      "question": "Quelle pratique fait se succéder différentes espèces cultivées sur une même parcelle au fil des saisons ?",
-      "answer": "rotation culturale"
+      "difficulty": "moyen",
+      "question": "Quel semis intermédiaire occupe temporairement une parcelle entre deux récoltes principales ?",
+      "answer": "culture dérobée"
     },
     {
       "game_type": "kelime_ustasi",
@@ -29685,8 +29685,8 @@
       "main_category": "Agriculture et paysages",
       "sub_category": "Sols et cultures",
       "difficulty": "difficile",
-      "question": "Quel système apporte l'eau lentement au pied des plantes par de petits émetteurs ?",
-      "answer": "irrigation goutte à goutte"
+      "question": "Quel mode d'apport d'eau fait circuler le liquide à la surface d'une parcelle grâce à la pente et à la gravité, souvent dans des rigoles ?",
+      "answer": "irrigation gravitaire"
     },
     {
       "game_type": "kelime_ustasi",
@@ -29805,8 +29805,8 @@
       "main_category": "Géologie",
       "sub_category": "Sédimentation",
       "difficulty": "difficile",
-      "question": "Quel dépôt meuble, souvent jaunâtre, résulte de l'accumulation de poussières transportées par le vent ?",
-      "answer": "lœss"
+      "question": "Quel dépôt meuble se forme au bas d'un versant par accumulation de matériaux déplacés principalement par ruissellement et gravité ?",
+      "answer": "colluvion"
     },
     {
       "game_type": "kelime_ustasi",
@@ -29974,9 +29974,9 @@
       "locale": "fr-FR",
       "main_category": "Artisanat",
       "sub_category": "Céramique",
-      "difficulty": "difficile",
-      "question": "Comment nomme-t-on la première cuisson d'une pièce de céramique avant l'application d'une glaçure ?",
-      "answer": "dégourdi"
+      "difficulty": "moyen",
+      "question": "Quelle technique façonne une pièce d'argile centrée sur un plateau rotatif en la modelant avec les mains ?",
+      "answer": "tournage"
     },
     {
       "game_type": "kelime_ustasi",
@@ -30255,8 +30255,8 @@
       "main_category": "Théorie musicale",
       "sub_category": "Acoustique",
       "difficulty": "moyen",
-      "question": "Quelle qualité permet de distinguer deux instruments jouant la même note à la même intensité ?",
-      "answer": "timbre sonore"
+      "question": "Quelle valeur sonore sert de base à une note périodique, les autres composantes pouvant être des multiples entiers de celle-ci ?",
+      "answer": "fréquence fondamentale"
     },
     {
       "game_type": "kelime_ustasi",
@@ -30754,9 +30754,9 @@
       "locale": "fr-FR",
       "main_category": "Cuisine",
       "sub_category": "Pâtisserie",
-      "difficulty": "difficile",
-      "question": "Quelle petite lame souple sert à racler une pâte sur un plan de travail ?",
-      "answer": "corne à pâtisserie"
+      "difficulty": "facile",
+      "question": "Quel ustensile formé de fils métalliques souples permet de battre une préparation et d'y incorporer de l'air ?",
+      "answer": "fouet ballon"
     },
     {
       "game_type": "kelime_ustasi",
@@ -30764,9 +30764,9 @@
       "locale": "fr-FR",
       "main_category": "Cuisine",
       "sub_category": "Préparations",
-      "difficulty": "difficile",
-      "question": "Quel procédé consiste à plonger brièvement un légume dans l'eau bouillante puis à le refroidir ?",
-      "answer": "blanchiment"
+      "difficulty": "moyen",
+      "question": "Quel procédé culinaire consiste à cuire lentement un aliment dans sa graisse ou dans un sirop pour le rendre tendre et le conserver ?",
+      "answer": "confire"
     },
     {
       "game_type": "kelime_ustasi",
@@ -30925,8 +30925,8 @@
       "main_category": "Géographie",
       "sub_category": "Relief",
       "difficulty": "difficile",
-      "question": "Quel passage très resserré relie deux étendues d'eau plus larges ?",
-      "answer": "goulet"
+      "question": "Dans le relief jurassien, quel nom porte une dépression allongée entre deux crêtes parallèles ?",
+      "answer": "combe"
     },
     {
       "game_type": "kelime_ustasi",
@@ -31025,8 +31025,8 @@
       "main_category": "Astronomie",
       "sub_category": "Lune",
       "difficulty": "moyen",
-      "question": "Quel adjectif qualifie la phase lunaire dont la surface visible éclairée dépasse la moitié sans être pleine ?",
-      "answer": "gibbeuse"
+      "question": "Quel phénomène donne à la partie non directement éclairée de la Lune une faible lueur due au rayonnement renvoyé par la Terre ?",
+      "answer": "lumière cendrée"
     },
     {
       "game_type": "kelime_ustasi",
@@ -31295,8 +31295,8 @@
       "main_category": "Botanique",
       "sub_category": "Fruits",
       "difficulty": "difficile",
-      "question": "Quel fruit sec ne s'ouvre pas à maturité et contient généralement une seule graine ?",
-      "answer": "akène"
+      "question": "Quel fruit sec indéhiscent des graminées possède un péricarpe soudé à l'enveloppe de la graine ?",
+      "answer": "caryopse"
     },
     {
       "game_type": "kelime_ustasi",
@@ -31395,8 +31395,8 @@
       "main_category": "Textile",
       "sub_category": "Couture",
       "difficulty": "moyen",
-      "question": "Quelle couture temporaire maintient les pièces textiles en place avant leur assemblage définitif ?",
-      "answer": "point de bâti"
+      "question": "Quelle couture manuelle renforce le bord d'une ouverture destinée à recevoir la petite attache ronde d'un vêtement ?",
+      "answer": "point de boutonnière"
     },
     {
       "game_type": "kelime_ustasi",
@@ -32245,8 +32245,8 @@
       "main_category": "Navigation",
       "sub_category": "Amarrage",
       "difficulty": "difficile",
-      "question": "Quelle borne solide sur un quai sert à fixer les cordages d'un bateau ?",
-      "answer": "bitte d'amarrage"
+      "question": "Quel guide fixé sur le pont ou le plat-bord canalise un cordage et limite son frottement lors de l'amarrage ?",
+      "answer": "chaumard"
     },
     {
       "game_type": "kelime_ustasi",
@@ -33204,9 +33204,9 @@
       "locale": "fr-FR",
       "main_category": "Jardinage",
       "sub_category": "Cultures",
-      "difficulty": "moyen",
-      "question": "Quelle technique de greffe insère un seul bourgeon sous l'écorce d'un porte-greffe ?",
-      "answer": "écussonnage"
+      "difficulty": "difficile",
+      "question": "Quelle technique horticole consiste à fendre le sujet receveur puis à y insérer un rameau taillé en coin ?",
+      "answer": "greffe en fente"
     },
     {
       "game_type": "kelime_ustasi",
@@ -33314,9 +33314,9 @@
       "locale": "fr-FR",
       "main_category": "Papier et impression",
       "sub_category": "Finition",
-      "difficulty": "facile",
-      "question": "Quel type de papier présente de fines lignes parallèles visibles par transparence ?",
-      "answer": "vergé"
+      "difficulty": "moyen",
+      "question": "Quel papier traditionnel, à la surface régulière et sans fines vergeures visibles, s'oppose au papier vergé ?",
+      "answer": "vélin"
     },
     {
       "game_type": "kelime_ustasi",
@@ -33324,9 +33324,9 @@
       "locale": "fr-FR",
       "main_category": "Géométrie",
       "sub_category": "Propriétés",
-      "difficulty": "facile",
-      "question": "Quel segment relie le centre d'un polygone régulier au milieu de l'un de ses côtés ?",
-      "answer": "apotème"
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on la figure dont le sommet appartient à un cercle et dont les deux côtés sont des cordes de ce cercle ?",
+      "answer": "angle inscrit"
     },
     {
       "game_type": "kelime_ustasi",
@@ -34855,8 +34855,8 @@
       "main_category": "Botanique",
       "sub_category": "Structures végétales",
       "difficulty": "difficile",
-      "answer": "testa",
-      "question": "Quelle enveloppe externe protège la graine mûre ?"
+      "answer": "micropyle",
+      "question": "Quelle petite ouverture de l'enveloppe d'une graine facilite l'entrée de l'eau au début de la germination ?"
     },
     {
       "game_type": "kelime_ustasi",
@@ -34875,8 +34875,8 @@
       "main_category": "Botanique",
       "sub_category": "Structures végétales",
       "difficulty": "difficile",
-      "answer": "plante épiphyte",
-      "question": "Quelle plante pousse sur une autre sans lui prélever directement sa nourriture ?"
+      "answer": "parenchyme",
+      "question": "Quel tissu végétal formé de cellules vivantes peu spécialisées assure notamment le stockage des réserves dans de nombreux organes ?"
     },
     {
       "game_type": "kelime_ustasi",
@@ -35025,8 +35025,8 @@
       "main_category": "Cuisine",
       "sub_category": "Gestes et préparations",
       "difficulty": "moyen",
-      "answer": "réduire",
-      "question": "Quelle opération concentre une sauce par évaporation d'une partie de son eau ?"
+      "answer": "napper",
+      "question": "Quel verbe désigne le fait de recouvrir uniformément un aliment ou le fond d'une assiette d'une sauce suffisamment épaisse ?"
     },
     {
       "game_type": "kelime_ustasi",
@@ -35965,8 +35965,8 @@
       "main_category": "Textile",
       "sub_category": "Structures tissées",
       "difficulty": "moyen",
-      "question": "Quel mode de tissage fait passer chaque fil transversal alternativement au-dessus et au-dessous des fils longitudinaux ?",
-      "answer": "armure toile"
+      "question": "Quel type de tissage entrelace les fils par groupes de deux ou davantage, donnant au tissu un aspect quadrillé ?",
+      "answer": "armure nattée"
     },
     {
       "game_type": "kelime_ustasi",
