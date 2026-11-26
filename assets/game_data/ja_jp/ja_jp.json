@@ -5667,9 +5667,9 @@
         "sub_category": "音の風景",
         "word": "虫の声",
         "forbidden_words": [
-          "秋",
-          "鳴き声",
-          "草むら"
+          "夜",
+          "合唱",
+          "野原"
         ]
       },
       {
@@ -9385,9 +9385,9 @@
         "sub_category": "ものづくりの材料",
         "word": "織物",
         "forbidden_words": [
-          "縦糸",
-          "横糸",
-          "布"
+          "反物",
+          "生地",
+          "繊維"
         ]
       },
       {
@@ -11358,12 +11358,12 @@
         "language": "日本語",
         "locale": "ja-JP",
         "main_category": "工房の道具",
-        "sub_category": "道具の手入れ",
-        "word": "木づち",
+        "sub_category": "釘と固定",
+        "word": "釘抜き",
         "forbidden_words": [
-          "木製",
-          "たたく",
-          "工具"
+          "釘",
+          "てこ",
+          "引き抜く"
         ]
       },
       {
@@ -11426,9 +11426,9 @@
         "sub_category": "布の技法",
         "word": "機織り",
         "forbidden_words": [
-          "縦糸",
-          "横糸",
-          "布"
+          "手作業",
+          "織り目",
+          "布地"
         ]
       },
       {
@@ -19444,12 +19444,12 @@
         "language": "日本語",
         "locale": "ja-JP",
         "main_category": "布と染め",
-        "sub_category": "織り道具",
-        "word": "機織り機",
+        "sub_category": "糸の準備",
+        "word": "かせくり器",
         "forbidden_words": [
-          "布",
-          "縦糸",
-          "横糸"
+          "糸束",
+          "巻き取る",
+          "回転"
         ]
       },
       {
@@ -20043,11 +20043,11 @@
         "locale": "ja-JP",
         "main_category": "数の考え方",
         "sub_category": "統計",
-        "word": "平均値",
+        "word": "標準偏差",
         "forbidden_words": [
-          "合計",
-          "個数",
-          "割る"
+          "ばらつき",
+          "平方根",
+          "分散"
         ]
       },
       {
@@ -20422,9 +20422,9 @@
         "sub_category": "船と岸辺",
         "word": "係船柱",
         "forbidden_words": [
-          "岸壁",
-          "ロープ",
-          "船をつなぐ"
+          "係留設備",
+          "金属製",
+          "船体を固定"
         ]
       },
       {
