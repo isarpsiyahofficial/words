@@ -36591,7 +36591,7 @@
       "word": "compost",
       "forbidden_words": [
         "épluchures",
-        "décomposition",
+        "terreau",
         "engrais"
       ]
     },
@@ -37071,9 +37071,9 @@
       "sub_category": "Mobilité et transports",
       "word": "piste cyclable",
       "forbidden_words": [
-        "bicyclettes",
         "voie",
-        "circulation"
+        "circulation",
+        "signalisation"
       ]
     },
     {
@@ -38854,7 +38854,7 @@
       "forbidden_words": [
         "pieds",
         "coton",
-        "chaussures"
+        "chevilles"
       ]
     },
     {
@@ -41141,7 +41141,7 @@
       "word": "verrier",
       "forbidden_words": [
         "soufflage",
-        "verre",
+        "atelier",
         "four"
       ]
     },
@@ -41220,7 +41220,7 @@
       "forbidden_words": [
         "balises",
         "carte",
-        "parcours"
+        "boussole"
       ]
     },
     {
@@ -42570,7 +42570,7 @@
       "sub_category": "Outils et usages",
       "word": "messagerie instantanée",
       "forbidden_words": [
-        "messages",
+        "notifications",
         "conversation",
         "application"
       ]
@@ -43949,7 +43949,7 @@
       "word": "trépied",
       "forbidden_words": [
         "stabilité",
-        "trois pieds",
+        "support",
         "appareil"
       ]
     },
@@ -45144,7 +45144,7 @@
       "sub_category": "Observer et quantifier",
       "word": "altimètre",
       "forbidden_words": [
-        "altitude",
+        "dénivelé",
         "montagne",
         "instrument"
       ]
@@ -45690,7 +45690,7 @@
       "sub_category": "Moyens de déplacement",
       "word": "pédalo",
       "forbidden_words": [
-        "pédales",
+        "manivelle",
         "lac",
         "embarcation"
       ]
@@ -45704,7 +45704,7 @@
       "word": "télésiège",
       "forbidden_words": [
         "remontée",
-        "sièges",
+        "câble",
         "montagne"
       ]
     },
@@ -45924,7 +45924,7 @@
       "sub_category": "Techniques de culture",
       "word": "greffage",
       "forbidden_words": [
-        "porte-greffe",
+        "écusson",
         "assembler",
         "arbre"
       ]
@@ -46262,7 +46262,7 @@
       "sub_category": "Accessoires pratiques",
       "word": "carte routière",
       "forbidden_words": [
-        "routes",
+        "itinéraire",
         "papier",
         "orientation"
       ]
@@ -47161,7 +47161,7 @@
       "forbidden_words": [
         "quadrilatère",
         "opposés",
-        "parallèles"
+        "diagonales"
       ]
     },
     {
@@ -47966,7 +47966,7 @@
       "word": "vallée glaciaire",
       "forbidden_words": [
         "relief",
-        "glace",
+        "moraine",
         "érosion"
       ]
     },
@@ -49293,7 +49293,7 @@
       "forbidden_words": [
         "plateau",
         "poterie",
-        "tourner"
+        "argile"
       ]
     },
     {
@@ -49746,7 +49746,7 @@
       "sub_category": "Rivières et lacs",
       "word": "roselière",
       "forbidden_words": [
-        "roseaux",
+        "marécage",
         "berge",
         "végétation"
       ]
@@ -50605,7 +50605,7 @@
       "word": "aubépine",
       "forbidden_words": [
         "fleurs blanches",
-        "épines",
+        "baies",
         "haie"
       ]
     },
@@ -52178,7 +52178,7 @@
       "word": "bulbille",
       "forbidden_words": [
         "propagation",
-        "petit bulbe",
+        "multiplication",
         "plante"
       ]
     },
@@ -53492,7 +53492,7 @@
       "forbidden_words": [
         "escalier",
         "antidérapant",
-        "contremarche"
+        "revêtement"
       ]
     },
     {
@@ -54038,7 +54038,7 @@
       "forbidden_words": [
         "relief",
         "motif",
-        "pression"
+        "matrice"
       ]
     },
     {
@@ -55180,7 +55180,7 @@
       "sub_category": "Biodiversité",
       "word": "pollinisateur",
       "forbidden_words": [
-        "pollen",
+        "nectar",
         "insecte",
         "fleurs"
       ]
@@ -55468,7 +55468,7 @@
       "forbidden_words": [
         "espacement",
         "texte",
-        "lignes"
+        "paragraphes"
       ]
     },
     {
@@ -56298,7 +56298,7 @@
       "sub_category": "Notions et vocabulaire",
       "word": "pollinisation",
       "forbidden_words": [
-        "pollen",
+        "étamines",
         "fleur",
         "transport"
       ]
@@ -56844,7 +56844,7 @@
       "sub_category": "Notions et vocabulaire",
       "word": "dépression",
       "forbidden_words": [
-        "basses pressions",
+        "front",
         "perturbation",
         "météo"
       ]
@@ -56961,7 +56961,7 @@
       "sub_category": "Notions et vocabulaire",
       "word": "sporange",
       "forbidden_words": [
-        "spores",
+        "reproduction",
         "fougère",
         "organe"
       ]
@@ -58989,7 +58989,7 @@
       "sub_category": "Cristaux",
       "word": "calcite",
       "forbidden_words": [
-        "calcaire",
+        "rhomboèdre",
         "cristal",
         "carbonate"
       ]
@@ -59017,7 +59017,7 @@
       "forbidden_words": [
         "violet",
         "cristal",
-        "fluorescence"
+        "clivage"
       ]
     },
     {
@@ -59172,7 +59172,7 @@
       "word": "moule à charnière",
       "forbidden_words": [
         "gâteau",
-        "démoulage",
+        "ouverture",
         "cercle"
       ]
     },
@@ -59522,7 +59522,7 @@
       "sub_category": "Ouvertures",
       "word": "verrière d'atelier",
       "forbidden_words": [
-        "verre",
+        "châssis",
         "cloison",
         "luminosité"
       ]
@@ -60161,7 +60161,7 @@
       "forbidden_words": [
         "moule",
         "chaleur",
-        "forme"
+        "plastique"
       ]
     },
     {
@@ -60172,7 +60172,7 @@
       "sub_category": "Techniques",
       "word": "fusing",
       "forbidden_words": [
-        "fusion",
+        "assemblage",
         "four",
         "plaques"
       ]
@@ -61084,7 +61084,7 @@
       "forbidden_words": [
         "transformation",
         "distance",
-        "géométrie"
+        "congruence"
       ]
     },
     {
@@ -61721,7 +61721,7 @@
       "forbidden_words": [
         "coordonnée",
         "équateur",
-        "astre"
+        "repère"
       ]
     },
     {
