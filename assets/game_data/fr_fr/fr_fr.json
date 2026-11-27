@@ -1195,8 +1195,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "difficile",
-      "question": "Je suis un amas de blocs et de débris rocheux transportés puis déposés par un glacier. Quel dépôt suis-je ?",
-      "answer": "moraine"
+      "question": "À l'extrémité d'un glacier, je forme un bourrelet de débris qui marque sa position lors d'une phase de stabilité ou de recul. Quel type de dépôt suis-je ?",
+      "answer": "moraine frontale"
     },
     {
       "game_type": "bilmece",
@@ -6019,8 +6019,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "difficile",
-      "question": "Après la cuisson, je forme sur une céramique une couche vitrifiée parfois brillante et colorée. Que suis-je ?",
-      "answer": "glaçure"
+      "question": "Après une première cuisson, une pièce d'argile devient dure mais reste poreuse avant l'application d'une finition. Quel état de la céramique suis-je ?",
+      "answer": "biscuit de poterie"
     },
     {
       "game_type": "bilmece",
@@ -6859,7 +6859,7 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Je suis une paroi ajourée qui sépare des espaces tout en laissant passer l'air et la lumière. Que suis-je ?",
+      "question": "Je suis un élément de maçonnerie composé de blocs perforés, disposés pour former un écran décoratif qui laisse circuler l'air et la lumière. Que suis-je ?",
       "answer": "claustra"
     },
     {
@@ -7683,7 +7683,7 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Je permets de stationner une rame à l'écart des circulations principales. Quel type de voie suis-je ?",
+      "question": "Je permets de stationner une rame à l'écart des circulations principales. Quel aménagement ferroviaire suis-je ?",
       "answer": "voie de garage"
     },
     {
@@ -7691,7 +7691,7 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "facile",
-      "question": "Pour une ligne donnée, je suis le dernier arrêt où les voyageurs descendent avant le trajet inverse. Quel type de gare suis-je ?",
+      "question": "Pour une ligne donnée, je marque le point où les trains de voyageurs ne poursuivent plus leur trajet dans le même sens et repartent en sens inverse. Quel type d'installation ferroviaire suis-je ?",
       "answer": "gare terminus"
     },
     {
@@ -7795,8 +7795,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Sous l'aiguille, je porte le fil inférieur de la machine. Quelle petite pièce suis-je ?",
-      "answer": "canette de couture"
+      "question": "J'actionne l'entraînement d'un appareil de couture lorsque le pied appuie sur moi, ce qui permet de régler sa vitesse. Quelle pièce suis-je ?",
+      "answer": "pédale de machine à coudre"
     },
     {
       "game_type": "bilmece",
@@ -8083,7 +8083,7 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Je réduis un fichier sans empêcher la restitution exacte de ses données. Quelle méthode suis-je ?",
+      "question": "Je diminue la taille d'un fichier tout en permettant de retrouver exactement les données d'origine. Quelle méthode suis-je ?",
       "answer": "compression sans perte"
     },
     {
@@ -9779,7 +9779,7 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Mes éléments espacés séparent deux espaces tout en laissant passer la lumière et l'air. Quel aménagement suis-je ?",
+      "question": "Je suis une clôture légère faite de lames espacées, laissant passer l'air et la lumière entre elles. Quel type d'aménagement suis-je ?",
       "answer": "claire-voie"
     },
     {
@@ -9995,7 +9995,7 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Un minuscule trou projette une image inversée sans qu'aucune lentille ne soit nécessaire. Quel dispositif suis-je ?",
+      "question": "Je suis la très petite ouverture dépourvue de lentille par laquelle la lumière pénètre dans une chambre obscure. Quel dispositif suis-je ?",
       "answer": "sténopé"
     },
     {
@@ -10379,8 +10379,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Je transfère de l'énergie thermique entre deux fluides sans qu'ils se mélangent directement. Quel appareil suis-je ?",
-      "answer": "échangeur de chaleur"
+      "question": "Mes deux fluides circulent séparément, l'un dans des conduits cylindriques et l'autre autour de ceux-ci, pour transférer de la chaleur. Quel appareil suis-je ?",
+      "answer": "échangeur tubulaire"
     },
     {
       "game_type": "bilmece",
@@ -10739,7 +10739,7 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "facile",
-      "question": "D'un seul réglage, je désactive les liaisons radio d'un téléphone sans l'éteindre. Quel mode suis-je ?",
+      "question": "D'un seul réglage, je désactive les liaisons radio d'un téléphone tout en laissant l'appareil allumé. Quel réglage suis-je ?",
       "answer": "mode avion"
     },
     {
@@ -10747,8 +10747,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "difficile",
-      "question": "Après une première copie, je ne conserve à chaque passage que les fichiers modifiés depuis la précédente opération. Quelle méthode suis-je ?",
-      "answer": "sauvegarde incrémentale"
+      "question": "Je reproduis à l'identique l'ensemble d'un support vers un second espace de stockage, de sorte que les deux restent synchronisés. Quelle méthode suis-je ?",
+      "answer": "sauvegarde miroir"
     },
     {
       "game_type": "bilmece",
@@ -11739,7 +11739,7 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Je suis un type de donnée qui ne prend que deux valeurs logiques, vrai ou faux. Quel type suis-je ?",
+      "question": "Je suis une catégorie de donnée qui ne peut prendre que deux valeurs logiques : vrai ou faux. Comment me nomme-t-on ?",
       "answer": "type booléen"
     },
     {
@@ -12227,8 +12227,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "difficile",
-      "question": "Dans de nombreuses graines, je constitue une réserve nutritive utilisée par l'embryon. Quel tissu suis-je ?",
-      "answer": "endosperme"
+      "question": "Dans certaines graines, je suis un tissu de réserve issu du nucelle qui entoure l'embryon et lui fournit des nutriments. Quel tissu suis-je ?",
+      "answer": "périsperme"
     },
     {
       "game_type": "bilmece",
@@ -12491,8 +12491,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "difficile",
-      "question": "Une petite saillie ou rainure interrompt le ruissellement pour empêcher l'eau de revenir sous une pierre. Quel détail suis-je ?",
-      "answer": "larmier"
+      "question": "Je marque horizontalement la séparation entre deux niveaux d'un mur extérieur par une saillie décorative. Quel élément architectural suis-je ?",
+      "answer": "bandeau de façade"
     },
     {
       "game_type": "bilmece",
@@ -13155,8 +13155,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Une ouverture naturelle très profonde s'enfonce dans un massif calcaire dissous par l'eau. Quel type de cavité est-ce ?",
-      "answer": "gouffre karstique"
+      "question": "Dans un paysage calcaire, je suis une vaste dépression fermée au fond relativement plat, souvent drainée par une perte d'eau. Quel relief suis-je ?",
+      "answer": "poljé"
     },
     {
       "game_type": "bilmece",
@@ -13443,8 +13443,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "difficile",
-      "question": "Cette plante retient beaucoup d'eau et contribue à former des sols organiques dans les milieux humides. Comment la nomme-t-on ?",
-      "answer": "mousse de tourbière"
+      "question": "Je suis une matière organique brunâtre qui s'accumule lentement dans les sols saturés d'eau, à partir de végétaux partiellement décomposés. Que suis-je ?",
+      "answer": "tourbe"
     },
     {
       "game_type": "bilmece",
@@ -13499,7 +13499,7 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "facile",
-      "question": "Sous les grands arbres, un étage de végétation reçoit une lumière filtrée. Quel milieu est-ce ?",
+      "question": "À l'ombre des grands arbres, un étage de végétation reçoit une lumière filtrée. Quel milieu est-ce ?",
       "answer": "sous-bois"
     },
     {
@@ -13579,8 +13579,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Une structure de lattes croisées soutient les plantes grimpantes contre un mur. Comment s'appelle-t-elle ?",
-      "answer": "treillage"
+      "question": "Je surplombe une allée par une structure courbe qui sert de support aux plantes grimpantes. Quel aménagement suis-je ?",
+      "answer": "arche de jardin"
     },
     {
       "game_type": "bilmece",
@@ -13667,8 +13667,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Deux pièces articulées permettent à une porte de pivoter sur son montant. Quel dispositif est-ce ?",
-      "answer": "paumelle"
+      "question": "Je coulisse dans un boîtier fixé à une porte et m'engage dans une gâche pour la maintenir fermée. Quel dispositif suis-je ?",
+      "answer": "verrou"
     },
     {
       "game_type": "bilmece",
@@ -13915,8 +13915,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "facile",
-      "question": "Quel instrument gradué indique la température au cœur d'une préparation qui chauffe ?",
-      "answer": "thermomètre de cuisson"
+      "question": "Je compte la durée d'une préparation et signale quand le temps choisi est écoulé. Quel ustensile suis-je ?",
+      "answer": "minuteur de cuisine"
     },
     {
       "game_type": "bilmece",
@@ -14107,8 +14107,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Lorsqu'une planète extérieure est alignée avec la Terre et le Soleil, notre planète se trouvant entre les deux, comment nomme-t-on cette disposition ?",
-      "answer": "opposition astronomique"
+      "question": "Vu depuis la Terre, une planète extérieure apparaît à environ un quart de tour du Soleil sur la voûte céleste. Quelle configuration d'observation est-ce ?",
+      "answer": "quadrature"
     },
     {
       "game_type": "bilmece",
@@ -14539,8 +14539,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Quel amas de débris rocheux est transporté puis déposé par un glacier ?",
-      "answer": "morène"
+      "question": "Je suis une longue crête sinueuse de sable et de graviers déposés par un cours d'eau qui circulait sous un glacier. Quel relief suis-je ?",
+      "answer": "esker"
     },
     {
       "game_type": "bilmece",
@@ -14611,8 +14611,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Quelle petite pièce vissée au bout d'un bec mélange de l'air au jet pour limiter les éclaboussures ?",
-      "answer": "aérateur de robinet"
+      "question": "Je mélange automatiquement l'eau chaude et l'eau froide afin de maintenir une température réglée malgré les variations de pression. Quel dispositif suis-je ?",
+      "answer": "mitigeur thermostatique"
     },
     {
       "game_type": "bilmece",
@@ -14651,8 +14651,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "difficile",
-      "question": "Chez les légumineuses, quelle petite excroissance abrite des bactéries capables de fixer l'azote ?",
-      "answer": "nodule racinaire"
+      "question": "Je suis une bactérie du sol qui vit en symbiose avec les racines des légumineuses et fixe l'azote atmosphérique. Quel genre bactérien suis-je ?",
+      "answer": "rhizobium"
     },
     {
       "game_type": "bilmece",
@@ -14883,7 +14883,7 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "moyen",
-      "question": "Quel réseau de fines fissures peut apparaître dans la glaçure d'une céramique ?",
+      "question": "Dans une peinture ancienne, je désigne le réseau de petites fissures qui apparaît dans la couche picturale avec le temps. Quel phénomène de surface suis-je ?",
       "answer": "craquelure"
     },
     {
@@ -15611,8 +15611,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "facile",
-      "question": "Quelle pièce de tissu triangulaire insérée dans un vêtement ajoute de l'ampleur vers le bas ?",
-      "answer": "godet"
+      "question": "Je suis une bande de tissu froncée ou plissée, ajoutée au bas d'un vêtement pour lui donner du mouvement. Quelle garniture suis-je ?",
+      "answer": "volant de jupe"
     },
     {
       "game_type": "bilmece",
@@ -15635,8 +15635,8 @@
       "language": "Français",
       "locale": "fr-FR",
       "difficulty": "facile",
-      "question": "Quelle opération assemble provisoirement des pièces de tissu à grands points avant la couture définitive ?",
-      "answer": "bâtissage"
+      "question": "Je forme une couture droite et régulière qui traverse deux épaisseurs de tissu pour les assembler solidement. Quel type de couture suis-je ?",
+      "answer": "point de piqûre"
     },
     {
       "game_type": "bilmece",
